@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755735905951</GeneratedAt>
+  <GeneratedAt>1755736205940</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hakina</Player>
@@ -32,5 +32,13 @@
     <KilledBy>Redeath</KilledBy>
     <Time>2025-08-21 00:49:31</Time>
     <Location>(32855,31971,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Nino</Player>
+    <LostExp>238625</LostExp>
+    <KilledBy>Monk</KilledBy>
+    <Time>2025-08-21 02:26:53</Time>
+    <Location>(31972,32229,7)</Location>
   </DeathEvent>
 </DeathHighscores>
