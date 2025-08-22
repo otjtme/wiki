@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755903305504</GeneratedAt>
+  <GeneratedAt>1755903605499</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Rael</Player>
@@ -16,5 +16,13 @@
     <KilledBy>The Bug</KilledBy>
     <Time>2025-08-23 00:50:45</Time>
     <Location>(31987,32013,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Metuza</Player>
+    <LostExp>15753</LostExp>
+    <KilledBy>Fanatic</KilledBy>
+    <Time>2025-08-23 00:57:44</Time>
+    <Location>(31917,32013,8)</Location>
   </DeathEvent>
 </DeathHighscores>
