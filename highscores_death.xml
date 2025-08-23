@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755971806081</GeneratedAt>
+  <GeneratedAt>1755972106094</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Sifu</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Verockx</Player>
+    <LostExp>8632904</LostExp>
+    <KilledBy>Leviatacle</KilledBy>
+    <Time>2025-08-23 19:59:44</Time>
+    <Location>(31863,32079,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Rune</Player>
     <LostExp>6726501</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32049,31795,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Andariel</Player>
     <LostExp>2616616</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -34,11 +42,19 @@
     <Location>(31905,32045,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Luizin</Player>
     <LostExp>1189056</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
     <Time>2025-08-23 19:22:26</Time>
     <Location>(32851,31975,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Fernando</Player>
+    <LostExp>231876</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-23 19:57:27</Time>
+    <Location>(32009,31883,10)</Location>
   </DeathEvent>
 </DeathHighscores>
