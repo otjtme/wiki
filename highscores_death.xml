@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1755980206154</GeneratedAt>
+  <GeneratedAt>1755980506160</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Sifu</Player>
@@ -76,13 +76,21 @@
   <DeathEvent>
     <Rank>10</Rank>
     <Player>Metuza</Player>
+    <LostExp>80028</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-08-23 22:20:26</Time>
+    <Location>(31958,31857,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Metuza</Player>
     <LostExp>70022</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-08-23 21:53:18</Time>
     <Location>(32017,31874,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Metuza</Player>
     <LostExp>51487</LostExp>
     <KilledBy>Orc Leader</KilledBy>
