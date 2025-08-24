@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1756076205158</GeneratedAt>
+  <GeneratedAt>1756076505153</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Rael</Player>
+    <LostExp>20614762</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-08-25 00:58:59</Time>
+    <Location>(32042,31798,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Metuza</Player>
     <LostExp>1566269</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -10,11 +18,27 @@
     <Location>(32043,31803,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Doli</Player>
     <LostExp>515679</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-08-25 00:26:50</Time>
     <Location>(32008,31877,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Nino</Player>
+    <LostExp>397184</LostExp>
+    <KilledBy>Bantinel</KilledBy>
+    <Time>2025-08-25 00:56:58</Time>
+    <Location>(31932,32020,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Nino</Player>
+    <LostExp>359327</LostExp>
+    <KilledBy>GM-Jhonnis</KilledBy>
+    <Time>2025-08-25 01:00:37</Time>
+    <Location>(32040,32041,8)</Location>
   </DeathEvent>
 </DeathHighscores>
