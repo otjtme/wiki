@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1756003937616</GeneratedAt>
+  <GeneratedAt>1756004237619</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Amigoide</Player>
@@ -100,13 +100,21 @@
   <DeathEvent>
     <Rank>13</Rank>
     <Player>Ameba</Player>
+    <LostExp>625</LostExp>
+    <KilledBy>Bat</KilledBy>
+    <Time>2025-08-24 04:53:29</Time>
+    <Location>(31939,32068,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
+    <Player>Ameba</Player>
     <LostExp>439</LostExp>
     <KilledBy>Bat</KilledBy>
     <Time>2025-08-24 04:49:30</Time>
     <Location>(31929,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Supremorj</Player>
     <LostExp>43</LostExp>
     <KilledBy>Wolf</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31937,32004,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Supremorj</Player>
     <LostExp>24</LostExp>
     <KilledBy>Bug</KilledBy>
