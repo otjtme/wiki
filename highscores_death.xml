@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1756080705199</GeneratedAt>
+  <GeneratedAt>1756081005207</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Rael</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Miacalifa</Player>
+    <LostExp>18159881</LostExp>
+    <KilledBy>Ultron</KilledBy>
+    <Time>2025-08-25 02:14:16</Time>
+    <Location>(31776,31938,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Metuza</Player>
     <LostExp>1566269</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32043,31803,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Doli</Player>
     <LostExp>515679</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32008,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Nino</Player>
     <LostExp>397184</LostExp>
     <KilledBy>Bantinel</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31932,32020,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Nino</Player>
     <LostExp>359327</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32040,32041,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Nino</Player>
     <LostExp>323394</LostExp>
     <KilledBy>Troll</KilledBy>
@@ -50,11 +58,19 @@
     <Location>(31870,32069,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Aavatar</Player>
     <LostExp>4355</LostExp>
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-08-25 02:10:16</Time>
     <Location>(32019,31941,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Aavatar</Player>
+    <LostExp>3920</LostExp>
+    <KilledBy>Troll</KilledBy>
+    <Time>2025-08-25 02:12:43</Time>
+    <Location>(31868,32070,12)</Location>
   </DeathEvent>
 </DeathHighscores>
