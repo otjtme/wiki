@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1756187108594</GeneratedAt>
+  <GeneratedAt>1756187408587</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Justin</Player>
@@ -176,5 +176,13 @@
     <KilledBy>Shadow</KilledBy>
     <Time>2025-08-26 07:09:45</Time>
     <Location>(31956,31863,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
+    <Player>Aavatar</Player>
+    <LostExp>2578</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-26 07:46:20</Time>
+    <Location>(32028,31900,8)</Location>
   </DeathEvent>
 </DeathHighscores>
