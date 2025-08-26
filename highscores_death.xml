@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1756213208795</GeneratedAt>
+  <GeneratedAt>1756213508804</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hakina</Player>
@@ -328,5 +328,13 @@
     <KilledBy>Apprentice</KilledBy>
     <Time>2025-08-26 14:52:39</Time>
     <Location>(31993,31996,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>42</Rank>
+    <Player>Aavatar</Player>
+    <LostExp>1380</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-26 15:04:13</Time>
+    <Location>(32025,31897,8)</Location>
   </DeathEvent>
 </DeathHighscores>
