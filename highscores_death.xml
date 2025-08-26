@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1756212308790</GeneratedAt>
+  <GeneratedAt>1756212608793</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hakina</Player>
@@ -296,5 +296,21 @@
     <KilledBy>The Bug</KilledBy>
     <Time>2025-08-26 07:57:55</Time>
     <Location>(31988,32014,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>38</Rank>
+    <Player>Aavatar</Player>
+    <LostExp>1882</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-08-26 14:45:15</Time>
+    <Location>(32189,32272,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>39</Rank>
+    <Player>Aavatar</Player>
+    <LostExp>1694</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-08-26 14:49:12</Time>
+    <Location>(31880,32047,8)</Location>
   </DeathEvent>
 </DeathHighscores>
