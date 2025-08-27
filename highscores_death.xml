@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1756267205973</GeneratedAt>
+  <GeneratedAt>1756267505943</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Spirit</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Neblina</Player>
+    <LostExp>2653409</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-27 06:00:51</Time>
+    <Location>(32012,31878,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Carnage</Player>
     <LostExp>2514217</LostExp>
     <KilledBy>Chilong</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32063,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Coithew</Player>
     <LostExp>488121</LostExp>
     <KilledBy>Hell Guard</KilledBy>
