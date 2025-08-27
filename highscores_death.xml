@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1756317642208</GeneratedAt>
+  <GeneratedAt>1756317942211</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Naru</Player>
@@ -16,5 +16,13 @@
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-08-27 19:35:15</Time>
     <Location>(32004,31944,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Dorano</Player>
+    <LostExp>1298</LostExp>
+    <KilledBy>Small Eye</KilledBy>
+    <Time>2025-08-27 20:02:17</Time>
+    <Location>(31904,32067,8)</Location>
   </DeathEvent>
 </DeathHighscores>
