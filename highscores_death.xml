@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1756508026099</GeneratedAt>
+  <GeneratedAt>1756508326077</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hanzo</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Blaze Master</KilledBy>
     <Time>2025-08-30 00:44:36</Time>
     <Location>(31951,32265,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Carnage</Player>
+    <LostExp>2839765</LostExp>
+    <KilledBy>Ghoranus</KilledBy>
+    <Time>2025-08-30 00:53:49</Time>
+    <Location>(32038,31831,8)</Location>
   </DeathEvent>
 </DeathHighscores>
