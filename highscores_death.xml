@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1756473902673</GeneratedAt>
+  <GeneratedAt>1756474202675</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Lith</Player>
@@ -112,5 +112,13 @@
     <KilledBy>Bullwar</KilledBy>
     <Time>2025-08-29 02:28:16</Time>
     <Location>(32023,31907,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
+    <Player>Etius</Player>
+    <LostExp>3106</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-08-29 15:28:06</Time>
+    <Location>(31929,31860,8)</Location>
   </DeathEvent>
 </DeathHighscores>
