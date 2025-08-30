@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1756516726146</GeneratedAt>
+  <GeneratedAt>1756517026151</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hanzo</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Hitman</Player>
+    <LostExp>4410701</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-08-30 03:22:19</Time>
+    <Location>(31874,32060,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Carnage</Player>
     <LostExp>2839765</LostExp>
     <KilledBy>Ghoranus</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32038,31831,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Eazy</Player>
     <LostExp>844717</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32843,31991,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Murderer</Player>
     <LostExp>8441</LostExp>
     <KilledBy>Orc Leader</KilledBy>
