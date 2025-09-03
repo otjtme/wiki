@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1756927803750</GeneratedAt>
+  <GeneratedAt>1756928103755</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Blindada</Player>
@@ -80,5 +80,13 @@
     <KilledBy>Monk</KilledBy>
     <Time>2025-09-03 16:47:30</Time>
     <Location>(31986,32222,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Hexo</Player>
+    <LostExp>987</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-09-03 21:34:42</Time>
+    <Location>(31983,31897,9)</Location>
   </DeathEvent>
 </DeathHighscores>
