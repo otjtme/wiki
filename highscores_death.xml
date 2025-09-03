@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1756900503444</GeneratedAt>
+  <GeneratedAt>1756900803447</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Nestle</Player>
@@ -168,5 +168,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-09-03 13:02:50</Time>
     <Location>(32003,31883,12)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
+    <Player>Ridii</Player>
+    <LostExp>6734</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-09-03 13:55:39</Time>
+    <Location>(32014,31884,8)</Location>
   </DeathEvent>
 </DeathHighscores>
