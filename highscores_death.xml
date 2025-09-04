@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1756946400715</GeneratedAt>
+  <GeneratedAt>1756946700719</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Merlascola</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-09-04 02:17:16</Time>
     <Location>(31985,31906,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Nobe</Player>
+    <LostExp>287</LostExp>
+    <KilledBy>Orc</KilledBy>
+    <Time>2025-09-04 02:44:07</Time>
+    <Location>(31992,31863,8)</Location>
   </DeathEvent>
 </DeathHighscores>
