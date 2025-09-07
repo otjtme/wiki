@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1757226003174</GeneratedAt>
+  <GeneratedAt>1757226303176</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Fearlock</Player>
@@ -155,6 +155,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>20</Rank>
+    <Player>Edwin</Player>
+    <LostExp>442072</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-09-07 08:24:06</Time>
+    <Location>(31995,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>21</Rank>
     <Player>Nekza</Player>
     <LostExp>380723</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(31994,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Nide</Player>
     <LostExp>6815</LostExp>
     <KilledBy>Scorpion</KilledBy>
