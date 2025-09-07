@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1757216103095</GeneratedAt>
+  <GeneratedAt>1757216403093</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Fearlock</Player>
@@ -120,5 +120,13 @@
     <KilledBy>Scarapy Master</KilledBy>
     <Time>2025-09-07 00:26:24</Time>
     <Location>(31970,32294,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
+    <Player>Nekza</Player>
+    <LostExp>380723</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-09-07 05:36:41</Time>
+    <Location>(31994,31908,8)</Location>
   </DeathEvent>
 </DeathHighscores>
