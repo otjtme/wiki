@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1757338505692</GeneratedAt>
+  <GeneratedAt>1757338805701</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Madara</Player>
@@ -232,5 +232,13 @@
     <KilledBy>Blackdrake</KilledBy>
     <Time>2025-09-08 07:26:16</Time>
     <Location>(32248,32359,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>30</Rank>
+    <Player>Silk</Player>
+    <LostExp>339699</LostExp>
+    <KilledBy>Troll</KilledBy>
+    <Time>2025-09-08 15:37:51</Time>
+    <Location>(31918,32049,12)</Location>
   </DeathEvent>
 </DeathHighscores>
