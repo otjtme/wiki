@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1757607001418</GeneratedAt>
+  <GeneratedAt>1757607301448</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Madara</Player>
@@ -136,5 +136,13 @@
     <KilledBy>Tarantula</KilledBy>
     <Time>2025-09-11 03:36:40</Time>
     <Location>(31880,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
+    <Player>Kingpard</Player>
+    <LostExp>14</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-09-11 18:11:20</Time>
+    <Location>(31990,32013,8)</Location>
   </DeathEvent>
 </DeathHighscores>
