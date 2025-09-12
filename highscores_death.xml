@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1757673600932</GeneratedAt>
+  <GeneratedAt>1757673900920</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Fearlock</Player>
@@ -259,6 +259,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>33</Rank>
+    <Player>Zzzz</Player>
+    <LostExp>273348</LostExp>
+    <KilledBy>Duza</KilledBy>
+    <Time>2025-09-12 12:40:28</Time>
+    <Location>(31976,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>34</Rank>
+    <Player>Zzzz</Player>
+    <LostExp>246013</LostExp>
+    <KilledBy>Zzzzzz</KilledBy>
+    <Time>2025-09-12 12:42:11</Time>
+    <Location>(31975,31985,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>35</Rank>
     <Player>Nobe</Player>
     <LostExp>234635</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -266,7 +282,7 @@
     <Location>(31959,32284,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>36</Rank>
     <Player>Nobe</Player>
     <LostExp>211171</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -274,11 +290,19 @@
     <Location>(32010,32250,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>37</Rank>
     <Player>Kombiwiz</Player>
     <LostExp>192579</LostExp>
     <KilledBy>Fouldrake</KilledBy>
     <Time>2025-09-12 01:08:45</Time>
     <Location>(32244,32324,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>38</Rank>
+    <Player>Nobe</Player>
+    <LostExp>190054</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-09-12 12:40:31</Time>
+    <Location>(31946,32265,8)</Location>
   </DeathEvent>
 </DeathHighscores>
