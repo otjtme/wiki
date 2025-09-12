@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1757721143124</GeneratedAt>
+  <GeneratedAt>1757721443164</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Name</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Name</Player>
+    <LostExp>3524918</LostExp>
+    <KilledBy>Chilong</KilledBy>
+    <Time>2025-09-13 01:52:48</Time>
+    <Location>(32064,31819,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Hashwz</Player>
     <LostExp>1904610</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -18,7 +26,15 @@
     <Location>(32043,31802,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
+    <Player>Dagan</Player>
+    <LostExp>889360</LostExp>
+    <KilledBy>Dragon</KilledBy>
+    <Time>2025-09-13 01:57:04</Time>
+    <Location>(31905,31956,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Fudhds</Player>
     <LostExp>260640</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(32055,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Nobe</Player>
     <LostExp>171213</LostExp>
     <KilledBy>Blaze Master</KilledBy>
