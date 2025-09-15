@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1757978402871</GeneratedAt>
+  <GeneratedAt>1757978702891</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Nolalo</Player>
@@ -24,5 +24,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-09-16 00:16:48</Time>
     <Location>(32011,31872,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Forasteros</Player>
+    <LostExp>240297</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-09-16 01:23:43</Time>
+    <Location>(31989,31914,8)</Location>
   </DeathEvent>
 </DeathHighscores>
