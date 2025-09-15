@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1757896803194</GeneratedAt>
+  <GeneratedAt>1757897103199</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellokitty</Player>
@@ -48,5 +48,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-09-15 01:25:38</Time>
     <Location>(31911,32043,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Patrick</Player>
+    <LostExp>66107</LostExp>
+    <KilledBy>Skelenary</KilledBy>
+    <Time>2025-09-15 02:40:56</Time>
+    <Location>(32009,32021,9)</Location>
   </DeathEvent>
 </DeathHighscores>
