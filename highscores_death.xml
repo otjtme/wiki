@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1757954403665</GeneratedAt>
+  <GeneratedAt>1757954703682</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellokitty</Player>
@@ -420,13 +420,21 @@
   <DeathEvent>
     <Rank>53</Rank>
     <Player>Taurus</Player>
+    <LostExp>1608</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-09-15 18:41:37</Time>
+    <Location>(31868,32031,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>54</Rank>
+    <Player>Taurus</Player>
     <LostExp>458</LostExp>
     <KilledBy>Bat</KilledBy>
     <Time>2025-09-15 16:32:28</Time>
     <Location>(31955,32063,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>54</Rank>
+    <Rank>55</Rank>
     <Player>Taurus</Player>
     <LostExp>419</LostExp>
     <KilledBy>Mantis</KilledBy>
