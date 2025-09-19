@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1758244200977</GeneratedAt>
+  <GeneratedAt>1758244500979</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Dewez</Player>
@@ -56,5 +56,13 @@
     <KilledBy>Treant</KilledBy>
     <Time>2025-09-19 01:31:03</Time>
     <Location>(31983,31925,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Taurus </Player>
+    <LostExp>109949</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-09-19 03:11:00</Time>
+    <Location>(31901,32045,8)</Location>
   </DeathEvent>
 </DeathHighscores>
