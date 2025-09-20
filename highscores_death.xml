@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1758353102462</GeneratedAt>
+  <GeneratedAt>1758353402472</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kakashi</Player>
@@ -168,5 +168,13 @@
     <KilledBy>Tarantula</KilledBy>
     <Time>2025-09-20 00:15:59</Time>
     <Location>(31884,31906,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
+    <Player>Ishow</Player>
+    <LostExp>2784</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-09-20 09:27:46</Time>
+    <Location>(32008,31882,12)</Location>
   </DeathEvent>
 </DeathHighscores>
