@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1758590046271</GeneratedAt>
+  <GeneratedAt>1758590346272</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Yumiko</Player>
@@ -8,5 +8,21 @@
     <KilledBy>Wispin</KilledBy>
     <Time>2025-09-23 01:25:43</Time>
     <Location>(32067,32355,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Rute</Player>
+    <LostExp>2120830</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-09-23 03:14:50</Time>
+    <Location>(32873,31994,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Doom </Player>
+    <LostExp>968979</LostExp>
+    <KilledBy>The Snowling</KilledBy>
+    <Time>2025-09-23 03:15:46</Time>
+    <Location>(31957,31799,11)</Location>
   </DeathEvent>
 </DeathHighscores>
