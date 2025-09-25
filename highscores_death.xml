@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1758839700684</GeneratedAt>
+  <GeneratedAt>1758840000681</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hawke</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Kleber</Player>
+    <LostExp>19150369</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2025-09-26 00:35:35</Time>
+    <Location>(32825,32010,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Nico</Player>
     <LostExp>8407378</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32013,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Nico</Player>
     <LostExp>8407378</LostExp>
     <KilledBy>Orc Leader</KilledBy>
