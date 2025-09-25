@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1758781804440</GeneratedAt>
+  <GeneratedAt>1758782104431</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Veigh</Player>
@@ -27,19 +27,19 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Shermie</Player>
+    <LostExp>4080351</LostExp>
+    <KilledBy>Bloodbeak</KilledBy>
+    <Time>2025-09-25 08:32:12</Time>
+    <Location>(32836,32053,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Orochimaru</Player>
     <LostExp>2255936</LostExp>
     <KilledBy>Flutty</KilledBy>
     <Time>2025-09-25 01:09:46</Time>
     <Location>(32064,31827,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>5</Rank>
-    <Player>Tanjiroo</Player>
-    <LostExp>848527</LostExp>
-    <KilledBy>Redeath</KilledBy>
-    <Time>2025-09-25 05:24:49</Time>
-    <Location>(32845,31981,7)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Tanjiroo</Player>
+    <LostExp>848527</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-09-25 05:24:49</Time>
+    <Location>(32845,31981,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Naribi</Player>
     <LostExp>365</LostExp>
     <KilledBy>Spider</KilledBy>
