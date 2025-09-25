@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1758812404657</GeneratedAt>
+  <GeneratedAt>1758812704644</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Movie</Player>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Bala</Player>
+    <LostExp>7195269</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-09-25 17:04:42</Time>
+    <Location>(31865,32057,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Infinnity</Player>
     <LostExp>4262213</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31896,31992,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Shermie</Player>
     <LostExp>4135187</LostExp>
     <KilledBy>Frostily</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32017,31813,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Shermie</Player>
     <LostExp>4080351</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32836,32053,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Shermie</Player>
     <LostExp>3952841</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32872,31969,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Fudhds </Player>
     <LostExp>2881770</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -106,20 +114,12 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Orochimaru</Player>
     <LostExp>2255936</LostExp>
     <KilledBy>Flutty</KilledBy>
     <Time>2025-09-25 01:09:46</Time>
     <Location>(32064,31827,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>15</Rank>
-    <Player>Tanjiroo</Player>
-    <LostExp>848527</LostExp>
-    <KilledBy>Redeath</KilledBy>
-    <Time>2025-09-25 05:24:49</Time>
-    <Location>(32845,31981,7)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>16</Rank>
@@ -131,6 +131,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>17</Rank>
+    <Player>Tanjiroo</Player>
+    <LostExp>848527</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-09-25 05:24:49</Time>
+    <Location>(32845,31981,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
     <Player>Naribi</Player>
     <LostExp>365</LostExp>
     <KilledBy>Spider</KilledBy>
