@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1758852300789</GeneratedAt>
+  <GeneratedAt>1758852600784</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Yumiko</Player>
@@ -112,5 +112,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-09-26 03:57:04</Time>
     <Location>(31880,32043,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
+    <Player>Naribi</Player>
+    <LostExp>5077</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-09-26 04:05:28</Time>
+    <Location>(32012,31878,8)</Location>
   </DeathEvent>
 </DeathHighscores>
