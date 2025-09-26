@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1758844800720</GeneratedAt>
+  <GeneratedAt>1758845100733</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hawke</Player>
@@ -40,5 +40,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-09-26 00:17:01</Time>
     <Location>(32013,31878,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Tanjiroo</Player>
+    <LostExp>1025462</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-09-26 02:04:11</Time>
+    <Location>(32854,31970,7)</Location>
   </DeathEvent>
 </DeathHighscores>
