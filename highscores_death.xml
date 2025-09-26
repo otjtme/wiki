@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1758845400732</GeneratedAt>
+  <GeneratedAt>1758845700728</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hawke</Player>
@@ -19,19 +19,19 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Lia</Player>
+    <LostExp>15725725</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-09-26 02:14:21</Time>
+    <Location>(32869,31968,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Andariel</Player>
     <LostExp>14997051</LostExp>
     <KilledBy>Flutty</KilledBy>
     <Time>2025-09-26 01:26:01</Time>
     <Location>(32066,31827,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>4</Rank>
-    <Player>Nico</Player>
-    <LostExp>8407378</LostExp>
-    <KilledBy>Orc Leader</KilledBy>
-    <Time>2025-09-26 00:17:01</Time>
-    <Location>(32013,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Nico</Player>
+    <LostExp>8407378</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-09-26 00:17:01</Time>
+    <Location>(32013,31878,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Tanjiroo</Player>
     <LostExp>1025462</LostExp>
     <KilledBy>Redeath</KilledBy>
