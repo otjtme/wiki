@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1758849600760</GeneratedAt>
+  <GeneratedAt>1758849900753</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Yumiko</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Konor</Player>
+    <LostExp>20744675</LostExp>
+    <KilledBy>Shellborn</KilledBy>
+    <Time>2025-09-26 03:21:07</Time>
+    <Location>(31848,32104,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Kleber</Player>
     <LostExp>19178397</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(32825,32010,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Kleber</Player>
     <LostExp>19150369</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32825,32010,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Lia</Player>
     <LostExp>15725725</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -42,20 +50,12 @@
     <Location>(32869,31968,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Andariel</Player>
     <LostExp>14997051</LostExp>
     <KilledBy>Flutty</KilledBy>
     <Time>2025-09-26 01:26:01</Time>
     <Location>(32066,31827,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>7</Rank>
-    <Player>Nico</Player>
-    <LostExp>8407378</LostExp>
-    <KilledBy>Orc Leader</KilledBy>
-    <Time>2025-09-26 00:17:01</Time>
-    <Location>(32013,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Nico</Player>
+    <LostExp>8407378</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-09-26 00:17:01</Time>
+    <Location>(32013,31878,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Shermie</Player>
     <LostExp>4600763</LostExp>
     <KilledBy>Crysmantis</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(32826,32032,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Shermie</Player>
     <LostExp>4288459</LostExp>
     <KilledBy>Foresdrake</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32882,32040,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Tanjiroo</Player>
     <LostExp>1025462</LostExp>
     <KilledBy>Redeath</KilledBy>
