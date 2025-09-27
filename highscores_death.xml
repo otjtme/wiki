@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1758967202838</GeneratedAt>
+  <GeneratedAt>1758967502861</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Calla</Player>
@@ -152,5 +152,13 @@
     <KilledBy>Treant</KilledBy>
     <Time>2025-09-27 04:43:01</Time>
     <Location>(31993,31910,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
+    <Player>Brunei</Player>
+    <LostExp>110497</LostExp>
+    <KilledBy>The Miner</KilledBy>
+    <Time>2025-09-27 12:00:21</Time>
+    <Location>(31854,31969,11)</Location>
   </DeathEvent>
 </DeathHighscores>
