@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1759014303062</GeneratedAt>
+  <GeneratedAt>1759014603036</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Nico</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-09-28 00:47:29</Time>
     <Location>(32017,31879,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Bala</Player>
+    <LostExp>6524161</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-09-28 01:09:43</Time>
+    <Location>(32848,31979,7)</Location>
   </DeathEvent>
 </DeathHighscores>
