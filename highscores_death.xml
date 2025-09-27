@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1758979202933</GeneratedAt>
+  <GeneratedAt>1758979502947</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Tuyull</Player>
@@ -208,5 +208,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-09-27 15:13:45</Time>
     <Location>(32003,31876,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>27</Rank>
+    <Player>Powerfull</Player>
+    <LostExp>4058</LostExp>
+    <KilledBy>Small Eye</KilledBy>
+    <Time>2025-09-27 15:22:30</Time>
+    <Location>(31906,32056,8)</Location>
   </DeathEvent>
 </DeathHighscores>
