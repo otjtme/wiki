@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1759020003075</GeneratedAt>
+  <GeneratedAt>1759020303107</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Yumiko</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Doom</Player>
+    <LostExp>1785884</LostExp>
+    <KilledBy>Frostily</KilledBy>
+    <Time>2025-09-28 02:44:17</Time>
+    <Location>(32021,31807,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Duke</Player>
     <LostExp>410900</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32015,31878,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Shazam</Player>
     <LostExp>392259</LostExp>
     <KilledBy>Blaze Master</KilledBy>
