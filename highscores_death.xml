@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1759066503446</GeneratedAt>
+  <GeneratedAt>1759066803446</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Omadara</Player>
@@ -232,5 +232,21 @@
     <KilledBy>Rabid Bear</KilledBy>
     <Time>2025-09-28 04:59:00</Time>
     <Location>(32025,31973,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>30</Rank>
+    <Player>Lero</Player>
+    <LostExp>3663</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-09-28 15:35:52</Time>
+    <Location>(32012,31880,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>31</Rank>
+    <Player>Lero</Player>
+    <LostExp>3297</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-09-28 15:35:52</Time>
+    <Location>(32012,31880,8)</Location>
   </DeathEvent>
 </DeathHighscores>
