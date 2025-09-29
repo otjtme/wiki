@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1759103704402</GeneratedAt>
+  <GeneratedAt>1759104004414</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellokitty</Player>
@@ -16,5 +16,21 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-09-29 00:41:11</Time>
     <Location>(31883,32056,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Lolu</Player>
+    <LostExp>11999950</LostExp>
+    <KilledBy>Horrornet</KilledBy>
+    <Time>2025-09-29 01:58:22</Time>
+    <Location>(32796,31986,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Maple</Player>
+    <LostExp>1293069</LostExp>
+    <KilledBy>Warden</KilledBy>
+    <Time>2025-09-29 01:56:18</Time>
+    <Location>(32032,31906,10)</Location>
   </DeathEvent>
 </DeathHighscores>
