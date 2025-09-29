@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1759106704453</GeneratedAt>
+  <GeneratedAt>1759107004434</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hellokitty</Player>
@@ -48,5 +48,13 @@
     <KilledBy>Warden</KilledBy>
     <Time>2025-09-29 01:56:18</Time>
     <Location>(32032,31906,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Lero</Player>
+    <LostExp>399331</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-09-29 02:48:06</Time>
+    <Location>(32019,31943,8)</Location>
   </DeathEvent>
 </DeathHighscores>
