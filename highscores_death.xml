@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1759362601953</GeneratedAt>
+  <GeneratedAt>1759362901970</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Aluhgabin</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Thc</Player>
+    <LostExp>19988156</LostExp>
+    <KilledBy>Ninjana</KilledBy>
+    <Time>2025-10-02 01:54:42</Time>
+    <Location>(31794,31947,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Costa</Player>
     <LostExp>2670417</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -34,11 +42,19 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Grelo</Player>
     <LostExp>289090</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
     <Time>2025-10-02 00:42:31</Time>
     <Location>(32045,32039,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Millyn</Player>
+    <LostExp>13674</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-10-02 01:52:59</Time>
+    <Location>(31998,32045,8)</Location>
   </DeathEvent>
 </DeathHighscores>
