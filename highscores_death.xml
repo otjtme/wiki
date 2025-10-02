@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1759370702023</GeneratedAt>
+  <GeneratedAt>1759371002040</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Megume</Player>
@@ -160,5 +160,13 @@
     <KilledBy>Skeleton</KilledBy>
     <Time>2025-10-02 01:52:59</Time>
     <Location>(31998,32045,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>21</Rank>
+    <Player>Ashura</Player>
+    <LostExp>3310</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-10-02 04:09:40</Time>
+    <Location>(31881,32044,8)</Location>
   </DeathEvent>
 </DeathHighscores>
