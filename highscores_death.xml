@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1759453501254</GeneratedAt>
+  <GeneratedAt>1759453801239</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Yumiko</Player>
@@ -48,5 +48,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-10-03 02:53:06</Time>
     <Location>(32010,31872,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Drogado</Player>
+    <LostExp>201406</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-10-03 03:08:35</Time>
+    <Location>(31878,31908,8)</Location>
   </DeathEvent>
 </DeathHighscores>
