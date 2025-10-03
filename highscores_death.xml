@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1759456201277</GeneratedAt>
+  <GeneratedAt>1759456501259</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Quince</Player>
@@ -72,5 +72,13 @@
     <KilledBy>Tarantula</KilledBy>
     <Time>2025-10-03 03:08:35</Time>
     <Location>(31878,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Ashura</Player>
+    <LostExp>21510</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-10-03 03:52:15</Time>
+    <Location>(31905,32046,8)</Location>
   </DeathEvent>
 </DeathHighscores>
