@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1759779903618</GeneratedAt>
+  <GeneratedAt>1759780203647</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Panda</Player>
@@ -544,5 +544,13 @@
     <KilledBy>Dragon</KilledBy>
     <Time>2025-10-06 18:44:39</Time>
     <Location>(31906,31954,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>69</Rank>
+    <Player>Bullwiz</Player>
+    <LostExp>482</LostExp>
+    <KilledBy>Mantis</KilledBy>
+    <Time>2025-10-06 21:45:25</Time>
+    <Location>(31890,31962,7)</Location>
   </DeathEvent>
 </DeathHighscores>
