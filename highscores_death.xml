@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1760008801270</GeneratedAt>
+  <GeneratedAt>1760009101275</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gunnie</Player>
@@ -232,5 +232,21 @@
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-10-09 01:55:32</Time>
     <Location>(32025,31943,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>30</Rank>
+    <Player>Ryukiza</Player>
+    <LostExp>7958</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-10-09 13:21:53</Time>
+    <Location>(31996,32045,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>31</Rank>
+    <Player>Ryukiza</Player>
+    <LostExp>7309</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-10-09 13:23:16</Time>
+    <Location>(31996,32044,8)</Location>
   </DeathEvent>
 </DeathHighscores>
