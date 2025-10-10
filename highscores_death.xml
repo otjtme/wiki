@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1760112884037</GeneratedAt>
+  <GeneratedAt>1760113184014</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Cilaka</Player>
@@ -52,13 +52,21 @@
   <DeathEvent>
     <Rank>7</Rank>
     <Player>Mee</Player>
+    <LostExp>4943</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-10-10 18:17:19</Time>
+    <Location>(32010,31874,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Mee</Player>
     <LostExp>4205</LostExp>
     <KilledBy>Orc</KilledBy>
     <Time>2025-10-10 18:10:31</Time>
     <Location>(31991,31864,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Mee</Player>
     <LostExp>2747</LostExp>
     <KilledBy>Orc Leader</KilledBy>
