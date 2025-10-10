@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1760140220958</GeneratedAt>
+  <GeneratedAt>1760140520959</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kaos</Player>
@@ -16,5 +16,13 @@
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-10-11 01:40:20</Time>
     <Location>(31985,31905,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Monarka</Player>
+    <LostExp>110938</LostExp>
+    <KilledBy>GM-Doro</KilledBy>
+    <Time>2025-10-11 01:54:35</Time>
+    <Location>(32045,32039,8)</Location>
   </DeathEvent>
 </DeathHighscores>
