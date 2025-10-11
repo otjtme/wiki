@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1760196621393</GeneratedAt>
+  <GeneratedAt>1760196921386</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Fearlock</Player>
+    <LostExp>537757658</LostExp>
+    <KilledBy>Mutan</KilledBy>
+    <Time>2025-10-11 17:32:28</Time>
+    <Location>(31945,32400,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Wisper</Player>
     <LostExp>406246784</LostExp>
     <KilledBy>Worc</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31827,32326,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Heineken</Player>
     <LostExp>285836224</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32179,32209,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Megume</Player>
     <LostExp>257061165</LostExp>
     <KilledBy>Wisperfire</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31849,31966,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Hellwilzz</Player>
     <LostExp>187003984</LostExp>
     <KilledBy>Wisper</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32035,32015,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Olhaeu</Player>
     <LostExp>153161801</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31978,32255,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Nudin</Player>
     <LostExp>72153712</LostExp>
     <KilledBy>Chaomby</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31932,32231,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Spirit</Player>
     <LostExp>57795819</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32044,31799,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Foreskin</Player>
     <LostExp>30252237</LostExp>
     <KilledBy>Sunumed</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31824,31871,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Lovemepls</Player>
     <LostExp>30026266</LostExp>
     <KilledBy>(Others)</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31796,31913,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Cecilia</Player>
     <LostExp>28054270</LostExp>
     <KilledBy>Sunumed</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31823,31871,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Pukimak</Player>
     <LostExp>11152373</LostExp>
     <KilledBy>Sunumed</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31824,31871,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Pukimak</Player>
     <LostExp>10037136</LostExp>
     <KilledBy>Sunumed</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31822,31871,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Hallan</Player>
     <LostExp>6947882</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -106,20 +114,12 @@
     <Location>(32007,32212,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Insinyur</Player>
     <LostExp>4855508</LostExp>
     <KilledBy>Ghostsin</KilledBy>
     <Time>2025-10-11 14:37:42</Time>
     <Location>(32040,31803,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>15</Rank>
-    <Player>Kaos</Player>
-    <LostExp>1054527</LostExp>
-    <KilledBy>Redeath</KilledBy>
-    <Time>2025-10-11 05:06:52</Time>
-    <Location>(32855,32002,7)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>16</Rank>
@@ -131,6 +131,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>17</Rank>
+    <Player>Kaos</Player>
+    <LostExp>1054527</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-10-11 05:06:52</Time>
+    <Location>(32855,32002,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
     <Player>Menon</Player>
     <LostExp>1020481</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31923,32013,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Brunomorph</Player>
     <LostExp>956810</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31965,32266,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Brunomorph</Player>
     <LostExp>905481</LostExp>
     <KilledBy>Monk</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32020,32263,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Assassins</Player>
     <LostExp>861197</LostExp>
     <KilledBy>GM-Jhonnis</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32038,32039,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Mee</Player>
     <LostExp>334534</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31990,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Mee</Player>
     <LostExp>199467</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31901,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Kaos</Player>
     <LostExp>182674</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31991,31994,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Mee</Player>
     <LostExp>133378</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Mee</Player>
     <LostExp>131811</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32006,31880,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Monarka</Player>
     <LostExp>123214</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31985,31905,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Monarka</Player>
     <LostExp>110938</LostExp>
     <KilledBy>GM-Doro</KilledBy>
