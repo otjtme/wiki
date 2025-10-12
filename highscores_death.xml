@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1760307603573</GeneratedAt>
+  <GeneratedAt>1760307903592</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Asuna</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Terrorbird</KilledBy>
     <Time>2025-10-13 00:15:27</Time>
     <Location>(31944,32015,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Lederoni</Player>
+    <LostExp>1856</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-10-13 00:20:44</Time>
+    <Location>(31968,31882,10)</Location>
   </DeathEvent>
 </DeathHighscores>
