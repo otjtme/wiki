@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1760530520585</GeneratedAt>
+  <GeneratedAt>1760530820632</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gaspar</Player>
@@ -152,5 +152,13 @@
     <KilledBy>Djinn</KilledBy>
     <Time>2025-10-15 06:28:23</Time>
     <Location>(32796,32221,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
+    <Player>Umi</Player>
+    <LostExp>532</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-10-15 14:16:18</Time>
+    <Location>(32004,31885,8)</Location>
   </DeathEvent>
 </DeathHighscores>
