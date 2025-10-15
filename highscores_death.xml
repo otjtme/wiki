@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1760487299543</GeneratedAt>
+  <GeneratedAt>1760487599579</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ceifeiro</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Bocd</Player>
+    <LostExp>58642953</LostExp>
+    <KilledBy>Nekrion</KilledBy>
+    <Time>2025-10-15 02:18:01</Time>
+    <Location>(32062,31936,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Sukitaek</Player>
     <LostExp>9959610</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -34,11 +42,19 @@
     <Location>(32840,32064,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Lodula</Player>
     <LostExp>1443919</LostExp>
     <KilledBy>Flutty</KilledBy>
     <Time>2025-10-15 01:52:02</Time>
     <Location>(32063,31824,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Luluzinha</Player>
+    <LostExp>560312</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2025-10-15 02:18:58</Time>
+    <Location>(32010,32218,8)</Location>
   </DeathEvent>
 </DeathHighscores>
