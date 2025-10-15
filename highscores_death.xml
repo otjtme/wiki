@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1760551820792</GeneratedAt>
+  <GeneratedAt>1760552120780</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gaspar</Player>
@@ -315,6 +315,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>40</Rank>
+    <Player>Zumo</Player>
+    <LostExp>9306</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-10-15 20:14:53</Time>
+    <Location>(32051,31894,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>41</Rank>
     <Player>Umi</Player>
     <LostExp>532</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -322,7 +330,7 @@
     <Location>(32004,31885,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>41</Rank>
+    <Rank>42</Rank>
     <Player>Ladebe</Player>
     <LostExp>70</LostExp>
     <KilledBy>Treant</KilledBy>
