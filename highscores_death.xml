@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1760502020401</GeneratedAt>
+  <GeneratedAt>1760502320347</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Lught</Player>
@@ -72,5 +72,13 @@
     <KilledBy>King Lich</KilledBy>
     <Time>2025-10-15 03:56:37</Time>
     <Location>(31920,32004,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Mayduza</Player>
+    <LostExp>45034</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-10-15 06:22:10</Time>
+    <Location>(32054,31894,8)</Location>
   </DeathEvent>
 </DeathHighscores>
