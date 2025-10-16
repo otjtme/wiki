@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1760658301955</GeneratedAt>
+  <GeneratedAt>1760658601924</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Lordlookk</Player>
@@ -136,5 +136,13 @@
     <KilledBy>Cultist</KilledBy>
     <Time>2025-10-17 01:35:41</Time>
     <Location>(32019,31860,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
+    <Player>Zumo</Player>
+    <LostExp>105526</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-10-17 01:45:38</Time>
+    <Location>(32007,31856,9)</Location>
   </DeathEvent>
 </DeathHighscores>
