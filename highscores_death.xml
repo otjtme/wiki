@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1760748302236</GeneratedAt>
+  <GeneratedAt>1760748602244</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Nubi</Player>
@@ -24,5 +24,13 @@
     <KilledBy>Wardy</KilledBy>
     <Time>2025-10-18 01:50:31</Time>
     <Location>(32000,32236,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Kiting</Player>
+    <LostExp>6385</LostExp>
+    <KilledBy>King Lich</KilledBy>
+    <Time>2025-10-18 02:45:19</Time>
+    <Location>(31918,32005,7)</Location>
   </DeathEvent>
 </DeathHighscores>
