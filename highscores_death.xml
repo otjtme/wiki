@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1760802602636</GeneratedAt>
+  <GeneratedAt>1760802902633</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Nubi</Player>
@@ -131,6 +131,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>17</Rank>
+    <Player>Datokziqri</Player>
+    <LostExp>3441107</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2025-10-18 17:54:09</Time>
+    <Location>(31891,32012,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
     <Player>Mayduza</Player>
     <LostExp>3105847</LostExp>
     <KilledBy>King Lich</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31965,32053,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Mayduza</Player>
     <LostExp>3045058</LostExp>
     <KilledBy>King Lich</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31972,32054,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Libi</Player>
     <LostExp>2217840</LostExp>
     <KilledBy>King Lich</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(32002,31877,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Babywar</Player>
     <LostExp>1949022</LostExp>
     <KilledBy>Foresdrake</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32887,32034,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Lodula</Player>
     <LostExp>1693051</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31988,32018,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Morgana</Player>
     <LostExp>702363</LostExp>
     <KilledBy>King Demon</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32054,32341,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Anfasaaa</Player>
     <LostExp>318653</LostExp>
     <KilledBy>King Lich</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31930,31883,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Gadi</Player>
     <LostExp>110592</LostExp>
     <KilledBy>King Lich</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32011,31965,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Gadi</Player>
     <LostExp>103980</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(31892,31910,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Gadi</Player>
     <LostExp>48230</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31998,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Gadi</Player>
     <LostExp>27695</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31994,31908,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Gadi</Player>
     <LostExp>12408</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -226,20 +234,12 @@
     <Location>(32024,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Kiting</Player>
     <LostExp>6385</LostExp>
     <KilledBy>King Lich</KilledBy>
     <Time>2025-10-18 02:45:19</Time>
     <Location>(31918,32005,7)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>30</Rank>
-    <Player>Hamyaiiiii</Player>
-    <LostExp>5203</LostExp>
-    <KilledBy>Scorpion</KilledBy>
-    <Time>2025-10-18 08:32:21</Time>
-    <Location>(31967,31926,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>31</Rank>
@@ -252,7 +252,7 @@
   <DeathEvent>
     <Rank>32</Rank>
     <Player>Hamyaiiiii</Player>
-    <LostExp>4682</LostExp>
+    <LostExp>5203</LostExp>
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-10-18 08:32:21</Time>
     <Location>(31967,31926,8)</Location>
@@ -260,13 +260,21 @@
   <DeathEvent>
     <Rank>33</Rank>
     <Player>Hamyaiiiii</Player>
+    <LostExp>4682</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-10-18 08:32:21</Time>
+    <Location>(31967,31926,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>34</Rank>
+    <Player>Hamyaiiiii</Player>
     <LostExp>4239</LostExp>
     <KilledBy>The Bug</KilledBy>
     <Time>2025-10-18 08:34:54</Time>
     <Location>(31989,32015,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>35</Rank>
     <Player>Hamyaiiiii</Player>
     <LostExp>3822</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(31987,32013,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Hamyaiiiii</Player>
     <LostExp>3443</LostExp>
     <KilledBy>Scorpion</KilledBy>
