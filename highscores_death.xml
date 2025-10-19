@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1760833203724</GeneratedAt>
+  <GeneratedAt>1760833503721</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Dubaii</Player>
@@ -40,5 +40,13 @@
     <KilledBy>Tarantula</KilledBy>
     <Time>2025-10-19 00:40:46</Time>
     <Location>(31895,31899,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Bicuda</Player>
+    <LostExp>90693</LostExp>
+    <KilledBy>Skeleguard</KilledBy>
+    <Time>2025-10-19 02:21:59</Time>
+    <Location>(32010,32041,10)</Location>
   </DeathEvent>
 </DeathHighscores>
