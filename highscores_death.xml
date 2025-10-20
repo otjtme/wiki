@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1760925306264</GeneratedAt>
+  <GeneratedAt>1760925606271</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Dale</Player>
@@ -64,5 +64,13 @@
     <KilledBy>Morgana Witch</KilledBy>
     <Time>2025-10-20 03:02:44</Time>
     <Location>(31880,31935,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Aht</Player>
+    <LostExp>974</LostExp>
+    <KilledBy>King Lich</KilledBy>
+    <Time>2025-10-20 03:55:11</Time>
+    <Location>(31916,32005,7)</Location>
   </DeathEvent>
 </DeathHighscores>
