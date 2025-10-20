@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1760920806238</GeneratedAt>
+  <GeneratedAt>1760921106242</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Dale</Player>
@@ -16,5 +16,13 @@
     <KilledBy>King Lich</KilledBy>
     <Time>2025-10-20 01:40:24</Time>
     <Location>(31926,31887,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Zsr</Player>
+    <LostExp>122418</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-10-20 02:43:09</Time>
+    <Location>(31984,31927,8)</Location>
   </DeathEvent>
 </DeathHighscores>
