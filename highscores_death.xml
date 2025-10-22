@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1761098105086</GeneratedAt>
+  <GeneratedAt>1761098405090</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Lacoste</Player>
@@ -48,5 +48,13 @@
     <KilledBy>Long</KilledBy>
     <Time>2025-10-22 00:59:47</Time>
     <Location>(32015,32287,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Vanssboot</Player>
+    <LostExp>15959</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-10-22 03:56:56</Time>
+    <Location>(32026,31944,8)</Location>
   </DeathEvent>
 </DeathHighscores>
