@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1761225003552</GeneratedAt>
+  <GeneratedAt>1761225303516</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Xyz</Player>
@@ -304,5 +304,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-10-23 06:25:30</Time>
     <Location>(31880,32043,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>39</Rank>
+    <Player>Loni</Player>
+    <LostExp>492</LostExp>
+    <KilledBy>King Lich</KilledBy>
+    <Time>2025-10-23 15:13:04</Time>
+    <Location>(31926,32005,7)</Location>
   </DeathEvent>
 </DeathHighscores>
