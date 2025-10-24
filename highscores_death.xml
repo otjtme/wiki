@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1761348600281</GeneratedAt>
+  <GeneratedAt>1761348900326</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ceifeiro</Player>
@@ -19,10 +19,26 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Yozo</Player>
+    <LostExp>93005</LostExp>
+    <KilledBy>Blackdrake</KilledBy>
+    <Time>2025-10-25 01:33:06</Time>
+    <Location>(32248,32361,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Ninalaro</Player>
     <LostExp>3524</LostExp>
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-10-25 00:47:17</Time>
     <Location>(31977,31892,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Kresley</Player>
+    <LostExp>376</LostExp>
+    <KilledBy>Small Eye</KilledBy>
+    <Time>2025-10-25 01:32:58</Time>
+    <Location>(31905,32068,8)</Location>
   </DeathEvent>
 </DeathHighscores>
