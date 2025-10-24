@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1761264724679</GeneratedAt>
+  <GeneratedAt>1761265024692</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Akane</Player>
@@ -32,5 +32,13 @@
     <KilledBy>Morgana Witch</KilledBy>
     <Time>2025-10-24 02:03:40</Time>
     <Location>(31882,31934,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Cornus</Player>
+    <LostExp>379650</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-10-24 02:16:47</Time>
+    <Location>(32192,32270,9)</Location>
   </DeathEvent>
 </DeathHighscores>
