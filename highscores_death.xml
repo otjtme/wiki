@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1761947102887</GeneratedAt>
+  <GeneratedAt>1761947402903</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Omadara</Player>
@@ -360,5 +360,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-10-31 00:24:43</Time>
     <Location>(32003,31883,12)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>46</Rank>
+    <Player>Ozik</Player>
+    <LostExp>17</LostExp>
+    <KilledBy>King Lich</KilledBy>
+    <Time>2025-10-31 22:46:21</Time>
+    <Location>(31957,32053,7)</Location>
   </DeathEvent>
 </DeathHighscores>
