@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1762368004853</GeneratedAt>
+  <GeneratedAt>1762368304834</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Thc</Player>
@@ -232,5 +232,13 @@
     <KilledBy>Orc Raider</KilledBy>
     <Time>2025-11-05 18:48:41</Time>
     <Location>(31986,31861,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>30</Rank>
+    <Player>Moskito</Player>
+    <LostExp>8581</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-11-05 19:42:28</Time>
+    <Location>(32047,31902,8)</Location>
   </DeathEvent>
 </DeathHighscores>
