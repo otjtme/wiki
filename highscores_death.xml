@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1762364704831</GeneratedAt>
+  <GeneratedAt>1762365004840</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Thc</Player>
@@ -216,5 +216,13 @@
     <KilledBy>Minotaur</KilledBy>
     <Time>2025-11-05 17:26:03</Time>
     <Location>(31886,31991,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>28</Rank>
+    <Player>Rula</Player>
+    <LostExp>17615</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-11-05 18:48:41</Time>
+    <Location>(31986,31861,9)</Location>
   </DeathEvent>
 </DeathHighscores>
