@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1762489202380</GeneratedAt>
+  <GeneratedAt>1762489502369</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Steve</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Nebu</Player>
+    <LostExp>1578090</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-11-07 05:20:48</Time>
+    <Location>(31903,32046,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Salazar</Player>
     <LostExp>263856</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32018,32221,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Blackadam</Player>
     <LostExp>115395</LostExp>
     <KilledBy>Tarantula</KilledBy>
