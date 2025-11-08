@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1762602373175</GeneratedAt>
+  <GeneratedAt>1762602673174</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Menson</Player>
@@ -124,17 +124,33 @@
   <DeathEvent>
     <Rank>16</Rank>
     <Player>Revs</Player>
+    <LostExp>100458</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-11-08 12:48:54</Time>
+    <Location>(32004,31850,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>17</Rank>
+    <Player>Revs</Player>
     <LostExp>93017</LostExp>
     <KilledBy>Minotaur</KilledBy>
     <Time>2025-11-08 12:09:09</Time>
     <Location>(31896,32060,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Revs</Player>
     <LostExp>42454</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-11-08 04:31:06</Time>
     <Location>(32006,31885,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
+    <Player>Theexodia</Player>
+    <LostExp>830</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-11-08 12:48:02</Time>
+    <Location>(31991,31901,9)</Location>
   </DeathEvent>
 </DeathHighscores>
