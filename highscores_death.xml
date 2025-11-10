@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1762749979560</GeneratedAt>
+  <GeneratedAt>1762750279528</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Sunrakul</Player>
@@ -128,5 +128,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-11-10 05:38:37</Time>
     <Location>(32003,31885,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>17</Rank>
+    <Player>Nunudu</Player>
+    <LostExp>144</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-11-10 05:48:14</Time>
+    <Location>(32004,31885,8)</Location>
   </DeathEvent>
 </DeathHighscores>
