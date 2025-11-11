@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1762888212344</GeneratedAt>
+  <GeneratedAt>1762888512343</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Oole</Player>
@@ -16,5 +16,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-11-11 19:58:22</Time>
     <Location>(32027,32263,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Flander</Player>
+    <LostExp>1828</LostExp>
+    <KilledBy>Fanatic</KilledBy>
+    <Time>2025-11-11 20:13:16</Time>
+    <Location>(31920,32009,8)</Location>
   </DeathEvent>
 </DeathHighscores>
