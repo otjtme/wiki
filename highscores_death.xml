@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1763051103406</GeneratedAt>
+  <GeneratedAt>1763051403391</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pablo</Player>
@@ -296,5 +296,13 @@
     <KilledBy>The Bug</KilledBy>
     <Time>2025-11-13 13:17:17</Time>
     <Location>(31987,32016,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>38</Rank>
+    <Player>Jacks</Player>
+    <LostExp>492</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-11-13 17:28:10</Time>
+    <Location>(31905,32046,8)</Location>
   </DeathEvent>
 </DeathHighscores>
