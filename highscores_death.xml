@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1763077205129</GeneratedAt>
+  <GeneratedAt>1763077505131</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Vinteum</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Flutty</KilledBy>
     <Time>2025-11-14 00:38:41</Time>
     <Location>(32063,31819,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Flander</Player>
+    <LostExp>54711</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-11-14 00:40:37</Time>
+    <Location>(31906,32047,8)</Location>
   </DeathEvent>
 </DeathHighscores>
