@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1763052903386</GeneratedAt>
+  <GeneratedAt>1763053203431</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pablo</Player>
@@ -304,5 +304,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-11-13 17:28:10</Time>
     <Location>(31905,32046,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>39</Rank>
+    <Player>Flango</Player>
+    <LostExp>207</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2025-11-13 17:58:04</Time>
+    <Location>(32189,32270,9)</Location>
   </DeathEvent>
 </DeathHighscores>
