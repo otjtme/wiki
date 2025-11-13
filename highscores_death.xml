@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1763044803404</GeneratedAt>
+  <GeneratedAt>1763045103387</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pablo</Player>
@@ -204,13 +204,29 @@
   <DeathEvent>
     <Rank>26</Rank>
     <Player>Flander</Player>
+    <LostExp>29806</LostExp>
+    <KilledBy>Orc</KilledBy>
+    <Time>2025-11-13 15:40:26</Time>
+    <Location>(31990,31865,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>27</Rank>
+    <Player>Flander</Player>
+    <LostExp>28379</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-11-13 15:43:28</Time>
+    <Location>(31972,31862,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>28</Rank>
+    <Player>Flander</Player>
     <LostExp>16978</LostExp>
     <KilledBy>Skeleton</KilledBy>
     <Time>2025-11-13 15:29:10</Time>
     <Location>(31996,32051,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>29</Rank>
     <Player>Abels</Player>
     <LostExp>547</LostExp>
     <KilledBy>The Bug</KilledBy>
