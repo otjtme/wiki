@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1763120405137</GeneratedAt>
+  <GeneratedAt>1763120705098</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Jackfrost</Player>
@@ -144,5 +144,21 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-11-14 00:40:37</Time>
     <Location>(31906,32047,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
+    <Player>Pot</Player>
+    <LostExp>14</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-11-14 12:43:28</Time>
+    <Location>(31894,32048,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
+    <Player>Pot</Player>
+    <LostExp>13</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-11-14 12:41:26</Time>
+    <Location>(31863,32054,8)</Location>
   </DeathEvent>
 </DeathHighscores>
