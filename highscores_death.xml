@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1763184078343</GeneratedAt>
+  <GeneratedAt>1763184378331</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Soft</Player>
@@ -56,5 +56,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-11-15 02:32:11</Time>
     <Location>(31898,32046,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Doralobi</Player>
+    <LostExp>305661</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-11-15 06:24:32</Time>
+    <Location>(31892,32049,8)</Location>
   </DeathEvent>
 </DeathHighscores>
