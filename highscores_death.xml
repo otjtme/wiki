@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1763170278362</GeneratedAt>
+  <GeneratedAt>1763170578337</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Soft</Player>
@@ -32,5 +32,13 @@
     <KilledBy>Monky</KilledBy>
     <Time>2025-11-15 02:31:01</Time>
     <Location>(32033,32264,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Bbb</Player>
+    <LostExp>2999028</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-11-15 02:32:11</Time>
+    <Location>(31898,32046,8)</Location>
   </DeathEvent>
 </DeathHighscores>
