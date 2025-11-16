@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1763260507272</GeneratedAt>
+  <GeneratedAt>1763260807268</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Lacoste</Player>
@@ -24,5 +24,13 @@
     <KilledBy>Bloodbeak</KilledBy>
     <Time>2025-11-16 03:33:58</Time>
     <Location>(32836,32065,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Patikto</Player>
+    <LostExp>127675</LostExp>
+    <KilledBy>Wisper</KilledBy>
+    <Time>2025-11-16 03:37:49</Time>
+    <Location>(32028,32010,8)</Location>
   </DeathEvent>
 </DeathHighscores>
