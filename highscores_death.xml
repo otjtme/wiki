@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1763293807217</GeneratedAt>
+  <GeneratedAt>1763294107237</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kannibalz</Player>
@@ -208,5 +208,13 @@
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-11-16 05:53:04</Time>
     <Location>(32021,31945,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>27</Rank>
+    <Player>Pot</Player>
+    <LostExp>13</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-11-16 12:52:43</Time>
+    <Location>(31884,32025,8)</Location>
   </DeathEvent>
 </DeathHighscores>
