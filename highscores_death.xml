@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1763357404560</GeneratedAt>
+  <GeneratedAt>1763357704552</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hitman</Player>
@@ -131,6 +131,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>17</Rank>
+    <Player>Dcgod</Player>
+    <LostExp>29709</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-11-17 06:30:47</Time>
+    <Location>(32025,31943,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
     <Player>Gwiz</Player>
     <LostExp>12563</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31995,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Gwiz</Player>
     <LostExp>11405</LostExp>
     <KilledBy>Hell Guard</KilledBy>
@@ -146,11 +154,43 @@
     <Location>(32790,32251,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Nenero</Player>
     <LostExp>391</LostExp>
     <KilledBy>GM-Viajant</KilledBy>
     <Time>2025-11-17 06:29:23</Time>
     <Location>(32045,32036,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>21</Rank>
+    <Player>Nenero</Player>
+    <LostExp>352</LostExp>
+    <KilledBy>Killerwiz</KilledBy>
+    <Time>2025-11-17 06:33:33</Time>
+    <Location>(31974,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
+    <Player>Nap</Player>
+    <LostExp>0</LostExp>
+    <KilledBy>Scott</KilledBy>
+    <Time>2025-11-17 06:32:00</Time>
+    <Location>(31975,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
+    <Player>Nap</Player>
+    <LostExp>0</LostExp>
+    <KilledBy>Killerwiz</KilledBy>
+    <Time>2025-11-17 06:32:37</Time>
+    <Location>(31974,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>24</Rank>
+    <Player>Nap</Player>
+    <LostExp>0</LostExp>
+    <KilledBy>Killerwiz</KilledBy>
+    <Time>2025-11-17 06:33:33</Time>
+    <Location>(31974,31987,7)</Location>
   </DeathEvent>
 </DeathHighscores>
