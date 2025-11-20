@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1763682301484</GeneratedAt>
+  <GeneratedAt>1763682601478</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Patolino</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Flutty</KilledBy>
     <Time>2025-11-21 00:21:03</Time>
     <Location>(32068,31826,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Swo</Player>
+    <LostExp>153383</LostExp>
+    <KilledBy>Orc</KilledBy>
+    <Time>2025-11-21 00:46:06</Time>
+    <Location>(31985,31866,8)</Location>
   </DeathEvent>
 </DeathHighscores>
