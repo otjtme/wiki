@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1763683501511</GeneratedAt>
+  <GeneratedAt>1763683801529</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Patolino</Player>
@@ -48,5 +48,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-11-21 00:52:33</Time>
     <Location>(31906,32045,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Tanderquet</Player>
+    <LostExp>3699</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2025-11-21 01:08:48</Time>
+    <Location>(31862,32019,8)</Location>
   </DeathEvent>
 </DeathHighscores>
