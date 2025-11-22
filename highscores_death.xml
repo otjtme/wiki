@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1763776805423</GeneratedAt>
+  <GeneratedAt>1763777105426</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Zxr</Player>
@@ -35,10 +35,26 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Giihza</Player>
+    <LostExp>64121</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-11-22 03:05:04</Time>
+    <Location>(31993,32045,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Nina</Player>
     <LostExp>32728</LostExp>
     <KilledBy>Apprentice</KilledBy>
     <Time>2025-11-22 01:59:35</Time>
     <Location>(31992,31997,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Browar</Player>
+    <LostExp>7562</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-11-22 03:01:20</Time>
+    <Location>(31993,31909,8)</Location>
   </DeathEvent>
 </DeathHighscores>
