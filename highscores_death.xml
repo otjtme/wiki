@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1763778605428</GeneratedAt>
+  <GeneratedAt>1763778905415</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pcyann</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Metroman</Player>
+    <LostExp>29415</LostExp>
+    <KilledBy>Orc</KilledBy>
+    <Time>2025-11-22 03:32:37</Time>
+    <Location>(31986,31865,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Browar</Player>
     <LostExp>7562</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31993,31909,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Browar</Player>
     <LostExp>6883</LostExp>
     <KilledBy>Scorpion</KilledBy>
