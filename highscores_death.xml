@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1763824205387</GeneratedAt>
+  <GeneratedAt>1763824505437</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Lendaria</Player>
@@ -448,5 +448,13 @@
     <KilledBy>Minotaur</KilledBy>
     <Time>2025-11-22 04:21:23</Time>
     <Location>(31900,32065,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>57</Rank>
+    <Player>Tiozao</Player>
+    <LostExp>2132</LostExp>
+    <KilledBy>Bat</KilledBy>
+    <Time>2025-11-22 16:11:22</Time>
+    <Location>(31955,32064,8)</Location>
   </DeathEvent>
 </DeathHighscores>
