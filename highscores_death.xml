@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1763781605432</GeneratedAt>
+  <GeneratedAt>1763781905436</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pcyann</Player>
@@ -88,5 +88,13 @@
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-11-22 03:14:21</Time>
     <Location>(31964,31931,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
+    <Player>Browar</Player>
+    <LostExp>6429</LostExp>
+    <KilledBy>Minotaur</KilledBy>
+    <Time>2025-11-22 04:21:23</Time>
+    <Location>(31900,32065,11)</Location>
   </DeathEvent>
 </DeathHighscores>
