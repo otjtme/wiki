@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1763934010029</GeneratedAt>
+  <GeneratedAt>1763934310053</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kinghorr</Player>
@@ -556,13 +556,21 @@
   <DeathEvent>
     <Rank>70</Rank>
     <Player>Aros</Player>
+    <LostExp>10209</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-11-23 22:43:09</Time>
+    <Location>(32006,31879,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>71</Rank>
+    <Player>Aros</Player>
     <LostExp>7748</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-11-23 22:17:53</Time>
     <Location>(32009,31882,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>71</Rank>
+    <Rank>72</Rank>
     <Player>Tiozao</Player>
     <LostExp>5223</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -570,7 +578,7 @@
     <Location>(31970,31890,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>72</Rank>
+    <Rank>73</Rank>
     <Player>Tiozao</Player>
     <LostExp>3493</LostExp>
     <KilledBy>Bat</KilledBy>
