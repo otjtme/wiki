@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1763943307223</GeneratedAt>
+  <GeneratedAt>1763943607227</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Tobruut</Player>
@@ -56,5 +56,13 @@
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-11-24 00:57:24</Time>
     <Location>(31965,31927,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Aros</Player>
+    <LostExp>38039</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2025-11-24 01:16:12</Time>
+    <Location>(32055,31901,8)</Location>
   </DeathEvent>
 </DeathHighscores>
