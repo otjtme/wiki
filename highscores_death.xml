@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1764134708192</GeneratedAt>
+  <GeneratedAt>1764135008186</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Annabelle</Player>
@@ -136,5 +136,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2025-11-26 06:23:49</Time>
     <Location>(31892,32004,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
+    <Player>Sack</Player>
+    <LostExp>9440</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-11-26 06:28:01</Time>
+    <Location>(32007,31877,8)</Location>
   </DeathEvent>
 </DeathHighscores>
