@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1764133508208</GeneratedAt>
+  <GeneratedAt>1764133808183</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Annabelle</Player>
@@ -112,5 +112,21 @@
     <KilledBy>Vulion</KilledBy>
     <Time>2025-11-26 06:03:40</Time>
     <Location>(31893,31933,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
+    <Player>Biruleibe</Player>
+    <LostExp>254109</LostExp>
+    <KilledBy>Wisper</KilledBy>
+    <Time>2025-11-26 06:07:47</Time>
+    <Location>(31892,31932,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
+    <Player>Biruleibe</Player>
+    <LostExp>228698</LostExp>
+    <KilledBy>Vulion</KilledBy>
+    <Time>2025-11-26 06:10:08</Time>
+    <Location>(31892,31932,8)</Location>
   </DeathEvent>
 </DeathHighscores>
