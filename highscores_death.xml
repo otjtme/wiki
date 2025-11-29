@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1764401108356</GeneratedAt>
+  <GeneratedAt>1764401408355</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hagoromo</Player>
@@ -192,5 +192,21 @@
     <KilledBy>Treant</KilledBy>
     <Time>2025-11-29 08:22:59</Time>
     <Location>(31995,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>25</Rank>
+    <Player>Helloo</Player>
+    <LostExp>60000</LostExp>
+    <KilledBy>Wisper</KilledBy>
+    <Time>2025-11-29 08:25:25</Time>
+    <Location>(32029,32008,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>26</Rank>
+    <Player>Helloo</Player>
+    <LostExp>54000</LostExp>
+    <KilledBy>Hallo</KilledBy>
+    <Time>2025-11-29 08:26:56</Time>
+    <Location>(32029,32010,8)</Location>
   </DeathEvent>
 </DeathHighscores>
