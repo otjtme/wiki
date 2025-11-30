@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1764461106969</GeneratedAt>
+  <GeneratedAt>1764461406931</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ryuken</Player>
@@ -27,10 +27,26 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Banjar</Player>
+    <LostExp>205951</LostExp>
+    <KilledBy>Blackdrake</KilledBy>
+    <Time>2025-11-30 01:09:34</Time>
+    <Location>(32236,32355,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Skay</Player>
     <LostExp>49743</LostExp>
     <KilledBy>Hell Guard</KilledBy>
     <Time>2025-11-30 01:02:59</Time>
     <Location>(32788,32250,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Rira</Player>
+    <LostExp>4236</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-11-30 01:09:42</Time>
+    <Location>(32009,31877,8)</Location>
   </DeathEvent>
 </DeathHighscores>
