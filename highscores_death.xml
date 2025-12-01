@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1764582314573</GeneratedAt>
+  <GeneratedAt>1764582614580</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Wk</Player>
@@ -280,5 +280,21 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-12-01 10:44:38</Time>
     <Location>(32004,31883,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>36</Rank>
+    <Player>Belu</Player>
+    <LostExp>4075</LostExp>
+    <KilledBy>GM-Viajant</KilledBy>
+    <Time>2025-12-01 10:45:54</Time>
+    <Location>(32047,32035,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>37</Rank>
+    <Player>Belu</Player>
+    <LostExp>4052</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-12-01 10:49:04</Time>
+    <Location>(31982,31897,9)</Location>
   </DeathEvent>
 </DeathHighscores>
