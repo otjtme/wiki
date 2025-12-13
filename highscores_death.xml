@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1765591615101</GeneratedAt>
+  <GeneratedAt>1765592215104</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hers</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Dooo</Player>
+    <LostExp>87353037</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2025-12-13 03:07:06</Time>
+    <Location>(31932,32214,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Paocomovo</Player>
     <LostExp>374828</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32044,31969,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Dinili</Player>
     <LostExp>116115</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31993,31897,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Tornix</Player>
     <LostExp>33533</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -34,11 +42,19 @@
     <Location>(31988,32016,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Tornix</Player>
     <LostExp>30180</LostExp>
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-12-13 03:01:24</Time>
     <Location>(32019,31954,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Tornix</Player>
+    <LostExp>28282</LostExp>
+    <KilledBy>Fanatic</KilledBy>
+    <Time>2025-12-13 03:11:45</Time>
+    <Location>(31918,32012,8)</Location>
   </DeathEvent>
 </DeathHighscores>
