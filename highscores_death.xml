@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1765591015069</GeneratedAt>
+  <GeneratedAt>1765591615101</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hers</Player>
@@ -24,5 +24,21 @@
     <KilledBy>Scorpion</KilledBy>
     <Time>2025-12-13 00:47:12</Time>
     <Location>(31993,31897,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Tornix</Player>
+    <LostExp>33533</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-12-13 02:58:42</Time>
+    <Location>(31988,32016,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Tornix</Player>
+    <LostExp>30180</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2025-12-13 03:01:24</Time>
+    <Location>(32019,31954,8)</Location>
   </DeathEvent>
 </DeathHighscores>
