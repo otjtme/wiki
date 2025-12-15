@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1765779310563</GeneratedAt>
+  <GeneratedAt>1765779910492</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Lordwolf</Player>
@@ -83,6 +83,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Perfect</Player>
+    <LostExp>613530</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2025-12-15 07:24:08</Time>
+    <Location>(32849,31980,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Koungzk</Player>
     <LostExp>414376</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -90,7 +98,15 @@
     <Location>(31878,32049,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
+    <Player>Golpes</Player>
+    <LostExp>154933</LostExp>
+    <KilledBy>Bear</KilledBy>
+    <Time>2025-12-15 07:18:21</Time>
+    <Location>(32028,31970,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
     <Player>Golpes</Player>
     <LostExp>118430</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -98,7 +114,7 @@
     <Location>(32013,31937,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>15</Rank>
     <Player>Golpes</Player>
     <LostExp>112405</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -106,7 +122,7 @@
     <Location>(31877,31910,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>16</Rank>
     <Player>Barala</Player>
     <LostExp>69422</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -114,7 +130,7 @@
     <Location>(32014,31883,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>17</Rank>
     <Player>Barala</Player>
     <LostExp>62505</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -122,11 +138,19 @@
     <Location>(31989,32016,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>18</Rank>
     <Player>Barala</Player>
     <LostExp>56536</LostExp>
     <KilledBy>Orc Raider</KilledBy>
     <Time>2025-12-15 03:34:35</Time>
     <Location>(31983,31861,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
+    <Player>Rorubo</Player>
+    <LostExp>6382</LostExp>
+    <KilledBy>Little Drake</KilledBy>
+    <Time>2025-12-15 07:17:28</Time>
+    <Location>(32015,31946,7)</Location>
   </DeathEvent>
 </DeathHighscores>
