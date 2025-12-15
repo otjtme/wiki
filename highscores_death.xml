@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1765765510519</GeneratedAt>
+  <GeneratedAt>1765766110605</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Lordwolf</Player>
@@ -16,5 +16,37 @@
     <KilledBy>Fire Drake</KilledBy>
     <Time>2025-12-15 02:18:19</Time>
     <Location>(32013,31937,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Golpes</Player>
+    <LostExp>112405</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2025-12-15 03:34:18</Time>
+    <Location>(31877,31910,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Barala</Player>
+    <LostExp>69422</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-12-15 03:27:16</Time>
+    <Location>(32014,31883,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Barala</Player>
+    <LostExp>62505</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2025-12-15 03:29:18</Time>
+    <Location>(31989,32016,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Barala</Player>
+    <LostExp>56536</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2025-12-15 03:34:35</Time>
+    <Location>(31983,31861,9)</Location>
   </DeathEvent>
 </DeathHighscores>
