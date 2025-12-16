@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1765901741563</GeneratedAt>
+  <GeneratedAt>1765902341598</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pitpit</Player>
@@ -196,13 +196,21 @@
   <DeathEvent>
     <Rank>25</Rank>
     <Player>Reno</Player>
+    <LostExp>35303</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-12-16 17:16:45</Time>
+    <Location>(32010,31874,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>26</Rank>
+    <Player>Reno</Player>
     <LostExp>35178</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2025-12-16 16:56:29</Time>
     <Location>(32009,31873,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Skynix</Player>
     <LostExp>10214</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31883,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Bon</Player>
     <LostExp>10175</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -218,7 +226,15 @@
     <Location>(31873,32060,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
+    <Player>Wern</Player>
+    <LostExp>2669</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-12-16 17:24:59</Time>
+    <Location>(32005,31881,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>30</Rank>
     <Player>Warzz</Player>
     <LostExp>569</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -226,7 +242,7 @@
     <Location>(31879,32043,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>31</Rank>
     <Player>Jackkee</Player>
     <LostExp>91</LostExp>
     <KilledBy>The Bug</KilledBy>
