@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1766046528226</GeneratedAt>
+  <GeneratedAt>1766047128213</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Khex</Player>
@@ -27,6 +27,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Guinness</Player>
+    <LostExp>46704666</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2025-12-18 09:34:56</Time>
+    <Location>(31951,32264,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Vard</Player>
     <LostExp>15901790</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31948,32288,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Missboba</Player>
     <LostExp>10613024</LostExp>
     <KilledBy>Giggles Ghost</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32250,32179,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Jwakaa</Player>
     <LostExp>4908323</LostExp>
     <KilledBy>Tenebris</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31977,31813,14)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Jwakaa</Player>
     <LostExp>4616614</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -58,20 +66,12 @@
     <Location>(32825,32041,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Kimzy</Player>
     <LostExp>1913501</LostExp>
     <KilledBy>The Miner</KilledBy>
     <Time>2025-12-18 08:14:00</Time>
     <Location>(31855,31970,11)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>9</Rank>
-    <Player>Rorubo</Player>
-    <LostExp>164452</LostExp>
-    <KilledBy>Orc Leader</KilledBy>
-    <Time>2025-12-18 07:11:04</Time>
-    <Location>(32010,31871,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
@@ -83,6 +83,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Rorubo</Player>
+    <LostExp>164452</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-12-18 07:11:04</Time>
+    <Location>(32010,31871,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Darsiwiz</Player>
     <LostExp>92529</LostExp>
     <KilledBy>The Miner</KilledBy>
