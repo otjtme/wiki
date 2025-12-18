@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1766055528242</GeneratedAt>
+  <GeneratedAt>1766056128211</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Khex</Player>
@@ -91,6 +91,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>12</Rank>
+    <Player>Bole</Player>
+    <LostExp>5046283</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-12-18 12:06:05</Time>
+    <Location>(32043,31798,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
     <Player>Jwakaa</Player>
     <LostExp>4908323</LostExp>
     <KilledBy>Tenebris</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31977,31813,14)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Jwakaa</Player>
     <LostExp>4616614</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32825,32041,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Kimzy</Player>
     <LostExp>1913501</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31855,31970,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Callysta</Player>
     <LostExp>565204</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -122,20 +130,12 @@
     <Location>(31859,31972,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Ravi</Player>
     <LostExp>208253</LostExp>
     <KilledBy>The Miner</KilledBy>
     <Time>2025-12-18 10:59:12</Time>
     <Location>(31855,31974,11)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>17</Rank>
-    <Player>Rorubo</Player>
-    <LostExp>164452</LostExp>
-    <KilledBy>Orc Leader</KilledBy>
-    <Time>2025-12-18 07:11:04</Time>
-    <Location>(32010,31871,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
@@ -147,10 +147,26 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>19</Rank>
+    <Player>Rorubo</Player>
+    <LostExp>164452</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-12-18 07:11:04</Time>
+    <Location>(32010,31871,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
     <Player>Darsiwiz</Player>
     <LostExp>92529</LostExp>
     <KilledBy>The Miner</KilledBy>
     <Time>2025-12-18 07:54:05</Time>
     <Location>(31855,31968,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>21</Rank>
+    <Player>Mixprimer</Player>
+    <LostExp>2472</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2025-12-18 12:03:29</Time>
+    <Location>(31985,31902,9)</Location>
   </DeathEvent>
 </DeathHighscores>
