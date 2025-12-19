@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1766103320358</GeneratedAt>
+  <GeneratedAt>1766103920360</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Buysell</Player>
@@ -8,5 +8,21 @@
     <KilledBy>Grinch</KilledBy>
     <Time>2025-12-19 00:58:23</Time>
     <Location>(31992,31879,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Gryffindor</Player>
+    <LostExp>29076511</LostExp>
+    <KilledBy>Grinch</KilledBy>
+    <Time>2025-12-19 01:20:36</Time>
+    <Location>(32011,31965,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Hard</Player>
+    <LostExp>314045</LostExp>
+    <KilledBy>Grinch</KilledBy>
+    <Time>2025-12-19 01:19:44</Time>
+    <Location>(31920,31997,7)</Location>
   </DeathEvent>
 </DeathHighscores>
