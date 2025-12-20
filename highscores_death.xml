@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1766190984861</GeneratedAt>
+  <GeneratedAt>1766192185961</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Perverso </Player>
@@ -16,5 +16,21 @@
     <KilledBy>Grinch</KilledBy>
     <Time>2025-12-20 00:22:53</Time>
     <Location>(31881,31935,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Nezuko</Player>
+    <LostExp>2960123</LostExp>
+    <KilledBy>Grinch</KilledBy>
+    <Time>2025-12-20 01:41:49</Time>
+    <Location>(31927,31896,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Tormento</Player>
+    <LostExp>795509</LostExp>
+    <KilledBy>Grinch</KilledBy>
+    <Time>2025-12-20 01:38:56</Time>
+    <Location>(31995,31883,7)</Location>
   </DeathEvent>
 </DeathHighscores>
