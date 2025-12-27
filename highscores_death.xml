@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1766805304636</GeneratedAt>
+  <GeneratedAt>1766806504627</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Magic</Player>
@@ -80,5 +80,29 @@
     <KilledBy>The Gift Thief</KilledBy>
     <Time>2025-12-27 03:34:35</Time>
     <Location>(31952,32011,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Dnoi</Player>
+    <LostExp>34518</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2025-12-27 04:21:55</Time>
+    <Location>(31994,32044,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
+    <Player>Dnoi</Player>
+    <LostExp>31066</LostExp>
+    <KilledBy>The Gift Thief</KilledBy>
+    <Time>2025-12-27 04:23:16</Time>
+    <Location>(31953,32006,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
+    <Player>Dnoi</Player>
+    <LostExp>27960</LostExp>
+    <KilledBy>The Gift Thief</KilledBy>
+    <Time>2025-12-27 04:23:35</Time>
+    <Location>(31952,32007,7)</Location>
   </DeathEvent>
 </DeathHighscores>
