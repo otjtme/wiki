@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1767075306251</GeneratedAt>
+  <GeneratedAt>1767076506242</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hiroshi</Player>
@@ -171,6 +171,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>22</Rank>
+    <Player>Nilu</Player>
+    <LostExp>521173</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2025-12-30 07:22:55</Time>
+    <Location>(31990,31914,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
     <Player>Gregor</Player>
     <LostExp>227312</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(31952,32277,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Gregor</Player>
     <LostExp>204773</LostExp>
     <KilledBy>Grinch</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31891,31940,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Kala</Player>
     <LostExp>60055</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32003,31872,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Kala</Player>
     <LostExp>56090</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32010,31877,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Kala</Player>
     <LostExp>51343</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Yora</Player>
     <LostExp>29115</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -218,11 +226,19 @@
     <Location>(31881,32053,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Yora</Player>
     <LostExp>27089</LostExp>
     <KilledBy>The Gift Thief</KilledBy>
     <Time>2025-12-30 02:16:49</Time>
     <Location>(31965,32055,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>30</Rank>
+    <Player>Tanoy</Player>
+    <LostExp>11822</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2025-12-30 07:31:56</Time>
+    <Location>(32011,31884,11)</Location>
   </DeathEvent>
 </DeathHighscores>
