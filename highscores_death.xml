@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1767142562163</GeneratedAt>
+  <GeneratedAt>1767143762154</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Cultivator</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Cloudy</Player>
+    <LostExp>321854400</LostExp>
+    <KilledBy>Bcelone</KilledBy>
+    <Time>2025-12-31 02:07:32</Time>
+    <Location>(31947,32234,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Mrphout</Player>
     <LostExp>35195041</LostExp>
     <KilledBy>Crysmantis</KilledBy>
@@ -18,11 +26,27 @@
     <Location>(32798,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Kingzed</Player>
     <LostExp>22334468</LostExp>
     <KilledBy>Demon Lord</KilledBy>
     <Time>2025-12-31 00:54:33</Time>
     <Location>(31837,31910,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Mephisto</Player>
+    <LostExp>5394164</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2025-12-31 02:06:39</Time>
+    <Location>(32041,31800,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Mephisto</Player>
+    <LostExp>4854748</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2025-12-31 02:10:56</Time>
+    <Location>(32063,31823,8)</Location>
   </DeathEvent>
 </DeathHighscores>
