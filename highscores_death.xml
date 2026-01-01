@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1767227703444</GeneratedAt>
+  <GeneratedAt>1767228903453</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ekstasi</Player>
@@ -8,5 +8,13 @@
     <KilledBy>ChampHell</KilledBy>
     <Time>2026-01-01 01:25:28</Time>
     <Location>(31997,31975,12)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Miro</Player>
+    <LostExp>4333</LostExp>
+    <KilledBy>Grinch</KilledBy>
+    <Time>2026-01-01 01:50:55</Time>
+    <Location>(31882,31942,7)</Location>
   </DeathEvent>
 </DeathHighscores>
