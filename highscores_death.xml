@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1767315302757</GeneratedAt>
+  <GeneratedAt>1767316502767</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bunibaoni</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2026-01-02 01:36:05</Time>
     <Location>(32006,31879,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Zeldaa</Player>
+    <LostExp>84</LostExp>
+    <KilledBy>Wolf</KilledBy>
+    <Time>2026-01-02 02:11:43</Time>
+    <Location>(31913,32074,7)</Location>
   </DeathEvent>
 </DeathHighscores>
