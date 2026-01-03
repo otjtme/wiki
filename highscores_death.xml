@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1767444906411</GeneratedAt>
+  <GeneratedAt>1767446106420</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Subzero</Player>
@@ -336,5 +336,13 @@
     <KilledBy>Skeleton</KilledBy>
     <Time>2026-01-03 11:16:00</Time>
     <Location>(31996,32044,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>43</Rank>
+    <Player>Benzbm</Player>
+    <LostExp>18103</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2026-01-03 13:59:59</Time>
+    <Location>(32010,31885,8)</Location>
   </DeathEvent>
 </DeathHighscores>
