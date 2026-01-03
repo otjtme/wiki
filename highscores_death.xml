@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1767412506430</GeneratedAt>
+  <GeneratedAt>1767413706423</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Subzero</Player>
@@ -120,5 +120,21 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2026-01-03 02:34:43</Time>
     <Location>(31880,32057,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
+    <Player>Hunter</Player>
+    <LostExp>60413</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2026-01-03 04:59:51</Time>
+    <Location>(31889,32049,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>17</Rank>
+    <Player>Hunter</Player>
+    <LostExp>56752</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2026-01-03 05:03:48</Time>
+    <Location>(31894,32049,8)</Location>
   </DeathEvent>
 </DeathHighscores>
