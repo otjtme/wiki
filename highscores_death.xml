@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1767926109385</GeneratedAt>
+  <GeneratedAt>1767927309395</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Hypercrab</Player>
@@ -40,5 +40,13 @@
     <KilledBy>Flutty</KilledBy>
     <Time>2026-01-09 02:27:51</Time>
     <Location>(32064,31819,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Sos</Player>
+    <LostExp>111846</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2026-01-09 03:40:03</Time>
+    <Location>(31897,32047,8)</Location>
   </DeathEvent>
 </DeathHighscores>
