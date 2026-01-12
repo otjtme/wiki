@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1768197307850</GeneratedAt>
+  <GeneratedAt>1768198507891</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ekstasi</Player>
@@ -176,5 +176,13 @@
     <KilledBy>Orc Raider</KilledBy>
     <Time>2026-01-12 04:25:35</Time>
     <Location>(31983,31861,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
+    <Player>Xzo</Player>
+    <LostExp>1248</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2026-01-12 07:00:29</Time>
+    <Location>(32005,31883,10)</Location>
   </DeathEvent>
 </DeathHighscores>
