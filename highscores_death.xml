@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1768182907931</GeneratedAt>
+  <GeneratedAt>1768184107854</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bilty</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Fui</Player>
+    <LostExp>7261914</LostExp>
+    <KilledBy>Leviatacle</KilledBy>
+    <Time>2026-01-12 03:12:25</Time>
+    <Location>(31865,32069,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Roderi</Player>
     <LostExp>305317</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31866,32060,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Roderi</Player>
     <LostExp>194911</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -34,7 +42,15 @@
     <Location>(31890,32051,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
+    <Player>Krot</Player>
+    <LostExp>2715</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2026-01-12 02:55:25</Time>
+    <Location>(32008,31877,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Krot</Player>
     <LostExp>1970</LostExp>
     <KilledBy>Orc Master</KilledBy>
