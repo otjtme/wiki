@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1768265534384</GeneratedAt>
+  <GeneratedAt>1768266734314</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ryee</Player>
@@ -8,5 +8,21 @@
     <KilledBy>Dreadtide</KilledBy>
     <Time>2026-01-13 01:15:38</Time>
     <Location>(31851,32112,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Ryulex</Player>
+    <LostExp>1342633</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2026-01-13 01:59:31</Time>
+    <Location>(32822,32040,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Niel</Player>
+    <LostExp>92265</LostExp>
+    <KilledBy>Bloodfly</KilledBy>
+    <Time>2026-01-13 01:55:45</Time>
+    <Location>(31927,31953,10)</Location>
   </DeathEvent>
 </DeathHighscores>
