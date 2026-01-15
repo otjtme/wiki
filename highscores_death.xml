@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1768455057211</GeneratedAt>
+  <GeneratedAt>1768456257125</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Soft</Player>
@@ -136,5 +136,13 @@
     <KilledBy>Scorpiant</KilledBy>
     <Time>2026-01-15 02:33:23</Time>
     <Location>(31869,32052,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
+    <Player>Network</Player>
+    <LostExp>15</LostExp>
+    <KilledBy>GM-Jhonnis</KilledBy>
+    <Time>2026-01-15 06:48:41</Time>
+    <Location>(32037,32036,8)</Location>
   </DeathEvent>
 </DeathHighscores>
