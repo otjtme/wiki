@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1768440657157</GeneratedAt>
+  <GeneratedAt>1768441857204</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Soft</Player>
@@ -35,10 +35,26 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Ava</Player>
+    <LostExp>191282</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2026-01-15 02:39:47</Time>
+    <Location>(32003,32215,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Zericneck</Player>
     <LostExp>118494</LostExp>
     <KilledBy>Chaleton</KilledBy>
     <Time>2026-01-15 01:15:41</Time>
     <Location>(32188,32273,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Maxs</Player>
+    <LostExp>33543</LostExp>
+    <KilledBy>Scorpiant</KilledBy>
+    <Time>2026-01-15 02:33:23</Time>
+    <Location>(31869,32052,9)</Location>
   </DeathEvent>
 </DeathHighscores>
