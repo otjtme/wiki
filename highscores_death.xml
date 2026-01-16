@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1768523865132</GeneratedAt>
+  <GeneratedAt>1768525065119</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Lothgod</Player>
@@ -32,5 +32,29 @@
     <KilledBy>Vampmaster</KilledBy>
     <Time>2026-01-16 00:54:41</Time>
     <Location>(31971,31902,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Try</Player>
+    <LostExp>637266</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2026-01-16 01:41:44</Time>
+    <Location>(31882,32045,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Try</Player>
+    <LostExp>614818</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2026-01-16 01:52:09</Time>
+    <Location>(31897,32044,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Try</Player>
+    <LostExp>584914</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2026-01-16 01:57:19</Time>
+    <Location>(31990,32013,8)</Location>
   </DeathEvent>
 </DeathHighscores>
