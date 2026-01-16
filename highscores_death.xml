@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1768562266855</GeneratedAt>
+  <GeneratedAt>1768563466804</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gosu</Player>
@@ -240,5 +240,13 @@
     <KilledBy>Scorpion</KilledBy>
     <Time>2026-01-16 02:46:44</Time>
     <Location>(31937,31918,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>31</Rank>
+    <Player>Nolara</Player>
+    <LostExp>3695</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2026-01-16 12:30:51</Time>
+    <Location>(31904,32046,8)</Location>
   </DeathEvent>
 </DeathHighscores>
