@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1768527465123</GeneratedAt>
+  <GeneratedAt>1768528665121</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Lothgod</Player>
@@ -72,5 +72,13 @@
     <KilledBy>The Bug</KilledBy>
     <Time>2026-01-16 01:57:19</Time>
     <Location>(31990,32013,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Rene</Player>
+    <LostExp>10825</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2026-01-16 02:46:44</Time>
+    <Location>(31937,31918,9)</Location>
   </DeathEvent>
 </DeathHighscores>
