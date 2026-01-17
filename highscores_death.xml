@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1768619708355</GeneratedAt>
+  <GeneratedAt>1768620907170</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Oneshot</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Thetop</Player>
+    <LostExp>99925698</LostExp>
+    <KilledBy>Krakomin</KilledBy>
+    <Time>2026-01-17 04:19:33</Time>
+    <Location>(31782,31924,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Weekmon</Player>
     <LostExp>56164888</LostExp>
     <KilledBy>The Solveig</KilledBy>
@@ -18,20 +26,12 @@
     <Location>(31916,32222,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Crordew</Player>
     <LostExp>18954944</LostExp>
     <KilledBy>(Others)</KilledBy>
     <Time>2026-01-17 02:02:39</Time>
     <Location>(31797,31913,10)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>4</Rank>
-    <Player>Nirireba</Player>
-    <LostExp>3885302</LostExp>
-    <KilledBy>Gigantula</KilledBy>
-    <Time>2026-01-17 04:13:07</Time>
-    <Location>(32917,32053,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Nirireba</Player>
+    <LostExp>3885302</LostExp>
+    <KilledBy>Gigantula</KilledBy>
+    <Time>2026-01-17 04:13:07</Time>
+    <Location>(32917,32053,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Sakurw</Player>
     <LostExp>1680435</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31866,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Cadinal</Player>
     <LostExp>957053</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32044,31799,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Try</Player>
     <LostExp>620102</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31856,31974,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Dambro</Player>
     <LostExp>131618</LostExp>
     <KilledBy>Goblin</KilledBy>
