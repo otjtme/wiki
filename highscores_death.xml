@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1768780508199</GeneratedAt>
+  <GeneratedAt>1768781708215</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Humdaka</Player>
@@ -8,5 +8,21 @@
     <KilledBy>Kapami</KilledBy>
     <Time>2026-01-19 00:54:55</Time>
     <Location>(32876,32016,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Fullwiz</Player>
+    <LostExp>1807527</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2026-01-19 01:14:46</Time>
+    <Location>(32067,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Khoun</Player>
+    <LostExp>304726</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2026-01-19 00:58:26</Time>
+    <Location>(31898,32048,8)</Location>
   </DeathEvent>
 </DeathHighscores>
