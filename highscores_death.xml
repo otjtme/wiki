@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1768827308158</GeneratedAt>
+  <GeneratedAt>1768828508145</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Makiavel</Player>
@@ -187,6 +187,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>24</Rank>
+    <Player>Cadinal</Player>
+    <LostExp>1866040</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2026-01-19 14:05:50</Time>
+    <Location>(32849,31974,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>25</Rank>
     <Player>Godzila</Player>
     <LostExp>1861965</LostExp>
     <KilledBy>Cultist</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(32014,31858,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Fullwiz</Player>
     <LostExp>1807527</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -202,7 +210,7 @@
     <Location>(32067,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>26</Rank>
+    <Rank>27</Rank>
     <Player>Piew</Player>
     <LostExp>1696090</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -210,7 +218,7 @@
     <Location>(31954,31992,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>27</Rank>
+    <Rank>28</Rank>
     <Player>Godzila</Player>
     <LostExp>1558819</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -218,7 +226,7 @@
     <Location>(31881,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>28</Rank>
+    <Rank>29</Rank>
     <Player>Cyborg</Player>
     <LostExp>1142087</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -226,20 +234,12 @@
     <Location>(31852,31974,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>29</Rank>
+    <Rank>30</Rank>
     <Player>Dobodino</Player>
     <LostExp>987674</LostExp>
     <KilledBy>Tarantula</KilledBy>
     <Time>2026-01-19 10:07:21</Time>
     <Location>(31875,31918,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>30</Rank>
-    <Player>Jobesvaldo</Player>
-    <LostExp>774975</LostExp>
-    <KilledBy>Cultist</KilledBy>
-    <Time>2026-01-19 01:35:11</Time>
-    <Location>(32021,31865,11)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>31</Rank>
@@ -251,6 +251,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>32</Rank>
+    <Player>Jobesvaldo</Player>
+    <LostExp>774975</LostExp>
+    <KilledBy>Cultist</KilledBy>
+    <Time>2026-01-19 01:35:11</Time>
+    <Location>(32021,31865,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>33</Rank>
     <Player>Cheline</Player>
     <LostExp>567200</LostExp>
     <KilledBy>Abgkumis</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(32030,32010,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Amon</Player>
     <LostExp>324127</LostExp>
     <KilledBy>Long</KilledBy>
@@ -266,7 +274,7 @@
     <Location>(32032,32278,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>35</Rank>
     <Player>Khoun</Player>
     <LostExp>305169</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -274,20 +282,12 @@
     <Location>(31908,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Khoun</Player>
     <LostExp>304726</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2026-01-19 00:58:26</Time>
     <Location>(31898,32048,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>36</Rank>
-    <Player>Blom</Player>
-    <LostExp>249070</LostExp>
-    <KilledBy>Orc Leader</KilledBy>
-    <Time>2026-01-19 10:36:56</Time>
-    <Location>(32007,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>37</Rank>
@@ -299,6 +299,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>38</Rank>
+    <Player>Blom</Player>
+    <LostExp>249070</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2026-01-19 10:36:56</Time>
+    <Location>(32007,31878,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>39</Rank>
     <Player>Ananped</Player>
     <LostExp>141759</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -306,7 +314,7 @@
     <Location>(32016,31859,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Leymon</Player>
     <LostExp>112007</LostExp>
     <KilledBy>Shogun</KilledBy>
