@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1768805708172</GeneratedAt>
+  <GeneratedAt>1768806908196</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Makiavel</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Mgsorwa</Player>
+    <LostExp>2821666</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2026-01-19 08:02:24</Time>
+    <Location>(32839,32003,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Fullwiz</Player>
     <LostExp>1807527</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32067,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Piew</Player>
     <LostExp>1696090</LostExp>
     <KilledBy>Assasin</KilledBy>
@@ -90,20 +98,12 @@
     <Location>(31954,31992,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Cyborg</Player>
     <LostExp>1142087</LostExp>
     <KilledBy>The Miner</KilledBy>
     <Time>2026-01-19 01:25:17</Time>
     <Location>(31852,31974,11)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>13</Rank>
-    <Player>Jobesvaldo</Player>
-    <LostExp>774975</LostExp>
-    <KilledBy>Cultist</KilledBy>
-    <Time>2026-01-19 01:35:11</Time>
-    <Location>(32021,31865,11)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>14</Rank>
@@ -115,6 +115,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>15</Rank>
+    <Player>Jobesvaldo</Player>
+    <LostExp>774975</LostExp>
+    <KilledBy>Cultist</KilledBy>
+    <Time>2026-01-19 01:35:11</Time>
+    <Location>(32021,31865,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
     <Player>Khoun</Player>
     <LostExp>304726</LostExp>
     <KilledBy>Werewolf</KilledBy>
