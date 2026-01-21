@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1768958179511</GeneratedAt>
+  <GeneratedAt>1768959379534</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Deathnight</Player>
@@ -24,5 +24,21 @@
     <KilledBy>Bermouth</KilledBy>
     <Time>2026-01-21 02:14:46</Time>
     <Location>(32242,32167,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Kingtoto</Player>
+    <LostExp>224480691</LostExp>
+    <KilledBy>Bermouth</KilledBy>
+    <Time>2026-01-21 02:25:37</Time>
+    <Location>(32243,32162,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Tazar</Player>
+    <LostExp>620</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2026-01-21 02:32:51</Time>
+    <Location>(31967,31887,10)</Location>
   </DeathEvent>
 </DeathHighscores>
