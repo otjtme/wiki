@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1769046944468</GeneratedAt>
+  <GeneratedAt>1769048144428</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Konami</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Loid</Player>
+    <LostExp>16969787</LostExp>
+    <KilledBy>Crysmantis</KilledBy>
+    <Time>2026-01-22 02:56:11</Time>
+    <Location>(32853,32041,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Konami</Player>
     <LostExp>15955054</LostExp>
     <KilledBy>Crustea</KilledBy>
@@ -18,7 +26,15 @@
     <Location>(32865,31996,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
+    <Player>Byaz</Player>
+    <LostExp>644168</LostExp>
+    <KilledBy>Master Gorath</KilledBy>
+    <Time>2026-01-22 03:01:47</Time>
+    <Location>(31977,31800,12)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Sterminado</Player>
     <LostExp>71469</LostExp>
     <KilledBy>Orc Raider</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(32005,31845,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Zazakr</Player>
     <LostExp>6163</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -34,7 +50,23 @@
     <Location>(31975,31910,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>7</Rank>
+    <Player>Zazakr</Player>
+    <LostExp>5911</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2026-01-22 03:06:58</Time>
+    <Location>(31994,32044,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Zazakr</Player>
+    <LostExp>5857</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2026-01-22 03:10:12</Time>
+    <Location>(31984,31901,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Bryanadams</Player>
     <LostExp>1925</LostExp>
     <KilledBy>Orc Leader</KilledBy>
