@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1769127345524</GeneratedAt>
+  <GeneratedAt>1769128545505</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Fullwar</Player>
@@ -8,5 +8,21 @@
     <KilledBy>Flutty</KilledBy>
     <Time>2026-01-23 00:55:11</Time>
     <Location>(32059,31820,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Darkgod</Player>
+    <LostExp>224270</LostExp>
+    <KilledBy>Cyclops</KilledBy>
+    <Time>2026-01-23 01:18:36</Time>
+    <Location>(31876,31964,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Darkgod</Player>
+    <LostExp>222985</LostExp>
+    <KilledBy>Terrorbird</KilledBy>
+    <Time>2026-01-23 01:31:29</Time>
+    <Location>(31955,32016,11)</Location>
   </DeathEvent>
 </DeathHighscores>
