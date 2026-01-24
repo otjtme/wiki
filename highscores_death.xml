@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1769220048963</GeneratedAt>
+  <GeneratedAt>1769221248989</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Templar</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Magodocaos</Player>
+    <LostExp>4335090</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2026-01-24 03:09:40</Time>
+    <Location>(32043,31800,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Tazar</Player>
     <LostExp>1494673</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32852,31971,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Tazar</Player>
     <LostExp>1440429</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31862,32049,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Tazar</Player>
     <LostExp>1435854</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -58,11 +66,19 @@
     <Location>(32850,31977,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Darkgod</Player>
     <LostExp>270738</LostExp>
     <KilledBy>Treant</KilledBy>
     <Time>2026-01-24 01:34:29</Time>
     <Location>(31993,31909,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Zazakr</Player>
+    <LostExp>68435</LostExp>
+    <KilledBy>Kreppan</KilledBy>
+    <Time>2026-01-24 03:14:20</Time>
+    <Location>(31910,32002,10)</Location>
   </DeathEvent>
 </DeathHighscores>
