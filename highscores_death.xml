@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1769572505195</GeneratedAt>
+  <GeneratedAt>1769573705218</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kittygirl</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Sunrock</Player>
+    <LostExp>86501708</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2026-01-28 05:00:05</Time>
+    <Location>(32184,32254,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Ninjad</Player>
     <LostExp>56617588</LostExp>
     <KilledBy>Chilong</KilledBy>
@@ -42,7 +50,15 @@
     <Location>(32064,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
+    <Player>Eater</Player>
+    <LostExp>29278209</LostExp>
+    <KilledBy>Demon Lord</KilledBy>
+    <Time>2026-01-28 05:10:14</Time>
+    <Location>(31834,31910,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Fiora</Player>
     <LostExp>11040282</LostExp>
     <KilledBy>The Snowling</KilledBy>
@@ -50,11 +66,27 @@
     <Location>(31957,31799,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>9</Rank>
+    <Player>Tazar</Player>
+    <LostExp>9503573</LostExp>
+    <KilledBy>Wisperfire</KilledBy>
+    <Time>2026-01-28 05:10:56</Time>
+    <Location>(31887,31954,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Lanuna</Player>
     <LostExp>7577728</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2026-01-28 03:53:18</Time>
     <Location>(32010,31878,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Namia</Player>
+    <LostExp>858019</LostExp>
+    <KilledBy>Bullwar</KilledBy>
+    <Time>2026-01-28 05:11:21</Time>
+    <Location>(32028,31907,9)</Location>
   </DeathEvent>
 </DeathHighscores>
