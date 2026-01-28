@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1769556905214</GeneratedAt>
+  <GeneratedAt>1769558105223</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kittygirl</Player>
@@ -8,5 +8,21 @@
     <KilledBy>Zato</KilledBy>
     <Time>2026-01-28 00:26:02</Time>
     <Location>(32019,31862,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Gosu</Player>
+    <LostExp>549471689</LostExp>
+    <KilledBy>Hallo</KilledBy>
+    <Time>2026-01-28 00:47:12</Time>
+    <Location>(31976,32255,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Fiora</Player>
+    <LostExp>11040282</LostExp>
+    <KilledBy>The Snowling</KilledBy>
+    <Time>2026-01-28 00:40:18</Time>
+    <Location>(31957,31799,11)</Location>
   </DeathEvent>
 </DeathHighscores>
