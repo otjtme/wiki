@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1769729703537</GeneratedAt>
+  <GeneratedAt>1769730903533</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Dezessete</Player>
+    <LostExp>39062267</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2026-01-30 00:45:30</Time>
+    <Location>(32065,31827,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Tvt</Player>
     <LostExp>2887622</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -10,11 +18,27 @@
     <Location>(31963,32264,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Iratakuto</Player>
     <LostExp>647043</LostExp>
     <KilledBy>Mantis</KilledBy>
     <Time>2026-01-30 00:20:43</Time>
     <Location>(31918,31890,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Bronang</Player>
+    <LostExp>4007</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2026-01-30 00:51:33</Time>
+    <Location>(32008,31882,12)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Bronang</Player>
+    <LostExp>1830</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2026-01-30 00:40:42</Time>
+    <Location>(31996,32051,8)</Location>
   </DeathEvent>
 </DeathHighscores>
