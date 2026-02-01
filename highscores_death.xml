@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1769904906066</GeneratedAt>
+  <GeneratedAt>1769906106075</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gosu</Player>
@@ -19,10 +19,26 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Baroro</Player>
+    <LostExp>6234767</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2026-02-01 01:31:18</Time>
+    <Location>(32045,31798,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Haala</Player>
     <LostExp>2631553</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2026-02-01 00:35:58</Time>
     <Location>(31873,32060,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Maxog</Player>
+    <LostExp>77887</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2026-02-01 01:26:04</Time>
+    <Location>(31878,31909,8)</Location>
   </DeathEvent>
 </DeathHighscores>
