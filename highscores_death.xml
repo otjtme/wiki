@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1770518102578</GeneratedAt>
+  <GeneratedAt>1770519302556</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Castiel</Player>
@@ -48,5 +48,13 @@
     <KilledBy>Tenebris</KilledBy>
     <Time>2026-02-08 02:12:26</Time>
     <Location>(31958,31800,14)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Deadgun</Player>
+    <LostExp>1158263</LostExp>
+    <KilledBy>Bloodbeak</KilledBy>
+    <Time>2026-02-08 02:52:41</Time>
+    <Location>(32821,32034,7)</Location>
   </DeathEvent>
 </DeathHighscores>
