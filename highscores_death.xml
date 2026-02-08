@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1770515702593</GeneratedAt>
+  <GeneratedAt>1770516902587</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Deathnight</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Maxky</Player>
+    <LostExp>32892151</LostExp>
+    <KilledBy>Haruk</KilledBy>
+    <Time>2026-02-08 02:14:49</Time>
+    <Location>(31968,31800,13)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Sad </Player>
     <LostExp>11217762</LostExp>
     <KilledBy>Crustea</KilledBy>
@@ -18,11 +26,19 @@
     <Location>(32838,31990,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Haala</Player>
     <LostExp>10003426</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2026-02-08 00:46:15</Time>
     <Location>(31901,32048,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Lenamax</Player>
+    <LostExp>8739331</LostExp>
+    <KilledBy>Tenebris</KilledBy>
+    <Time>2026-02-08 02:12:26</Time>
+    <Location>(31958,31800,14)</Location>
   </DeathEvent>
 </DeathHighscores>
