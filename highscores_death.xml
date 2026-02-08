@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1770549302557</GeneratedAt>
+  <GeneratedAt>1770550502561</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Castiel</Player>
@@ -472,5 +472,13 @@
     <KilledBy>Blackdrake</KilledBy>
     <Time>2026-02-08 05:01:50</Time>
     <Location>(32248,32366,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>60</Rank>
+    <Player>Gobi</Player>
+    <LostExp>9624</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2026-02-08 11:28:07</Time>
+    <Location>(31996,32044,8)</Location>
   </DeathEvent>
 </DeathHighscores>
