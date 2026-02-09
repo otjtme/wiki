@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1770600904634</GeneratedAt>
+  <GeneratedAt>1770602104628</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Rene</Player>
@@ -32,5 +32,29 @@
     <KilledBy>Scorpion</KilledBy>
     <Time>2026-02-09 00:43:47</Time>
     <Location>(31982,31909,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Bossjp</Player>
+    <LostExp>9599</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2026-02-09 01:45:29</Time>
+    <Location>(32006,31877,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Bossjp</Player>
+    <LostExp>9159</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2026-02-09 01:50:05</Time>
+    <Location>(31994,32044,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Bossjp</Player>
+    <LostExp>9058</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2026-02-09 01:41:12</Time>
+    <Location>(31962,31929,8)</Location>
   </DeathEvent>
 </DeathHighscores>
