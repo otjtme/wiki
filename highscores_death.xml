@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1770597304639</GeneratedAt>
+  <GeneratedAt>1770598504637</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Revengs</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Monk</KilledBy>
     <Time>2026-02-09 00:25:51</Time>
     <Location>(31980,32231,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Cavaleira</Player>
+    <LostExp>15526</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2026-02-09 00:43:47</Time>
+    <Location>(31982,31909,9)</Location>
   </DeathEvent>
 </DeathHighscores>
