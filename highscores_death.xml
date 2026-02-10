@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1770725704129</GeneratedAt>
+  <GeneratedAt>1770726904118</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Darkvader</Player>
@@ -232,5 +232,13 @@
     <KilledBy>The Miner</KilledBy>
     <Time>2026-02-10 10:59:00</Time>
     <Location>(31856,31975,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>30</Rank>
+    <Player>Nlk</Player>
+    <LostExp>35362</LostExp>
+    <KilledBy>Blackdrake</KilledBy>
+    <Time>2026-02-10 12:28:33</Time>
+    <Location>(32248,32364,9)</Location>
   </DeathEvent>
 </DeathHighscores>
