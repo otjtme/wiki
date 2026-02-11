@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1770771882087</GeneratedAt>
+  <GeneratedAt>1770773082111</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gosu</Player>
@@ -40,5 +40,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2026-02-11 00:48:55</Time>
     <Location>(32011,31878,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Hevertoon</Player>
+    <LostExp>561260</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2026-02-11 01:21:34</Time>
+    <Location>(32017,31876,8)</Location>
   </DeathEvent>
 </DeathHighscores>
