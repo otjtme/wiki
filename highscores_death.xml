@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1770781482079</GeneratedAt>
+  <GeneratedAt>1770782682087</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Templarr</Player>
+    <LostExp>2147483647</LostExp>
+    <KilledBy>Hellboys</KilledBy>
+    <Time>2026-02-11 03:46:03</Time>
+    <Location>(32676,31749,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Olocausto</Player>
+    <LostExp>1073741823</LostExp>
+    <KilledBy>Darktar</KilledBy>
+    <Time>2026-02-11 03:57:37</Time>
+    <Location>(32647,31753,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Gosu</Player>
     <LostExp>673560781</LostExp>
     <KilledBy>Khalamel</KilledBy>
@@ -10,7 +26,7 @@
     <Location>(31983,32267,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>4</Rank>
     <Player>Yuta</Player>
     <LostExp>562607893</LostExp>
     <KilledBy>Easybro</KilledBy>
@@ -18,7 +34,15 @@
     <Location>(31936,32201,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
+    <Player>Tvt</Player>
+    <LostExp>27844110</LostExp>
+    <KilledBy>Shellborn</KilledBy>
+    <Time>2026-02-11 03:51:28</Time>
+    <Location>(31846,32106,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Cyborg</Player>
     <LostExp>19643941</LostExp>
     <KilledBy>Leechacle</KilledBy>
@@ -26,7 +50,7 @@
     <Location>(32902,32048,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>7</Rank>
     <Player>Blackoutbr</Player>
     <LostExp>1139650</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -34,7 +58,7 @@
     <Location>(32007,31876,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>8</Rank>
     <Player>Blackoutbr</Player>
     <LostExp>1038148</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -42,7 +66,7 @@
     <Location>(32005,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>9</Rank>
     <Player>Hevertoon</Player>
     <LostExp>674977</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -50,7 +74,7 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>10</Rank>
     <Player>Hevertoon</Player>
     <LostExp>603191</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -58,11 +82,35 @@
     <Location>(32011,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>11</Rank>
     <Player>Hevertoon</Player>
     <LostExp>561260</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2026-02-11 01:21:34</Time>
     <Location>(32017,31876,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
+    <Player>Boladin</Player>
+    <LostExp>176411</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2026-02-11 03:48:36</Time>
+    <Location>(31878,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
+    <Player>Boladin</Player>
+    <LostExp>162042</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2026-02-11 03:56:24</Time>
+    <Location>(31965,31852,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
+    <Player>Boladin</Player>
+    <LostExp>146100</LostExp>
+    <KilledBy>Orc</KilledBy>
+    <Time>2026-02-11 03:59:29</Time>
+    <Location>(31989,31865,8)</Location>
   </DeathEvent>
 </DeathHighscores>
