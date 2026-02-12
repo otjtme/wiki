@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1770866193205</GeneratedAt>
+  <GeneratedAt>1770867393224</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Draegonx</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Sakura</Player>
+    <LostExp>18342142</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2026-02-12 03:18:59</Time>
+    <Location>(32039,31803,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Minzmx</Player>
     <LostExp>5124305</LostExp>
     <KilledBy>Fanatic</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31917,32012,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Pony</Player>
     <LostExp>753384</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32850,31997,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Pony</Player>
     <LostExp>682015</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32852,31999,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Isaura</Player>
     <LostExp>61131</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
@@ -50,11 +58,19 @@
     <Location>(32025,31981,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Isaura</Player>
     <LostExp>27675</LostExp>
     <KilledBy>Rabid Bear</KilledBy>
     <Time>2026-02-12 01:44:11</Time>
     <Location>(32025,31973,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Kaz</Player>
+    <LostExp>3647</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2026-02-12 03:23:46</Time>
+    <Location>(31998,32045,8)</Location>
   </DeathEvent>
 </DeathHighscores>
