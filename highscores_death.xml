@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1770949142123</GeneratedAt>
+  <GeneratedAt>1770950342136</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Eztoymm</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Namfon</Player>
+    <LostExp>1527875</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2026-02-13 02:21:02</Time>
+    <Location>(31892,32050,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Brunoo</Player>
     <LostExp>57201</LostExp>
     <KilledBy>Mantis</KilledBy>
@@ -42,11 +50,19 @@
     <Location>(31909,31976,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Brunoo</Player>
     <LostExp>30102</LostExp>
     <KilledBy>Fanatic</KilledBy>
     <Time>2026-02-13 00:55:44</Time>
     <Location>(31912,32012,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Vicky</Player>
+    <LostExp>13686</LostExp>
+    <KilledBy>Bear</KilledBy>
+    <Time>2026-02-13 02:23:34</Time>
+    <Location>(32027,31977,8)</Location>
   </DeathEvent>
 </DeathHighscores>
