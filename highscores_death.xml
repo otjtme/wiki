@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1771119436130</GeneratedAt>
+  <GeneratedAt>1771120636116</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Assasin</Player>
@@ -32,5 +32,13 @@
     <KilledBy>Demon Lord</KilledBy>
     <Time>2026-02-15 01:23:58</Time>
     <Location>(31853,31893,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Kel</Player>
+    <LostExp>387724</LostExp>
+    <KilledBy>Kreppan</KilledBy>
+    <Time>2026-02-15 01:54:39</Time>
+    <Location>(31905,31938,10)</Location>
   </DeathEvent>
 </DeathHighscores>
