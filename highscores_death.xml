@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1771202106236</GeneratedAt>
+  <GeneratedAt>1771203306228</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Godzila</Player>
@@ -8,5 +8,21 @@
     <KilledBy>Giggles Ghost</KilledBy>
     <Time>2026-02-16 00:25:57</Time>
     <Location>(32249,32171,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Nidabiru</Player>
+    <LostExp>24134971</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2026-02-16 00:51:51</Time>
+    <Location>(31931,32221,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Kaz</Player>
+    <LostExp>45545</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2026-02-16 00:48:13</Time>
+    <Location>(31990,32017,8)</Location>
   </DeathEvent>
 </DeathHighscores>
