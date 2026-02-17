@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1771299305597</GeneratedAt>
+  <GeneratedAt>1771300505600</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Madusa</Player>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Bandarsabu</Player>
+    <LostExp>144126</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2026-02-17 03:52:27</Time>
+    <Location>(32019,31943,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Srsukitag</Player>
     <LostExp>15414</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31982,31904,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Srsukitag</Player>
     <LostExp>12206</LostExp>
     <KilledBy>Berseclops</KilledBy>
@@ -66,20 +74,12 @@
     <Location>(31903,31865,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Srsukitag</Player>
     <LostExp>11536</LostExp>
     <KilledBy>Skeleton</KilledBy>
     <Time>2026-02-17 02:09:01</Time>
     <Location>(31996,32057,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>10</Rank>
-    <Player>Thorgon</Player>
-    <LostExp>5541</LostExp>
-    <KilledBy>Bat</KilledBy>
-    <Time>2026-02-17 02:41:45</Time>
-    <Location>(31955,32065,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
@@ -91,6 +91,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>12</Rank>
+    <Player>Thorgon</Player>
+    <LostExp>5541</LostExp>
+    <KilledBy>Bat</KilledBy>
+    <Time>2026-02-17 02:41:45</Time>
+    <Location>(31955,32065,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
     <Player>Thorgon</Player>
     <LostExp>4912</LostExp>
     <KilledBy>Bat</KilledBy>
