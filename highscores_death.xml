@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1771298105582</GeneratedAt>
+  <GeneratedAt>1771299305597</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Madusa</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Tuan</Player>
+    <LostExp>1394985</LostExp>
+    <KilledBy>Troll</KilledBy>
+    <Time>2026-02-17 03:17:31</Time>
+    <Location>(31905,32022,12)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Bobadara</Player>
     <LostExp>730359</LostExp>
     <KilledBy>The Snowling</KilledBy>
@@ -42,7 +50,15 @@
     <Location>(31955,31804,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
+    <Player>Srsukitag</Player>
+    <LostExp>15414</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2026-02-17 03:27:59</Time>
+    <Location>(31982,31904,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Srsukitag</Player>
     <LostExp>12206</LostExp>
     <KilledBy>Berseclops</KilledBy>
@@ -50,7 +66,7 @@
     <Location>(31903,31865,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>9</Rank>
     <Player>Srsukitag</Player>
     <LostExp>11536</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -58,23 +74,23 @@
     <Location>(31996,32057,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
-    <Player>Thorgon</Player>
-    <LostExp>5541</LostExp>
-    <KilledBy>Bat</KilledBy>
-    <Time>2026-02-17 02:41:45</Time>
-    <Location>(31955,32065,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>9</Rank>
-    <Player>Thorgon</Player>
-    <LostExp>5541</LostExp>
-    <KilledBy>Bat</KilledBy>
-    <Time>2026-02-17 02:41:45</Time>
-    <Location>(31955,32065,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
     <Rank>10</Rank>
+    <Player>Thorgon</Player>
+    <LostExp>5541</LostExp>
+    <KilledBy>Bat</KilledBy>
+    <Time>2026-02-17 02:41:45</Time>
+    <Location>(31955,32065,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Thorgon</Player>
+    <LostExp>5541</LostExp>
+    <KilledBy>Bat</KilledBy>
+    <Time>2026-02-17 02:41:45</Time>
+    <Location>(31955,32065,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Thorgon</Player>
     <LostExp>4912</LostExp>
     <KilledBy>Bat</KilledBy>
