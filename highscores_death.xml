@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1771294505600</GeneratedAt>
+  <GeneratedAt>1771295705601</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mikellz</Player>
@@ -48,5 +48,13 @@
     <KilledBy>Skeleton</KilledBy>
     <Time>2026-02-17 02:09:01</Time>
     <Location>(31996,32057,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Thorgon</Player>
+    <LostExp>4912</LostExp>
+    <KilledBy>Bat</KilledBy>
+    <Time>2026-02-17 02:29:09</Time>
+    <Location>(31955,32065,8)</Location>
   </DeathEvent>
 </DeathHighscores>
