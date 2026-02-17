@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1771331705598</GeneratedAt>
+  <GeneratedAt>1771332905594</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Stolaz</Player>
@@ -251,6 +251,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>32</Rank>
+    <Player>Bonurabe</Player>
+    <LostExp>193621</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2026-02-17 12:36:33</Time>
+    <Location>(31974,31985,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>33</Rank>
     <Player>Bandarsabu</Player>
     <LostExp>144126</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -258,7 +266,7 @@
     <Location>(32019,31943,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>33</Rank>
+    <Rank>34</Rank>
     <Player>Bonurabe</Player>
     <LostExp>101902</LostExp>
     <KilledBy>Goodbye</KilledBy>
@@ -266,7 +274,7 @@
     <Location>(31973,31986,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>34</Rank>
+    <Rank>35</Rank>
     <Player>Adsumus</Player>
     <LostExp>56644</LostExp>
     <KilledBy>Goblin</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(32270,32378,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Srsukitag</Player>
     <LostExp>15414</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31982,31904,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Srsukitag</Player>
     <LostExp>12206</LostExp>
     <KilledBy>Berseclops</KilledBy>
@@ -290,7 +298,7 @@
     <Location>(31903,31865,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Srsukitag</Player>
     <LostExp>11536</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -298,7 +306,7 @@
     <Location>(31996,32057,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>38</Rank>
+    <Rank>39</Rank>
     <Player>Thorgon</Player>
     <LostExp>7590</LostExp>
     <KilledBy>Bat</KilledBy>
@@ -306,20 +314,12 @@
     <Location>(31955,32063,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>39</Rank>
+    <Rank>40</Rank>
     <Player>Thorgon</Player>
     <LostExp>6864</LostExp>
     <KilledBy>Bloodfly</KilledBy>
     <Time>2026-02-17 04:35:26</Time>
     <Location>(31928,31957,10)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>40</Rank>
-    <Player>Thorgon</Player>
-    <LostExp>5541</LostExp>
-    <KilledBy>Bat</KilledBy>
-    <Time>2026-02-17 02:41:45</Time>
-    <Location>(31955,32065,8)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>41</Rank>
@@ -332,9 +332,25 @@
   <DeathEvent>
     <Rank>42</Rank>
     <Player>Thorgon</Player>
+    <LostExp>5541</LostExp>
+    <KilledBy>Bat</KilledBy>
+    <Time>2026-02-17 02:41:45</Time>
+    <Location>(31955,32065,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>43</Rank>
+    <Player>Thorgon</Player>
     <LostExp>4912</LostExp>
     <KilledBy>Bat</KilledBy>
     <Time>2026-02-17 02:29:09</Time>
     <Location>(31955,32065,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>44</Rank>
+    <Player>Heekuytaet</Player>
+    <LostExp>60</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2026-02-17 12:38:18</Time>
+    <Location>(31974,31987,7)</Location>
   </DeathEvent>
 </DeathHighscores>
