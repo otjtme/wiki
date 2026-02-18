@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1771406104798</GeneratedAt>
+  <GeneratedAt>1771407304787</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Castiel</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Fuck</Player>
+    <LostExp>904254840</LostExp>
+    <KilledBy>Rabbit</KilledBy>
+    <Time>2026-02-18 09:15:21</Time>
+    <Location>(31951,31892,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Kwin</Player>
     <LostExp>434478524</LostExp>
     <KilledBy>Fuck</KilledBy>
@@ -42,20 +50,12 @@
     <Location>(32867,31968,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Ios</Player>
     <LostExp>431369467</LostExp>
     <KilledBy>Zoja</KilledBy>
     <Time>2026-02-18 07:08:49</Time>
     <Location>(31999,31865,7)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>7</Rank>
-    <Player>Madusa</Player>
-    <LostExp>72872319</LostExp>
-    <KilledBy>Scorpiant</KilledBy>
-    <Time>2026-02-18 00:20:51</Time>
-    <Location>(31864,32045,9)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
@@ -67,6 +67,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>9</Rank>
+    <Player>Madusa</Player>
+    <LostExp>72872319</LostExp>
+    <KilledBy>Scorpiant</KilledBy>
+    <Time>2026-02-18 00:20:51</Time>
+    <Location>(31864,32045,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
     <Player>Rajasetan</Player>
     <LostExp>54517256</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31983,32266,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Garamchina</Player>
     <LostExp>8707893</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(32041,31800,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Garamchina</Player>
     <LostExp>8445613</LostExp>
     <KilledBy>Orc Master</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32000,31829,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Albertino</Player>
     <LostExp>965244</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(32815,32039,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Sagiri</Player>
     <LostExp>664618</LostExp>
     <KilledBy>Bragnak</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32014,31865,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Sagiri</Player>
     <LostExp>598156</LostExp>
     <KilledBy>Flutt</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(31974,32270,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Bandarsabu</Player>
     <LostExp>361663</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -122,7 +130,7 @@
     <Location>(31887,32052,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Halobro</Player>
     <LostExp>265567</LostExp>
     <KilledBy>Khek</KilledBy>
@@ -130,7 +138,7 @@
     <Location>(31883,31956,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>18</Rank>
     <Player>Halobro</Player>
     <LostExp>239010</LostExp>
     <KilledBy>Khek</KilledBy>
@@ -138,7 +146,7 @@
     <Location>(31884,31956,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>19</Rank>
     <Player>Halobro</Player>
     <LostExp>222852</LostExp>
     <KilledBy>Khek</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31887,31955,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Halobro</Player>
     <LostExp>215109</LostExp>
     <KilledBy>Khek</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31884,31956,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Srsukitag</Player>
     <LostExp>94361</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -162,11 +170,19 @@
     <Location>(31994,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Thorgon</Player>
     <LostExp>60314</LostExp>
     <KilledBy>Bat</KilledBy>
     <Time>2026-02-18 04:04:02</Time>
     <Location>(31955,32064,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
+    <Player>Menr</Player>
+    <LostExp>25850</LostExp>
+    <KilledBy>Bear</KilledBy>
+    <Time>2026-02-18 09:24:10</Time>
+    <Location>(32035,31973,8)</Location>
   </DeathEvent>
 </DeathHighscores>
