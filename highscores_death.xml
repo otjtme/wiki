@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1771386904774</GeneratedAt>
+  <GeneratedAt>1771388104791</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Castiel</Player>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Garamchina</Player>
+    <LostExp>8445613</LostExp>
+    <KilledBy>Orc Master</KilledBy>
+    <Time>2026-02-18 04:04:43</Time>
+    <Location>(32000,31829,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Albertino</Player>
     <LostExp>965244</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -58,11 +66,19 @@
     <Location>(32815,32039,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Bandarsabu</Player>
     <LostExp>361663</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2026-02-18 01:47:22</Time>
     <Location>(31887,32052,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Thorgon</Player>
+    <LostExp>60314</LostExp>
+    <KilledBy>Bat</KilledBy>
+    <Time>2026-02-18 04:04:02</Time>
+    <Location>(31955,32064,8)</Location>
   </DeathEvent>
 </DeathHighscores>
