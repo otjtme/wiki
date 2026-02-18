@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1771382104794</GeneratedAt>
+  <GeneratedAt>1771383304772</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Castiel</Player>
+    <LostExp>2147483647</LostExp>
+    <KilledBy>Vipr</KilledBy>
+    <Time>2026-02-18 02:53:07</Time>
+    <Location>(32673,31811,15)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Boladao</Player>
     <LostExp>1073741823</LostExp>
     <KilledBy>Noobd</KilledBy>
@@ -10,20 +18,12 @@
     <Location>(32655,31710,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Kwin</Player>
     <LostExp>434478524</LostExp>
     <KilledBy>Fuck</KilledBy>
     <Time>2026-02-18 01:47:59</Time>
     <Location>(32867,31968,7)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>3</Rank>
-    <Player>Madusa</Player>
-    <LostExp>72872319</LostExp>
-    <KilledBy>Scorpiant</KilledBy>
-    <Time>2026-02-18 00:20:51</Time>
-    <Location>(31864,32045,9)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Madusa</Player>
+    <LostExp>72872319</LostExp>
+    <KilledBy>Scorpiant</KilledBy>
+    <Time>2026-02-18 00:20:51</Time>
+    <Location>(31864,32045,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Garamchina</Player>
     <LostExp>8707893</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32041,31800,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Albertino</Player>
     <LostExp>965244</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32815,32039,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Bandarsabu</Player>
     <LostExp>361663</LostExp>
     <KilledBy>Werewolf</KilledBy>
