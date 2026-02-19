@@ -24,7 +24,7 @@
 <stats>
 <level>812</level>
 <vocation>wizard</vocation>
-<exppoints>360933694966</exppoints>
+<exppoints>360949876979</exppoints>
 <achievement>320</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -56,7 +56,7 @@
 <stats>
 <level>730</level>
 <vocation>wizard</vocation>
-<exppoints>234764128251</exppoints>
+<exppoints>234768856170</exppoints>
 <achievement>260</achievement>
 <guild>New Age</guild>
 <quota>0</quota>
@@ -169,7 +169,7 @@
 <stats>
 <level>688</level>
 <vocation>warrior</vocation>
-<exppoints>185202772777</exppoints>
+<exppoints>185206461227</exppoints>
 <achievement>250</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -185,7 +185,7 @@
 <stats>
 <level>681</level>
 <vocation>warrior</vocation>
-<exppoints>177914305063</exppoints>
+<exppoints>177916299013</exppoints>
 <achievement>191</achievement>
 <guild>G O D</guild>
 <quota>13</quota>
@@ -252,7 +252,7 @@
 <stats>
 <level>670</level>
 <vocation>warrior</vocation>
-<exppoints>166948494166</exppoints>
+<exppoints>166984230495</exppoints>
 <achievement>330</achievement>
 <guild>G O D</guild>
 <quota>5</quota>
@@ -285,7 +285,7 @@
 <stats>
 <level>668</level>
 <vocation>warrior</vocation>
-<exppoints>165274436674</exppoints>
+<exppoints>165276754004</exppoints>
 <achievement>203</achievement>
 <guild>G O D</guild>
 <quota>54</quota>
@@ -319,7 +319,7 @@
 <stats>
 <level>662</level>
 <vocation>wizard</vocation>
-<exppoints>159237870808</exppoints>
+<exppoints>159243290854</exppoints>
 <achievement>347</achievement>
 <guild>New Age</guild>
 <quota>1</quota>
@@ -335,7 +335,7 @@
 <stats>
 <level>660</level>
 <vocation>warrior</vocation>
-<exppoints>156896486053</exppoints>
+<exppoints>156929701053</exppoints>
 <achievement>142</achievement>
 <guild>G O D</guild>
 <quota>3</quota>
@@ -385,7 +385,7 @@
 <stats>
 <level>639</level>
 <vocation>warrior</vocation>
-<exppoints>137698276548</exppoints>
+<exppoints>137719839232</exppoints>
 <achievement>72</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -415,7 +415,7 @@
 <stats>
 <level>626</level>
 <vocation>wizard</vocation>
-<exppoints>127125936702</exppoints>
+<exppoints>127129389934</exppoints>
 <achievement>249</achievement>
 <guild>New Age</guild>
 <quota>0</quota>
@@ -481,7 +481,7 @@
 <stats>
 <level>609</level>
 <vocation>warrior</vocation>
-<exppoints>113523060430</exppoints>
+<exppoints>113523338680</exppoints>
 <achievement>167</achievement>
 <guild>BUG</guild>
 <quota>17</quota>
@@ -597,7 +597,7 @@
 <stats>
 <level>600</level>
 <vocation>wizard</vocation>
-<exppoints>107489328580</exppoints>
+<exppoints>107495692971</exppoints>
 <achievement>91</achievement>
 <guild>New Age</guild>
 <quota>0</quota>
@@ -629,7 +629,7 @@
 <stats>
 <level>588</level>
 <vocation>warrior</vocation>
-<exppoints>98827891195</exppoints>
+<exppoints>98849270630</exppoints>
 <achievement>65</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -675,7 +675,7 @@
 <stats>
 <level>577</level>
 <vocation>warrior</vocation>
-<exppoints>91579164357</exppoints>
+<exppoints>91580911917</exppoints>
 <achievement>308</achievement>
 <guild>New Age</guild>
 <quota>0</quota>
@@ -691,7 +691,7 @@
 <stats>
 <level>575</level>
 <vocation>wizard</vocation>
-<exppoints>90712523590</exppoints>
+<exppoints>90714222360</exppoints>
 <achievement>0</achievement>
 <guild>New Age</guild>
 <quota>0</quota>
@@ -721,7 +721,7 @@
 <stats>
 <level>575</level>
 <vocation>warrior</vocation>
-<exppoints>90500289218</exppoints>
+<exppoints>90519997464</exppoints>
 <achievement>106</achievement>
 <guild>G O D</guild>
 <quota>1</quota>
@@ -750,9 +750,9 @@
 </character>
 <character name="Allame">
 <stats>
-<level>566</level>
+<level>567</level>
 <vocation>warrior</vocation>
-<exppoints>85216302321</exppoints>
+<exppoints>85264599144</exppoints>
 <achievement>247</achievement>
 <guild>G O D</guild>
 <quota>6</quota>
@@ -785,7 +785,7 @@
 <stats>
 <level>565</level>
 <vocation>warrior</vocation>
-<exppoints>84115634071</exppoints>
+<exppoints>84123065417</exppoints>
 <achievement>212</achievement>
 <guild>G O D</guild>
 <quota>30</quota>
@@ -843,6 +843,21 @@
 <rank type="stars_warrior">12</rank>
 </ranks>
 </character>
+<character name="Hadess">
+<stats>
+<level>558</level>
+<vocation>wizard</vocation>
+<exppoints>80017526552</exppoints>
+<achievement>91</achievement>
+<guild>G O D</guild>
+<quota>0</quota>
+</stats>
+<ranks>
+<rank type="highscore_global">53</rank>
+<rank type="highscore_wizard">12</rank>
+<rank type="stars_wizard">28</rank>
+</ranks>
+</character>
 <character name="Toriko">
 <stats>
 <level>558</level>
@@ -853,26 +868,11 @@
 <quota>4</quota>
 </stats>
 <ranks>
-<rank type="highscore_global">53</rank>
+<rank type="highscore_global">54</rank>
 <rank type="highscore_warrior">42</rank>
 <rank type="stars_global">72</rank>
 <rank type="stars_warrior">57</rank>
 <rank type="pvp">49</rank>
-</ranks>
-</character>
-<character name="Hadess">
-<stats>
-<level>558</level>
-<vocation>wizard</vocation>
-<exppoints>79966370467</exppoints>
-<achievement>91</achievement>
-<guild>G O D</guild>
-<quota>0</quota>
-</stats>
-<ranks>
-<rank type="highscore_global">54</rank>
-<rank type="highscore_wizard">12</rank>
-<rank type="stars_wizard">28</rank>
 </ranks>
 </character>
 <character name="Brosk">
@@ -895,7 +895,7 @@
 <stats>
 <level>547</level>
 <vocation>warrior</vocation>
-<exppoints>73814900571</exppoints>
+<exppoints>73841977489</exppoints>
 <achievement>209</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -927,7 +927,7 @@
 <stats>
 <level>540</level>
 <vocation>warrior</vocation>
-<exppoints>70268024644</exppoints>
+<exppoints>70288948902</exppoints>
 <achievement>126</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -1238,7 +1238,7 @@
 <stats>
 <level>507</level>
 <vocation>warrior</vocation>
-<exppoints>54833328403</exppoints>
+<exppoints>54838488379</exppoints>
 <achievement>231</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -1271,7 +1271,7 @@
 <stats>
 <level>504</level>
 <vocation>warrior</vocation>
-<exppoints>53240563332</exppoints>
+<exppoints>53247411620</exppoints>
 <achievement>71</achievement>
 <guild>G O D</guild>
 <quota>4</quota>
@@ -1391,6 +1391,21 @@
 <rank type="stars_warrior">11</rank>
 </ranks>
 </character>
+<character name="Murderer">
+<stats>
+<level>494</level>
+<vocation>warrior</vocation>
+<exppoints>49405684187</exppoints>
+<achievement>76</achievement>
+<guild>G O D</guild>
+<quota>2</quota>
+</stats>
+<ranks>
+<rank type="highscore_global">88</rank>
+<rank type="highscore_warrior">69</rank>
+<rank type="pvp">86</rank>
+</ranks>
+</character>
 <character name="Vegapunk">
 <stats>
 <level>494</level>
@@ -1401,25 +1416,10 @@
 <quota>0</quota>
 </stats>
 <ranks>
-<rank type="highscore_global">88</rank>
+<rank type="highscore_global">89</rank>
 <rank type="highscore_wizard">20</rank>
 <rank type="stars_global">54</rank>
 <rank type="stars_wizard">13</rank>
-</ranks>
-</character>
-<character name="Murderer">
-<stats>
-<level>494</level>
-<vocation>warrior</vocation>
-<exppoints>49375048737</exppoints>
-<achievement>76</achievement>
-<guild>G O D</guild>
-<quota>2</quota>
-</stats>
-<ranks>
-<rank type="highscore_global">89</rank>
-<rank type="highscore_warrior">69</rank>
-<rank type="pvp">86</rank>
 </ranks>
 </character>
 <character name="Blackpearl">
@@ -1474,7 +1474,7 @@
 <stats>
 <level>490</level>
 <vocation>warrior</vocation>
-<exppoints>47571986725</exppoints>
+<exppoints>47595170457</exppoints>
 <achievement>100</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -1489,7 +1489,7 @@
 <stats>
 <level>485</level>
 <vocation>wizard</vocation>
-<exppoints>45880617807</exppoints>
+<exppoints>45909190002</exppoints>
 <achievement>0</achievement>
 <guild>G O D</guild>
 <quota>1</quota>
@@ -1629,7 +1629,7 @@
 <stats>
 <level>462</level>
 <vocation>wizard</vocation>
-<exppoints>37519216290</exppoints>
+<exppoints>37536959093</exppoints>
 <achievement>253</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -1787,7 +1787,7 @@
 <stats>
 <level>432</level>
 <vocation>warrior</vocation>
-<exppoints>28888833188</exppoints>
+<exppoints>28890092110</exppoints>
 <achievement>68</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1801,7 +1801,7 @@
 <stats>
 <level>431</level>
 <vocation>wizard</vocation>
-<exppoints>28557884552</exppoints>
+<exppoints>28561120867</exppoints>
 <achievement>33</achievement>
 <guild>Boost</guild>
 <quota>0</quota>
@@ -1874,9 +1874,9 @@
 </character>
 <character name="Raiz">
 <stats>
-<level>416</level>
+<level>417</level>
 <vocation>warrior</vocation>
-<exppoints>24811340571</exppoints>
+<exppoints>24839445331</exppoints>
 <achievement>116</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -1891,7 +1891,7 @@
 <stats>
 <level>414</level>
 <vocation>wizard</vocation>
-<exppoints>24240100335</exppoints>
+<exppoints>24244079722</exppoints>
 <achievement>84</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -1906,7 +1906,7 @@
 <stats>
 <level>412</level>
 <vocation>wizard</vocation>
-<exppoints>23701556882</exppoints>
+<exppoints>23717437922</exppoints>
 <achievement>27</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -2043,7 +2043,7 @@
 <stats>
 <level>393</level>
 <vocation>warrior</vocation>
-<exppoints>19701861194</exppoints>
+<exppoints>19714691801</exppoints>
 <achievement>54</achievement>
 <guild>G O D</guild>
 <quota>1</quota>
@@ -2057,7 +2057,7 @@
 <stats>
 <level>391</level>
 <vocation>warrior</vocation>
-<exppoints>19346443780</exppoints>
+<exppoints>19351231049</exppoints>
 <achievement>47</achievement>
 <guild>BUG</guild>
 <quota>2</quota>
@@ -2164,7 +2164,7 @@
 <stats>
 <level>375</level>
 <vocation>wizard</vocation>
-<exppoints>16293394001</exppoints>
+<exppoints>16296286882</exppoints>
 <achievement>169</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -2180,7 +2180,7 @@
 <stats>
 <level>372</level>
 <vocation>warrior</vocation>
-<exppoints>15724441127</exppoints>
+<exppoints>15729249322</exppoints>
 <achievement>98</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -2561,7 +2561,7 @@
 <stats>
 <level>330</level>
 <vocation>warrior</vocation>
-<exppoints>9711956914</exppoints>
+<exppoints>9714676646</exppoints>
 <achievement>115</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -2634,7 +2634,7 @@
 <stats>
 <level>321</level>
 <vocation>warrior</vocation>
-<exppoints>8733310134</exppoints>
+<exppoints>8739106134</exppoints>
 <achievement>113</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -2781,7 +2781,7 @@
 <stats>
 <level>303</level>
 <vocation>warrior</vocation>
-<exppoints>6887698712</exppoints>
+<exppoints>6896933761</exppoints>
 <achievement>42</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -2867,7 +2867,7 @@
 <stats>
 <level>294</level>
 <vocation>warrior</vocation>
-<exppoints>6119187162</exppoints>
+<exppoints>6133616625</exppoints>
 <achievement>62</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -2953,7 +2953,7 @@
 <stats>
 <level>269</level>
 <vocation>wizard</vocation>
-<exppoints>4324843673</exppoints>
+<exppoints>4327198585</exppoints>
 <achievement>248</achievement>
 <guild>MuZen</guild>
 <quota>0</quota>
@@ -2998,7 +2998,7 @@
 <stats>
 <level>258</level>
 <vocation>warrior</vocation>
-<exppoints>3648202232</exppoints>
+<exppoints>3650302232</exppoints>
 <achievement>49</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -3012,7 +3012,7 @@
 <stats>
 <level>257</level>
 <vocation>wizard</vocation>
-<exppoints>3585917041</exppoints>
+<exppoints>3588715638</exppoints>
 <achievement>71</achievement>
 <guild>Boost</guild>
 <quota>0</quota>
@@ -3086,7 +3086,7 @@
 <stats>
 <level>247</level>
 <vocation>warrior</vocation>
-<exppoints>3030088615</exppoints>
+<exppoints>3030695883</exppoints>
 <achievement>12</achievement>
 <guild>W O R L D</guild>
 <quota>0</quota>
@@ -3217,7 +3217,7 @@
 <stats>
 <level>211</level>
 <vocation>warrior</vocation>
-<exppoints>1622137466</exppoints>
+<exppoints>1628617964</exppoints>
 <achievement>62</achievement>
 <guild>Samurais</guild>
 <quota>0</quota>
@@ -3231,7 +3231,7 @@
 <stats>
 <level>207</level>
 <vocation>warrior</vocation>
-<exppoints>1493753942</exppoints>
+<exppoints>1495328942</exppoints>
 <achievement>56</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -3462,9 +3462,9 @@
 </character>
 <character name="Caiim">
 <stats>
-<level>175</level>
+<level>176</level>
 <vocation>wizard</vocation>
-<exppoints>770928745</exppoints>
+<exppoints>777201955</exppoints>
 <achievement>27</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -3538,7 +3538,7 @@
 <stats>
 <level>131</level>
 <vocation>wizard</vocation>
-<exppoints>239328471</exppoints>
+<exppoints>241133097</exppoints>
 <achievement>17</achievement>
 <guild>Boost</guild>
 <quota>0</quota>
@@ -3578,34 +3578,34 @@
 <rank type="highscore_warrior">163</rank>
 </ranks>
 </character>
-<character name="Garamchina">
-<stats>
-<level>122</level>
-<vocation>wizard</vocation>
-<exppoints>176868948</exppoints>
-<achievement>11</achievement>
-<guild>Boost</guild>
-<quota>0</quota>
-</stats>
-<ranks>
-<rank type="highscore_global">234</rank>
-<rank type="highscore_wizard">71</rank>
-<rank type="stars_wizard">68</rank>
-</ranks>
-</character>
 <character name="Katchopp">
 <stats>
-<level>120</level>
+<level>125</level>
 <vocation>wizard</vocation>
-<exppoints>166553773</exppoints>
+<exppoints>195817523</exppoints>
 <achievement>61</achievement>
 <guild>Samurais</guild>
 <quota>0</quota>
 </stats>
 <ranks>
+<rank type="highscore_global">234</rank>
+<rank type="highscore_wizard">71</rank>
+<rank type="stars_wizard">41</rank>
+</ranks>
+</character>
+<character name="Garamchina">
+<stats>
+<level>122</level>
+<vocation>wizard</vocation>
+<exppoints>177512644</exppoints>
+<achievement>11</achievement>
+<guild>Boost</guild>
+<quota>0</quota>
+</stats>
+<ranks>
 <rank type="highscore_global">235</rank>
 <rank type="highscore_wizard">72</rank>
-<rank type="stars_wizard">41</rank>
+<rank type="stars_wizard">68</rank>
 </ranks>
 </character>
 <character name="Nurodo">
@@ -3640,9 +3640,9 @@
 </character>
 <character name="Babayagaa">
 <stats>
-<level>115</level>
+<level>116</level>
 <vocation>warrior</vocation>
-<exppoints>141594800</exppoints>
+<exppoints>144548894</exppoints>
 <achievement>37</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -3785,66 +3785,66 @@
 </characters>
 <guilds>
 <guild name="G O D"><exppoints>120000000</exppoints><gold>55608651</gold><platinum>28961</platinum><leader>Nobody</leader><rank type="guild">1</rank></guild>
-<guild name="New Age"><exppoints>58126446</exppoints><gold>330101</gold><platinum>88474</platinum><leader>Elizabeht</leader><rank type="guild">2</rank></guild>
-<guild name="BUG"><exppoints>45024405</exppoints><gold>20247</gold><platinum>27000</platinum><leader>Starboard</leader><rank type="guild">3</rank></guild>
-<guild name="LIBERTYW1"><exppoints>36665225</exppoints><gold>26102</gold><platinum>20</platinum><leader>Ivibueno</leader><rank type="guild">4</rank></guild>
-<guild name="Boost"><exppoints>34296461</exppoints><gold>1710000</gold><platinum>3532</platinum><leader>Lexus</leader><rank type="guild">5</rank></guild>
-<guild name="Samurais"><exppoints>20851825</exppoints><gold>600</gold><platinum>0</platinum><leader>Zaikonotic</leader><rank type="guild">6</rank></guild>
-<guild name="Renegados"><exppoints>18205481</exppoints><gold>170003</gold><platinum>0</platinum><leader>Garp</leader><rank type="guild">7</rank></guild>
-<guild name="Pan Ja Kui"><exppoints>6523042</exppoints><gold>0</gold><platinum>1</platinum><leader>Cagat</leader><rank type="guild">8</rank></guild>
-<guild name="COPEN"><exppoints>5059975</exppoints><gold>11</gold><platinum>0</platinum><leader>Anfasa</leader><rank type="guild">9</rank></guild>
-<guild name="2 ni 1"><exppoints>2817815</exppoints><gold>0</gold><platinum>0</platinum><leader>Superman</leader><rank type="guild">10</rank></guild>
-<guild name="Gato gago"><exppoints>2451621</exppoints><gold>40165</gold><platinum>70</platinum><leader>Yumiko</leader><rank type="guild">11</rank></guild>
-<guild name="JN GREEN"><exppoints>2288021</exppoints><gold>0</gold><platinum>0</platinum><leader>Souleater</leader><rank type="guild">12</rank></guild>
-<guild name="Homemy"><exppoints>2007005</exppoints><gold>0</gold><platinum>0</platinum><leader>Stolaz</leader><rank type="guild">13</rank></guild>
+<guild name="New Age"><exppoints>59034479</exppoints><gold>330101</gold><platinum>88474</platinum><leader>Elizabeht</leader><rank type="guild">2</rank></guild>
+<guild name="BUG"><exppoints>48708191</exppoints><gold>20247</gold><platinum>27000</platinum><leader>Starboard</leader><rank type="guild">3</rank></guild>
+<guild name="LIBERTYW1"><exppoints>37318241</exppoints><gold>26102</gold><platinum>20</platinum><leader>Ivibueno</leader><rank type="guild">4</rank></guild>
+<guild name="Boost"><exppoints>36407276</exppoints><gold>1710000</gold><platinum>3532</platinum><leader>Lexus</leader><rank type="guild">5</rank></guild>
+<guild name="Samurais"><exppoints>21332268</exppoints><gold>600</gold><platinum>0</platinum><leader>Zaikonotic</leader><rank type="guild">6</rank></guild>
+<guild name="Renegados"><exppoints>19603484</exppoints><gold>170003</gold><platinum>0</platinum><leader>Garp</leader><rank type="guild">7</rank></guild>
+<guild name="Pan Ja Kui"><exppoints>6833642</exppoints><gold>0</gold><platinum>1</platinum><leader>Cagat</leader><rank type="guild">8</rank></guild>
+<guild name="COPEN"><exppoints>5925475</exppoints><gold>11</gold><platinum>0</platinum><leader>Anfasa</leader><rank type="guild">9</rank></guild>
+<guild name="2 ni 1"><exppoints>3442480</exppoints><gold>0</gold><platinum>0</platinum><leader>Superman</leader><rank type="guild">10</rank></guild>
+<guild name="Gato gago"><exppoints>2613116</exppoints><gold>40165</gold><platinum>70</platinum><leader>Yumiko</leader><rank type="guild">11</rank></guild>
+<guild name="JN GREEN"><exppoints>2458572</exppoints><gold>0</gold><platinum>0</platinum><leader>Souleater</leader><rank type="guild">12</rank></guild>
+<guild name="Homemy"><exppoints>2080505</exppoints><gold>0</gold><platinum>0</platinum><leader>Stolaz</leader><rank type="guild">13</rank></guild>
 <guild name="E X P"><exppoints>1830284</exppoints><gold>5000</gold><platinum>0</platinum><leader>Evilkaze</leader><rank type="guild">14</rank></guild>
-<guild name="MuZen"><exppoints>1304633</exppoints><gold>0</gold><platinum>0</platinum><leader>Karimpai</leader><rank type="guild">15</rank></guild>
-<guild name="DomK"><exppoints>1258769</exppoints><gold>0</gold><platinum>0</platinum><leader>Dragothar</leader><rank type="guild">16</rank></guild>
-<guild name="All king"><exppoints>1183104</exppoints><gold>700</gold><platinum>0</platinum><leader>Bee</leader><rank type="guild">17</rank></guild>
-<guild name="Noob"><exppoints>1158000</exppoints><gold>4</gold><platinum>1</platinum><leader>Ryee</leader><rank type="guild">18</rank></guild>
+<guild name="MuZen"><exppoints>1553234</exppoints><gold>0</gold><platinum>0</platinum><leader>Karimpai</leader><rank type="guild">15</rank></guild>
+<guild name="Noob"><exppoints>1305500</exppoints><gold>4</gold><platinum>1</platinum><leader>Ryee</leader><rank type="guild">16</rank></guild>
+<guild name="DomK"><exppoints>1258769</exppoints><gold>0</gold><platinum>0</platinum><leader>Dragothar</leader><rank type="guild">17</rank></guild>
+<guild name="All king"><exppoints>1183104</exppoints><gold>700</gold><platinum>0</platinum><leader>Bee</leader><rank type="guild">18</rank></guild>
 <guild name="KAPLA"><exppoints>1117500</exppoints><gold>300</gold><platinum>0</platinum><leader>Karen</leader><rank type="guild">19</rank></guild>
-<guild name="HEAVENT"><exppoints>1001470</exppoints><gold>0</gold><platinum>0</platinum><leader>Faker</leader><rank type="guild">20</rank></guild>
-<guild name="Axilados"><exppoints>791160</exppoints><gold>0</gold><platinum>0</platinum><leader>Pixote</leader><rank type="guild">21</rank></guild>
-<guild name="I"><exppoints>750500</exppoints><gold>50000</gold><platinum>20</platinum><leader>Xll</leader><rank type="guild">22</rank></guild>
-<guild name="HYPER SOLO"><exppoints>729724</exppoints><gold>0</gold><platinum>0</platinum><leader>Hyperr</leader><rank type="guild">23</rank></guild>
-<guild name="Revengers"><exppoints>582500</exppoints><gold>0</gold><platinum>0</platinum><leader>Seis</leader><rank type="guild">24</rank></guild>
-<guild name="W O R L D"><exppoints>531145</exppoints><gold>740</gold><platinum>0</platinum><leader>Hafiz</leader><rank type="guild">25</rank></guild>
-<guild name="BRASIL UP"><exppoints>514500</exppoints><gold>0</gold><platinum>0</platinum><leader>Zeboostin</leader><rank type="guild">26</rank></guild>
-<guild name="KHON LOR"><exppoints>484636</exppoints><gold>1000</gold><platinum>0</platinum><leader>Khimdkl</leader><rank type="guild">27</rank></guild>
-<guild name="TheBaow"><exppoints>455114</exppoints><gold>0</gold><platinum>0</platinum><leader>Lanin</leader><rank type="guild">28</rank></guild>
-<guild name="Legends"><exppoints>445500</exppoints><gold>556</gold><platinum>0</platinum><leader>Holy</leader><rank type="guild">29</rank></guild>
-<guild name="AFK"><exppoints>442733</exppoints><gold>0</gold><platinum>0</platinum><leader>Iion</leader><rank type="guild">30</rank></guild>
-<guild name="G O Dx"><exppoints>422500</exppoints><gold>933303</gold><platinum>4491</platinum><leader>Godx</leader><rank type="guild">31</rank></guild>
+<guild name="HEAVENT"><exppoints>1088970</exppoints><gold>0</gold><platinum>0</platinum><leader>Faker</leader><rank type="guild">20</rank></guild>
+<guild name="Axilados"><exppoints>962188</exppoints><gold>0</gold><platinum>0</platinum><leader>Pixote</leader><rank type="guild">21</rank></guild>
+<guild name="BRASIL UP"><exppoints>798000</exppoints><gold>0</gold><platinum>0</platinum><leader>Zeboostin</leader><rank type="guild">22</rank></guild>
+<guild name="I"><exppoints>750500</exppoints><gold>50000</gold><platinum>20</platinum><leader>Xll</leader><rank type="guild">23</rank></guild>
+<guild name="HYPER SOLO"><exppoints>735224</exppoints><gold>0</gold><platinum>0</platinum><leader>Hyperr</leader><rank type="guild">24</rank></guild>
+<guild name="TheBaow"><exppoints>613938</exppoints><gold>0</gold><platinum>0</platinum><leader>Lanin</leader><rank type="guild">25</rank></guild>
+<guild name="Revengers"><exppoints>582500</exppoints><gold>0</gold><platinum>0</platinum><leader>Seis</leader><rank type="guild">26</rank></guild>
+<guild name="KHON LOR"><exppoints>576882</exppoints><gold>1000</gold><platinum>0</platinum><leader>Khimdkl</leader><rank type="guild">27</rank></guild>
+<guild name="W O R L D"><exppoints>552145</exppoints><gold>740</gold><platinum>0</platinum><leader>Hafiz</leader><rank type="guild">28</rank></guild>
+<guild name="G O Dx"><exppoints>545000</exppoints><gold>933303</gold><platinum>4491</platinum><leader>Godx</leader><rank type="guild">29</rank></guild>
+<guild name="Legends"><exppoints>498000</exppoints><gold>556</gold><platinum>0</platinum><leader>Holy</leader><rank type="guild">30</rank></guild>
+<guild name="AFK"><exppoints>442733</exppoints><gold>0</gold><platinum>0</platinum><leader>Iion</leader><rank type="guild">31</rank></guild>
 <guild name="Akatsukki"><exppoints>386784</exppoints><gold>0</gold><platinum>0</platinum><leader>Soft</leader><rank type="guild">32</rank></guild>
-<guild name="ANL"><exppoints>374431</exppoints><gold>12000</gold><platinum>10</platinum><leader>Atels</leader><rank type="guild">33</rank></guild>
-<guild name="YOUR NAME"><exppoints>277500</exppoints><gold>0</gold><platinum>0</platinum><leader>Aizen</leader><rank type="guild">34</rank></guild>
-<guild name="P A K Y U"><exppoints>267000</exppoints><gold>0</gold><platinum>0</platinum><leader>Bacok</leader><rank type="guild">35</rank></guild>
-<guild name="DAY ONE 1"><exppoints>261056</exppoints><gold>2001</gold><platinum>0</platinum><leader>Haru</leader><rank type="guild">36</rank></guild>
-<guild name="SpyXfamily"><exppoints>259000</exppoints><gold>0</gold><platinum>0</platinum><leader>Loid</leader><rank type="guild">37</rank></guild>
-<guild name="4 PALYER"><exppoints>227128</exppoints><gold>0</gold><platinum>50</platinum><leader>Mrthienjrr</leader><rank type="guild">38</rank></guild>
-<guild name="FURY"><exppoints>220773</exppoints><gold>0</gold><platinum>5</platinum><leader>Hazael</leader><rank type="guild">39</rank></guild>
-<guild name="Jual plat"><exppoints>212000</exppoints><gold>0</gold><platinum>50</platinum><leader>Pemerintah</leader><rank type="guild">40</rank></guild>
-<guild name="LOVE RGEN"><exppoints>202000</exppoints><gold>14095</gold><platinum>8</platinum><leader>Monica</leader><rank type="guild">41</rank></guild>
-<guild name="ANL boosts"><exppoints>186500</exppoints><gold>101</gold><platinum>5</platinum><leader>Mrb</leader><rank type="guild">42</rank></guild>
-<guild name="BLACKLIST"><exppoints>180000</exppoints><gold>0</gold><platinum>0</platinum><leader>Blackskull</leader><rank type="guild">43</rank></guild>
-<guild name="MOB"><exppoints>163500</exppoints><gold>0</gold><platinum>215</platinum><leader>Vhalka</leader><rank type="guild">44</rank></guild>
-<guild name="Freedom"><exppoints>158000</exppoints><gold>2001</gold><platinum>20</platinum><leader>Dolaa</leader><rank type="guild">45</rank></guild>
-<guild name="Nolira"><exppoints>140000</exppoints><gold>0</gold><platinum>0</platinum><leader>Isak</leader><rank type="guild">46</rank></guild>
-<guild name="G O KING"><exppoints>137440</exppoints><gold>0</gold><platinum>0</platinum><leader>Kinggm</leader><rank type="guild">47</rank></guild>
-<guild name="G O O M"><exppoints>133500</exppoints><gold>0</gold><platinum>0</platinum><leader>Kanar</leader><rank type="guild">48</rank></guild>
-<guild name="R"><exppoints>119000</exppoints><gold>0</gold><platinum>0</platinum><leader>Gudangg</leader><rank type="guild">49</rank></guild>
-<guild name="Quintessa"><exppoints>98000</exppoints><gold>0</gold><platinum>0</platinum><leader>Binibo</leader><rank type="guild">50</rank></guild>
-<guild name="MUAY THAI"><exppoints>78547</exppoints><gold>11000</gold><platinum>0</platinum><leader>Mgsorwa</leader><rank type="guild">51</rank></guild>
-<guild name="9St4r"><exppoints>70000</exppoints><gold>0</gold><platinum>0</platinum><leader>Sanji</leader><rank type="guild">52</rank></guild>
-<guild name="Kokkok"><exppoints>63000</exppoints><gold>0</gold><platinum>0</platinum><leader>Redmegic</leader><rank type="guild">53</rank></guild>
-<guild name="Again"><exppoints>49000</exppoints><gold>0</gold><platinum>0</platinum><leader>Rider</leader><rank type="guild">54</rank></guild>
-<guild name="Gladiatur"><exppoints>49000</exppoints><gold>0</gold><platinum>0</platinum><leader>Liontin</leader><rank type="guild">55</rank></guild>
-<guild name="F R E E"><exppoints>48570</exppoints><gold>0</gold><platinum>0</platinum><leader>Proforyou</leader><rank type="guild">56</rank></guild>
-<guild name="Peler pata"><exppoints>36000</exppoints><gold>0</gold><platinum>0</platinum><leader>Stokplat</leader><rank type="guild">57</rank></guild>
-<guild name="Clan"><exppoints>32770</exppoints><gold>0</gold><platinum>0</platinum><leader>Nlk</leader><rank type="guild">58</rank></guild>
+<guild name="ANL"><exppoints>374962</exppoints><gold>12000</gold><platinum>10</platinum><leader>Atels</leader><rank type="guild">33</rank></guild>
+<guild name="Jual plat"><exppoints>359500</exppoints><gold>0</gold><platinum>50</platinum><leader>Pemerintah</leader><rank type="guild">34</rank></guild>
+<guild name="Freedom"><exppoints>354000</exppoints><gold>2001</gold><platinum>20</platinum><leader>Dolaa</leader><rank type="guild">35</rank></guild>
+<guild name="YOUR NAME"><exppoints>343000</exppoints><gold>0</gold><platinum>0</platinum><leader>Aizen</leader><rank type="guild">36</rank></guild>
+<guild name="FURY"><exppoints>315273</exppoints><gold>0</gold><platinum>5</platinum><leader>Hazael</leader><rank type="guild">37</rank></guild>
+<guild name="DAY ONE 1"><exppoints>275556</exppoints><gold>2001</gold><platinum>0</platinum><leader>Haru</leader><rank type="guild">38</rank></guild>
+<guild name="P A K Y U"><exppoints>267000</exppoints><gold>0</gold><platinum>0</platinum><leader>Bacok</leader><rank type="guild">39</rank></guild>
+<guild name="SpyXfamily"><exppoints>259000</exppoints><gold>0</gold><platinum>0</platinum><leader>Loid</leader><rank type="guild">40</rank></guild>
+<guild name="4 PALYER"><exppoints>248128</exppoints><gold>0</gold><platinum>50</platinum><leader>Mrthienjrr</leader><rank type="guild">41</rank></guild>
+<guild name="Quintessa"><exppoints>244500</exppoints><gold>0</gold><platinum>0</platinum><leader>Binibo</leader><rank type="guild">42</rank></guild>
+<guild name="ANL boosts"><exppoints>218000</exppoints><gold>101</gold><platinum>5</platinum><leader>Mrb</leader><rank type="guild">43</rank></guild>
+<guild name="LOVE RGEN"><exppoints>214000</exppoints><gold>14095</gold><platinum>8</platinum><leader>Monica</leader><rank type="guild">44</rank></guild>
+<guild name="MOB"><exppoints>205500</exppoints><gold>0</gold><platinum>215</platinum><leader>Vhalka</leader><rank type="guild">45</rank></guild>
+<guild name="BLACKLIST"><exppoints>180000</exppoints><gold>0</gold><platinum>0</platinum><leader>Blackskull</leader><rank type="guild">46</rank></guild>
+<guild name="Nolira"><exppoints>140000</exppoints><gold>0</gold><platinum>0</platinum><leader>Isak</leader><rank type="guild">47</rank></guild>
+<guild name="G O KING"><exppoints>137440</exppoints><gold>0</gold><platinum>0</platinum><leader>Kinggm</leader><rank type="guild">48</rank></guild>
+<guild name="G O O M"><exppoints>133500</exppoints><gold>0</gold><platinum>0</platinum><leader>Kanar</leader><rank type="guild">49</rank></guild>
+<guild name="R"><exppoints>130000</exppoints><gold>0</gold><platinum>0</platinum><leader>Gudangg</leader><rank type="guild">50</rank></guild>
+<guild name="MUAY THAI"><exppoints>127547</exppoints><gold>11000</gold><platinum>0</platinum><leader>Mgsorwa</leader><rank type="guild">51</rank></guild>
+<guild name="Clan"><exppoints>114270</exppoints><gold>0</gold><platinum>0</platinum><leader>Nlk</leader><rank type="guild">52</rank></guild>
+<guild name="9St4r"><exppoints>70000</exppoints><gold>0</gold><platinum>0</platinum><leader>Sanji</leader><rank type="guild">53</rank></guild>
+<guild name="Kokkok"><exppoints>63000</exppoints><gold>0</gold><platinum>0</platinum><leader>Redmegic</leader><rank type="guild">54</rank></guild>
+<guild name="Again"><exppoints>49000</exppoints><gold>0</gold><platinum>0</platinum><leader>Rider</leader><rank type="guild">55</rank></guild>
+<guild name="Gladiatur"><exppoints>49000</exppoints><gold>0</gold><platinum>0</platinum><leader>Liontin</leader><rank type="guild">56</rank></guild>
+<guild name="MASKUA"><exppoints>42000</exppoints><gold>0</gold><platinum>0</platinum><leader>Duzza</leader><rank type="guild">57</rank></guild>
+<guild name="Peler pata"><exppoints>36000</exppoints><gold>0</gold><platinum>0</platinum><leader>Stokplat</leader><rank type="guild">58</rank></guild>
 <guild name="Os Insanos"><exppoints>31500</exppoints><gold>0</gold><platinum>0</platinum><leader>Crazywiz</leader><rank type="guild">59</rank></guild>
 <guild name="Haxyu"><exppoints>26500</exppoints><gold>0</gold><platinum>0</platinum><leader>Thetigers</leader><rank type="guild">60</rank></guild>
-<guild name="KINGFIGHT"><exppoints>22500</exppoints><gold>0</gold><platinum>0</platinum><leader>Intruder</leader><rank type="guild">61</rank></guild>
+<guild name="PADUKA"><exppoints>25500</exppoints><gold>0</gold><platinum>0</platinum><leader>Sweetboba</leader><rank type="guild">61</rank></guild>
 <guild name="New Axe"><exppoints>21000</exppoints><gold>0</gold><platinum>0</platinum><leader>Birudide</leader><rank type="guild">62</rank></guild>
 <guild name="Veteran"><exppoints>21000</exppoints><gold>0</gold><platinum>0</platinum><leader>Insinyur</leader><rank type="guild">63</rank></guild>
 <guild name="LOST SOUL"><exppoints>18000</exppoints><gold>0</gold><platinum>0</platinum><leader>Fullwiz</leader><rank type="guild">64</rank></guild>
@@ -3855,7 +3855,7 @@
 <guild name="XLR Win"><exppoints>7500</exppoints><gold>1</gold><platinum>0</platinum><leader>Noop</leader><rank type="guild">69</rank></guild>
 <guild name="El Savador"><exppoints>6500</exppoints><gold>10000</gold><platinum>0</platinum><leader>Ses</leader><rank type="guild">70</rank></guild>
 <guild name="Chico Pret"><exppoints>5500</exppoints><gold>0</gold><platinum>0</platinum><leader>Darkron</leader><rank type="guild">71</rank></guild>
-<guild name="PADUKA"><exppoints>4500</exppoints><gold>0</gold><platinum>0</platinum><leader>Sweetboba</leader><rank type="guild">72</rank></guild>
+<guild name="TREE MAPLE"><exppoints>5500</exppoints><gold>0</gold><platinum>225</platinum><leader>Eunha</leader><rank type="guild">72</rank></guild>
 <guild name="Mein"><exppoints>4300</exppoints><gold>0</gold><platinum>0</platinum><leader>Una</leader><rank type="guild">73</rank></guild>
 <guild name="ANCESTRAIS"><exppoints>2783</exppoints><gold>0</gold><platinum>0</platinum><leader>Junior</leader><rank type="guild">74</rank></guild>
 <guild name="BloodOath"><exppoints>500</exppoints><gold>0</gold><platinum>0</platinum><leader>Thorgon</leader><rank type="guild">75</rank></guild>
@@ -3917,41 +3917,38 @@
 <guild name="LEVELLING"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Axionshure</leader><rank type="guild">131</rank></guild>
 <guild name="Liberdade"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Crek</leader><rank type="guild">132</rank></guild>
 <guild name="Makers"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Magicol</leader><rank type="guild">133</rank></guild>
-<guild name="MASKUA"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Duzza</leader><rank type="guild">134</rank></guild>
-<guild name="Memekmanan"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Mananpuki</leader><rank type="guild">135</rank></guild>
-<guild name="Naga hitam"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Tot</leader><rank type="guild">136</rank></guild>
-<guild name="NEK ESPORT"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Ruli</leader><rank type="guild">137</rank></guild>
-<guild name="New ega"><exppoints>0</exppoints><gold>0</gold><platinum>25</platinum><leader>Dimensi</leader><rank type="guild">138</rank></guild>
-<guild name="New Gea"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Catharsis</leader><rank type="guild">139</rank></guild>
-<guild name="NewBie"><exppoints>0</exppoints><gold>0</gold><platinum>70</platinum><leader>Riel</leader><rank type="guild">140</rank></guild>
-<guild name="O P E T"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Cipaikhung</leader><rank type="guild">141</rank></guild>
-<guild name="Of Unisol"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Abgikan</leader><rank type="guild">142</rank></guild>
-<guild name="OS BR"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Vigarista</leader><rank type="guild">143</rank></guild>
-<guild name="Osmalucos"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Luizin</leader><rank type="guild">144</rank></guild>
-<guild name="Over Kill"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Xdxdxdx</leader><rank type="guild">145</rank></guild>
-<guild name="Phoenix"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Rafe</leader><rank type="guild">146</rank></guild>
-<guild name="Private"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Dogs</leader><rank type="guild">147</rank></guild>
-<guild name="R I L"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Ucuninja</leader><rank type="guild">148</rank></guild>
-<guild name="R I P"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Xelno</leader><rank type="guild">149</rank></guild>
-<guild name="Revolution"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Shofia</leader><rank type="guild">150</rank></guild>
-<guild name="S O L A N"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Anabel</leader><rank type="guild">151</rank></guild>
-<guild name="SEXY GMING"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Resniex</leader><rank type="guild">152</rank></guild>
-<guild name="SOLO ARMY"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Iorshine</leader><rank type="guild">153</rank></guild>
-<guild name="SoloBeta"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Naru</leader><rank type="guild">154</rank></guild>
-<guild name="Sozinho"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Val</leader><rank type="guild">155</rank></guild>
-<guild name="Spartan"><exppoints>0</exppoints><gold>2000</gold><platinum>0</platinum><leader>Kifos</leader><rank type="guild">156</rank></guild>
-<guild name="T R Y"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Sp</leader><rank type="guild">157</rank></guild>
-<guild name="Taiko w28"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Lordlookk</leader><rank type="guild">158</rank></guild>
-<guild name="The Devils"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Hellcurse</leader><rank type="guild">159</rank></guild>
-<guild name="TREE MAPLE"><exppoints>0</exppoints><gold>0</gold><platinum>225</platinum><leader>Eunha</leader><rank type="guild">160</rank></guild>
-<guild name="TRIAD"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Triad</leader><rank type="guild">161</rank></guild>
-<guild name="WhiteDevil"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Takiyo</leader><rank type="guild">162</rank></guild>
-<guild name="X"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Xy</leader><rank type="guild">163</rank></guild>
-<guild name="Xanthium"><exppoints>0</exppoints><gold>0</gold><platinum>500</platinum><leader>Nacka</leader><rank type="guild">164</rank></guild>
-<guild name="Y E T"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Noru</leader><rank type="guild">165</rank></guild>
-<guild name="YAKUZA"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Mcn</leader><rank type="guild">166</rank></guild>
-<guild name="Zecazz"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Zecaurubu</leader><rank type="guild">167</rank></guild>
-<guild name="ZeroFrames"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Escanor</leader><rank type="guild">168</rank></guild>
+<guild name="Memekmanan"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Mananpuki</leader><rank type="guild">134</rank></guild>
+<guild name="Naga hitam"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Tot</leader><rank type="guild">135</rank></guild>
+<guild name="NEK ESPORT"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Ruli</leader><rank type="guild">136</rank></guild>
+<guild name="New ega"><exppoints>0</exppoints><gold>0</gold><platinum>25</platinum><leader>Dimensi</leader><rank type="guild">137</rank></guild>
+<guild name="NewBie"><exppoints>0</exppoints><gold>0</gold><platinum>70</platinum><leader>Riel</leader><rank type="guild">138</rank></guild>
+<guild name="O P E T"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Cipaikhung</leader><rank type="guild">139</rank></guild>
+<guild name="Of Unisol"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Abgikan</leader><rank type="guild">140</rank></guild>
+<guild name="OS BR"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Vigarista</leader><rank type="guild">141</rank></guild>
+<guild name="Osmalucos"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Luizin</leader><rank type="guild">142</rank></guild>
+<guild name="Over Kill"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Xdxdxdx</leader><rank type="guild">143</rank></guild>
+<guild name="Phoenix"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Rafe</leader><rank type="guild">144</rank></guild>
+<guild name="Private"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Dogs</leader><rank type="guild">145</rank></guild>
+<guild name="R I L"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Ucuninja</leader><rank type="guild">146</rank></guild>
+<guild name="R I P"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Xelno</leader><rank type="guild">147</rank></guild>
+<guild name="Revolution"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Shofia</leader><rank type="guild">148</rank></guild>
+<guild name="S O L A N"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Anabel</leader><rank type="guild">149</rank></guild>
+<guild name="SEXY GMING"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Resniex</leader><rank type="guild">150</rank></guild>
+<guild name="SOLO ARMY"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Iorshine</leader><rank type="guild">151</rank></guild>
+<guild name="SoloBeta"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Naru</leader><rank type="guild">152</rank></guild>
+<guild name="Sozinho"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Val</leader><rank type="guild">153</rank></guild>
+<guild name="Spartan"><exppoints>0</exppoints><gold>2000</gold><platinum>0</platinum><leader>Kifos</leader><rank type="guild">154</rank></guild>
+<guild name="T R Y"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Sp</leader><rank type="guild">155</rank></guild>
+<guild name="Taiko w28"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Lordlookk</leader><rank type="guild">156</rank></guild>
+<guild name="The Devils"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Hellcurse</leader><rank type="guild">157</rank></guild>
+<guild name="TRIAD"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Triad</leader><rank type="guild">158</rank></guild>
+<guild name="WhiteDevil"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Takiyo</leader><rank type="guild">159</rank></guild>
+<guild name="X"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Xy</leader><rank type="guild">160</rank></guild>
+<guild name="Xanthium"><exppoints>0</exppoints><gold>0</gold><platinum>500</platinum><leader>Nacka</leader><rank type="guild">161</rank></guild>
+<guild name="Y E T"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Noru</leader><rank type="guild">162</rank></guild>
+<guild name="YAKUZA"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Mcn</leader><rank type="guild">163</rank></guild>
+<guild name="Zecazz"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Zecaurubu</leader><rank type="guild">164</rank></guild>
+<guild name="ZeroFrames"><exppoints>0</exppoints><gold>0</gold><platinum>0</platinum><leader>Escanor</leader><rank type="guild">165</rank></guild>
 </guilds>
 </world>
 </scores>
