@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1771580104278</GeneratedAt>
+  <GeneratedAt>1771581304300</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kingsmagal</Player>
@@ -312,5 +312,13 @@
     <KilledBy>Cultist</KilledBy>
     <Time>2026-02-20 00:16:28</Time>
     <Location>(32017,31856,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>40</Rank>
+    <Player>Lil</Player>
+    <LostExp>577</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2026-02-20 09:40:31</Time>
+    <Location>(31980,31898,9)</Location>
   </DeathEvent>
 </DeathHighscores>
