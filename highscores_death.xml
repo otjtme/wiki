@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1771672506002</GeneratedAt>
+  <GeneratedAt>1771673706005</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Excel</Player>
@@ -144,5 +144,13 @@
     <KilledBy>Redeath</KilledBy>
     <Time>2026-02-21 03:05:17</Time>
     <Location>(32847,31990,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
+    <Player>Bankhorr</Player>
+    <LostExp>285</LostExp>
+    <KilledBy>Bug</KilledBy>
+    <Time>2026-02-21 11:22:37</Time>
+    <Location>(31946,31992,8)</Location>
   </DeathEvent>
 </DeathHighscores>
