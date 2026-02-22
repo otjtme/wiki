@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1771731306668</GeneratedAt>
+  <GeneratedAt>1771732506651</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Finn</Player>
@@ -48,5 +48,21 @@
     <KilledBy>The Tenebris</KilledBy>
     <Time>2026-02-22 02:37:26</Time>
     <Location>(31960,31802,14)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Pixote</Player>
+    <LostExp>1875967</LostExp>
+    <KilledBy>Ghostnon</KilledBy>
+    <Time>2026-02-22 03:52:06</Time>
+    <Location>(32038,31803,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Loba</Player>
+    <LostExp>146663</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2026-02-22 03:37:01</Time>
+    <Location>(31878,32046,8)</Location>
   </DeathEvent>
 </DeathHighscores>
