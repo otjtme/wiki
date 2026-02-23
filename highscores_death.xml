@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1771818907269</GeneratedAt>
+  <GeneratedAt>1771820107263</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Bandarsabu</Player>
+    <LostExp>13570339</LostExp>
+    <KilledBy>Blue Stone</KilledBy>
+    <Time>2026-02-23 04:15:07</Time>
+    <Location>(32005,32214,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Littleboo</Player>
     <LostExp>10801528</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -10,11 +18,19 @@
     <Location>(31859,31973,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Barmar</Player>
     <LostExp>6090594</LostExp>
     <KilledBy>Ghostnon</KilledBy>
     <Time>2026-02-23 01:55:26</Time>
     <Location>(32040,31802,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Turbo</Player>
+    <LostExp>4647377</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2026-02-23 04:09:49</Time>
+    <Location>(32065,31827,8)</Location>
   </DeathEvent>
 </DeathHighscores>
