@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1771984505811</GeneratedAt>
+  <GeneratedAt>1771985705777</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Uboladao</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Olocausto</Player>
+    <LostExp>1073741823</LostExp>
+    <KilledBy>Darktar</KilledBy>
+    <Time>2026-02-25 02:02:17</Time>
+    <Location>(32647,31753,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Nulu</Player>
     <LostExp>115452277</LostExp>
     <KilledBy>Fouldrake</KilledBy>
@@ -26,7 +34,23 @@
     <Location>(32262,32328,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
+    <Player>Thorgon</Player>
+    <LostExp>769671</LostExp>
+    <KilledBy>Rabid Bear</KilledBy>
+    <Time>2026-02-25 02:07:14</Time>
+    <Location>(32028,31975,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Bluelock</Player>
+    <LostExp>109</LostExp>
+    <KilledBy>Spider</KilledBy>
+    <Time>2026-02-25 02:13:04</Time>
+    <Location>(31999,31866,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Bluelock</Player>
     <LostExp>104</LostExp>
     <KilledBy>Spider</KilledBy>
@@ -34,7 +58,7 @@
     <Location>(32003,31866,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>8</Rank>
     <Player>Bluelock</Player>
     <LostExp>62</LostExp>
     <KilledBy>Spider</KilledBy>
