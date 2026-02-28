@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1772246106417</GeneratedAt>
+  <GeneratedAt>1772247306399</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mrxan</Player>
@@ -24,5 +24,21 @@
     <KilledBy>The Miner</KilledBy>
     <Time>2026-02-28 01:19:32</Time>
     <Location>(31856,31972,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Raptor</Player>
+    <LostExp>149046</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2026-02-28 02:39:58</Time>
+    <Location>(31978,31861,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Gordinxiv</Player>
+    <LostExp>67888</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2026-02-28 02:49:26</Time>
+    <Location>(31978,31910,9)</Location>
   </DeathEvent>
 </DeathHighscores>
