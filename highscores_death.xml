@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1772330105842</GeneratedAt>
+  <GeneratedAt>1772331305840</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Shirooni</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Madusa</Player>
+    <LostExp>220710478</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2026-03-01 02:10:53</Time>
+    <Location>(31964,32268,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Lodorile</Player>
     <LostExp>133808033</LostExp>
     <KilledBy>Abominy</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32533,32448,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Dul</Player>
     <LostExp>63827634</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31982,32270,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Keker</Player>
     <LostExp>12701428</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31985,32238,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Gordinxv</Player>
     <LostExp>4686089</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -42,11 +50,27 @@
     <Location>(31912,32205,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Gordinxiv</Player>
     <LostExp>1173157</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2026-03-01 00:52:29</Time>
     <Location>(32015,31879,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Gordinxiv</Player>
+    <LostExp>1144517</LostExp>
+    <KilledBy>Shadow</KilledBy>
+    <Time>2026-03-01 02:08:59</Time>
+    <Location>(31957,31865,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Gordinxiv</Player>
+    <LostExp>1031325</LostExp>
+    <KilledBy>Terrorbird</KilledBy>
+    <Time>2026-03-01 02:11:12</Time>
+    <Location>(31939,32017,11)</Location>
   </DeathEvent>
 </DeathHighscores>
