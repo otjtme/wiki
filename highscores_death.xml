@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1772445305973</GeneratedAt>
+  <GeneratedAt>1772446505966</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gosu</Player>
@@ -104,5 +104,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2026-03-02 06:32:29</Time>
     <Location>(31911,32043,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
+    <Player>Heesoyed</Player>
+    <LostExp>7636</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2026-03-02 10:11:28</Time>
+    <Location>(31995,32045,8)</Location>
   </DeathEvent>
 </DeathHighscores>
