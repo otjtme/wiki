@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1772769303660</GeneratedAt>
+  <GeneratedAt>1772770503651</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Ekstasi</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Godzila</Player>
+    <LostExp>207817615</LostExp>
+    <KilledBy>Bermouth</KilledBy>
+    <Time>2026-03-06 04:07:26</Time>
+    <Location>(32252,32144,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Bvpc</Player>
     <LostExp>34377728</LostExp>
     <KilledBy>Demun</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31958,31801,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Hevertoon</Player>
     <LostExp>9797967</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -26,11 +34,43 @@
     <Location>(32014,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Nohtony</Player>
     <LostExp>8497377</LostExp>
     <KilledBy>Flutty</KilledBy>
     <Time>2026-03-06 01:20:32</Time>
     <Location>(32059,31822,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Jeshee</Player>
+    <LostExp>2272307</LostExp>
+    <KilledBy>Excel</KilledBy>
+    <Time>2026-03-06 04:14:43</Time>
+    <Location>(31975,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Jessy</Player>
+    <LostExp>2061163</LostExp>
+    <KilledBy>Excel</KilledBy>
+    <Time>2026-03-06 04:10:55</Time>
+    <Location>(31976,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Jessy</Player>
+    <LostExp>1855047</LostExp>
+    <KilledBy>Excel</KilledBy>
+    <Time>2026-03-06 04:11:37</Time>
+    <Location>(31976,31986,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Jessy</Player>
+    <LostExp>1669542</LostExp>
+    <KilledBy>Excel</KilledBy>
+    <Time>2026-03-06 04:12:18</Time>
+    <Location>(31976,31985,7)</Location>
   </DeathEvent>
 </DeathHighscores>
