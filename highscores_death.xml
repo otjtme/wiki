@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1773110106430</GeneratedAt>
+  <GeneratedAt>1773111306427</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Oliver</Player>
@@ -32,5 +32,13 @@
     <KilledBy>Chaleton</KilledBy>
     <Time>2026-03-10 00:52:21</Time>
     <Location>(32184,32266,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Chaukan</Player>
+    <LostExp>530235</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2026-03-10 02:47:38</Time>
+    <Location>(32011,32030,8)</Location>
   </DeathEvent>
 </DeathHighscores>
