@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1773452105768</GeneratedAt>
+  <GeneratedAt>1773453305759</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Uboladao</Player>
+    <LostExp>1073741823</LostExp>
+    <KilledBy>(Others)</KilledBy>
+    <Time>2026-03-14 01:46:33</Time>
+    <Location>(32281,32048,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Minzmx</Player>
     <LostExp>18671732</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -10,11 +18,27 @@
     <Location>(32059,31825,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
+    <Player>Mrx</Player>
+    <LostExp>993393</LostExp>
+    <KilledBy>Haruk</KilledBy>
+    <Time>2026-03-14 01:38:47</Time>
+    <Location>(31955,31816,13)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Sugaky</Player>
     <LostExp>149126</LostExp>
     <KilledBy>The Bug</KilledBy>
     <Time>2026-03-14 00:52:10</Time>
     <Location>(31987,32014,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Prometheuz</Player>
+    <LostExp>87814</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2026-03-14 01:48:20</Time>
+    <Location>(31885,31914,8)</Location>
   </DeathEvent>
 </DeathHighscores>
