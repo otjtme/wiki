@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1773806294706</GeneratedAt>
+  <GeneratedAt>1773807494702</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Lucuas</Player>
@@ -75,6 +75,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>10</Rank>
+    <Player>Superk</Player>
+    <LostExp>1307771</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2026-03-18 04:08:03</Time>
+    <Location>(32008,31882,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
     <Player>Smoking</Player>
     <LostExp>700257</LostExp>
     <KilledBy>Shadow</KilledBy>
@@ -82,11 +90,27 @@
     <Location>(31957,31863,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
+    <Player>Haliskenth</Player>
+    <LostExp>104122</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2026-03-18 03:58:19</Time>
+    <Location>(32025,31943,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
     <Player>Haliskenth</Player>
     <LostExp>98040</LostExp>
     <KilledBy>Fire Drake</KilledBy>
     <Time>2026-03-18 03:32:39</Time>
     <Location>(32024,31944,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
+    <Player>Haliskenth</Player>
+    <LostExp>93884</LostExp>
+    <KilledBy>Bloodfly</KilledBy>
+    <Time>2026-03-18 04:10:29</Time>
+    <Location>(31927,31953,10)</Location>
   </DeathEvent>
 </DeathHighscores>
