@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1774230906130</GeneratedAt>
+  <GeneratedAt>1774232106100</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Zato</Player>
@@ -11,6 +11,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Deadgun</Player>
+    <LostExp>72228402</LostExp>
+    <KilledBy>Gorm</KilledBy>
+    <Time>2026-03-23 02:04:38</Time>
+    <Location>(31917,32225,13)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Kanox</Player>
+    <LostExp>19714162</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2026-03-23 02:01:29</Time>
+    <Location>(31862,32048,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Lukszeraa</Player>
     <LostExp>175034</LostExp>
     <KilledBy>Apprentice</KilledBy>
@@ -18,11 +34,19 @@
     <Location>(31992,31997,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Lukszeraa</Player>
     <LostExp>157530</LostExp>
     <KilledBy>Apprentice</KilledBy>
     <Time>2026-03-23 01:25:51</Time>
     <Location>(31988,31993,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Lerd</Player>
+    <LostExp>11685</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2026-03-23 02:03:07</Time>
+    <Location>(31989,32018,8)</Location>
   </DeathEvent>
 </DeathHighscores>
