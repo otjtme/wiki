@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1774806907643</GeneratedAt>
+  <GeneratedAt>1774808107653</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Castiel</Player>
@@ -348,13 +348,21 @@
   <DeathEvent>
     <Rank>44</Rank>
     <Player>Barilu</Player>
+    <LostExp>335099</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2026-03-29 18:07:07</Time>
+    <Location>(32008,31877,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>45</Rank>
+    <Player>Barilu</Player>
     <LostExp>310936</LostExp>
     <KilledBy>Fire Drake</KilledBy>
     <Time>2026-03-29 17:04:43</Time>
     <Location>(32026,31944,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>45</Rank>
+    <Rank>46</Rank>
     <Player>Barilu</Player>
     <LostExp>13501</LostExp>
     <KilledBy>Skeleton</KilledBy>
