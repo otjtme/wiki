@@ -21,9 +21,9 @@
 </character>
 <character name="Klaos">
 <stats>
-<level>850</level>
+<level>851</level>
 <vocation>wizard</vocation>
-<exppoints>433969607705</exppoints>
+<exppoints>434106889080</exppoints>
 <achievement>322</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -39,7 +39,7 @@
 <stats>
 <level>805</level>
 <vocation>warrior</vocation>
-<exppoints>348565765125</exppoints>
+<exppoints>348750670125</exppoints>
 <achievement>266</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -55,7 +55,7 @@
 <stats>
 <level>775</level>
 <vocation>warrior</vocation>
-<exppoints>298351230222</exppoints>
+<exppoints>298376837972</exppoints>
 <achievement>153</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -71,7 +71,7 @@
 <stats>
 <level>751</level>
 <vocation>warrior</vocation>
-<exppoints>263523198299</exppoints>
+<exppoints>263576158864</exppoints>
 <achievement>298</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -87,7 +87,7 @@
 <stats>
 <level>745</level>
 <vocation>warrior</vocation>
-<exppoints>255979765058</exppoints>
+<exppoints>255995741720</exppoints>
 <achievement>222</achievement>
 <guild>Hydra</guild>
 <quota>1</quota>
@@ -103,7 +103,7 @@
 <stats>
 <level>744</level>
 <vocation>wizard</vocation>
-<exppoints>253685850448</exppoints>
+<exppoints>253718835677</exppoints>
 <achievement>260</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -136,7 +136,7 @@
 <stats>
 <level>726</level>
 <vocation>warrior</vocation>
-<exppoints>230656492938</exppoints>
+<exppoints>230719271747</exppoints>
 <achievement>233</achievement>
 <guild>Hydra</guild>
 <quota>5</quota>
@@ -202,7 +202,7 @@
 <stats>
 <level>714</level>
 <vocation>warrior</vocation>
-<exppoints>215474199728</exppoints>
+<exppoints>215526174728</exppoints>
 <achievement>144</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -235,7 +235,7 @@
 <stats>
 <level>705</level>
 <vocation>warrior</vocation>
-<exppoints>204509201242</exppoints>
+<exppoints>204610827242</exppoints>
 <achievement>198</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -267,7 +267,7 @@
 <stats>
 <level>701</level>
 <vocation>warrior</vocation>
-<exppoints>200510133535</exppoints>
+<exppoints>200551783535</exppoints>
 <achievement>204</achievement>
 <guild>BUG</guild>
 <quota>58</quota>
@@ -280,44 +280,44 @@
 <rank type="pvp">5</rank>
 </ranks>
 </character>
-<character name="Cainho">
-<stats>
-<level>696</level>
-<vocation>warrior</vocation>
-<exppoints>194006628626</exppoints>
-<achievement>192</achievement>
-<guild>Hydra</guild>
-<quota>13</quota>
-</stats>
-<ranks>
-<rank type="highscore_global">18</rank>
-<rank type="highscore_warrior">15</rank>
-<rank type="stars_global">59</rank>
-<rank type="stars_warrior">45</rank>
-<rank type="pvp">13</rank>
-</ranks>
-</character>
 <character name="Daemon">
 <stats>
 <level>696</level>
 <vocation>warrior</vocation>
-<exppoints>193979516189</exppoints>
+<exppoints>194030388689</exppoints>
 <achievement>205</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
 </stats>
 <ranks>
-<rank type="highscore_global">19</rank>
-<rank type="highscore_warrior">16</rank>
+<rank type="highscore_global">18</rank>
+<rank type="highscore_warrior">15</rank>
 <rank type="stars_global">54</rank>
 <rank type="stars_warrior">41</rank>
+</ranks>
+</character>
+<character name="Cainho">
+<stats>
+<level>696</level>
+<vocation>warrior</vocation>
+<exppoints>194017615385</exppoints>
+<achievement>192</achievement>
+<guild>Hydra</guild>
+<quota>13</quota>
+</stats>
+<ranks>
+<rank type="highscore_global">19</rank>
+<rank type="highscore_warrior">16</rank>
+<rank type="stars_global">59</rank>
+<rank type="stars_warrior">45</rank>
+<rank type="pvp">13</rank>
 </ranks>
 </character>
 <character name="Boladao">
 <stats>
 <level>693</level>
 <vocation>warrior</vocation>
-<exppoints>191439899545</exppoints>
+<exppoints>191442171265</exppoints>
 <achievement>151</achievement>
 <guild>New Age</guild>
 <quota>0</quota>
@@ -329,34 +329,34 @@
 <rank type="stars_warrior">65</rank>
 </ranks>
 </character>
-<character name="Uriel">
-<stats>
-<level>690</level>
-<vocation>warrior</vocation>
-<exppoints>187387236675</exppoints>
-<achievement>291</achievement>
-<guild>Hydra</guild>
-<quota>0</quota>
-</stats>
-<ranks>
-<rank type="highscore_global">21</rank>
-<rank type="highscore_warrior">18</rank>
-<rank type="stars_global">15</rank>
-<rank type="stars_warrior">10</rank>
-</ranks>
-</character>
 <character name="Rinn">
 <stats>
 <level>690</level>
 <vocation>warrior</vocation>
-<exppoints>187295584898</exppoints>
+<exppoints>187444684898</exppoints>
 <achievement>74</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
 </stats>
 <ranks>
+<rank type="highscore_global">21</rank>
+<rank type="highscore_warrior">18</rank>
+</ranks>
+</character>
+<character name="Uriel">
+<stats>
+<level>690</level>
+<vocation>warrior</vocation>
+<exppoints>187399006555</exppoints>
+<achievement>291</achievement>
+<guild>Hydra</guild>
+<quota>0</quota>
+</stats>
+<ranks>
 <rank type="highscore_global">22</rank>
 <rank type="highscore_warrior">19</rank>
+<rank type="stars_global">15</rank>
+<rank type="stars_warrior">10</rank>
 </ranks>
 </character>
 <character name="Jalynrabey">
@@ -379,7 +379,7 @@
 <stats>
 <level>673</level>
 <vocation>warrior</vocation>
-<exppoints>169707121188</exppoints>
+<exppoints>169770453688</exppoints>
 <achievement>266</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -395,7 +395,7 @@
 <stats>
 <level>669</level>
 <vocation>warrior</vocation>
-<exppoints>165938655402</exppoints>
+<exppoints>165986136402</exppoints>
 <achievement>188</achievement>
 <guild>BUG</guild>
 <quota>4</quota>
@@ -428,7 +428,7 @@
 <stats>
 <level>659</level>
 <vocation>wizard</vocation>
-<exppoints>156080120436</exppoints>
+<exppoints>156149140436</exppoints>
 <achievement>400</achievement>
 <guild>BUG</guild>
 <quota>2</quota>
@@ -461,7 +461,7 @@
 <stats>
 <level>643</level>
 <vocation>warrior</vocation>
-<exppoints>141886912103</exppoints>
+<exppoints>141918328103</exppoints>
 <achievement>273</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -493,7 +493,7 @@
 <stats>
 <level>638</level>
 <vocation>wizard</vocation>
-<exppoints>136821589717</exppoints>
+<exppoints>136885124902</exppoints>
 <achievement>93</achievement>
 <guild>Hydra</guild>
 <quota>3</quota>
@@ -525,7 +525,7 @@
 <stats>
 <level>634</level>
 <vocation>warrior</vocation>
-<exppoints>134110811608</exppoints>
+<exppoints>134151628608</exppoints>
 <achievement>158</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -558,7 +558,7 @@
 <stats>
 <level>629</level>
 <vocation>warrior</vocation>
-<exppoints>129868561934</exppoints>
+<exppoints>129884065205</exppoints>
 <achievement>302</achievement>
 <guild>Hydra</guild>
 <quota>6</quota>
@@ -575,7 +575,7 @@
 <stats>
 <level>627</level>
 <vocation>warrior</vocation>
-<exppoints>127823552313</exppoints>
+<exppoints>127848125813</exppoints>
 <achievement>67</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -623,7 +623,7 @@
 <stats>
 <level>621</level>
 <vocation>warrior</vocation>
-<exppoints>123496043124</exppoints>
+<exppoints>123527230764</exppoints>
 <achievement>113</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -654,7 +654,7 @@
 <stats>
 <level>614</level>
 <vocation>warrior</vocation>
-<exppoints>117372970709</exppoints>
+<exppoints>117416834446</exppoints>
 <achievement>51</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -700,7 +700,7 @@
 <stats>
 <level>608</level>
 <vocation>warrior</vocation>
-<exppoints>113048711105</exppoints>
+<exppoints>113069482281</exppoints>
 <achievement>167</achievement>
 <guild>Hydra</guild>
 <quota>4</quota>
@@ -715,9 +715,9 @@
 </character>
 <character name="Newyear">
 <stats>
-<level>606</level>
+<level>607</level>
 <vocation>warrior</vocation>
-<exppoints>111977757412</exppoints>
+<exppoints>112049052412</exppoints>
 <achievement>232</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -749,7 +749,7 @@
 <stats>
 <level>601</level>
 <vocation>warrior</vocation>
-<exppoints>107794863557</exppoints>
+<exppoints>107812431565</exppoints>
 <achievement>115</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -793,7 +793,7 @@
 <stats>
 <level>596</level>
 <vocation>wizard</vocation>
-<exppoints>104727584046</exppoints>
+<exppoints>104772268546</exppoints>
 <achievement>0</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -807,7 +807,7 @@
 <stats>
 <level>595</level>
 <vocation>warrior</vocation>
-<exppoints>103898731448</exppoints>
+<exppoints>103918860317</exppoints>
 <achievement>248</achievement>
 <guild>BUG</guild>
 <quota>6</quota>
@@ -872,7 +872,7 @@
 <stats>
 <level>575</level>
 <vocation>warrior</vocation>
-<exppoints>90229179394</exppoints>
+<exppoints>90254377644</exppoints>
 <achievement>96</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -901,7 +901,7 @@
 <stats>
 <level>569</level>
 <vocation>wizard</vocation>
-<exppoints>86728167614</exppoints>
+<exppoints>86731110210</exppoints>
 <achievement>96</achievement>
 <guild>New Age</guild>
 <quota>1</quota>
@@ -916,7 +916,7 @@
 <stats>
 <level>567</level>
 <vocation>warrior</vocation>
-<exppoints>85503030848</exppoints>
+<exppoints>85529210848</exppoints>
 <achievement>121</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -964,7 +964,7 @@
 <stats>
 <level>563</level>
 <vocation>wizard</vocation>
-<exppoints>83283249275</exppoints>
+<exppoints>83319558275</exppoints>
 <achievement>92</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -979,7 +979,7 @@
 <stats>
 <level>559</level>
 <vocation>warrior</vocation>
-<exppoints>80796877168</exppoints>
+<exppoints>80814875918</exppoints>
 <achievement>67</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1008,7 +1008,7 @@
 <stats>
 <level>555</level>
 <vocation>warrior</vocation>
-<exppoints>78256357011</exppoints>
+<exppoints>78277829822</exppoints>
 <achievement>55</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1022,7 +1022,7 @@
 <stats>
 <level>551</level>
 <vocation>warrior</vocation>
-<exppoints>76346997773</exppoints>
+<exppoints>76348960391</exppoints>
 <achievement>106</achievement>
 <guild>New Age</guild>
 <quota>0</quota>
@@ -1037,7 +1037,7 @@
 <stats>
 <level>550</level>
 <vocation>warrior</vocation>
-<exppoints>75767426899</exppoints>
+<exppoints>75785287909</exppoints>
 <achievement>191</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -1068,7 +1068,7 @@
 <stats>
 <level>548</level>
 <vocation>warrior</vocation>
-<exppoints>74769676537</exppoints>
+<exppoints>74771879117</exppoints>
 <achievement>233</achievement>
 <guild>New Age</guild>
 <quota>0</quota>
@@ -1084,7 +1084,7 @@
 <stats>
 <level>548</level>
 <vocation>warrior</vocation>
-<exppoints>74564205551</exppoints>
+<exppoints>74580862804</exppoints>
 <achievement>238</achievement>
 <guild>G O D</guild>
 <quota>1</quota>
@@ -1100,7 +1100,7 @@
 <stats>
 <level>545</level>
 <vocation>warrior</vocation>
-<exppoints>72951965729</exppoints>
+<exppoints>72987305029</exppoints>
 <achievement>57</achievement>
 <guild>G O D</guild>
 <quota>1</quota>
@@ -1130,7 +1130,7 @@
 <stats>
 <level>543</level>
 <vocation>warrior</vocation>
-<exppoints>71697731556</exppoints>
+<exppoints>71711538552</exppoints>
 <achievement>257</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1176,7 +1176,7 @@
 <stats>
 <level>539</level>
 <vocation>wizard</vocation>
-<exppoints>69931842303</exppoints>
+<exppoints>69939307213</exppoints>
 <achievement>273</achievement>
 <guild>New Age</guild>
 <quota>1</quota>
@@ -1192,7 +1192,7 @@
 <stats>
 <level>536</level>
 <vocation>warrior</vocation>
-<exppoints>68399502820</exppoints>
+<exppoints>68421267136</exppoints>
 <achievement>105</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -1207,7 +1207,7 @@
 <stats>
 <level>536</level>
 <vocation>warrior</vocation>
-<exppoints>68285977817</exppoints>
+<exppoints>68305185817</exppoints>
 <achievement>226</achievement>
 <guild>BUG</guild>
 <quota>2</quota>
@@ -1224,7 +1224,7 @@
 <stats>
 <level>536</level>
 <vocation>warrior</vocation>
-<exppoints>68027057720</exppoints>
+<exppoints>68036885600</exppoints>
 <achievement>198</achievement>
 <guild>Hydra</guild>
 <quota>5</quota>
@@ -1241,7 +1241,7 @@
 <stats>
 <level>535</level>
 <vocation>wizard</vocation>
-<exppoints>67982031339</exppoints>
+<exppoints>67989698308</exppoints>
 <achievement>47</achievement>
 <guild>New Age</guild>
 <quota>0</quota>
@@ -1256,7 +1256,7 @@
 <stats>
 <level>534</level>
 <vocation>warrior</vocation>
-<exppoints>67085107965</exppoints>
+<exppoints>67122837965</exppoints>
 <achievement>104</achievement>
 <guild>BUG</guild>
 <quota>8</quota>
@@ -1285,9 +1285,9 @@
 </character>
 <character name="Otavio">
 <stats>
-<level>530</level>
+<level>531</level>
 <vocation>warrior</vocation>
-<exppoints>65507778516</exppoints>
+<exppoints>65512531581</exppoints>
 <achievement>238</achievement>
 <guild>New Age</guild>
 <quota>4</quota>
@@ -1349,9 +1349,9 @@
 </character>
 <character name="Okotsuyuta">
 <stats>
-<level>524</level>
+<level>525</level>
 <vocation>warrior</vocation>
-<exppoints>62578536622</exppoints>
+<exppoints>62600272608</exppoints>
 <achievement>114</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -1366,7 +1366,7 @@
 <stats>
 <level>524</level>
 <vocation>wizard</vocation>
-<exppoints>62306765823</exppoints>
+<exppoints>62343020654</exppoints>
 <achievement>237</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -1398,7 +1398,7 @@
 <stats>
 <level>521</level>
 <vocation>warrior</vocation>
-<exppoints>60849656626</exppoints>
+<exppoints>60902467650</exppoints>
 <achievement>217</achievement>
 <guild>Hydra</guild>
 <quota>1</quota>
@@ -1414,7 +1414,7 @@
 <stats>
 <level>519</level>
 <vocation>warrior</vocation>
-<exppoints>60090214251</exppoints>
+<exppoints>60091521467</exppoints>
 <achievement>139</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -1430,7 +1430,7 @@
 <stats>
 <level>519</level>
 <vocation>wizard</vocation>
-<exppoints>59994314818</exppoints>
+<exppoints>59994900718</exppoints>
 <achievement>173</achievement>
 <guild>JTME</guild>
 <quota>1</quota>
@@ -1446,7 +1446,7 @@
 <stats>
 <level>519</level>
 <vocation>warrior</vocation>
-<exppoints>59829734373</exppoints>
+<exppoints>59832498893</exppoints>
 <achievement>66</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1523,7 +1523,7 @@
 <stats>
 <level>510</level>
 <vocation>warrior</vocation>
-<exppoints>55959666435</exppoints>
+<exppoints>55984169183</exppoints>
 <achievement>116</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1538,7 +1538,7 @@
 <stats>
 <level>508</level>
 <vocation>warrior</vocation>
-<exppoints>55108249207</exppoints>
+<exppoints>55129380457</exppoints>
 <achievement>46</achievement>
 <guild>BUG</guild>
 <quota>2</quota>
@@ -1585,7 +1585,7 @@
 <stats>
 <level>500</level>
 <vocation>wizard</vocation>
-<exppoints>51798073179</exppoints>
+<exppoints>51866718679</exppoints>
 <achievement>169</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1646,7 +1646,7 @@
 <stats>
 <level>498</level>
 <vocation>wizard</vocation>
-<exppoints>50663102763</exppoints>
+<exppoints>50669331261</exppoints>
 <achievement>94</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -1661,7 +1661,7 @@
 <stats>
 <level>493</level>
 <vocation>warrior</vocation>
-<exppoints>48717385983</exppoints>
+<exppoints>48726863461</exppoints>
 <achievement>61</achievement>
 <guild>BUG</guild>
 <quota>5</quota>
@@ -1676,7 +1676,7 @@
 <stats>
 <level>489</level>
 <vocation>warrior</vocation>
-<exppoints>47382896969</exppoints>
+<exppoints>47402314241</exppoints>
 <achievement>109</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1691,7 +1691,7 @@
 <stats>
 <level>487</level>
 <vocation>warrior</vocation>
-<exppoints>46614175059</exppoints>
+<exppoints>46631218136</exppoints>
 <achievement>120</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -1706,7 +1706,7 @@
 <stats>
 <level>485</level>
 <vocation>wizard</vocation>
-<exppoints>45878790941</exppoints>
+<exppoints>45880973775</exppoints>
 <achievement>257</achievement>
 <guild>New Age</guild>
 <quota>0</quota>
@@ -1722,7 +1722,7 @@
 <stats>
 <level>485</level>
 <vocation>warrior</vocation>
-<exppoints>45801113001</exppoints>
+<exppoints>45834482374</exppoints>
 <achievement>101</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -1769,7 +1769,7 @@
 <stats>
 <level>478</level>
 <vocation>wizard</vocation>
-<exppoints>42988676810</exppoints>
+<exppoints>42991822659</exppoints>
 <achievement>157</achievement>
 <guild>New Age</guild>
 <quota>1</quota>
@@ -1785,7 +1785,7 @@
 <stats>
 <level>476</level>
 <vocation>wizard</vocation>
-<exppoints>42399038707</exppoints>
+<exppoints>42409778358</exppoints>
 <achievement>122</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -1800,7 +1800,7 @@
 <stats>
 <level>474</level>
 <vocation>warrior</vocation>
-<exppoints>41827248057</exppoints>
+<exppoints>41866511536</exppoints>
 <achievement>160</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -1816,7 +1816,7 @@
 <stats>
 <level>472</level>
 <vocation>wizard</vocation>
-<exppoints>41081523319</exppoints>
+<exppoints>41147271188</exppoints>
 <achievement>175</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1832,7 +1832,7 @@
 <stats>
 <level>472</level>
 <vocation>warrior</vocation>
-<exppoints>40968576452</exppoints>
+<exppoints>40969149136</exppoints>
 <achievement>66</achievement>
 <guild></guild>
 <quota>1</quota>
@@ -1878,7 +1878,7 @@
 <stats>
 <level>468</level>
 <vocation>warrior</vocation>
-<exppoints>39618835890</exppoints>
+<exppoints>39630866509</exppoints>
 <achievement>181</achievement>
 <guild>G O D</guild>
 <quota>36</quota>
@@ -1895,7 +1895,7 @@
 <stats>
 <level>468</level>
 <vocation>warrior</vocation>
-<exppoints>39474306998</exppoints>
+<exppoints>39515126766</exppoints>
 <achievement>109</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1925,7 +1925,7 @@
 <stats>
 <level>453</level>
 <vocation>wizard</vocation>
-<exppoints>34834633956</exppoints>
+<exppoints>34839325098</exppoints>
 <achievement>194</achievement>
 <guild>New Age</guild>
 <quota>3</quota>
@@ -1974,7 +1974,7 @@
 <stats>
 <level>445</level>
 <vocation>warrior</vocation>
-<exppoints>32485658923</exppoints>
+<exppoints>32503773173</exppoints>
 <achievement>18</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1988,7 +1988,7 @@
 <stats>
 <level>445</level>
 <vocation>warrior</vocation>
-<exppoints>32271813948</exppoints>
+<exppoints>32308266761</exppoints>
 <achievement>212</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -2004,7 +2004,7 @@
 <stats>
 <level>442</level>
 <vocation>warrior</vocation>
-<exppoints>31443077188</exppoints>
+<exppoints>31457696338</exppoints>
 <achievement>47</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -2018,7 +2018,7 @@
 <stats>
 <level>440</level>
 <vocation>warrior</vocation>
-<exppoints>30956846458</exppoints>
+<exppoints>31018579213</exppoints>
 <achievement>162</achievement>
 <guild>BUG</guild>
 <quota>5</quota>
@@ -2035,7 +2035,7 @@
 <stats>
 <level>437</level>
 <vocation>wizard</vocation>
-<exppoints>30048314126</exppoints>
+<exppoints>30049125141</exppoints>
 <achievement>168</achievement>
 <guild>Renegados</guild>
 <quota>2</quota>
@@ -2052,7 +2052,7 @@
 <stats>
 <level>435</level>
 <vocation>wizard</vocation>
-<exppoints>29608325108</exppoints>
+<exppoints>29665069011</exppoints>
 <achievement>132</achievement>
 <guild>Hydra</guild>
 <quota>1</quota>
@@ -2097,7 +2097,7 @@
 <stats>
 <level>428</level>
 <vocation>warrior</vocation>
-<exppoints>27679438502</exppoints>
+<exppoints>27683414597</exppoints>
 <achievement>76</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -2111,7 +2111,7 @@
 <stats>
 <level>427</level>
 <vocation>warrior</vocation>
-<exppoints>27325339721</exppoints>
+<exppoints>27336855981</exppoints>
 <achievement>34</achievement>
 <guild>BUG</guild>
 <quota>3</quota>
@@ -2126,7 +2126,7 @@
 <stats>
 <level>425</level>
 <vocation>warrior</vocation>
-<exppoints>26876088361</exppoints>
+<exppoints>26907488311</exppoints>
 <achievement>122</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -2141,7 +2141,7 @@
 <stats>
 <level>422</level>
 <vocation>warrior</vocation>
-<exppoints>26190396089</exppoints>
+<exppoints>26195712723</exppoints>
 <achievement>96</achievement>
 <guild>BUG</guild>
 <quota>6</quota>
@@ -2213,42 +2213,42 @@
 <rank type="stars_warrior">28</rank>
 </ranks>
 </character>
-<character name="Snaiperrr">
-<stats>
-<level>408</level>
-<vocation>wizard</vocation>
-<exppoints>22978328020</exppoints>
-<achievement>165</achievement>
-<guild>BUG</guild>
-<quota>1</quota>
-</stats>
-<ranks>
-<rank type="highscore_global">142</rank>
-<rank type="highscore_wizard">34</rank>
-<rank type="stars_global">76</rank>
-<rank type="stars_wizard">20</rank>
-</ranks>
-</character>
 <character name="Bboss">
 <stats>
-<level>408</level>
+<level>409</level>
 <vocation>wizard</vocation>
-<exppoints>22971277226</exppoints>
+<exppoints>23011158758</exppoints>
 <achievement>28</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
 </stats>
 <ranks>
+<rank type="highscore_global">142</rank>
+<rank type="highscore_wizard">34</rank>
+<rank type="stars_wizard">59</rank>
+</ranks>
+</character>
+<character name="Snaiperrr">
+<stats>
+<level>409</level>
+<vocation>wizard</vocation>
+<exppoints>22996237520</exppoints>
+<achievement>165</achievement>
+<guild>BUG</guild>
+<quota>1</quota>
+</stats>
+<ranks>
 <rank type="highscore_global">143</rank>
 <rank type="highscore_wizard">35</rank>
-<rank type="stars_wizard">59</rank>
+<rank type="stars_global">76</rank>
+<rank type="stars_wizard">20</rank>
 </ranks>
 </character>
 <character name="Kageya">
 <stats>
-<level>407</level>
+<level>408</level>
 <vocation>wizard</vocation>
-<exppoints>22749760183</exppoints>
+<exppoints>22762234183</exppoints>
 <achievement>100</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -2263,7 +2263,7 @@
 <stats>
 <level>407</level>
 <vocation>warrior</vocation>
-<exppoints>22729020248</exppoints>
+<exppoints>22745513998</exppoints>
 <achievement>79</achievement>
 <guild>Hydra</guild>
 <quota>27</quota>
@@ -2294,7 +2294,7 @@
 <stats>
 <level>406</level>
 <vocation>wizard</vocation>
-<exppoints>22400630927</exppoints>
+<exppoints>22401844271</exppoints>
 <achievement>82</achievement>
 <guild>LIBERTYW1</guild>
 <quota>1</quota>
@@ -2323,7 +2323,7 @@
 <stats>
 <level>405</level>
 <vocation>warrior</vocation>
-<exppoints>22252780066</exppoints>
+<exppoints>22276060058</exppoints>
 <achievement>82</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -2396,7 +2396,7 @@
 <stats>
 <level>392</level>
 <vocation>wizard</vocation>
-<exppoints>19531765558</exppoints>
+<exppoints>19547490586</exppoints>
 <achievement>134</achievement>
 <guild>Hydra</guild>
 <quota>1</quota>
@@ -2412,7 +2412,7 @@
 <stats>
 <level>388</level>
 <vocation>warrior</vocation>
-<exppoints>18747366729</exppoints>
+<exppoints>18753067914</exppoints>
 <achievement>67</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -2489,7 +2489,7 @@
 <stats>
 <level>382</level>
 <vocation>warrior</vocation>
-<exppoints>17583595182</exppoints>
+<exppoints>17586249873</exppoints>
 <achievement>163</achievement>
 <guild>Renegados</guild>
 <quota>3</quota>
@@ -2506,7 +2506,7 @@
 <stats>
 <level>381</level>
 <vocation>warrior</vocation>
-<exppoints>17388542854</exppoints>
+<exppoints>17389555537</exppoints>
 <achievement>41</achievement>
 <guild>New Age</guild>
 <quota>0</quota>
@@ -2536,7 +2536,7 @@
 <stats>
 <level>380</level>
 <vocation>wizard</vocation>
-<exppoints>17262565303</exppoints>
+<exppoints>17270139655</exppoints>
 <achievement>225</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -2566,7 +2566,7 @@
 <stats>
 <level>374</level>
 <vocation>warrior</vocation>
-<exppoints>16096592583</exppoints>
+<exppoints>16110650612</exppoints>
 <achievement>47</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -2639,7 +2639,7 @@
 <stats>
 <level>365</level>
 <vocation>warrior</vocation>
-<exppoints>14689226419</exppoints>
+<exppoints>14699656972</exppoints>
 <achievement>47</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -2653,7 +2653,7 @@
 <stats>
 <level>365</level>
 <vocation>warrior</vocation>
-<exppoints>14604157967</exppoints>
+<exppoints>14623160990</exppoints>
 <achievement>91</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -2667,7 +2667,7 @@
 <stats>
 <level>361</level>
 <vocation>wizard</vocation>
-<exppoints>14003513620</exppoints>
+<exppoints>14007505300</exppoints>
 <achievement>68</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -2693,6 +2693,21 @@
 <rank type="stars_wizard">31</rank>
 </ranks>
 </character>
+<character name="Michel">
+<stats>
+<level>360</level>
+<vocation>wizard</vocation>
+<exppoints>13781098522</exppoints>
+<achievement>125</achievement>
+<guild>LIBERTYW1</guild>
+<quota>0</quota>
+</stats>
+<ranks>
+<rank type="highscore_global">174</rank>
+<rank type="highscore_wizard">48</rank>
+<rank type="stars_wizard">26</rank>
+</ranks>
+</character>
 <character name="Fetfo">
 <stats>
 <level>360</level>
@@ -2703,23 +2718,8 @@
 <quota>1</quota>
 </stats>
 <ranks>
-<rank type="highscore_global">174</rank>
-<rank type="highscore_warrior">127</rank>
-</ranks>
-</character>
-<character name="Michel">
-<stats>
-<level>360</level>
-<vocation>wizard</vocation>
-<exppoints>13778279418</exppoints>
-<achievement>125</achievement>
-<guild>LIBERTYW1</guild>
-<quota>0</quota>
-</stats>
-<ranks>
 <rank type="highscore_global">175</rank>
-<rank type="highscore_wizard">48</rank>
-<rank type="stars_wizard">26</rank>
+<rank type="highscore_warrior">127</rank>
 </ranks>
 </character>
 <character name="Eagle">
@@ -2740,7 +2740,7 @@
 <stats>
 <level>355</level>
 <vocation>warrior</vocation>
-<exppoints>13091857586</exppoints>
+<exppoints>13102218269</exppoints>
 <achievement>120</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -2786,7 +2786,7 @@
 <stats>
 <level>346</level>
 <vocation>warrior</vocation>
-<exppoints>11850431358</exppoints>
+<exppoints>11862051505</exppoints>
 <achievement>36</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -2800,7 +2800,7 @@
 <stats>
 <level>341</level>
 <vocation>warrior</vocation>
-<exppoints>11103070483</exppoints>
+<exppoints>11114584655</exppoints>
 <achievement>25</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -2814,7 +2814,7 @@
 <stats>
 <level>340</level>
 <vocation>warrior</vocation>
-<exppoints>10979305553</exppoints>
+<exppoints>11014450893</exppoints>
 <achievement>45</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -2872,9 +2872,9 @@
 </character>
 <character name="Gladiators">
 <stats>
-<level>333</level>
+<level>334</level>
 <vocation>warrior</vocation>
-<exppoints>10178787815</exppoints>
+<exppoints>10186802267</exppoints>
 <achievement>206</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -2890,7 +2890,7 @@
 <stats>
 <level>333</level>
 <vocation>warrior</vocation>
-<exppoints>10149240109</exppoints>
+<exppoints>10168702953</exppoints>
 <achievement>86</achievement>
 <guild>Hydra</guild>
 <quota>5</quota>
@@ -2921,7 +2921,7 @@
 <stats>
 <level>330</level>
 <vocation>wizard</vocation>
-<exppoints>9773368760</exppoints>
+<exppoints>9775110494</exppoints>
 <achievement>76</achievement>
 <guild>New Age</guild>
 <quota>0</quota>
@@ -2951,7 +2951,7 @@
 <stats>
 <level>326</level>
 <vocation>warrior</vocation>
-<exppoints>9285258721</exppoints>
+<exppoints>9287206367</exppoints>
 <achievement>129</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -3009,7 +3009,7 @@
 <stats>
 <level>318</level>
 <vocation>warrior</vocation>
-<exppoints>8366878947</exppoints>
+<exppoints>8372742108</exppoints>
 <achievement>86</achievement>
 <guild>Hydra</guild>
 <quota>1</quota>
@@ -3021,9 +3021,9 @@
 </character>
 <character name="Tanker">
 <stats>
-<level>314</level>
+<level>315</level>
 <vocation>warrior</vocation>
-<exppoints>8049398392</exppoints>
+<exppoints>8067141058</exppoints>
 <achievement>71</achievement>
 <guild>G O D</guild>
 <quota>2</quota>
@@ -3052,7 +3052,7 @@
 <stats>
 <level>310</level>
 <vocation>warrior</vocation>
-<exppoints>7580344934</exppoints>
+<exppoints>7590509278</exppoints>
 <achievement>32</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -3094,7 +3094,7 @@
 <stats>
 <level>293</level>
 <vocation>warrior</vocation>
-<exppoints>6057461148</exppoints>
+<exppoints>6066090726</exppoints>
 <achievement>25</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -3108,7 +3108,7 @@
 <stats>
 <level>285</level>
 <vocation>warrior</vocation>
-<exppoints>5433562285</exppoints>
+<exppoints>5448949867</exppoints>
 <achievement>42</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -3134,9 +3134,9 @@
 </character>
 <character name="Aisyahbadr">
 <stats>
-<level>274</level>
+<level>275</level>
 <vocation>wizard</vocation>
-<exppoints>4650704496</exppoints>
+<exppoints>4663440027</exppoints>
 <achievement>50</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -3151,7 +3151,7 @@
 <stats>
 <level>273</level>
 <vocation>wizard</vocation>
-<exppoints>4559391618</exppoints>
+<exppoints>4566258746</exppoints>
 <achievement>9</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -3160,6 +3160,21 @@
 <rank type="highscore_global">205</rank>
 <rank type="highscore_wizard">55</rank>
 <rank type="stars_wizard">74</rank>
+</ranks>
+</character>
+<character name="Rangar">
+<stats>
+<level>269</level>
+<vocation>wizard</vocation>
+<exppoints>4319174439</exppoints>
+<achievement>85</achievement>
+<guild>Hydra</guild>
+<quota>0</quota>
+</stats>
+<ranks>
+<rank type="highscore_global">206</rank>
+<rank type="highscore_wizard">56</rank>
+<rank type="stars_wizard">38</rank>
 </ranks>
 </character>
 <character name="Kraken">
@@ -3172,30 +3187,15 @@
 <quota>0</quota>
 </stats>
 <ranks>
-<rank type="highscore_global">206</rank>
-<rank type="highscore_warrior">151</rank>
-</ranks>
-</character>
-<character name="Rangar">
-<stats>
-<level>269</level>
-<vocation>wizard</vocation>
-<exppoints>4289046318</exppoints>
-<achievement>85</achievement>
-<guild>Hydra</guild>
-<quota>0</quota>
-</stats>
-<ranks>
 <rank type="highscore_global">207</rank>
-<rank type="highscore_wizard">56</rank>
-<rank type="stars_wizard">38</rank>
+<rank type="highscore_warrior">151</rank>
 </ranks>
 </character>
 <character name="Verstappen">
 <stats>
 <level>266</level>
 <vocation>warrior</vocation>
-<exppoints>4085135781</exppoints>
+<exppoints>4093353013</exppoints>
 <achievement>46</achievement>
 <guild>Hydra</guild>
 <quota>1</quota>
@@ -3209,7 +3209,7 @@
 <stats>
 <level>265</level>
 <vocation>wizard</vocation>
-<exppoints>4072644978</exppoints>
+<exppoints>4076748357</exppoints>
 <achievement>190</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -3239,7 +3239,7 @@
 <stats>
 <level>253</level>
 <vocation>warrior</vocation>
-<exppoints>3386069739</exppoints>
+<exppoints>3387727481</exppoints>
 <achievement>41</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -3269,7 +3269,7 @@
 <stats>
 <level>252</level>
 <vocation>warrior</vocation>
-<exppoints>3316388342</exppoints>
+<exppoints>3319467033</exppoints>
 <achievement>96</achievement>
 <guild>New Age</guild>
 <quota>0</quota>
@@ -3283,7 +3283,7 @@
 <stats>
 <level>250</level>
 <vocation>wizard</vocation>
-<exppoints>3187056226</exppoints>
+<exppoints>3190899777</exppoints>
 <achievement>81</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -3313,7 +3313,7 @@
 <stats>
 <level>244</level>
 <vocation>warrior</vocation>
-<exppoints>2894166288</exppoints>
+<exppoints>2906523482</exppoints>
 <achievement>65</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -3327,7 +3327,7 @@
 <stats>
 <level>241</level>
 <vocation>wizard</vocation>
-<exppoints>2742359398</exppoints>
+<exppoints>2743643568</exppoints>
 <achievement>13</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -3398,9 +3398,9 @@
 </character>
 <character name="Koy">
 <stats>
-<level>227</level>
+<level>228</level>
 <vocation>wizard</vocation>
-<exppoints>2173079120</exppoints>
+<exppoints>2198664986</exppoints>
 <achievement>23</achievement>
 <guild>Hydra</guild>
 <quota>0</quota>
@@ -3415,7 +3415,7 @@
 <stats>
 <level>224</level>
 <vocation>warrior</vocation>
-<exppoints>2046266800</exppoints>
+<exppoints>2048572536</exppoints>
 <achievement>99</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -3443,7 +3443,7 @@
 <stats>
 <level>220</level>
 <vocation>wizard</vocation>
-<exppoints>1917022705</exppoints>
+<exppoints>1917244021</exppoints>
 <achievement>45</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -3458,7 +3458,7 @@
 <stats>
 <level>215</level>
 <vocation>warrior</vocation>
-<exppoints>1761331082</exppoints>
+<exppoints>1762257205</exppoints>
 <achievement>171</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -3474,7 +3474,7 @@
 <stats>
 <level>215</level>
 <vocation>warrior</vocation>
-<exppoints>1744099692</exppoints>
+<exppoints>1756088804</exppoints>
 <achievement>137</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -3504,7 +3504,7 @@
 <stats>
 <level>212</level>
 <vocation>wizard</vocation>
-<exppoints>1649935480</exppoints>
+<exppoints>1653751948</exppoints>
 <achievement>26</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -3519,7 +3519,7 @@
 <stats>
 <level>206</level>
 <vocation>warrior</vocation>
-<exppoints>1481833200</exppoints>
+<exppoints>1482955959</exppoints>
 <achievement>77</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -3547,7 +3547,7 @@
 <stats>
 <level>205</level>
 <vocation>wizard</vocation>
-<exppoints>1438018459</exppoints>
+<exppoints>1446778707</exppoints>
 <achievement>30</achievement>
 <guild>G O D</guild>
 <quota>1</quota>
@@ -3606,7 +3606,7 @@
 <stats>
 <level>201</level>
 <vocation>wizard</vocation>
-<exppoints>1340302799</exppoints>
+<exppoints>1341906812</exppoints>
 <achievement>27</achievement>
 <guild>New Age</guild>
 <quota>0</quota>
@@ -3621,7 +3621,7 @@
 <stats>
 <level>198</level>
 <vocation>warrior</vocation>
-<exppoints>1246043266</exppoints>
+<exppoints>1247008746</exppoints>
 <achievement>7</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -3664,7 +3664,7 @@
 <stats>
 <level>194</level>
 <vocation>warrior</vocation>
-<exppoints>1154255229</exppoints>
+<exppoints>1154780229</exppoints>
 <achievement>30</achievement>
 <guild>New Age</guild>
 <quota>0</quota>
@@ -3707,7 +3707,7 @@
 <stats>
 <level>170</level>
 <vocation>warrior</vocation>
-<exppoints>673093497</exppoints>
+<exppoints>673618497</exppoints>
 <achievement>23</achievement>
 <guild>InTr0V3rT</guild>
 <quota>0</quota>
@@ -3736,7 +3736,7 @@
 <stats>
 <level>165</level>
 <vocation>warrior</vocation>
-<exppoints>596370468</exppoints>
+<exppoints>599253780</exppoints>
 <achievement>19</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -3750,7 +3750,7 @@
 <stats>
 <level>163</level>
 <vocation>wizard</vocation>
-<exppoints>570619844</exppoints>
+<exppoints>571439668</exppoints>
 <achievement>75</achievement>
 <guild>InTr0V3rT</guild>
 <quota>0</quota>
@@ -3780,7 +3780,7 @@
 <stats>
 <level>152</level>
 <vocation>warrior</vocation>
-<exppoints>430222896</exppoints>
+<exppoints>430308576</exppoints>
 <achievement>23</achievement>
 <guild>COMANDO BR</guild>
 <quota>0</quota>
@@ -3794,7 +3794,7 @@
 <stats>
 <level>147</level>
 <vocation>warrior</vocation>
-<exppoints>374660165</exppoints>
+<exppoints>376444775</exppoints>
 <achievement>16</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -3866,9 +3866,9 @@
 </character>
 <character name="Rakshasa">
 <stats>
-<level>98</level>
+<level>99</level>
 <vocation>wizard</vocation>
-<exppoints>74593660</exppoints>
+<exppoints>75732292</exppoints>
 <achievement>19</achievement>
 <guild>COMANDO BR</guild>
 <quota>0</quota>
@@ -3897,7 +3897,7 @@
 <stats>
 <level>66</level>
 <vocation>wizard</vocation>
-<exppoints>14690568</exppoints>
+<exppoints>14823624</exppoints>
 <achievement>8</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -3911,7 +3911,7 @@
 </characters>
 <guilds>
 <guild name="BUG"><exppoints>120000000</exppoints><gold>0</gold><platinum>0</platinum><leader>Killmeplz</leader><rank type="guild">1</rank></guild>
-<guild name="G O D"><exppoints>104127751</exppoints><gold>1970086</gold><platinum>4241</platinum><leader>Manan</leader><rank type="guild">2</rank></guild>
+<guild name="G O D"><exppoints>104127751</exppoints><gold>2470086</gold><platinum>4241</platinum><leader>Manan</leader><rank type="guild">2</rank></guild>
 <guild name="LIBERTYW1"><exppoints>95001174</exppoints><gold>68592</gold><platinum>44</platinum><leader>Ivibueno</leader><rank type="guild">3</rank></guild>
 <guild name="New Age"><exppoints>70392849</exppoints><gold>180101</gold><platinum>59524</platinum><leader>Guinny</leader><rank type="guild">4</rank></guild>
 <guild name="Renegados"><exppoints>43443237</exppoints><gold>180009</gold><platinum>20</platinum><leader>Destruido</leader><rank type="guild">5</rank></guild>
