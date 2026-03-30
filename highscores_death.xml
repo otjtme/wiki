@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1774835706785</GeneratedAt>
+  <GeneratedAt>1774836906763</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Fullz</Player>
@@ -27,10 +27,26 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Jeffin</Player>
+    <LostExp>2112775</LostExp>
+    <KilledBy>The Miner</KilledBy>
+    <Time>2026-03-30 02:00:36</Time>
+    <Location>(31856,31970,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Rakshasa</Player>
     <LostExp>2002730</LostExp>
     <KilledBy>Rishombie</KilledBy>
     <Time>2026-03-30 01:31:43</Time>
     <Location>(31910,31967,13)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Books</Player>
+    <LostExp>1494940</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2026-03-30 02:14:28</Time>
+    <Location>(31869,32060,8)</Location>
   </DeathEvent>
 </DeathHighscores>
