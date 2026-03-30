@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1774838106757</GeneratedAt>
+  <GeneratedAt>1774839306780</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Nythera</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Prometheuz</Player>
+    <LostExp>20827272</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2026-03-30 02:52:06</Time>
+    <Location>(32016,32202,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Jeffin</Player>
     <LostExp>2112775</LostExp>
     <KilledBy>The Miner</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31856,31970,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Rakshasa</Player>
     <LostExp>2002730</LostExp>
     <KilledBy>Rishombie</KilledBy>
@@ -58,11 +66,19 @@
     <Location>(31910,31967,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Books</Player>
     <LostExp>1494940</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2026-03-30 02:14:28</Time>
     <Location>(31869,32060,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Megawati</Player>
+    <LostExp>178980</LostExp>
+    <KilledBy>Jtmetv</KilledBy>
+    <Time>2026-03-30 02:46:59</Time>
+    <Location>(31974,31986,7)</Location>
   </DeathEvent>
 </DeathHighscores>
