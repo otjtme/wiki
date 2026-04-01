@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1775026506455</GeneratedAt>
+  <GeneratedAt>1775027706441</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kangheru</Player>
@@ -80,5 +80,21 @@
     <KilledBy>Treant</KilledBy>
     <Time>2026-04-01 01:12:26</Time>
     <Location>(31995,31908,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Mrrthienjr</Player>
+    <LostExp>8100</LostExp>
+    <KilledBy>Daemon</KilledBy>
+    <Time>2026-04-01 07:03:51</Time>
+    <Location>(31974,31985,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
+    <Player>Mrrthienjr</Player>
+    <LostExp>7290</LostExp>
+    <KilledBy>Wisper</KilledBy>
+    <Time>2026-04-01 07:08:32</Time>
+    <Location>(31893,31941,8)</Location>
   </DeathEvent>
 </DeathHighscores>
