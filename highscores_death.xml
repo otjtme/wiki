@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1775003706431</GeneratedAt>
+  <GeneratedAt>1775004906433</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kangheru</Player>
@@ -24,5 +24,21 @@
     <KilledBy>Lord Demun</KilledBy>
     <Time>2026-04-01 00:27:45</Time>
     <Location>(31975,31814,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Soninho</Player>
+    <LostExp>6276831</LostExp>
+    <KilledBy>Gigantula</KilledBy>
+    <Time>2026-04-01 00:51:26</Time>
+    <Location>(32925,32050,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Dork</Player>
+    <LostExp>3125770</LostExp>
+    <KilledBy>Bloodbeak</KilledBy>
+    <Time>2026-04-01 00:41:45</Time>
+    <Location>(32840,32049,7)</Location>
   </DeathEvent>
 </DeathHighscores>
