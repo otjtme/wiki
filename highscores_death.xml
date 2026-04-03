@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1775208905776</GeneratedAt>
+  <GeneratedAt>1775210105785</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Templar</Player>
@@ -224,5 +224,13 @@
     <KilledBy>Fire Drake</KilledBy>
     <Time>2026-04-03 07:40:39</Time>
     <Location>(32024,31945,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>29</Rank>
+    <Player>Runoda</Player>
+    <LostExp>1456</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2026-04-03 09:46:48</Time>
+    <Location>(31912,32043,8)</Location>
   </DeathEvent>
 </DeathHighscores>
