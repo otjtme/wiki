@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1775349308092</GeneratedAt>
+  <GeneratedAt>1775350508094</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Darkstalke</Player>
@@ -8,5 +8,29 @@
     <KilledBy>Volcanus</KilledBy>
     <Time>2026-04-05 01:09:49</Time>
     <Location>(32263,32083,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Malware</Player>
+    <LostExp>10771540</LostExp>
+    <KilledBy>Draguns</KilledBy>
+    <Time>2026-04-05 02:48:08</Time>
+    <Location>(31886,31957,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Novitaa</Player>
+    <LostExp>270383</LostExp>
+    <KilledBy>Nfa</KilledBy>
+    <Time>2026-04-05 02:43:42</Time>
+    <Location>(32822,31919,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Runoda</Player>
+    <LostExp>2359</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2026-04-05 02:40:56</Time>
+    <Location>(31901,32048,8)</Location>
   </DeathEvent>
 </DeathHighscores>
