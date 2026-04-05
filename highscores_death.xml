@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1775351708094</GeneratedAt>
+  <GeneratedAt>1775352908094</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Darkstalke</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Rinse</Player>
+    <LostExp>18830428</LostExp>
+    <KilledBy>Apprentice</KilledBy>
+    <Time>2026-04-05 03:34:43</Time>
+    <Location>(31992,31994,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Malware</Player>
     <LostExp>10771540</LostExp>
     <KilledBy>Draguns</KilledBy>
@@ -18,7 +26,15 @@
     <Location>(31886,31957,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
+    <Player>Uncry</Player>
+    <LostExp>1295197</LostExp>
+    <KilledBy>Bokk</KilledBy>
+    <Time>2026-04-05 03:20:00</Time>
+    <Location>(31964,32073,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Novitaa</Player>
     <LostExp>270383</LostExp>
     <KilledBy>Nfa</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(32822,31919,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Runoda</Player>
     <LostExp>2359</LostExp>
     <KilledBy>Werewolf</KilledBy>
