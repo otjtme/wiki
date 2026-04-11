@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1775870107782</GeneratedAt>
+  <GeneratedAt>1775871307786</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Zetton</Player>
@@ -56,5 +56,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2026-04-11 03:00:58</Time>
     <Location>(31902,32045,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Kagero</Player>
+    <LostExp>175932</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2026-04-11 03:22:24</Time>
+    <Location>(31992,31943,10)</Location>
   </DeathEvent>
 </DeathHighscores>
