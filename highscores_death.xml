@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1776050149214</GeneratedAt>
+  <GeneratedAt>1776051349215</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Kpk</Player>
@@ -136,5 +136,13 @@
     <KilledBy>Tarantula</KilledBy>
     <Time>2026-04-13 04:22:32</Time>
     <Location>(31874,31909,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>18</Rank>
+    <Player>Badure</Player>
+    <LostExp>7647</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2026-04-13 05:31:30</Time>
+    <Location>(32014,32034,8)</Location>
   </DeathEvent>
 </DeathHighscores>
