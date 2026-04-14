@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1776171307833</GeneratedAt>
+  <GeneratedAt>1776172507844</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Jokerz</Player>
@@ -216,5 +216,21 @@
     <KilledBy>Chaleton</KilledBy>
     <Time>2026-04-14 03:16:00</Time>
     <Location>(32188,32273,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>28</Rank>
+    <Player>Jackpick</Player>
+    <LostExp>149</LostExp>
+    <KilledBy>Bat</KilledBy>
+    <Time>2026-04-14 15:07:08</Time>
+    <Location>(31930,32059,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>29</Rank>
+    <Player>Jackpick</Player>
+    <LostExp>45</LostExp>
+    <KilledBy>Bug</KilledBy>
+    <Time>2026-04-14 15:00:23</Time>
+    <Location>(31946,31993,8)</Location>
   </DeathEvent>
 </DeathHighscores>
