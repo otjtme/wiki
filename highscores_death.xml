@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1776208507547</GeneratedAt>
+  <GeneratedAt>1776209707566</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Olocausto</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Astreus</Player>
+    <LostExp>721285167</LostExp>
+    <KilledBy>Custelazk</KilledBy>
+    <Time>2026-04-15 01:16:42</Time>
+    <Location>(31903,31855,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Choc</Player>
     <LostExp>2407363</LostExp>
     <KilledBy>Fire Drake</KilledBy>
@@ -18,11 +26,19 @@
     <Location>(31990,31950,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Zieavo</Player>
     <LostExp>249421</LostExp>
     <KilledBy>Bear</KilledBy>
     <Time>2026-04-15 00:57:48</Time>
     <Location>(32039,31981,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Kamado</Player>
+    <LostExp>60</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2026-04-15 01:21:31</Time>
+    <Location>(32189,32271,9)</Location>
   </DeathEvent>
 </DeathHighscores>
