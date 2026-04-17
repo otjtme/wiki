@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1776392256819</GeneratedAt>
+  <GeneratedAt>1776393456821</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Darkstalke</Player>
@@ -56,5 +56,21 @@
     <KilledBy>Odysseus</KilledBy>
     <Time>2026-04-17 04:16:19</Time>
     <Location>(31974,31987,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Frostfire</Player>
+    <LostExp>28710</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2026-04-17 04:24:51</Time>
+    <Location>(32025,31942,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Frostfire</Player>
+    <LostExp>25944</LostExp>
+    <KilledBy>Fanatic</KilledBy>
+    <Time>2026-04-17 04:30:41</Time>
+    <Location>(31917,32009,8)</Location>
   </DeathEvent>
 </DeathHighscores>
