@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1776391056827</GeneratedAt>
+  <GeneratedAt>1776392256819</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Darkstalke</Player>
@@ -40,5 +40,21 @@
     <KilledBy>The Gorath</KilledBy>
     <Time>2026-04-17 02:22:40</Time>
     <Location>(31955,31804,12)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Teeyai</Player>
+    <LostExp>602503</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2026-04-17 04:01:56</Time>
+    <Location>(31874,32060,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Frostfire</Player>
+    <LostExp>31885</LostExp>
+    <KilledBy>Odysseus</KilledBy>
+    <Time>2026-04-17 04:16:19</Time>
+    <Location>(31974,31987,7)</Location>
   </DeathEvent>
 </DeathHighscores>
