@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1776555307997</GeneratedAt>
+  <GeneratedAt>1776556507980</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Patty</Player>
@@ -11,6 +11,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Blackheart</Player>
+    <LostExp>141174001</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2026-04-19 01:36:40</Time>
+    <Location>(31943,32222,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Zaraki</Player>
+    <LostExp>138774551</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2026-04-19 01:46:50</Time>
+    <Location>(32822,32014,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Killermgic</Player>
     <LostExp>32003873</LostExp>
     <KilledBy>Demun</KilledBy>
@@ -18,7 +34,7 @@
     <Location>(31954,31803,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Biwxx</Player>
     <LostExp>7018250</LostExp>
     <KilledBy>Master Snowling</KilledBy>
@@ -26,7 +42,7 @@
     <Location>(31975,31800,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Notis</Player>
     <LostExp>5258942</LostExp>
     <KilledBy>Demun</KilledBy>
@@ -34,7 +50,7 @@
     <Location>(31954,31803,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>7</Rank>
     <Player>Fala</Player>
     <LostExp>3580828</LostExp>
     <KilledBy>Master Haruk</KilledBy>
@@ -42,11 +58,19 @@
     <Location>(31977,31802,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>8</Rank>
     <Player>Fala</Player>
     <LostExp>3222767</LostExp>
     <KilledBy>The Snowling</KilledBy>
     <Time>2026-04-19 00:36:28</Time>
     <Location>(31957,31799,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Hjhboss</Player>
+    <LostExp>2631348</LostExp>
+    <KilledBy>Ghostsin</KilledBy>
+    <Time>2026-04-19 01:41:59</Time>
+    <Location>(32043,31803,8)</Location>
   </DeathEvent>
 </DeathHighscores>
