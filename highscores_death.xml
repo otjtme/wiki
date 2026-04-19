@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1776639308615</GeneratedAt>
+  <GeneratedAt>1776640508626</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Astreus</Player>
@@ -27,10 +27,26 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Pecanding</Player>
+    <LostExp>488819</LostExp>
+    <KilledBy>The Haruk</KilledBy>
+    <Time>2026-04-20 01:08:37</Time>
+    <Location>(31955,31804,13)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
     <Player>Kinaxd</Player>
     <LostExp>121572</LostExp>
     <KilledBy>The Bug</KilledBy>
     <Time>2026-04-20 00:38:33</Time>
     <Location>(31985,32019,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Kinaxd</Player>
+    <LostExp>116883</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2026-04-20 00:56:07</Time>
+    <Location>(31892,31902,9)</Location>
   </DeathEvent>
 </DeathHighscores>
