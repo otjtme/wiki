@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1776650108579</GeneratedAt>
+  <GeneratedAt>1776651308596</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Astreus</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Kopii</Player>
+    <LostExp>1741935</LostExp>
+    <KilledBy>Baby Drake</KilledBy>
+    <Time>2026-04-20 04:09:09</Time>
+    <Location>(31990,31938,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Teeyai</Player>
     <LostExp>1714936</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32856,32004,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Pecanding</Player>
     <LostExp>488819</LostExp>
     <KilledBy>The Haruk</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31955,31804,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Kinaxd</Player>
     <LostExp>122078</LostExp>
     <KilledBy>GM-Doro</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32039,32039,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Kinaxd</Player>
     <LostExp>121572</LostExp>
     <KilledBy>The Bug</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31985,32019,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Kinaxd</Player>
     <LostExp>116883</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -82,11 +90,19 @@
     <Location>(31892,31902,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Kinaxd</Player>
     <LostExp>111784</LostExp>
     <KilledBy>The Bug</KilledBy>
     <Time>2026-04-20 01:28:06</Time>
     <Location>(31985,32019,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
+    <Player>Godness</Player>
+    <LostExp>27232</LostExp>
+    <KilledBy>Rabid Bear</KilledBy>
+    <Time>2026-04-20 03:58:35</Time>
+    <Location>(32024,31975,9)</Location>
   </DeathEvent>
 </DeathHighscores>
