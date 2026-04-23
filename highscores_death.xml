@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1776924904958</GeneratedAt>
+  <GeneratedAt>1776926104956</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Olocausto</Player>
@@ -176,5 +176,13 @@
     <KilledBy>Skeleton</KilledBy>
     <Time>2026-04-23 02:11:43</Time>
     <Location>(32013,32029,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
+    <Player>Cresponder</Player>
+    <LostExp>440105</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2026-04-23 08:30:04</Time>
+    <Location>(31999,32045,8)</Location>
   </DeathEvent>
 </DeathHighscores>
