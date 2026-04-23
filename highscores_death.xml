@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1776902104992</GeneratedAt>
+  <GeneratedAt>1776903304979</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mephisto</Player>
@@ -16,5 +16,13 @@
     <KilledBy>Flutty</KilledBy>
     <Time>2026-04-23 00:40:32</Time>
     <Location>(32065,31822,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Safadao</Player>
+    <LostExp>702550</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2026-04-23 02:11:43</Time>
+    <Location>(32013,32029,8)</Location>
   </DeathEvent>
 </DeathHighscores>
