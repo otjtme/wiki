@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1776958504989</GeneratedAt>
+  <GeneratedAt>1776959704968</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Olocausto</Player>
@@ -296,5 +296,13 @@
     <KilledBy>Daemon</KilledBy>
     <Time>2026-04-23 08:58:42</Time>
     <Location>(32062,32297,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>38</Rank>
+    <Player>Dobobo</Player>
+    <LostExp>31</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2026-04-23 17:38:26</Time>
+    <Location>(31890,32007,8)</Location>
   </DeathEvent>
 </DeathHighscores>
