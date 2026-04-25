@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1777145707429</GeneratedAt>
+  <GeneratedAt>1777146907426</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Olocausto</Player>
@@ -356,13 +356,21 @@
   <DeathEvent>
     <Rank>45</Rank>
     <Player>Burara</Player>
+    <LostExp>20123</LostExp>
+    <KilledBy>Orc</KilledBy>
+    <Time>2026-04-25 21:38:26</Time>
+    <Location>(31992,31863,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>46</Rank>
+    <Player>Burara</Player>
     <LostExp>13129</LostExp>
     <KilledBy>Skeleton</KilledBy>
     <Time>2026-04-25 21:11:51</Time>
     <Location>(32012,32026,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>46</Rank>
+    <Rank>47</Rank>
     <Player>Burara</Player>
     <LostExp>11967</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -370,7 +378,7 @@
     <Location>(32003,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>47</Rank>
+    <Rank>48</Rank>
     <Player>Lop</Player>
     <LostExp>10949</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -378,7 +386,7 @@
     <Location>(32005,31872,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>48</Rank>
+    <Rank>49</Rank>
     <Player>Burara</Player>
     <LostExp>8016</LostExp>
     <KilledBy>Shogun</KilledBy>
@@ -386,7 +394,7 @@
     <Location>(32055,31895,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>49</Rank>
+    <Rank>50</Rank>
     <Player>Gab</Player>
     <LostExp>7940</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -394,7 +402,7 @@
     <Location>(31878,32059,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>50</Rank>
+    <Rank>51</Rank>
     <Player>Burara</Player>
     <LostExp>7495</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -402,7 +410,7 @@
     <Location>(31978,31895,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>51</Rank>
+    <Rank>52</Rank>
     <Player>Lop</Player>
     <LostExp>4837</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -410,7 +418,7 @@
     <Location>(32010,31876,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>52</Rank>
+    <Rank>53</Rank>
     <Player>Gab</Player>
     <LostExp>4112</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -418,11 +426,19 @@
     <Location>(31862,32051,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>53</Rank>
+    <Rank>54</Rank>
     <Player>Burara</Player>
     <LostExp>657</LostExp>
     <KilledBy>Petty</KilledBy>
     <Time>2026-04-25 15:48:48</Time>
     <Location>(31980,32007,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>55</Rank>
+    <Player>Enzur</Player>
+    <LostExp>94</LostExp>
+    <KilledBy>Goblin</KilledBy>
+    <Time>2026-04-25 21:49:23</Time>
+    <Location>(32270,32377,11)</Location>
   </DeathEvent>
 </DeathHighscores>
