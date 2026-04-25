@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1777076107437</GeneratedAt>
+  <GeneratedAt>1777077307445</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Zabo</Player>
@@ -19,10 +19,26 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Lukszeraa</Player>
+    <LostExp>35203590</LostExp>
+    <KilledBy>Blaze Master</KilledBy>
+    <Time>2026-04-25 02:18:54</Time>
+    <Location>(31994,32255,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Maclove</Player>
     <LostExp>26723222</LostExp>
     <KilledBy>Wardy</KilledBy>
     <Time>2026-04-25 02:09:53</Time>
     <Location>(32018,32204,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Banana</Player>
+    <LostExp>4476757</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2026-04-25 02:21:29</Time>
+    <Location>(31861,32051,8)</Location>
   </DeathEvent>
 </DeathHighscores>
