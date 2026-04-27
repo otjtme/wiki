@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1777253708292</GeneratedAt>
+  <GeneratedAt>1777254908302</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Caiim</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Melbylaw</Player>
+    <LostExp>1548702</LostExp>
+    <KilledBy>Ghostsin</KilledBy>
+    <Time>2026-04-27 03:40:41</Time>
+    <Location>(32047,31801,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Wifi</Player>
     <LostExp>474728</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -66,11 +74,19 @@
     <Location>(32853,31970,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Balonida</Player>
     <LostExp>168807</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2026-04-27 03:16:13</Time>
     <Location>(32007,31876,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Balonida</Player>
+    <LostExp>158733</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2026-04-27 03:46:17</Time>
+    <Location>(32008,31882,8)</Location>
   </DeathEvent>
 </DeathHighscores>
