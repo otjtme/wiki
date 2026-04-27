@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1777252508286</GeneratedAt>
+  <GeneratedAt>1777253708292</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Caiim</Player>
@@ -56,5 +56,21 @@
     <KilledBy>Gaynou</KilledBy>
     <Time>2026-04-27 03:00:26</Time>
     <Location>(31912,31849,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Wifi</Player>
+    <LostExp>474728</LostExp>
+    <KilledBy>Redeath</KilledBy>
+    <Time>2026-04-27 03:24:38</Time>
+    <Location>(32853,31970,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Balonida</Player>
+    <LostExp>168807</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2026-04-27 03:16:13</Time>
+    <Location>(32007,31876,8)</Location>
   </DeathEvent>
 </DeathHighscores>
