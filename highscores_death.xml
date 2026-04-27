@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1777331707487</GeneratedAt>
+  <GeneratedAt>1777332907490</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Forasteiro</Player>
@@ -8,5 +8,21 @@
     <KilledBy>Kaelthas</KilledBy>
     <Time>2026-04-28 01:00:24</Time>
     <Location>(32278,32041,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Lovemeplss</Player>
+    <LostExp>45690208</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2026-04-28 01:28:28</Time>
+    <Location>(32059,31824,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Koc</Player>
+    <LostExp>18493</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2026-04-28 01:21:15</Time>
+    <Location>(32003,31883,12)</Location>
   </DeathEvent>
 </DeathHighscores>
