@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1777362907471</GeneratedAt>
+  <GeneratedAt>1777364107478</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Olocausto</Player>
@@ -176,5 +176,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2026-04-28 01:21:15</Time>
     <Location>(32003,31883,12)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
+    <Player>Newminutes</Player>
+    <LostExp>1344</LostExp>
+    <KilledBy>Spider</KilledBy>
+    <Time>2026-04-28 10:01:27</Time>
+    <Location>(31942,31922,9)</Location>
   </DeathEvent>
 </DeathHighscores>
