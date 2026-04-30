@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1777588505144</GeneratedAt>
+  <GeneratedAt>1777589705155</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Tickxx</Player>
@@ -8,5 +8,21 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2026-05-01 00:21:57</Time>
     <Location>(32010,31877,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Jjf</Player>
+    <LostExp>2184843</LostExp>
+    <KilledBy>Crystally</KilledBy>
+    <Time>2026-05-01 00:50:05</Time>
+    <Location>(32018,31814,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Barilu</Player>
+    <LostExp>788241</LostExp>
+    <KilledBy>Demun</KilledBy>
+    <Time>2026-05-01 00:46:00</Time>
+    <Location>(31982,31812,10)</Location>
   </DeathEvent>
 </DeathHighscores>
