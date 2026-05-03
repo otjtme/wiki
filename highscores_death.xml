@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1777786508133</GeneratedAt>
+  <GeneratedAt>1777787708132</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Caiim</Player>
@@ -83,6 +83,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Kuangkhaow</Player>
+    <LostExp>3456939</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2026-05-03 07:37:36</Time>
+    <Location>(32064,31818,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Deehom</Player>
     <LostExp>902417</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(32006,31879,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Barilu</Player>
     <LostExp>710048</LostExp>
     <KilledBy>Snowling</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31957,31799,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Leiu</Player>
     <LostExp>606191</LostExp>
     <KilledBy>The Haruk</KilledBy>
@@ -106,11 +114,19 @@
     <Location>(31957,31799,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Reisss</Player>
     <LostExp>154258</LostExp>
     <KilledBy>Orc Leader</KilledBy>
     <Time>2026-05-03 03:55:41</Time>
     <Location>(32007,31876,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
+    <Player>Godofworld</Player>
+    <LostExp>7920</LostExp>
+    <KilledBy>Shogun</KilledBy>
+    <Time>2026-05-03 07:38:19</Time>
+    <Location>(32055,31895,8)</Location>
   </DeathEvent>
 </DeathHighscores>
