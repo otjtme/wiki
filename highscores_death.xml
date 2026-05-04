@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1777860908069</GeneratedAt>
+  <GeneratedAt>1777862108061</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Soft</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Eater</Player>
+    <LostExp>82029719</LostExp>
+    <KilledBy>Demun</KilledBy>
+    <Time>2026-05-04 04:26:55</Time>
+    <Location>(31968,31802,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Botaronoku</Player>
     <LostExp>17784287</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31898,32046,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Julieta</Player>
     <LostExp>14588428</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32837,32053,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Malware</Player>
     <LostExp>8745764</LostExp>
     <KilledBy>Yellow</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31924,31855,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Faxa</Player>
     <LostExp>6247148</LostExp>
     <KilledBy>Frostily</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32019,31814,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Faxa</Player>
     <LostExp>5622433</LostExp>
     <KilledBy>Frostily</KilledBy>
@@ -58,11 +66,27 @@
     <Location>(31961,32005,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Gen</Player>
     <LostExp>3176913</LostExp>
     <KilledBy>Demun</KilledBy>
     <Time>2026-05-04 02:52:42</Time>
     <Location>(31955,31802,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Barilu</Player>
+    <LostExp>853386</LostExp>
+    <KilledBy>Demun</KilledBy>
+    <Time>2026-05-04 04:19:28</Time>
+    <Location>(31957,31799,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Leiu</Player>
+    <LostExp>545632</LostExp>
+    <KilledBy>Tenebris</KilledBy>
+    <Time>2026-05-04 04:23:29</Time>
+    <Location>(31957,31800,14)</Location>
   </DeathEvent>
 </DeathHighscores>
