@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1777853708080</GeneratedAt>
+  <GeneratedAt>1777854908053</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Soft</Player>
@@ -19,6 +19,30 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Botaronoku</Player>
+    <LostExp>17784287</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2026-05-04 02:22:54</Time>
+    <Location>(31898,32046,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Julieta</Player>
+    <LostExp>14588428</LostExp>
+    <KilledBy>Bloodbeak</KilledBy>
+    <Time>2026-05-04 02:23:41</Time>
+    <Location>(32837,32053,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Malware</Player>
+    <LostExp>8745764</LostExp>
+    <KilledBy>Yellow</KilledBy>
+    <Time>2026-05-04 02:19:17</Time>
+    <Location>(31924,31855,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Faxa</Player>
     <LostExp>6247148</LostExp>
     <KilledBy>Frostily</KilledBy>
@@ -26,7 +50,7 @@
     <Location>(32019,31814,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>7</Rank>
     <Player>Faxa</Player>
     <LostExp>5622433</LostExp>
     <KilledBy>Frostily</KilledBy>
