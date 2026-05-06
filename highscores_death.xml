@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1778027706721</GeneratedAt>
+  <GeneratedAt>1778028906734</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mikellz</Player>
@@ -35,6 +35,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>5</Rank>
+    <Player>Biwxx</Player>
+    <LostExp>7674742</LostExp>
+    <KilledBy>Lucyr</KilledBy>
+    <Time>2026-05-06 02:42:47</Time>
+    <Location>(32048,32340,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Fcde</Player>
     <LostExp>2376718</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(32063,31821,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Zikzira</Player>
     <LostExp>1330343</LostExp>
     <KilledBy>Redeath</KilledBy>
@@ -50,11 +58,19 @@
     <Location>(32872,31998,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Boreda</Player>
     <LostExp>16859</LostExp>
     <KilledBy>Scorpion</KilledBy>
     <Time>2026-05-06 02:33:22</Time>
     <Location>(31977,31892,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
+    <Player>Boreda</Player>
+    <LostExp>15621</LostExp>
+    <KilledBy>Bloodfly</KilledBy>
+    <Time>2026-05-06 02:41:11</Time>
+    <Location>(31919,31927,10)</Location>
   </DeathEvent>
 </DeathHighscores>
