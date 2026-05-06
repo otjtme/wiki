@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1778098506712</GeneratedAt>
+  <GeneratedAt>1778099706717</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Olocausto</Player>
@@ -496,5 +496,13 @@
     <KilledBy>Shogun</KilledBy>
     <Time>2026-05-06 21:46:19</Time>
     <Location>(32055,31895,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>63</Rank>
+    <Player>Cone</Player>
+    <LostExp>13056</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2026-05-06 22:22:04</Time>
+    <Location>(31893,32048,8)</Location>
   </DeathEvent>
 </DeathHighscores>
