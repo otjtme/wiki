@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1778147705303</GeneratedAt>
+  <GeneratedAt>1778148905326</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Odysseus</Player>
@@ -128,5 +128,13 @@
     <KilledBy>Terrorbird</KilledBy>
     <Time>2026-05-07 01:23:26</Time>
     <Location>(31930,32024,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>17</Rank>
+    <Player>Cone</Player>
+    <LostExp>191679</LostExp>
+    <KilledBy>Treant</KilledBy>
+    <Time>2026-05-07 11:56:29</Time>
+    <Location>(31999,31926,8)</Location>
   </DeathEvent>
 </DeathHighscores>
