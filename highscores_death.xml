@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1778153705320</GeneratedAt>
+  <GeneratedAt>1778154905323</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Odysseus</Player>
@@ -99,6 +99,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>13</Rank>
+    <Player>Goodbye</Player>
+    <LostExp>25302678</LostExp>
+    <KilledBy>Giggles Ghost</KilledBy>
+    <Time>2026-05-07 13:35:25</Time>
+    <Location>(32260,32186,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
+    <Player>Goodbye</Player>
+    <LostExp>22772410</LostExp>
+    <KilledBy>Giggles Ghost</KilledBy>
+    <Time>2026-05-07 13:39:56</Time>
+    <Location>(32258,32188,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
     <Player>Dejajs</Player>
     <LostExp>21333847</LostExp>
     <KilledBy>Bastinx</KilledBy>
@@ -106,7 +122,7 @@
     <Location>(32869,32018,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>16</Rank>
     <Player>Khunheee</Player>
     <LostExp>8394463</LostExp>
     <KilledBy>Demun</KilledBy>
@@ -114,7 +130,7 @@
     <Location>(31957,31799,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>17</Rank>
     <Player>Cladoberto</Player>
     <LostExp>3361419</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -122,7 +138,7 @@
     <Location>(31931,32222,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>18</Rank>
     <Player>Mrjoker</Player>
     <LostExp>3311112</LostExp>
     <KilledBy>Rishombie</KilledBy>
@@ -130,7 +146,7 @@
     <Location>(31907,31983,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>17</Rank>
+    <Rank>19</Rank>
     <Player>Cresponder</Player>
     <LostExp>1390767</LostExp>
     <KilledBy>Terrorbird</KilledBy>
@@ -138,7 +154,7 @@
     <Location>(31930,32024,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>18</Rank>
+    <Rank>20</Rank>
     <Player>Cone</Player>
     <LostExp>191679</LostExp>
     <KilledBy>Treant</KilledBy>
@@ -146,7 +162,7 @@
     <Location>(31999,31926,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>21</Rank>
     <Player>Boreda</Player>
     <LostExp>116349</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -154,11 +170,19 @@
     <Location>(31880,32058,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>22</Rank>
     <Player>Boreda</Player>
     <LostExp>106507</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2026-05-07 13:14:46</Time>
     <Location>(31876,32059,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>23</Rank>
+    <Player>Boreda</Player>
+    <LostExp>106163</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2026-05-07 13:36:09</Time>
+    <Location>(31989,32014,8)</Location>
   </DeathEvent>
 </DeathHighscores>
