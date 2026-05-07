@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1778154905323</GeneratedAt>
+  <GeneratedAt>1778156105300</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Odysseus</Player>
@@ -184,5 +184,13 @@
     <KilledBy>The Bug</KilledBy>
     <Time>2026-05-07 13:36:09</Time>
     <Location>(31989,32014,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>24</Rank>
+    <Player>Snl</Player>
+    <LostExp>490</LostExp>
+    <KilledBy>Bloodfly</KilledBy>
+    <Time>2026-05-07 13:58:04</Time>
+    <Location>(31928,31956,10)</Location>
   </DeathEvent>
 </DeathHighscores>
