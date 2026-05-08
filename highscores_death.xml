@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1778212505595</GeneratedAt>
+  <GeneratedAt>1778213705605</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Castiel</Player>
@@ -43,6 +43,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>6</Rank>
+    <Player>Majesty</Player>
+    <LostExp>11930463</LostExp>
+    <KilledBy>Gigantula</KilledBy>
+    <Time>2026-05-08 06:01:41</Time>
+    <Location>(32925,32050,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
     <Player>Raqiw</Player>
     <LostExp>11362570</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(32826,32024,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Turbo</Player>
     <LostExp>9746630</LostExp>
     <KilledBy>Ghostnon</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32044,31798,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Deathkina</Player>
     <LostExp>4445452</LostExp>
     <KilledBy>Ghostsin</KilledBy>
@@ -66,11 +74,19 @@
     <Location>(32040,31796,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Cladoberto</Player>
     <LostExp>3385874</LostExp>
     <KilledBy>Chaombie</KilledBy>
     <Time>2026-05-08 03:48:40</Time>
     <Location>(31940,32223,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Siaez</Player>
+    <LostExp>4375</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2026-05-08 06:00:28</Time>
+    <Location>(31988,32013,8)</Location>
   </DeathEvent>
 </DeathHighscores>
