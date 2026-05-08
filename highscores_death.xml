@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1778204105591</GeneratedAt>
+  <GeneratedAt>1778205305601</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gree</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Death</Player>
+    <LostExp>83194899</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2026-05-08 03:50:41</Time>
+    <Location>(32899,32004,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Larurane</Player>
     <LostExp>24139615</LostExp>
     <KilledBy>Leechacle</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32791,32033,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Raqiw</Player>
     <LostExp>11362570</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
@@ -26,11 +34,19 @@
     <Location>(32826,32024,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Deathkina</Player>
     <LostExp>4445452</LostExp>
     <KilledBy>Ghostsin</KilledBy>
     <Time>2026-05-08 00:49:34</Time>
     <Location>(32040,31796,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Cladoberto</Player>
+    <LostExp>3385874</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2026-05-08 03:48:40</Time>
+    <Location>(31940,32223,7)</Location>
   </DeathEvent>
 </DeathHighscores>
