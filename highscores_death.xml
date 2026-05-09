@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1778311637865</GeneratedAt>
+  <GeneratedAt>1778312837833</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Gaynou</Player>
@@ -104,5 +104,29 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2026-05-09 06:23:22</Time>
     <Location>(31866,32055,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
+    <Player>Arenabornz</Player>
+    <LostExp>61134</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2026-05-09 09:34:52</Time>
+    <Location>(31961,31915,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
+    <Player>Arenabornz</Player>
+    <LostExp>55089</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2026-05-09 09:36:48</Time>
+    <Location>(31988,32017,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>16</Rank>
+    <Player>Amaterasu</Player>
+    <LostExp>63</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2026-05-09 09:30:42</Time>
+    <Location>(31988,32014,8)</Location>
   </DeathEvent>
 </DeathHighscores>
