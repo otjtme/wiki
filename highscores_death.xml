@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1778420107910</GeneratedAt>
+  <GeneratedAt>1778421307917</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bruxo</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Dudodi</Player>
+    <LostExp>246029132</LostExp>
+    <KilledBy>Crustea</KilledBy>
+    <Time>2026-05-10 15:45:17</Time>
+    <Location>(32859,31993,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Awungmax</Player>
     <LostExp>189191045</LostExp>
     <KilledBy>Frostily</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32018,31806,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Mistica</Player>
     <LostExp>171995674</LostExp>
     <KilledBy>Blaze Master</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31982,32266,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Dargona</Player>
     <LostExp>56918851</LostExp>
     <KilledBy>Bermouth</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32242,32170,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Rinse</Player>
     <LostExp>50221116</LostExp>
     <KilledBy>Master Demun</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31971,31800,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Majesty</Player>
     <LostExp>23008326</LostExp>
     <KilledBy>Snowling</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31957,31801,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Mrhafiz</Player>
     <LostExp>18025619</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(32064,31819,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Raqiw</Player>
     <LostExp>15879723</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32819,32013,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Turbo</Player>
     <LostExp>8733230</LostExp>
     <KilledBy>Master Tenebris</KilledBy>
@@ -74,7 +82,7 @@
     <Location>(31968,31802,14)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Celcom</Player>
     <LostExp>7328205</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -82,7 +90,7 @@
     <Location>(31883,32054,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>11</Rank>
+    <Rank>12</Rank>
     <Player>Netflix</Player>
     <LostExp>7205007</LostExp>
     <KilledBy>Haruk</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31957,31801,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Orkut</Player>
     <LostExp>6684567</LostExp>
     <KilledBy>Haruk</KilledBy>
@@ -98,7 +106,7 @@
     <Location>(31957,31801,13)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>13</Rank>
+    <Rank>14</Rank>
     <Player>Melbylaw</Player>
     <LostExp>1708846</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -106,7 +114,7 @@
     <Location>(32060,31827,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>14</Rank>
+    <Rank>15</Rank>
     <Player>Rell</Player>
     <LostExp>858961</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -114,7 +122,7 @@
     <Location>(32200,32261,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>15</Rank>
+    <Rank>16</Rank>
     <Player>Rell</Player>
     <LostExp>839579</LostExp>
     <KilledBy>Chaleton</KilledBy>
@@ -122,20 +130,12 @@
     <Location>(32174,32249,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>16</Rank>
+    <Rank>17</Rank>
     <Player>Barbin</Player>
     <LostExp>379213</LostExp>
     <KilledBy>Wisper</KilledBy>
     <Time>2026-05-10 08:43:59</Time>
     <Location>(31895,31934,8)</Location>
-  </DeathEvent>
-  <DeathEvent>
-    <Rank>17</Rank>
-    <Player>Soul</Player>
-    <LostExp>185083</LostExp>
-    <KilledBy>Rabid Bear</KilledBy>
-    <Time>2026-05-10 05:34:43</Time>
-    <Location>(32023,31974,9)</Location>
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
@@ -147,6 +147,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>19</Rank>
+    <Player>Soul</Player>
+    <LostExp>185083</LostExp>
+    <KilledBy>Rabid Bear</KilledBy>
+    <Time>2026-05-10 05:34:43</Time>
+    <Location>(32023,31974,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
     <Player>Didarube</Player>
     <LostExp>140379</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -154,7 +162,7 @@
     <Location>(31897,32047,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Didarube</Player>
     <LostExp>130409</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -162,7 +170,7 @@
     <Location>(32016,31990,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Player>Didarube</Player>
     <LostExp>126948</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -170,7 +178,7 @@
     <Location>(31912,32043,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Player>Didarube</Player>
     <LostExp>123819</LostExp>
     <KilledBy>Bear</KilledBy>
@@ -178,7 +186,7 @@
     <Location>(32016,31990,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>23</Rank>
+    <Rank>24</Rank>
     <Player>Didarube</Player>
     <LostExp>85746</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -186,7 +194,7 @@
     <Location>(31881,31912,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Player>Didarube</Player>
     <LostExp>15544</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -194,7 +202,7 @@
     <Location>(31977,31910,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>25</Rank>
+    <Rank>26</Rank>
     <Player>Asoul</Player>
     <LostExp>559</LostExp>
     <KilledBy>Hjhboss</KilledBy>
