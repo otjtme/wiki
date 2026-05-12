@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1778560507798</GeneratedAt>
+  <GeneratedAt>1778561707781</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Iim</Player>
@@ -72,5 +72,21 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2026-05-12 04:49:46</Time>
     <Location>(31882,32057,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Orcky</Player>
+    <LostExp>615636</LostExp>
+    <KilledBy>Tenebris</KilledBy>
+    <Time>2026-05-12 06:49:20</Time>
+    <Location>(31957,31801,14)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Neludo</Player>
+    <LostExp>180915</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2026-05-12 06:51:59</Time>
+    <Location>(31978,31859,9)</Location>
   </DeathEvent>
 </DeathHighscores>
