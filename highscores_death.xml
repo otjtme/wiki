@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1778654107280</GeneratedAt>
+  <GeneratedAt>1778655307296</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pgkibou</Player>
@@ -139,6 +139,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>18</Rank>
+    <Player>Kan</Player>
+    <LostExp>464611</LostExp>
+    <KilledBy>Apprentice</KilledBy>
+    <Time>2026-05-13 08:50:18</Time>
+    <Location>(31992,31995,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
     <Player>Westtt</Player>
     <LostExp>84480</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -146,7 +154,7 @@
     <Location>(31912,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>19</Rank>
+    <Rank>20</Rank>
     <Player>Laduredo</Player>
     <LostExp>56391</LostExp>
     <KilledBy>Wisper</KilledBy>
@@ -154,11 +162,19 @@
     <Location>(31864,31947,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>20</Rank>
+    <Rank>21</Rank>
     <Player>Westtt</Player>
     <LostExp>28107</LostExp>
     <KilledBy>Werewolf</KilledBy>
     <Time>2026-05-13 05:27:35</Time>
     <Location>(31903,32046,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>22</Rank>
+    <Player>Noria</Player>
+    <LostExp>8421</LostExp>
+    <KilledBy>Fire Drake</KilledBy>
+    <Time>2026-05-13 08:38:56</Time>
+    <Location>(32024,31944,8)</Location>
   </DeathEvent>
 </DeathHighscores>
