@@ -7,7 +7,7 @@
 <stats>
 <level>902</level>
 <vocation>wizard</vocation>
-<exppoints>548264113188</exppoints>
+<exppoints>548264404508</exppoints>
 <achievement>356</achievement>
 <guild>B R Z</guild>
 <quota>0</quota>
@@ -583,7 +583,7 @@
 <stats>
 <level>679</level>
 <vocation>warrior</vocation>
-<exppoints>175789261151</exppoints>
+<exppoints>175789407839</exppoints>
 <achievement>165</achievement>
 <guild></guild>
 <quota>68</quota>
@@ -871,7 +871,7 @@
 <stats>
 <level>606</level>
 <vocation>wizard</vocation>
-<exppoints>111794284674</exppoints>
+<exppoints>111794348011</exppoints>
 <achievement>102</achievement>
 <guild>JTME</guild>
 <quota>0</quota>
@@ -917,8 +917,8 @@
 <stats>
 <level>604</level>
 <vocation>warrior</vocation>
-<exppoints>109862671162</exppoints>
-<achievement>255</achievement>
+<exppoints>109865673856</exppoints>
+<achievement>256</achievement>
 <guild>B R Z</guild>
 <quota>0</quota>
 </stats>
@@ -996,7 +996,7 @@
 <stats>
 <level>587</level>
 <vocation>warrior</vocation>
-<exppoints>98589594054</exppoints>
+<exppoints>98591169054</exppoints>
 <achievement>273</achievement>
 <guild>JTME</guild>
 <quota>1</quota>
@@ -1059,7 +1059,7 @@
 <stats>
 <level>583</level>
 <vocation>warrior</vocation>
-<exppoints>95382512097</exppoints>
+<exppoints>95385955544</exppoints>
 <achievement>113</achievement>
 <guild>DARK ARMY</guild>
 <quota>0</quota>
@@ -1074,7 +1074,7 @@
 <stats>
 <level>581</level>
 <vocation>warrior</vocation>
-<exppoints>94604066424</exppoints>
+<exppoints>94605746838</exppoints>
 <achievement>456</achievement>
 <guild>DARK ARMY</guild>
 <quota>78</quota>
@@ -1215,7 +1215,7 @@
 <stats>
 <level>567</level>
 <vocation>warrior</vocation>
-<exppoints>85494796181</exppoints>
+<exppoints>85498427259</exppoints>
 <achievement>175</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1707,7 +1707,7 @@
 <stats>
 <level>499</level>
 <vocation>warrior</vocation>
-<exppoints>51332694813</exppoints>
+<exppoints>51334795559</exppoints>
 <achievement>18</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1767,7 +1767,7 @@
 <stats>
 <level>494</level>
 <vocation>warrior</vocation>
-<exppoints>49373590490</exppoints>
+<exppoints>49375656680</exppoints>
 <achievement>230</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -1876,7 +1876,7 @@
 <stats>
 <level>475</level>
 <vocation>wizard</vocation>
-<exppoints>41995140304</exppoints>
+<exppoints>41997240304</exppoints>
 <achievement>0</achievement>
 <guild>B R Z</guild>
 <quota>0</quota>
@@ -2039,7 +2039,7 @@
 <stats>
 <level>454</level>
 <vocation>warrior</vocation>
-<exppoints>34968494099</exppoints>
+<exppoints>34970069999</exppoints>
 <achievement>100</achievement>
 <guild>BUG</guild>
 <quota>16</quota>
@@ -2337,7 +2337,7 @@
 <stats>
 <level>394</level>
 <vocation>warrior</vocation>
-<exppoints>19783514822</exppoints>
+<exppoints>19785527742</exppoints>
 <achievement>40</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -2578,7 +2578,7 @@
 <stats>
 <level>362</level>
 <vocation>wizard</vocation>
-<exppoints>14114486043</exppoints>
+<exppoints>14115613079</exppoints>
 <achievement>78</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -2654,7 +2654,7 @@
 <stats>
 <level>353</level>
 <vocation>warrior</vocation>
-<exppoints>12797786040</exppoints>
+<exppoints>12798311040</exppoints>
 <achievement>136</achievement>
 <guild>Blackbulls</guild>
 <quota>0</quota>
@@ -3100,6 +3100,22 @@
 <rank type="stars_wizard">24</rank>
 </ranks>
 </character>
+<character name="Nobalebi">
+<stats>
+<level>297</level>
+<vocation>wizard</vocation>
+<exppoints>6426991567</exppoints>
+<achievement>195</achievement>
+<guild>Blackbulls</guild>
+<quota>0</quota>
+</stats>
+<ranks>
+<rank type="highscore_global">202</rank>
+<rank type="highscore_wizard">56</rank>
+<rank type="stars_global">59</rank>
+<rank type="stars_wizard">14</rank>
+</ranks>
+</character>
 <character name="Kyurem">
 <stats>
 <level>297</level>
@@ -3110,25 +3126,9 @@
 <quota>0</quota>
 </stats>
 <ranks>
-<rank type="highscore_global">202</rank>
-<rank type="highscore_wizard">56</rank>
-<rank type="stars_wizard">57</rank>
-</ranks>
-</character>
-<character name="Nobalebi">
-<stats>
-<level>297</level>
-<vocation>wizard</vocation>
-<exppoints>6425400670</exppoints>
-<achievement>195</achievement>
-<guild>Blackbulls</guild>
-<quota>0</quota>
-</stats>
-<ranks>
 <rank type="highscore_global">203</rank>
 <rank type="highscore_wizard">57</rank>
-<rank type="stars_global">59</rank>
-<rank type="stars_wizard">14</rank>
+<rank type="stars_wizard">57</rank>
 </ranks>
 </character>
 <character name="Napoleon">
@@ -3151,7 +3151,7 @@
 <vocation>warrior</vocation>
 <exppoints>6257182988</exppoints>
 <achievement>70</achievement>
-<guild>B R Z</guild>
+<guild></guild>
 <quota>0</quota>
 </stats>
 <ranks>
@@ -3177,7 +3177,7 @@
 <stats>
 <level>291</level>
 <vocation>wizard</vocation>
-<exppoints>5888411287</exppoints>
+<exppoints>5891483495</exppoints>
 <achievement>58</achievement>
 <guild>LIBERTYW1</guild>
 <quota>0</quota>
@@ -3265,7 +3265,7 @@
 <stats>
 <level>272</level>
 <vocation>wizard</vocation>
-<exppoints>4511738948</exppoints>
+<exppoints>4513788535</exppoints>
 <achievement>9</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -3280,7 +3280,7 @@
 <stats>
 <level>272</level>
 <vocation>wizard</vocation>
-<exppoints>4497871031</exppoints>
+<exppoints>4498397472</exppoints>
 <achievement>158</achievement>
 <guild>JTME</guild>
 <quota>0</quota>
@@ -3296,7 +3296,7 @@
 <stats>
 <level>266</level>
 <vocation>wizard</vocation>
-<exppoints>4098282239</exppoints>
+<exppoints>4100000239</exppoints>
 <achievement>34</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -3311,7 +3311,7 @@
 <stats>
 <level>260</level>
 <vocation>warrior</vocation>
-<exppoints>3770870752</exppoints>
+<exppoints>3772702750</exppoints>
 <achievement>14</achievement>
 <guild>B R Z</guild>
 <quota>0</quota>
@@ -3384,7 +3384,7 @@
 <stats>
 <level>253</level>
 <vocation>wizard</vocation>
-<exppoints>3376333778</exppoints>
+<exppoints>3378725869</exppoints>
 <achievement>45</achievement>
 <guild>BUGX</guild>
 <quota>1</quota>
@@ -3458,7 +3458,7 @@
 <stats>
 <level>243</level>
 <vocation>warrior</vocation>
-<exppoints>2865143135</exppoints>
+<exppoints>2866600031</exppoints>
 <achievement>22</achievement>
 <guild>BOOSTS 6H</guild>
 <quota>0</quota>
@@ -3487,7 +3487,7 @@
 <stats>
 <level>242</level>
 <vocation>warrior</vocation>
-<exppoints>2799663112</exppoints>
+<exppoints>2800648954</exppoints>
 <achievement>45</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -3559,9 +3559,9 @@
 </character>
 <character name="Allanls">
 <stats>
-<level>233</level>
+<level>234</level>
 <vocation>warrior</vocation>
-<exppoints>2431979943</exppoints>
+<exppoints>2436541965</exppoints>
 <achievement>60</achievement>
 <guild>Blackbulls</guild>
 <quota>0</quota>
@@ -3575,7 +3575,7 @@
 <stats>
 <level>231</level>
 <vocation>warrior</vocation>
-<exppoints>2348549819</exppoints>
+<exppoints>2349944842</exppoints>
 <achievement>53</achievement>
 <guild>W O R L D</guild>
 <quota>0</quota>
@@ -3663,7 +3663,7 @@
 <stats>
 <level>201</level>
 <vocation>warrior</vocation>
-<exppoints>1327732109</exppoints>
+<exppoints>1329206677</exppoints>
 <achievement>69</achievement>
 <guild>BOOSTS 6H</guild>
 <quota>0</quota>
@@ -3677,7 +3677,7 @@
 <stats>
 <level>196</level>
 <vocation>wizard</vocation>
-<exppoints>1215691879</exppoints>
+<exppoints>1217313064</exppoints>
 <achievement>20</achievement>
 <guild>JTME</guild>
 <quota>0</quota>
@@ -3749,7 +3749,7 @@
 <stats>
 <level>167</level>
 <vocation>wizard</vocation>
-<exppoints>625654645</exppoints>
+<exppoints>626174395</exppoints>
 <achievement>72</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -3809,7 +3809,7 @@
 <stats>
 <level>151</level>
 <vocation>warrior</vocation>
-<exppoints>425589863</exppoints>
+<exppoints>426670526</exppoints>
 <achievement>30</achievement>
 <guild>Samurais</guild>
 <quota>0</quota>
@@ -3879,9 +3879,9 @@
 </character>
 <character name="Shion">
 <stats>
-<level>117</level>
+<level>118</level>
 <vocation>warrior</vocation>
-<exppoints>152329290</exppoints>
+<exppoints>155066748</exppoints>
 <achievement>10</achievement>
 <guild></guild>
 <quota>0</quota>
