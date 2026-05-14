@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1778764504619</GeneratedAt>
+  <GeneratedAt>1778765704624</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Pgkibou</Player>
@@ -328,5 +328,13 @@
     <KilledBy>Orc Leader</KilledBy>
     <Time>2026-05-14 02:23:05</Time>
     <Location>(32006,31877,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>42</Rank>
+    <Player>Beraba</Player>
+    <LostExp>1234</LostExp>
+    <KilledBy>Scorpion</KilledBy>
+    <Time>2026-05-14 15:15:06</Time>
+    <Location>(31941,31917,9)</Location>
   </DeathEvent>
 </DeathHighscores>
