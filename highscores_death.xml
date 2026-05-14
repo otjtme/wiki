@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1778733304605</GeneratedAt>
+  <GeneratedAt>1778734504610</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Magotte</Player>
@@ -83,6 +83,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>11</Rank>
+    <Player>Soul</Player>
+    <LostExp>404090</LostExp>
+    <KilledBy>Bear</KilledBy>
+    <Time>2026-05-14 06:37:28</Time>
+    <Location>(32020,31991,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
     <Player>Noria</Player>
     <LostExp>13729</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -90,7 +98,7 @@
     <Location>(31996,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>12</Rank>
+    <Rank>13</Rank>
     <Player>Noria</Player>
     <LostExp>13421</LostExp>
     <KilledBy>Orc Leader</KilledBy>
