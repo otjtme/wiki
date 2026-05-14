@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1778799304882</GeneratedAt>
+  <GeneratedAt>1778800504887</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Polis</Player>
@@ -8,5 +8,21 @@
     <KilledBy>Terrorbird</KilledBy>
     <Time>2026-05-15 00:16:11</Time>
     <Location>(31957,32021,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Powersoul</Player>
+    <LostExp>2685837</LostExp>
+    <KilledBy>Lucyr</KilledBy>
+    <Time>2026-05-15 00:56:33</Time>
+    <Location>(32047,32339,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Kontols</Player>
+    <LostExp>1014408</LostExp>
+    <KilledBy>Lucyr</KilledBy>
+    <Time>2026-05-15 00:55:41</Time>
+    <Location>(32047,32339,8)</Location>
   </DeathEvent>
 </DeathHighscores>
