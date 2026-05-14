@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1778717704640</GeneratedAt>
+  <GeneratedAt>1778718904595</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Magotte</Player>
@@ -32,5 +32,13 @@
     <KilledBy>Bloodbeak</KilledBy>
     <Time>2026-05-14 01:12:58</Time>
     <Location>(32825,32059,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Noria</Player>
+    <LostExp>13421</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2026-05-14 02:23:05</Time>
+    <Location>(32006,31877,8)</Location>
   </DeathEvent>
 </DeathHighscores>
