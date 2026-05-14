@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1778723704604</GeneratedAt>
+  <GeneratedAt>1778724904614</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Magotte</Player>
@@ -27,6 +27,22 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>4</Rank>
+    <Player>Shanks</Player>
+    <LostExp>29636846</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2026-05-14 04:03:26</Time>
+    <Location>(32065,31823,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Phat</Player>
+    <LostExp>20177580</LostExp>
+    <KilledBy>Bloodbeak</KilledBy>
+    <Time>2026-05-14 04:05:27</Time>
+    <Location>(32840,32052,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
     <Player>Cresponder</Player>
     <LostExp>7622283</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -34,7 +50,15 @@
     <Location>(32825,32059,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>7</Rank>
+    <Player>Rusion</Player>
+    <LostExp>1536640</LostExp>
+    <KilledBy>Tenebris</KilledBy>
+    <Time>2026-05-14 03:59:48</Time>
+    <Location>(31954,31803,14)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Noria</Player>
     <LostExp>13729</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -42,7 +66,7 @@
     <Location>(31996,32055,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>9</Rank>
     <Player>Noria</Player>
     <LostExp>13421</LostExp>
     <KilledBy>Orc Leader</KilledBy>
