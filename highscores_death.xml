@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1778979308237</GeneratedAt>
+  <GeneratedAt>1778980508216</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mephisto</Player>
@@ -40,5 +40,29 @@
     <KilledBy>Snowling</KilledBy>
     <Time>2026-05-17 02:45:21</Time>
     <Location>(31957,31799,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Gen</Player>
+    <LostExp>4698908</LostExp>
+    <KilledBy>The Demun</KilledBy>
+    <Time>2026-05-17 03:06:52</Time>
+    <Location>(31954,31803,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Genz</Player>
+    <LostExp>1719539</LostExp>
+    <KilledBy>The Demun</KilledBy>
+    <Time>2026-05-17 03:06:44</Time>
+    <Location>(31956,31802,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
+    <Player>Bolelu</Player>
+    <LostExp>1040739</LostExp>
+    <KilledBy>The Miner</KilledBy>
+    <Time>2026-05-17 03:12:55</Time>
+    <Location>(31851,31971,11)</Location>
   </DeathEvent>
 </DeathHighscores>
