@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1779213308137</GeneratedAt>
+  <GeneratedAt>1779214508119</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Bigbrother</Player>
@@ -267,6 +267,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>34</Rank>
+    <Player>Ladodi</Player>
+    <LostExp>8554</LostExp>
+    <KilledBy>Shadow</KilledBy>
+    <Time>2026-05-19 20:05:15</Time>
+    <Location>(31957,31861,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>35</Rank>
     <Player>Ntk</Player>
     <LostExp>4901</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -274,7 +282,7 @@
     <Location>(31995,32050,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>35</Rank>
+    <Rank>36</Rank>
     <Player>Ladodi</Player>
     <LostExp>4858</LostExp>
     <KilledBy>Mantis</KilledBy>
@@ -282,7 +290,7 @@
     <Location>(31904,31976,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>36</Rank>
+    <Rank>37</Rank>
     <Player>Davitoz</Player>
     <LostExp>4167</LostExp>
     <KilledBy>Scorpion</KilledBy>
@@ -290,11 +298,19 @@
     <Location>(31968,31888,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>37</Rank>
+    <Rank>38</Rank>
     <Player>Davitoz</Player>
     <LostExp>3651</LostExp>
     <KilledBy>Orc</KilledBy>
     <Time>2026-05-19 08:19:43</Time>
     <Location>(31991,31864,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>39</Rank>
+    <Player>Beraba</Player>
+    <LostExp>2364</LostExp>
+    <KilledBy>Wisper</KilledBy>
+    <Time>2026-05-19 20:11:46</Time>
+    <Location>(32029,32008,8)</Location>
   </DeathEvent>
 </DeathHighscores>
