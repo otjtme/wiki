@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1779412505108</GeneratedAt>
+  <GeneratedAt>1779413705108</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Jim</Player>
+    <LostExp>1073741823</LostExp>
+    <KilledBy>Darktaur</KilledBy>
+    <Time>2026-05-22 03:23:39</Time>
+    <Location>(32650,31699,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Kola</Player>
     <LostExp>145265282</LostExp>
     <KilledBy>Wisperfire</KilledBy>
@@ -10,7 +18,15 @@
     <Location>(31883,31956,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
+    <Player>Muzammil</Player>
+    <LostExp>46784132</LostExp>
+    <KilledBy>Skorputo</KilledBy>
+    <Time>2026-05-22 03:33:19</Time>
+    <Location>(31930,32225,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Claymore</Player>
     <LostExp>15822810</LostExp>
     <KilledBy>Bloodbeak</KilledBy>
@@ -18,7 +34,7 @@
     <Location>(32836,32065,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>5</Rank>
     <Player>Cresponder</Player>
     <LostExp>12447104</LostExp>
     <KilledBy>Chaombie</KilledBy>
@@ -26,11 +42,19 @@
     <Location>(31910,32225,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>6</Rank>
     <Player>Lcking</Player>
     <LostExp>2862581</LostExp>
     <KilledBy>Flutty</KilledBy>
     <Time>2026-05-22 00:28:31</Time>
     <Location>(32064,31818,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Tuankhamm</Player>
+    <LostExp>330534</LostExp>
+    <KilledBy>The Miner</KilledBy>
+    <Time>2026-05-22 03:18:44</Time>
+    <Location>(31859,31973,11)</Location>
   </DeathEvent>
 </DeathHighscores>
