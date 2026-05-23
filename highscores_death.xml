@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1779576907766</GeneratedAt>
+  <GeneratedAt>1779578107752</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Celcom</Player>
@@ -8,5 +8,21 @@
     <KilledBy>Chaombie</KilledBy>
     <Time>2026-05-24 00:39:06</Time>
     <Location>(31934,32231,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Soulreaper</Player>
+    <LostExp>532311</LostExp>
+    <KilledBy>Snowling</KilledBy>
+    <Time>2026-05-24 00:55:48</Time>
+    <Location>(31957,31799,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Boatthai</Player>
+    <LostExp>82766</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2026-05-24 01:14:42</Time>
+    <Location>(31951,31876,9)</Location>
   </DeathEvent>
 </DeathHighscores>
