@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1779605707698</GeneratedAt>
+  <GeneratedAt>1779606907735</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Conquista</Player>
@@ -192,5 +192,13 @@
     <KilledBy>Orc Raider</KilledBy>
     <Time>2026-05-24 04:07:40</Time>
     <Location>(31982,31865,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>25</Rank>
+    <Player>Bankkyz</Player>
+    <LostExp>9536</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2026-05-24 08:57:23</Time>
+    <Location>(32014,31881,12)</Location>
   </DeathEvent>
 </DeathHighscores>
