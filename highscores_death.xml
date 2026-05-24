@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1779648907735</GeneratedAt>
+  <GeneratedAt>1779650107730</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Conquista</Player>
@@ -496,5 +496,21 @@
     <KilledBy>Scorpion</KilledBy>
     <Time>2026-05-24 09:34:29</Time>
     <Location>(31981,31902,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>63</Rank>
+    <Player>Leidyydiel</Player>
+    <LostExp>7</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2026-05-24 21:07:06</Time>
+    <Location>(31898,32043,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>64</Rank>
+    <Player>Leidyydiel</Player>
+    <LostExp>0</LostExp>
+    <KilledBy>Spider</KilledBy>
+    <Time>2026-05-24 20:56:35</Time>
+    <Location>(31997,31923,7)</Location>
   </DeathEvent>
 </DeathHighscores>
