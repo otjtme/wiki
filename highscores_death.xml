@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1779702909035</GeneratedAt>
+  <GeneratedAt>1779704109040</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Littlecat</Player>
@@ -144,5 +144,21 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2026-05-25 02:21:18</Time>
     <Location>(31901,32045,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>19</Rank>
+    <Player>Kungpaau</Player>
+    <LostExp>20328</LostExp>
+    <KilledBy>Assasin</KilledBy>
+    <Time>2026-05-25 12:04:18</Time>
+    <Location>(31888,32006,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>20</Rank>
+    <Player>Orcinus</Player>
+    <LostExp>10675</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2026-05-25 12:03:25</Time>
+    <Location>(31999,32058,8)</Location>
   </DeathEvent>
 </DeathHighscores>
