@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1779834907085</GeneratedAt>
+  <GeneratedAt>1779836107061</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Biraludi</Player>
@@ -8,5 +8,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2026-05-27 00:18:32</Time>
     <Location>(31905,32047,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Danilovisk</Player>
+    <LostExp>28326</LostExp>
+    <KilledBy>Chaombie</KilledBy>
+    <Time>2026-05-27 00:47:39</Time>
+    <Location>(31922,32203,8)</Location>
   </DeathEvent>
 </DeathHighscores>
