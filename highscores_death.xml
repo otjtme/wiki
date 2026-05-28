@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1779928505286</GeneratedAt>
+  <GeneratedAt>1779929705269</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Justiceiro</Player>
@@ -32,5 +32,13 @@
     <KilledBy>Chaombie</KilledBy>
     <Time>2026-05-28 01:18:14</Time>
     <Location>(31942,32199,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Firrumbras</Player>
+    <LostExp>33604</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2026-05-28 02:44:46</Time>
+    <Location>(31995,32052,8)</Location>
   </DeathEvent>
 </DeathHighscores>
