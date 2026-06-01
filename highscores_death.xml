@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1780271708412</GeneratedAt>
+  <GeneratedAt>1780272908395</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Castiel</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Smiley</Player>
+    <LostExp>21834921</LostExp>
+    <KilledBy>Wardy</KilledBy>
+    <Time>2026-06-01 02:04:05</Time>
+    <Location>(32012,32185,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Viona</Player>
     <LostExp>11779131</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(32064,31825,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Dipaksawar</Player>
     <LostExp>10593040</LostExp>
     <KilledBy>Master Snowling</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31976,31799,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Ravikasr</Player>
     <LostExp>8351504</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(32062,31825,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Ravikasr</Player>
     <LostExp>7516354</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -42,7 +50,15 @@
     <Location>(32062,31823,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
+    <Player>Bounty</Player>
+    <LostExp>278317</LostExp>
+    <KilledBy>Tarantula</KilledBy>
+    <Time>2026-06-01 02:04:08</Time>
+    <Location>(31872,31902,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Zanco</Player>
     <LostExp>7930</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -50,11 +66,19 @@
     <Location>(31993,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>9</Rank>
     <Player>Zanco</Player>
     <LostExp>1224</LostExp>
     <KilledBy>Spider</KilledBy>
     <Time>2026-06-01 00:23:58</Time>
     <Location>(31944,31917,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Haridade</Player>
+    <LostExp>511</LostExp>
+    <KilledBy>The Bug</KilledBy>
+    <Time>2026-06-01 02:02:10</Time>
+    <Location>(31989,32016,8)</Location>
   </DeathEvent>
 </DeathHighscores>
