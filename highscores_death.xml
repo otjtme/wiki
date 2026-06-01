@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1780272908395</GeneratedAt>
+  <GeneratedAt>1780274108426</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Castiel</Player>
@@ -51,6 +51,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>7</Rank>
+    <Player>Alexfera</Player>
+    <LostExp>1065495</LostExp>
+    <KilledBy>The Miner</KilledBy>
+    <Time>2026-06-01 02:21:03</Time>
+    <Location>(31858,31973,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>8</Rank>
     <Player>Bounty</Player>
     <LostExp>278317</LostExp>
     <KilledBy>Tarantula</KilledBy>
@@ -58,7 +66,7 @@
     <Location>(31872,31902,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Zanco</Player>
     <LostExp>7930</LostExp>
     <KilledBy>Skeleton</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(31993,32044,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Zanco</Player>
     <LostExp>1224</LostExp>
     <KilledBy>Spider</KilledBy>
@@ -74,11 +82,19 @@
     <Location>(31944,31917,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
     <Player>Haridade</Player>
     <LostExp>511</LostExp>
     <KilledBy>The Bug</KilledBy>
     <Time>2026-06-01 02:02:10</Time>
     <Location>(31989,32016,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
+    <Player>Haridade</Player>
+    <LostExp>460</LostExp>
+    <KilledBy>Minotaur</KilledBy>
+    <Time>2026-06-01 02:20:12</Time>
+    <Location>(31897,31993,10)</Location>
   </DeathEvent>
 </DeathHighscores>
