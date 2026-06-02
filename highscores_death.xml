@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1780425307194</GeneratedAt>
+  <GeneratedAt>1780426507187</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Warrior</Player>
@@ -336,5 +336,13 @@
     <KilledBy>Ninjaman</KilledBy>
     <Time>2026-06-02 13:12:41</Time>
     <Location>(31979,32062,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>43</Rank>
+    <Player>Amba</Player>
+    <LostExp>4</LostExp>
+    <KilledBy>Petty</KilledBy>
+    <Time>2026-06-02 20:42:24</Time>
+    <Location>(31980,32006,10)</Location>
   </DeathEvent>
 </DeathHighscores>
