@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1780616105626</GeneratedAt>
+  <GeneratedAt>1780617305646</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mrturuk</Player>
@@ -11,6 +11,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>2</Rank>
+    <Player>Mas</Player>
+    <LostExp>101315310</LostExp>
+    <KilledBy>Bermouth</KilledBy>
+    <Time>2026-06-05 01:50:02</Time>
+    <Location>(32242,32151,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Frogs</Player>
     <LostExp>13020358</LostExp>
     <KilledBy>Wardy</KilledBy>
@@ -18,7 +26,7 @@
     <Location>(31979,32209,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Nefertari</Player>
     <LostExp>1808321</LostExp>
     <KilledBy>Monky</KilledBy>
@@ -26,11 +34,19 @@
     <Location>(32027,32265,9)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Beowulf</Player>
     <LostExp>1395992</LostExp>
     <KilledBy>Nunaquatch</KilledBy>
     <Time>2026-06-05 01:28:31</Time>
     <Location>(32864,31964,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Bounty</Player>
+    <LostExp>423778</LostExp>
+    <KilledBy>Minorrior</KilledBy>
+    <Time>2026-06-05 01:43:17</Time>
+    <Location>(31918,31974,12)</Location>
   </DeathEvent>
 </DeathHighscores>
