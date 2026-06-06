@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1780704907517</GeneratedAt>
+  <GeneratedAt>1780706107498</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Castiel</Player>
@@ -40,5 +40,21 @@
     <KilledBy>Chaleton</KilledBy>
     <Time>2026-06-06 01:26:36</Time>
     <Location>(32199,32265,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>6</Rank>
+    <Player>Hazzaroth</Player>
+    <LostExp>27015908</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2026-06-06 02:24:09</Time>
+    <Location>(32188,32255,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>7</Rank>
+    <Player>Hazzaroth</Player>
+    <LostExp>24333573</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2026-06-06 02:31:31</Time>
+    <Location>(32189,32272,9)</Location>
   </DeathEvent>
 </DeathHighscores>
