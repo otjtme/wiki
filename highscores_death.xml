@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1781498108420</GeneratedAt>
+  <GeneratedAt>1781499308454</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Wlk</Player>
@@ -72,5 +72,21 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2026-06-15 00:57:45</Time>
     <Location>(31882,32058,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Lonewolff</Player>
+    <LostExp>18325</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2026-06-15 06:39:54</Time>
+    <Location>(31882,32046,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Lonewolff</Player>
+    <LostExp>17501</LostExp>
+    <KilledBy>Werewolf</KilledBy>
+    <Time>2026-06-15 06:44:12</Time>
+    <Location>(31899,32045,8)</Location>
   </DeathEvent>
 </DeathHighscores>
