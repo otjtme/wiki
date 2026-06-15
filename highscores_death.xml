@@ -1,12 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1781562908083</GeneratedAt>
+  <GeneratedAt>1781564108102</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Loridalo</Player>
+    <LostExp>15950041</LostExp>
+    <KilledBy>Nunaquatch</KilledBy>
+    <Time>2026-06-16 00:52:39</Time>
+    <Location>(32821,32043,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Videl</Player>
     <LostExp>7132421</LostExp>
     <KilledBy>Flutty</KilledBy>
     <Time>2026-06-16 00:27:38</Time>
     <Location>(32063,31819,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Kelnuna</Player>
+    <LostExp>2785770</LostExp>
+    <KilledBy>Flutty</KilledBy>
+    <Time>2026-06-16 00:40:21</Time>
+    <Location>(32064,31818,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
+    <Player>Yukihime</Player>
+    <LostExp>41150</LostExp>
+    <KilledBy>Bear</KilledBy>
+    <Time>2026-06-16 00:48:03</Time>
+    <Location>(32027,31975,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Yukihime</Player>
+    <LostExp>37109</LostExp>
+    <KilledBy>Skeleton</KilledBy>
+    <Time>2026-06-16 00:52:22</Time>
+    <Location>(31994,32044,8)</Location>
   </DeathEvent>
 </DeathHighscores>
