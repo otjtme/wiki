@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1781591708087</GeneratedAt>
+  <GeneratedAt>1781592908083</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mas</Player>
@@ -240,5 +240,21 @@
     <KilledBy>Skeleton</KilledBy>
     <Time>2026-06-16 00:52:22</Time>
     <Location>(31994,32044,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>31</Rank>
+    <Player>Oldman</Player>
+    <LostExp>3760</LostExp>
+    <KilledBy>Bug</KilledBy>
+    <Time>2026-06-16 08:41:31</Time>
+    <Location>(31925,31980,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>32</Rank>
+    <Player>Nenare</Player>
+    <LostExp>24</LostExp>
+    <KilledBy>Bug</KilledBy>
+    <Time>2026-06-16 08:52:38</Time>
+    <Location>(31946,31993,8)</Location>
   </DeathEvent>
 </DeathHighscores>
