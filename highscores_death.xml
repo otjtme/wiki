@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1781642108058</GeneratedAt>
+  <GeneratedAt>1781643308096</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Nagumo</Player>
@@ -592,5 +592,13 @@
     <KilledBy>Bug</KilledBy>
     <Time>2026-06-16 08:52:38</Time>
     <Location>(31946,31993,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>75</Rank>
+    <Player>Maverick</Player>
+    <LostExp>9</LostExp>
+    <KilledBy>Cupid</KilledBy>
+    <Time>2026-06-16 22:46:33</Time>
+    <Location>(31974,32008,7)</Location>
   </DeathEvent>
 </DeathHighscores>
