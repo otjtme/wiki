@@ -105,7 +105,7 @@
 <stats>
 <level>833</level>
 <vocation>warrior</vocation>
-<exppoints>398518666342</exppoints>
+<exppoints>398518666573</exppoints>
 <achievement>138</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1326,7 +1326,7 @@
 <stats>
 <level>540</level>
 <vocation>warrior</vocation>
-<exppoints>70342949694</exppoints>
+<exppoints>70344617734</exppoints>
 <achievement>300</achievement>
 <guild>BOPE</guild>
 <quota>2</quota>
@@ -1671,7 +1671,7 @@
 <stats>
 <level>485</level>
 <vocation>warrior</vocation>
-<exppoints>45819993729</exppoints>
+<exppoints>45820502907</exppoints>
 <achievement>90</achievement>
 <guild>BUG</guild>
 <quota>2</quota>
@@ -1856,7 +1856,7 @@
 <stats>
 <level>436</level>
 <vocation>wizard</vocation>
-<exppoints>29971914782</exppoints>
+<exppoints>29972533598</exppoints>
 <achievement>121</achievement>
 <guild>Blackbulls</guild>
 <quota>0</quota>
@@ -2022,7 +2022,7 @@
 <stats>
 <level>409</level>
 <vocation>wizard</vocation>
-<exppoints>23185451925</exppoints>
+<exppoints>23188200825</exppoints>
 <achievement>66</achievement>
 <guild>BUG</guild>
 <quota>2</quota>
@@ -2845,7 +2845,7 @@
 <stats>
 <level>286</level>
 <vocation>warrior</vocation>
-<exppoints>5482129004</exppoints>
+<exppoints>5484740682</exppoints>
 <achievement>31</achievement>
 <guild>Samurais</guild>
 <quota>0</quota>
@@ -2934,7 +2934,7 @@
 <stats>
 <level>277</level>
 <vocation>warrior</vocation>
-<exppoints>4812077143</exppoints>
+<exppoints>4814010279</exppoints>
 <achievement>104</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -2978,7 +2978,7 @@
 <stats>
 <level>266</level>
 <vocation>wizard</vocation>
-<exppoints>4088265508</exppoints>
+<exppoints>4088905999</exppoints>
 <achievement>68</achievement>
 <guild>Highway G</guild>
 <quota>0</quota>
@@ -3051,7 +3051,7 @@
 <stats>
 <level>252</level>
 <vocation>warrior</vocation>
-<exppoints>3329152304</exppoints>
+<exppoints>3333048950</exppoints>
 <achievement>27</achievement>
 <guild>Highway G</guild>
 <quota>0</quota>
@@ -3080,7 +3080,7 @@
 <stats>
 <level>243</level>
 <vocation>warrior</vocation>
-<exppoints>2857305335</exppoints>
+<exppoints>2859035658</exppoints>
 <achievement>37</achievement>
 <guild>E A G L E</guild>
 <quota>0</quota>
@@ -3150,9 +3150,9 @@
 </character>
 <character name="Lyzea">
 <stats>
-<level>236</level>
+<level>237</level>
 <vocation>wizard</vocation>
-<exppoints>2562912021</exppoints>
+<exppoints>2564562388</exppoints>
 <achievement>113</achievement>
 <guild>West Java</guild>
 <quota>0</quota>
@@ -3256,7 +3256,7 @@
 <stats>
 <level>213</level>
 <vocation>wizard</vocation>
-<exppoints>1695637549</exppoints>
+<exppoints>1696450378</exppoints>
 <achievement>13</achievement>
 <guild>OG</guild>
 <quota>0</quota>
@@ -3296,6 +3296,20 @@
 <rank type="highscore_warrior">132</rank>
 </ranks>
 </character>
+<character name="Duartecrvg">
+<stats>
+<level>212</level>
+<vocation>warrior</vocation>
+<exppoints>1663588867</exppoints>
+<achievement>37</achievement>
+<guild>Highway G</guild>
+<quota>0</quota>
+</stats>
+<ranks>
+<rank type="highscore_global">214</rank>
+<rank type="highscore_warrior">133</rank>
+</ranks>
+</character>
 <character name="Foulor">
 <stats>
 <level>212</level>
@@ -3306,23 +3320,9 @@
 <quota>0</quota>
 </stats>
 <ranks>
-<rank type="highscore_global">214</rank>
-<rank type="highscore_warrior">133</rank>
-<rank type="stars_warrior">99</rank>
-</ranks>
-</character>
-<character name="Duartecrvg">
-<stats>
-<level>212</level>
-<vocation>warrior</vocation>
-<exppoints>1661647636</exppoints>
-<achievement>37</achievement>
-<guild>Highway G</guild>
-<quota>0</quota>
-</stats>
-<ranks>
 <rank type="highscore_global">215</rank>
 <rank type="highscore_warrior">134</rank>
+<rank type="stars_warrior">99</rank>
 </ranks>
 </character>
 <character name="Gibranx">
@@ -3388,7 +3388,7 @@
 <stats>
 <level>192</level>
 <vocation>warrior</vocation>
-<exppoints>1104434474</exppoints>
+<exppoints>1107165835</exppoints>
 <achievement>23</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -3417,7 +3417,7 @@
 <stats>
 <level>188</level>
 <vocation>warrior</vocation>
-<exppoints>1020832880</exppoints>
+<exppoints>1021499175</exppoints>
 <achievement>35</achievement>
 <guild>BOOSTS 6H</guild>
 <quota>0</quota>
@@ -3446,7 +3446,7 @@
 <stats>
 <level>181</level>
 <vocation>warrior</vocation>
-<exppoints>871704439</exppoints>
+<exppoints>872450967</exppoints>
 <achievement>46</achievement>
 <guild>Blackbulls</guild>
 <quota>0</quota>
@@ -3571,6 +3571,21 @@
 <rank type="highscore_warrior">144</rank>
 </ranks>
 </character>
+<character name="Bjorn">
+<stats>
+<level>158</level>
+<vocation>wizard</vocation>
+<exppoints>510090697</exppoints>
+<achievement>30</achievement>
+<guild>FURY</guild>
+<quota>0</quota>
+</stats>
+<ranks>
+<rank type="highscore_global">233</rank>
+<rank type="highscore_wizard">89</rank>
+<rank type="stars_wizard">80</rank>
+</ranks>
+</character>
 <character name="Badrul">
 <stats>
 <level>158</level>
@@ -3581,31 +3596,16 @@
 <quota>0</quota>
 </stats>
 <ranks>
-<rank type="highscore_global">233</rank>
-<rank type="highscore_wizard">89</rank>
-<rank type="stars_wizard">94</rank>
-</ranks>
-</character>
-<character name="Bjorn">
-<stats>
-<level>158</level>
-<vocation>wizard</vocation>
-<exppoints>508470648</exppoints>
-<achievement>30</achievement>
-<guild>FURY</guild>
-<quota>0</quota>
-</stats>
-<ranks>
 <rank type="highscore_global">234</rank>
 <rank type="highscore_wizard">90</rank>
-<rank type="stars_wizard">80</rank>
+<rank type="stars_wizard">94</rank>
 </ranks>
 </character>
 <character name="Aquablue">
 <stats>
 <level>149</level>
 <vocation>wizard</vocation>
-<exppoints>399299887</exppoints>
+<exppoints>400859529</exppoints>
 <achievement>6</achievement>
 <guild>Samurais</guild>
 <quota>0</quota>
@@ -3635,7 +3635,7 @@
 <stats>
 <level>146</level>
 <vocation>warrior</vocation>
-<exppoints>367764262</exppoints>
+<exppoints>368589624</exppoints>
 <achievement>13</achievement>
 <guild>BOOSTS 6H</guild>
 <quota>0</quota>
@@ -3664,7 +3664,7 @@
 <stats>
 <level>138</level>
 <vocation>wizard</vocation>
-<exppoints>295368182</exppoints>
+<exppoints>295529780</exppoints>
 <achievement>11</achievement>
 <guild>BOOSTS 6H</guild>
 <quota>0</quota>
@@ -3691,9 +3691,9 @@
 </character>
 <character name="Hjhboss">
 <stats>
-<level>135</level>
+<level>136</level>
 <vocation>warrior</vocation>
-<exppoints>272375250</exppoints>
+<exppoints>273280250</exppoints>
 <achievement>12</achievement>
 <guild>W O R L D</guild>
 <quota>0</quota>
@@ -3722,7 +3722,7 @@
 <stats>
 <level>128</level>
 <vocation>wizard</vocation>
-<exppoints>215964003</exppoints>
+<exppoints>216349563</exppoints>
 <achievement>5</achievement>
 <guild>Blackbulls</guild>
 <quota>0</quota>
@@ -3884,8 +3884,8 @@
 <guild name="J T M E"><exppoints>4051485</exppoints><gold>177000</gold><platinum>20</platinum><leader>Rinse</leader><rank type="guild">19</rank></guild>
 <guild name="BLACK BEAR"><exppoints>4007335</exppoints><gold>0</gold><platinum>0</platinum><leader>Blackbear</leader><rank type="guild">20</rank></guild>
 <guild name="DontHurtMe"><exppoints>3743964</exppoints><gold>1</gold><platinum>0</platinum><leader>Yulala</leader><rank type="guild">21</rank></guild>
-<guild name="FURY"><exppoints>3189728</exppoints><gold>0</gold><platinum>5</platinum><leader>Hazael</leader><rank type="guild">22</rank></guild>
-<guild name="ThE MoNeY"><exppoints>3177538</exppoints><gold>1</gold><platinum>0</platinum><leader>Cyzing</leader><rank type="guild">23</rank></guild>
+<guild name="ThE MoNeY"><exppoints>3216538</exppoints><gold>1</gold><platinum>0</platinum><leader>Cyzing</leader><rank type="guild">22</rank></guild>
+<guild name="FURY"><exppoints>3189728</exppoints><gold>0</gold><platinum>5</platinum><leader>Hazael</leader><rank type="guild">23</rank></guild>
 <guild name="V I R G O"><exppoints>3170500</exppoints><gold>0</gold><platinum>0</platinum><leader>Vingky</leader><rank type="guild">24</rank></guild>
 <guild name="Darkness"><exppoints>3127439</exppoints><gold>0</gold><platinum>0</platinum><leader>Babyangel</leader><rank type="guild">25</rank></guild>
 <guild name="DARK ARMY"><exppoints>3110512</exppoints><gold>0</gold><platinum>0</platinum><leader>Athena</leader><rank type="guild">26</rank></guild>
