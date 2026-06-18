@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1781740505172</GeneratedAt>
+  <GeneratedAt>1781741705183</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Anixx</Player>
@@ -16,5 +16,13 @@
     <KilledBy>Werewolf</KilledBy>
     <Time>2026-06-18 01:35:24</Time>
     <Location>(31860,32048,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
+    <Player>Longshen</Player>
+    <LostExp>934647</LostExp>
+    <KilledBy>Orc Raider</KilledBy>
+    <Time>2026-06-18 02:07:00</Time>
+    <Location>(31978,31861,9)</Location>
   </DeathEvent>
 </DeathHighscores>
