@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1781746505165</GeneratedAt>
+  <GeneratedAt>1781747705159</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Deku</Player>
@@ -32,5 +32,13 @@
     <KilledBy>Orc Raider</KilledBy>
     <Time>2026-06-18 02:07:00</Time>
     <Location>(31978,31861,9)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Data</Player>
+    <LostExp>13823</LostExp>
+    <KilledBy>Sova</KilledBy>
+    <Time>2026-06-18 03:54:44</Time>
+    <Location>(32062,32296,7)</Location>
   </DeathEvent>
 </DeathHighscores>
