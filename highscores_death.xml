@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1781978562227</GeneratedAt>
+  <GeneratedAt>1781979762228</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Panama</Player>
+    <LostExp>2147483647</LostExp>
+    <KilledBy>Medusa</KilledBy>
+    <Time>2026-06-20 20:11:44</Time>
+    <Location>(32667,31805,15)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
+    <Player>Siauhai</Player>
+    <LostExp>1073741823</LostExp>
+    <KilledBy>Orc Master</KilledBy>
+    <Time>2026-06-20 20:09:49</Time>
+    <Location>(32003,31850,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>3</Rank>
     <Player>Loridalo</Player>
     <LostExp>22453729</LostExp>
     <KilledBy>Leviatacle</KilledBy>
@@ -10,7 +26,7 @@
     <Location>(31865,32069,7)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>4</Rank>
     <Player>Lost</Player>
     <LostExp>13709781</LostExp>
     <KilledBy>Flutty</KilledBy>
