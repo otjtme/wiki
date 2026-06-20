@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1781971185685</GeneratedAt>
+  <GeneratedAt>1781972385666</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Jackkk</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Tripaseca</Player>
+    <LostExp>2497732</LostExp>
+    <KilledBy>Bloodbeak</KilledBy>
+    <Time>2026-06-20 18:01:01</Time>
+    <Location>(32836,32040,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Totayo</Player>
     <LostExp>2430665</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -66,7 +74,7 @@
     <Location>(32063,31820,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Kinatank</Player>
     <LostExp>767300</LostExp>
     <KilledBy>Lord Snowling</KilledBy>
@@ -74,11 +82,43 @@
     <Location>(31972,31813,11)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>10</Rank>
+    <Rank>11</Rank>
+    <Player>Nolali</Player>
+    <LostExp>339560</LostExp>
+    <KilledBy>Adios</KilledBy>
+    <Time>2026-06-20 18:17:22</Time>
+    <Location>(32062,32297,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
+    <Player>Nolali</Player>
+    <LostExp>305604</LostExp>
+    <KilledBy>Adios</KilledBy>
+    <Time>2026-06-20 18:17:57</Time>
+    <Location>(32061,32296,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>13</Rank>
+    <Player>Nolali</Player>
+    <LostExp>275044</LostExp>
+    <KilledBy>Adios</KilledBy>
+    <Time>2026-06-20 18:18:27</Time>
+    <Location>(32061,32296,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>14</Rank>
     <Player>Hard</Player>
     <LostExp>269624</LostExp>
     <KilledBy>Anubis</KilledBy>
     <Time>2026-06-20 16:42:22</Time>
     <Location>(31975,31864,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>15</Rank>
+    <Player>Nolali</Player>
+    <LostExp>247540</LostExp>
+    <KilledBy>Adios</KilledBy>
+    <Time>2026-06-20 18:18:56</Time>
+    <Location>(32061,32296,7)</Location>
   </DeathEvent>
 </DeathHighscores>
