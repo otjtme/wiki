@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1782003353929</GeneratedAt>
+  <GeneratedAt>1782004553935</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Jigabut</Player>
@@ -19,6 +19,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>3</Rank>
+    <Player>Bitch</Player>
+    <LostExp>126584347</LostExp>
+    <KilledBy>Chilong</KilledBy>
+    <Time>2026-06-21 02:59:59</Time>
+    <Location>(32064,31820,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>4</Rank>
     <Player>Akulla</Player>
     <LostExp>18287021</LostExp>
     <KilledBy>Gorath</KilledBy>
@@ -26,7 +34,7 @@
     <Location>(31955,31804,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>4</Rank>
+    <Rank>5</Rank>
     <Player>Keleye</Player>
     <LostExp>6145812</LostExp>
     <KilledBy>Gorath</KilledBy>
@@ -34,7 +42,7 @@
     <Location>(31955,31804,12)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>5</Rank>
+    <Rank>6</Rank>
     <Player>Fcde</Player>
     <LostExp>4520566</LostExp>
     <KilledBy>Master Demun</KilledBy>
@@ -42,7 +50,7 @@
     <Location>(31971,31806,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>6</Rank>
+    <Rank>7</Rank>
     <Player>Proforyou</Player>
     <LostExp>3330222</LostExp>
     <KilledBy>Werewolf</KilledBy>
@@ -50,7 +58,7 @@
     <Location>(31873,32060,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>7</Rank>
+    <Rank>8</Rank>
     <Player>Kelstinger</Player>
     <LostExp>2916039</LostExp>
     <KilledBy>Tenebris</KilledBy>
@@ -58,11 +66,27 @@
     <Location>(31956,31800,14)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>8</Rank>
+    <Rank>9</Rank>
     <Player>Kelstinger</Player>
     <LostExp>2735582</LostExp>
     <KilledBy>Flutty</KilledBy>
     <Time>2026-06-21 02:15:59</Time>
     <Location>(32064,31818,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>10</Rank>
+    <Player>Denora</Player>
+    <LostExp>0</LostExp>
+    <KilledBy>Shadow</KilledBy>
+    <Time>2026-06-21 03:03:20</Time>
+    <Location>(31955,31862,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Denora</Player>
+    <LostExp>0</LostExp>
+    <KilledBy>Petty</KilledBy>
+    <Time>2026-06-21 03:03:54</Time>
+    <Location>(31982,32006,10)</Location>
   </DeathEvent>
 </DeathHighscores>
