@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1782176107978</GeneratedAt>
+  <GeneratedAt>1782177307937</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
     <Player>Mas</Player>
@@ -59,6 +59,14 @@
   </DeathEvent>
   <DeathEvent>
     <Rank>8</Rank>
+    <Player>Longshen</Player>
+    <LostExp>4342203</LostExp>
+    <KilledBy>Orc Leader</KilledBy>
+    <Time>2026-06-23 03:02:31</Time>
+    <Location>(32012,31879,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>9</Rank>
     <Player>Roninking</Player>
     <LostExp>2380760</LostExp>
     <KilledBy>Orc Leader</KilledBy>
@@ -66,11 +74,27 @@
     <Location>(32011,31878,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>9</Rank>
+    <Rank>10</Rank>
     <Player>Bunedi</Player>
     <LostExp>1262088</LostExp>
     <KilledBy>Redeath</KilledBy>
     <Time>2026-06-23 02:20:07</Time>
     <Location>(32842,31998,7)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>11</Rank>
+    <Player>Kauane</Player>
+    <LostExp>398809</LostExp>
+    <KilledBy>Cultist</KilledBy>
+    <Time>2026-06-23 03:06:46</Time>
+    <Location>(32017,31866,11)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>12</Rank>
+    <Player>Danezehra</Player>
+    <LostExp>304712</LostExp>
+    <KilledBy>Wisperfire</KilledBy>
+    <Time>2026-06-23 03:14:46</Time>
+    <Location>(31881,31955,8)</Location>
   </DeathEvent>
 </DeathHighscores>
