@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PvpHighscores>
-  <GeneratedAt>1782401704307</GeneratedAt>
+  <GeneratedAt>1782402904269</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Noobd</Name>
@@ -24,11 +24,9 @@
     <Name>Raider</Name>
     <Patent>Soldier</Patent>
     <Kills>11</Kills>
-    <KillStreak>5</KillStreak>
-    <HonorPoints>405</HonorPoints>
-    <IsHunted>1</IsHunted>
-    <HuntTimeRemaining>11m</HuntTimeRemaining>
-    <HuntTimeSecs>708</HuntTimeSecs>
+    <KillStreak>0</KillStreak>
+    <HonorPoints>455</HonorPoints>
+    <IsHunted>0</IsHunted>
   </Player>
   <Player>
     <Rank>4</Rank>
@@ -41,20 +39,20 @@
   </Player>
   <Player>
     <Rank>5</Rank>
+    <Name>Cxllme</Name>
+    <Patent>Recruit</Patent>
+    <Kills>5</Kills>
+    <KillStreak>4</KillStreak>
+    <HonorPoints>150</HonorPoints>
+    <IsHunted>0</IsHunted>
+  </Player>
+  <Player>
+    <Rank>6</Rank>
     <Name>Umami</Name>
     <Patent>Newbie</Patent>
     <Kills>4</Kills>
     <KillStreak>3</KillStreak>
     <HonorPoints>103</HonorPoints>
-    <IsHunted>0</IsHunted>
-  </Player>
-  <Player>
-    <Rank>6</Rank>
-    <Name>Cxllme</Name>
-    <Patent>Newbie</Patent>
-    <Kills>4</Kills>
-    <KillStreak>3</KillStreak>
-    <HonorPoints>123</HonorPoints>
     <IsHunted>0</IsHunted>
   </Player>
   <Player>
@@ -68,24 +66,15 @@
   </Player>
   <Player>
     <Rank>8</Rank>
-    <Name>Flower</Name>
+    <Name>Killmeplz</Name>
     <Patent>Newbie</Patent>
-    <Kills>2</Kills>
-    <KillStreak>0</KillStreak>
-    <HonorPoints>91</HonorPoints>
+    <Kills>3</Kills>
+    <KillStreak>2</KillStreak>
+    <HonorPoints>276</HonorPoints>
     <IsHunted>0</IsHunted>
   </Player>
   <Player>
     <Rank>9</Rank>
-    <Name>Killmeplz</Name>
-    <Patent>Newbie</Patent>
-    <Kills>2</Kills>
-    <KillStreak>1</KillStreak>
-    <HonorPoints>249</HonorPoints>
-    <IsHunted>0</IsHunted>
-  </Player>
-  <Player>
-    <Rank>10</Rank>
     <Name>Kingpiw</Name>
     <Patent>Newbie</Patent>
     <Kills>2</Kills>
@@ -94,7 +83,7 @@
     <IsHunted>0</IsHunted>
   </Player>
   <Player>
-    <Rank>11</Rank>
+    <Rank>10</Rank>
     <Name>Nira</Name>
     <Patent>Newbie</Patent>
     <Kills>2</Kills>
@@ -103,34 +92,34 @@
     <IsHunted>0</IsHunted>
   </Player>
   <Player>
+    <Rank>11</Rank>
+    <Name>Flower</Name>
+    <Patent>Newbie</Patent>
+    <Kills>2</Kills>
+    <KillStreak>0</KillStreak>
+    <HonorPoints>91</HonorPoints>
+    <IsHunted>0</IsHunted>
+  </Player>
+  <Player>
     <Rank>12</Rank>
-    <Name>Dulex</Name>
+    <Name>Fenrir</Name>
     <Patent>Newbie</Patent>
     <Kills>1</Kills>
-    <KillStreak>0</KillStreak>
-    <HonorPoints>30</HonorPoints>
+    <KillStreak>1</KillStreak>
+    <HonorPoints>43</HonorPoints>
     <IsHunted>0</IsHunted>
   </Player>
   <Player>
     <Rank>13</Rank>
-    <Name>Tar</Name>
+    <Name>Apelaoking</Name>
     <Patent>Newbie</Patent>
     <Kills>1</Kills>
     <KillStreak>1</KillStreak>
-    <HonorPoints>23</HonorPoints>
+    <HonorPoints>28</HonorPoints>
     <IsHunted>0</IsHunted>
   </Player>
   <Player>
     <Rank>14</Rank>
-    <Name>Tarkt</Name>
-    <Patent>Newbie</Patent>
-    <Kills>1</Kills>
-    <KillStreak>1</KillStreak>
-    <HonorPoints>26</HonorPoints>
-    <IsHunted>0</IsHunted>
-  </Player>
-  <Player>
-    <Rank>15</Rank>
     <Name>Ticktok</Name>
     <Patent>Newbie</Patent>
     <Kills>1</Kills>
@@ -139,12 +128,21 @@
     <IsHunted>0</IsHunted>
   </Player>
   <Player>
-    <Rank>16</Rank>
-    <Name>Apelaoking</Name>
+    <Rank>15</Rank>
+    <Name>Tarkt</Name>
     <Patent>Newbie</Patent>
     <Kills>1</Kills>
     <KillStreak>1</KillStreak>
-    <HonorPoints>28</HonorPoints>
+    <HonorPoints>26</HonorPoints>
+    <IsHunted>0</IsHunted>
+  </Player>
+  <Player>
+    <Rank>16</Rank>
+    <Name>Tar</Name>
+    <Patent>Newbie</Patent>
+    <Kills>1</Kills>
+    <KillStreak>1</KillStreak>
+    <HonorPoints>23</HonorPoints>
     <IsHunted>0</IsHunted>
   </Player>
   <Player>
@@ -176,6 +174,15 @@
   </Player>
   <Player>
     <Rank>20</Rank>
+    <Name>Assasin</Name>
+    <Patent>Newbie</Patent>
+    <Kills>1</Kills>
+    <KillStreak>1</KillStreak>
+    <HonorPoints>30</HonorPoints>
+    <IsHunted>0</IsHunted>
+  </Player>
+  <Player>
+    <Rank>21</Rank>
     <Name>Bboss</Name>
     <Patent>Newbie</Patent>
     <Kills>1</Kills>
@@ -184,7 +191,7 @@
     <IsHunted>0</IsHunted>
   </Player>
   <Player>
-    <Rank>21</Rank>
+    <Rank>22</Rank>
     <Name>Nemesis</Name>
     <Patent>Newbie</Patent>
     <Kills>1</Kills>
@@ -193,7 +200,7 @@
     <IsHunted>0</IsHunted>
   </Player>
   <Player>
-    <Rank>22</Rank>
+    <Rank>23</Rank>
     <Name>Cpx</Name>
     <Patent>Newbie</Patent>
     <Kills>1</Kills>
@@ -202,16 +209,16 @@
     <IsHunted>0</IsHunted>
   </Player>
   <Player>
-    <Rank>23</Rank>
-    <Name>Fenrir</Name>
+    <Rank>24</Rank>
+    <Name>Dulex</Name>
     <Patent>Newbie</Patent>
     <Kills>1</Kills>
-    <KillStreak>1</KillStreak>
-    <HonorPoints>43</HonorPoints>
+    <KillStreak>0</KillStreak>
+    <HonorPoints>30</HonorPoints>
     <IsHunted>0</IsHunted>
   </Player>
   <Player>
-    <Rank>24</Rank>
+    <Rank>25</Rank>
     <Name>Zabo</Name>
     <Patent>Newbie</Patent>
     <Kills>1</Kills>
