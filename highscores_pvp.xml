@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PvpHighscores>
-  <GeneratedAt>1782378904277</GeneratedAt>
+  <GeneratedAt>1782380104269</GeneratedAt>
   <Player>
     <Rank>1</Rank>
     <Name>Noobd</Name>
-    <Patent>Soldier</Patent>
-    <Kills>15</Kills>
-    <KillStreak>4</KillStreak>
-    <HonorPoints>542</HonorPoints>
-    <IsHunted>0</IsHunted>
+    <Patent>Warrior</Patent>
+    <Kills>20</Kills>
+    <KillStreak>9</KillStreak>
+    <HonorPoints>684</HonorPoints>
+    <IsHunted>1</IsHunted>
+    <HuntTimeRemaining>19m</HuntTimeRemaining>
+    <HuntTimeSecs>1187</HuntTimeSecs>
   </Player>
   <Player>
     <Rank>2</Rank>
@@ -21,20 +23,22 @@
   </Player>
   <Player>
     <Rank>3</Rank>
+    <Name>Raider</Name>
+    <Patent>Recruit</Patent>
+    <Kills>6</Kills>
+    <KillStreak>6</KillStreak>
+    <HonorPoints>218</HonorPoints>
+    <IsHunted>1</IsHunted>
+    <HuntTimeRemaining>14m</HuntTimeRemaining>
+    <HuntTimeSecs>896</HuntTimeSecs>
+  </Player>
+  <Player>
+    <Rank>4</Rank>
     <Name>Easybro</Name>
     <Patent>Recruit</Patent>
     <Kills>6</Kills>
     <KillStreak>1</KillStreak>
     <HonorPoints>289</HonorPoints>
-    <IsHunted>0</IsHunted>
-  </Player>
-  <Player>
-    <Rank>4</Rank>
-    <Name>Raider</Name>
-    <Patent>Newbie</Patent>
-    <Kills>3</Kills>
-    <KillStreak>3</KillStreak>
-    <HonorPoints>110</HonorPoints>
     <IsHunted>0</IsHunted>
   </Player>
   <Player>
