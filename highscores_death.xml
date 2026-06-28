@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DeathHighscores>
-  <GeneratedAt>1782687309287</GeneratedAt>
+  <GeneratedAt>1782688509289</GeneratedAt>
   <DeathEvent>
     <Rank>1</Rank>
+    <Player>Hbo</Player>
+    <LostExp>13185673</LostExp>
+    <KilledBy>Dreadtide</KilledBy>
+    <Time>2026-06-29 01:10:02</Time>
+    <Location>(31842,32111,8)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>2</Rank>
     <Player>Hotmail</Player>
     <LostExp>3298067</LostExp>
     <KilledBy>The Demun</KilledBy>
@@ -10,7 +18,7 @@
     <Location>(31957,31799,10)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>2</Rank>
+    <Rank>3</Rank>
     <Player>Takanome</Player>
     <LostExp>2187420</LostExp>
     <KilledBy>Flutty</KilledBy>
@@ -18,11 +26,19 @@
     <Location>(32066,31822,8)</Location>
   </DeathEvent>
   <DeathEvent>
-    <Rank>3</Rank>
+    <Rank>4</Rank>
     <Player>Cii</Player>
     <LostExp>684652</LostExp>
     <KilledBy>The Demun</KilledBy>
     <Time>2026-06-29 00:18:40</Time>
     <Location>(31957,31799,10)</Location>
+  </DeathEvent>
+  <DeathEvent>
+    <Rank>5</Rank>
+    <Player>Art</Player>
+    <LostExp>207952</LostExp>
+    <KilledBy>Chaleton</KilledBy>
+    <Time>2026-06-29 01:11:18</Time>
+    <Location>(32203,32266,9)</Location>
   </DeathEvent>
 </DeathHighscores>
