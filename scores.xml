@@ -672,7 +672,7 @@
 <stats>
 <level>712</level>
 <vocation>wizard</vocation>
-<exppoints>213428097145</exppoints>
+<exppoints>213431942367</exppoints>
 <achievement>383</achievement>
 <guild>W O R L D</guild>
 <quota>0</quota>
@@ -761,7 +761,7 @@
 <stats>
 <level>697</level>
 <vocation>warrior</vocation>
-<exppoints>195498362455</exppoints>
+<exppoints>195501801555</exppoints>
 <achievement>74</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1057,7 +1057,7 @@
 <stats>
 <level>662</level>
 <vocation>warrior</vocation>
-<exppoints>159180187878</exppoints>
+<exppoints>159182361339</exppoints>
 <achievement>368</achievement>
 <guild>W O R L D</guild>
 <quota>0</quota>
@@ -1166,7 +1166,7 @@
 <stats>
 <level>657</level>
 <vocation>warrior</vocation>
-<exppoints>154429760881</exppoints>
+<exppoints>154439446041</exppoints>
 <achievement>124</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -1225,7 +1225,7 @@
 <guild></guild>
 <quota>0</quota>
 <patent>Newbie</patent>
-<deaths></deaths>
+<deaths>2026-07-02 07:11:05:-0:Kaelthas:0;</deaths>
 </stats>
 <ranks>
 <rank type="highscore_global">69</rank>
@@ -1238,7 +1238,7 @@
 <stats>
 <level>650</level>
 <vocation>warrior</vocation>
-<exppoints>147624680158</exppoints>
+<exppoints>147624680438</exppoints>
 <achievement>117</achievement>
 <guild>BOOSTS 6H</guild>
 <quota>3</quota>
@@ -1838,7 +1838,7 @@
 <stats>
 <level>576</level>
 <vocation>warrior</vocation>
-<exppoints>91141166356</exppoints>
+<exppoints>91142111662</exppoints>
 <achievement>365</achievement>
 <guild>JTME</guild>
 <quota>14</quota>
@@ -1891,7 +1891,7 @@
 <stats>
 <level>570</level>
 <vocation>wizard</vocation>
-<exppoints>87454820562</exppoints>
+<exppoints>87454820717</exppoints>
 <achievement>104</achievement>
 <guild>V I R G O</guild>
 <quota>0</quota>
@@ -2672,6 +2672,24 @@
 <rank type="stars_wizard">92</rank>
 </ranks>
 </character>
+<character name="Angrybird">
+<stats>
+<level>519</level>
+<vocation>wizard</vocation>
+<exppoints>59783930653</exppoints>
+<achievement>272</achievement>
+<guild>W O R L D</guild>
+<quota>0</quota>
+<patent></patent>
+<deaths></deaths>
+</stats>
+<ranks>
+<rank type="highscore_global">154</rank>
+<rank type="highscore_wizard">42</rank>
+<rank type="stars_global">41</rank>
+<rank type="stars_wizard">13</rank>
+</ranks>
+</character>
 <character name="Oppo">
 <stats>
 <level>519</level>
@@ -2684,29 +2702,11 @@
 <deaths>2026-07-02 05:21:16:-0:Kaelthas:0;2026-07-02 05:27:34:-0:Kthas:0;2026-07-02 05:37:25:-0:Kaelthas:0;</deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">154</rank>
+<rank type="highscore_global">155</rank>
 <rank type="highscore_warrior">113</rank>
 <rank type="stars_global">90</rank>
 <rank type="stars_warrior">64</rank>
 <rank type="pvp">5</rank>
-</ranks>
-</character>
-<character name="Angrybird">
-<stats>
-<level>519</level>
-<vocation>wizard</vocation>
-<exppoints>59781662884</exppoints>
-<achievement>272</achievement>
-<guild>W O R L D</guild>
-<quota>0</quota>
-<patent></patent>
-<deaths></deaths>
-</stats>
-<ranks>
-<rank type="highscore_global">155</rank>
-<rank type="highscore_wizard">42</rank>
-<rank type="stars_global">41</rank>
-<rank type="stars_wizard">13</rank>
 </ranks>
 </character>
 <character name="Supremu">
@@ -2922,7 +2922,7 @@
 <stats>
 <level>510</level>
 <vocation>wizard</vocation>
-<exppoints>55788563563</exppoints>
+<exppoints>55790138731</exppoints>
 <achievement>119</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -3613,7 +3613,7 @@
 <stats>
 <level>475</level>
 <vocation>warrior</vocation>
-<exppoints>41920448270</exppoints>
+<exppoints>41920801700</exppoints>
 <achievement>103</achievement>
 <guild>BUG</guild>
 <quota>3</quota>
@@ -3765,7 +3765,7 @@
 <stats>
 <level>457</level>
 <vocation>wizard</vocation>
-<exppoints>35905576035</exppoints>
+<exppoints>35906091859</exppoints>
 <achievement>71</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -4047,7 +4047,7 @@
 <stats>
 <level>440</level>
 <vocation>warrior</vocation>
-<exppoints>30959694428</exppoints>
+<exppoints>30960479828</exppoints>
 <achievement>62</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -4445,7 +4445,7 @@
 <stats>
 <level>422</level>
 <vocation>warrior</vocation>
-<exppoints>26266148759</exppoints>
+<exppoints>26267339179</exppoints>
 <achievement>10</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -4649,7 +4649,7 @@
 <stats>
 <level>414</level>
 <vocation>warrior</vocation>
-<exppoints>24156891716</exppoints>
+<exppoints>24159696530</exppoints>
 <achievement>124</achievement>
 <guild>W O R L D</guild>
 <quota>0</quota>
@@ -4898,7 +4898,7 @@
 <stats>
 <level>397</level>
 <vocation>warrior</vocation>
-<exppoints>20441603356</exppoints>
+<exppoints>20446417797</exppoints>
 <achievement>42</achievement>
 <guild>W O R L D</guild>
 <quota>0</quota>
@@ -5347,7 +5347,7 @@
 <stats>
 <level>376</level>
 <vocation>warrior</vocation>
-<exppoints>16529539737</exppoints>
+<exppoints>16533190610</exppoints>
 <achievement>132</achievement>
 <guild>W O R L D</guild>
 <quota>0</quota>
@@ -5379,7 +5379,7 @@
 <stats>
 <level>374</level>
 <vocation>wizard</vocation>
-<exppoints>16190852426</exppoints>
+<exppoints>16190905661</exppoints>
 <achievement>253</achievement>
 <guild>LIBERTYW1</guild>
 <quota>0</quota>
@@ -5813,7 +5813,7 @@
 <stats>
 <level>360</level>
 <vocation>wizard</vocation>
-<exppoints>13836234533</exppoints>
+<exppoints>13839285361</exppoints>
 <achievement>38</achievement>
 <guild>W O R L D</guild>
 <quota>0</quota>
@@ -6016,7 +6016,7 @@
 <stats>
 <level>348</level>
 <vocation>wizard</vocation>
-<exppoints>12076686663</exppoints>
+<exppoints>12078935292</exppoints>
 <achievement>85</achievement>
 <guild>W O R L D</guild>
 <quota>0</quota>
@@ -6669,7 +6669,7 @@
 <stats>
 <level>327</level>
 <vocation>warrior</vocation>
-<exppoints>9429147693</exppoints>
+<exppoints>9429271334</exppoints>
 <achievement>125</achievement>
 <guild>Nar hee</guild>
 <quota>0</quota>
@@ -6782,7 +6782,7 @@
 <stats>
 <level>325</level>
 <vocation>wizard</vocation>
-<exppoints>9129553092</exppoints>
+<exppoints>9131895897</exppoints>
 <achievement>51</achievement>
 <guild>W O R L D</guild>
 <quota>0</quota>
