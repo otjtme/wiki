@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1783120509232</GeneratedAt>
+  <GeneratedAt>1783121709241</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>229</PlayersOnline>
-  <TodayPeak>236</TodayPeak>
+  <PlayersOnline>242</PlayersOnline>
+  <TodayPeak>245</TodayPeak>
   <TotalPlayers>12976</TotalPlayers>
   <Season>
     <Id>9</Id>
@@ -11,7 +11,12 @@
     <End>1783723206</End>
     <TimeRemaining>6d 23h</TimeRemaining>
   </Season>
-  <JailedPlayers count="10">
+  <JailedPlayers count="11">
+    <Player>
+      <Name>Soulpsikis</Name>
+      <EntryDate>2026-07-04 01:12:15</EntryDate>
+      <Duration>1440</Duration>
+    </Player>
     <Player>
       <Name>Benininu</Name>
       <EntryDate>2026-06-27 19:45:15</EntryDate>
