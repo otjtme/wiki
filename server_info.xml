@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1783167309224</GeneratedAt>
+  <GeneratedAt>1783198509244</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>295</PlayersOnline>
-  <TodayPeak>303</TodayPeak>
-  <TotalPlayers>12992</TotalPlayers>
+  <PlayersOnline>283</PlayersOnline>
+  <TodayPeak>330</TodayPeak>
+  <TotalPlayers>13015</TotalPlayers>
   <Season>
     <Id>9</Id>
     <Start>1781131206</Start>
     <End>1783723206</End>
-    <TimeRemaining>6d 10h</TimeRemaining>
+    <TimeRemaining>6d 1h</TimeRemaining>
   </Season>
-  <JailedPlayers count="11">
+  <JailedPlayers count="12">
+    <Player>
+      <Name>Flins</Name>
+      <EntryDate>2026-07-04 15:24:04</EntryDate>
+      <Duration>540</Duration>
+    </Player>
     <Player>
       <Name>Soulpsikis</Name>
       <EntryDate>2026-07-04 01:12:15</EntryDate>
