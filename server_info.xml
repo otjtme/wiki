@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1783376111150</GeneratedAt>
+  <GeneratedAt>1783377311098</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>0</PlayersOnline>
-  <TodayPeak>0</TodayPeak>
+  <PlayersOnline>182</PlayersOnline>
+  <TodayPeak>187</TodayPeak>
   <TotalPlayers>13070</TotalPlayers>
   <Season>
     <Id>9</Id>
@@ -63,7 +63,7 @@
       <Duration>129600</Duration>
     </Player>
   </JailedPlayers>
-  <BannedPlayers count="42">
+  <BannedPlayers count="44">
     <Player>
       <Name>Adolf</Name>
       <DaysRemaining>106751970526</DaysRemaining>
@@ -86,6 +86,14 @@
     </Player>
     <Player>
       <Name>Cmail</Name>
+      <DaysRemaining>106751970526</DaysRemaining>
+    </Player>
+    <Player>
+      <Name>Cornan</Name>
+      <DaysRemaining>106751970526</DaysRemaining>
+    </Player>
+    <Player>
+      <Name>Digi</Name>
       <DaysRemaining>106751970526</DaysRemaining>
     </Player>
     <Player>
