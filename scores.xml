@@ -172,7 +172,7 @@
 <stats>
 <level>843</level>
 <vocation>warrior</vocation>
-<exppoints>418212969251</exppoints>
+<exppoints>418213503610</exppoints>
 <achievement>308</achievement>
 <guild>BOPE</guild>
 <quota>0</quota>
@@ -881,7 +881,7 @@
 <stats>
 <level>688</level>
 <vocation>warrior</vocation>
-<exppoints>185859817487</exppoints>
+<exppoints>185861617686</exppoints>
 <achievement>145</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -968,7 +968,7 @@
 <stats>
 <level>683</level>
 <vocation>warrior</vocation>
-<exppoints>179899111566</exppoints>
+<exppoints>179899290066</exppoints>
 <achievement>188</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -1018,7 +1018,7 @@
 <stats>
 <level>672</level>
 <vocation>warrior</vocation>
-<exppoints>168453571375</exppoints>
+<exppoints>168459076748</exppoints>
 <achievement>126</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1143,7 +1143,7 @@
 <stats>
 <level>660</level>
 <vocation>wizard</vocation>
-<exppoints>157085044524</exppoints>
+<exppoints>157085044583</exppoints>
 <achievement>255</achievement>
 <guild>BOPE</guild>
 <quota>0</quota>
@@ -1234,7 +1234,7 @@
 <stats>
 <level>650</level>
 <vocation>warrior</vocation>
-<exppoints>147818043608</exppoints>
+<exppoints>147819293608</exppoints>
 <achievement>118</achievement>
 <guild>My Lfie</guild>
 <quota>1</quota>
@@ -1409,7 +1409,7 @@
 <stats>
 <level>624</level>
 <vocation>warrior</vocation>
-<exppoints>125220913165</exppoints>
+<exppoints>125225167725</exppoints>
 <achievement>161</achievement>
 <guild>W O R L D</guild>
 <quota>0</quota>
@@ -1442,7 +1442,7 @@
 <stats>
 <level>620</level>
 <vocation>warrior</vocation>
-<exppoints>122072833995</exppoints>
+<exppoints>122075308019</exppoints>
 <achievement>120</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -2027,7 +2027,7 @@
 <stats>
 <level>565</level>
 <vocation>warrior</vocation>
-<exppoints>84251129627</exppoints>
+<exppoints>84256085453</exppoints>
 <achievement>80</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -2483,7 +2483,7 @@
 <stats>
 <level>534</level>
 <vocation>warrior</vocation>
-<exppoints>67466013776</exppoints>
+<exppoints>67467613633</exppoints>
 <achievement>24</achievement>
 <guild>Zorokojo</guild>
 <quota>0</quota>
@@ -2655,7 +2655,7 @@
 <stats>
 <level>523</level>
 <vocation>wizard</vocation>
-<exppoints>61769415963</exppoints>
+<exppoints>61770935227</exppoints>
 <achievement>275</achievement>
 <guild>W O R L D</guild>
 <quota>0</quota>
@@ -2709,7 +2709,7 @@
 <stats>
 <level>520</level>
 <vocation>wizard</vocation>
-<exppoints>60571987162</exppoints>
+<exppoints>60572989084</exppoints>
 <achievement>120</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -3710,7 +3710,7 @@
 <stats>
 <level>472</level>
 <vocation>warrior</vocation>
-<exppoints>40889673346</exppoints>
+<exppoints>40890960132</exppoints>
 <achievement>165</achievement>
 <guild>G O D</guild>
 <quota>0</quota>
@@ -4095,7 +4095,7 @@
 <stats>
 <level>441</level>
 <vocation>warrior</vocation>
-<exppoints>31137812231</exppoints>
+<exppoints>31142924841</exppoints>
 <achievement>79</achievement>
 <guild>W O R L D</guild>
 <quota>0</quota>
@@ -4112,7 +4112,7 @@
 <stats>
 <level>440</level>
 <vocation>wizard</vocation>
-<exppoints>30916821296</exppoints>
+<exppoints>30917346296</exppoints>
 <achievement>129</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -4240,6 +4240,24 @@
 <rank type="stars_wizard">40</rank>
 </ranks>
 </character>
+<character name="Benimaru">
+<stats>
+<level>437</level>
+<vocation>warrior</vocation>
+<exppoints>30015122078</exppoints>
+<achievement>185</achievement>
+<guild>My Lfie</guild>
+<quota>0</quota>
+<patent>Newbie</patent>
+<deaths></deaths>
+</stats>
+<ranks>
+<rank type="highscore_global">247</rank>
+<rank type="highscore_warrior">171</rank>
+<rank type="stars_warrior">80</rank>
+<rank type="pvp">72</rank>
+</ranks>
+</character>
 <character name="Valquiria">
 <stats>
 <level>437</level>
@@ -4252,26 +4270,8 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">247</rank>
-<rank type="highscore_warrior">171</rank>
-</ranks>
-</character>
-<character name="Benimaru">
-<stats>
-<level>437</level>
-<vocation>warrior</vocation>
-<exppoints>30013046496</exppoints>
-<achievement>185</achievement>
-<guild>My Lfie</guild>
-<quota>0</quota>
-<patent>Newbie</patent>
-<deaths></deaths>
-</stats>
-<ranks>
 <rank type="highscore_global">248</rank>
 <rank type="highscore_warrior">172</rank>
-<rank type="stars_warrior">80</rank>
-<rank type="pvp">72</rank>
 </ranks>
 </character>
 <character name="Eagle">
@@ -4392,7 +4392,7 @@
 <stats>
 <level>428</level>
 <vocation>warrior</vocation>
-<exppoints>27615204678</exppoints>
+<exppoints>27619321667</exppoints>
 <achievement>134</achievement>
 <guild>W O R L D</guild>
 <quota>0</quota>
@@ -4594,7 +4594,7 @@
 <stats>
 <level>420</level>
 <vocation>warrior</vocation>
-<exppoints>25578324627</exppoints>
+<exppoints>25581925088</exppoints>
 <achievement>45</achievement>
 <guild>W O R L D</guild>
 <quota>0</quota>
@@ -4948,7 +4948,7 @@
 <stats>
 <level>398</level>
 <vocation>warrior</vocation>
-<exppoints>20615817712</exppoints>
+<exppoints>20619359614</exppoints>
 <achievement>132</achievement>
 <guild>W O R L D</guild>
 <quota>0</quota>
@@ -5032,7 +5032,7 @@
 <stats>
 <level>392</level>
 <vocation>warrior</vocation>
-<exppoints>19453813232</exppoints>
+<exppoints>19454249483</exppoints>
 <achievement>0</achievement>
 <guild>Blackbulls</guild>
 <quota>0</quota>
@@ -5284,7 +5284,7 @@
 <stats>
 <level>381</level>
 <vocation>wizard</vocation>
-<exppoints>17348629558</exppoints>
+<exppoints>17352774565</exppoints>
 <achievement>55</achievement>
 <guild>W O R L D</guild>
 <quota>0</quota>
@@ -5510,6 +5510,23 @@
 <rank type="highscore_warrior">219</rank>
 </ranks>
 </character>
+<character name="Systempro">
+<stats>
+<level>373</level>
+<vocation>wizard</vocation>
+<exppoints>15918335591</exppoints>
+<achievement>90</achievement>
+<guild>W O R L D</guild>
+<quota>0</quota>
+<patent></patent>
+<deaths></deaths>
+</stats>
+<ranks>
+<rank type="highscore_global">323</rank>
+<rank type="highscore_wizard">104</rank>
+<rank type="stars_wizard">92</rank>
+</ranks>
+</character>
 <character name="Xhunter">
 <stats>
 <level>373</level>
@@ -5522,26 +5539,9 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">323</rank>
+<rank type="highscore_global">324</rank>
 <rank type="highscore_warrior">220</rank>
 <rank type="stars_warrior">78</rank>
-</ranks>
-</character>
-<character name="Systempro">
-<stats>
-<level>373</level>
-<vocation>wizard</vocation>
-<exppoints>15914977200</exppoints>
-<achievement>90</achievement>
-<guild>W O R L D</guild>
-<quota>0</quota>
-<patent></patent>
-<deaths></deaths>
-</stats>
-<ranks>
-<rank type="highscore_global">324</rank>
-<rank type="highscore_wizard">104</rank>
-<rank type="stars_wizard">92</rank>
 </ranks>
 </character>
 <character name="Killerwiz">
@@ -6408,7 +6408,7 @@
 <stats>
 <level>335</level>
 <vocation>wizard</vocation>
-<exppoints>10412789936</exppoints>
+<exppoints>10416183541</exppoints>
 <achievement>38</achievement>
 <guild>W O R L D</guild>
 <quota>0</quota>
@@ -6798,10 +6798,10 @@
 </characters>
 <guilds>
 <guild name="BUG"><exppoints>120000000</exppoints><gold>0</gold><platinum>18000</platinum><leader>Weedking</leader><members>68</members><rank type="guild">1</rank></guild>
-<guild name="W O R L D"><exppoints>120000000</exppoints><gold>1300000</gold><platinum>212</platinum><leader>Momoo</leader><members>70</members><rank type="guild">2</rank></guild>
+<guild name="W O R L D"><exppoints>120000000</exppoints><gold>1300000</gold><platinum>212</platinum><leader>Momoo</leader><members>69</members><rank type="guild">2</rank></guild>
 <guild name="BOPE"><exppoints>116993480</exppoints><gold>0</gold><platinum>107</platinum><leader>Jpking</leader><members>60</members><rank type="guild">3</rank></guild>
 <guild name="LIBERTYW1"><exppoints>115885158</exppoints><gold>195109</gold><platinum>0</platinum><leader>Ivibueno</leader><members>64</members><rank type="guild">4</rank></guild>
-<guild name="Blackbulls"><exppoints>114670819</exppoints><gold>101000</gold><platinum>680</platinum><leader>Reidoback</leader><members>46</members><rank type="guild">5</rank></guild>
+<guild name="Blackbulls"><exppoints>114670819</exppoints><gold>301000</gold><platinum>680</platinum><leader>Reidoback</leader><members>46</members><rank type="guild">5</rank></guild>
 <guild name="OG"><exppoints>64937355</exppoints><gold>6500</gold><platinum>0</platinum><leader>Ironfang</leader><members>53</members><rank type="guild">6</rank></guild>
 <guild name="JTME"><exppoints>63429402</exppoints><gold>22419</gold><platinum>135</platinum><leader>Vexx</leader><members>40</members><rank type="guild">7</rank></guild>
 <guild name="G O D"><exppoints>54475376</exppoints><gold>4713</gold><platinum>0</platinum><leader>Jaguard</leader><members>44</members><rank type="guild">8</rank></guild>
