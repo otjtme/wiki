@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1784033707901</GeneratedAt>
+  <GeneratedAt>1784050507908</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>292</PlayersOnline>
-  <TodayPeak>306</TodayPeak>
-  <TotalPlayers>13356</TotalPlayers>
+  <PlayersOnline>295</PlayersOnline>
+  <TodayPeak>355</TodayPeak>
+  <TotalPlayers>13368</TotalPlayers>
   <Season>
     <Id>10</Id>
     <Start>1783723699</Start>
     <End>1786315699</End>
-    <TimeRemaining>26d 9h</TimeRemaining>
+    <TimeRemaining>26d 5h</TimeRemaining>
   </Season>
-  <JailedPlayers count="10">
+  <JailedPlayers count="11">
+    <Player>
+      <Name>Auam</Name>
+      <EntryDate>2026-07-14 16:10:07</EntryDate>
+      <Duration>540</Duration>
+    </Player>
     <Player>
       <Name>Kanar</Name>
       <EntryDate>2026-07-13 23:49:14</EntryDate>
