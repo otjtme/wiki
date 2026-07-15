@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1784127308041</GeneratedAt>
+  <GeneratedAt>1784128508046</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>211</PlayersOnline>
-  <TodayPeak>216</TodayPeak>
+  <PlayersOnline>180</PlayersOnline>
+  <TodayPeak>218</TodayPeak>
   <TotalPlayers>13397</TotalPlayers>
   <Season>
     <Id>10</Id>
@@ -11,7 +11,12 @@
     <End>1786315699</End>
     <TimeRemaining>25d 7h</TimeRemaining>
   </Season>
-  <JailedPlayers count="10">
+  <JailedPlayers count="11">
+    <Player>
+      <Name>Lyka</Name>
+      <EntryDate>2026-07-15 17:07:04</EntryDate>
+      <Duration>540</Duration>
+    </Player>
     <Player>
       <Name>Kanar</Name>
       <EntryDate>2026-07-13 23:49:14</EntryDate>
