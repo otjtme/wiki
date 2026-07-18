@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1784372108814</GeneratedAt>
+  <GeneratedAt>1784373308817</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>276</PlayersOnline>
-  <TodayPeak>276</TodayPeak>
+  <PlayersOnline>271</PlayersOnline>
+  <TodayPeak>282</TodayPeak>
   <TotalPlayers>13541</TotalPlayers>
   <Season>
     <Id>10</Id>
@@ -11,7 +11,12 @@
     <End>1786315699</End>
     <TimeRemaining>22d 11h</TimeRemaining>
   </Season>
-  <JailedPlayers count="10">
+  <JailedPlayers count="11">
+    <Player>
+      <Name>Brasilking</Name>
+      <EntryDate>2026-07-18 13:10:15</EntryDate>
+      <Duration>540</Duration>
+    </Player>
     <Player>
       <Name>Barryporra</Name>
       <EntryDate>2026-07-18 07:05:51</EntryDate>
