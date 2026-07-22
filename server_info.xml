@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1784715307508</GeneratedAt>
+  <GeneratedAt>1784716507528</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>178</PlayersOnline>
+  <PlayersOnline>181</PlayersOnline>
   <TodayPeak>213</TodayPeak>
   <TotalPlayers>13697</TotalPlayers>
   <Season>
@@ -11,7 +11,12 @@
     <End>1786315699</End>
     <TimeRemaining>18d 12h</TimeRemaining>
   </Season>
-  <JailedPlayers count="9">
+  <JailedPlayers count="10">
+    <Player>
+      <Name>Kingkojo</Name>
+      <EntryDate>2026-07-22 11:59:28</EntryDate>
+      <Duration>540</Duration>
+    </Player>
     <Player>
       <Name>Bonidube</Name>
       <EntryDate>2026-07-21 10:09:47</EntryDate>
