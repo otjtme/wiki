@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1784891706681</GeneratedAt>
+  <GeneratedAt>1784922906677</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>293</PlayersOnline>
-  <TodayPeak>304</TodayPeak>
-  <TotalPlayers>13797</TotalPlayers>
+  <PlayersOnline>291</PlayersOnline>
+  <TodayPeak>369</TodayPeak>
+  <TotalPlayers>13813</TotalPlayers>
   <Season>
     <Id>10</Id>
     <Start>1783723699</Start>
     <End>1786315699</End>
-    <TimeRemaining>16d 11h</TimeRemaining>
+    <TimeRemaining>16d 2h</TimeRemaining>
   </Season>
-  <JailedPlayers count="9">
+  <JailedPlayers count="10">
+    <Player>
+      <Name>Lobari</Name>
+      <EntryDate>2026-07-24 13:37:37</EntryDate>
+      <Duration>540</Duration>
+    </Player>
     <Player>
       <Name>Bonidube</Name>
       <EntryDate>2026-07-21 10:09:47</EntryDate>
@@ -58,7 +63,7 @@
       <Duration>129600</Duration>
     </Player>
   </JailedPlayers>
-  <BannedPlayers count="66">
+  <BannedPlayers count="70">
     <Player>
       <Name>Adolf</Name>
       <DaysRemaining>106751970508</DaysRemaining>
@@ -70,6 +75,10 @@
     <Player>
       <Name>Bankgold</Name>
       <DaysRemaining>106751970508</DaysRemaining>
+    </Player>
+    <Player>
+      <Name>Beboneru</Name>
+      <DaysRemaining>1616663</DaysRemaining>
     </Player>
     <Player>
       <Name>Bmail</Name>
@@ -94,6 +103,14 @@
     <Player>
       <Name>Digi</Name>
       <DaysRemaining>106751970508</DaysRemaining>
+    </Player>
+    <Player>
+      <Name>Dunadi</Name>
+      <DaysRemaining>161663</DaysRemaining>
+    </Player>
+    <Player>
+      <Name>Dunani</Name>
+      <DaysRemaining>161663</DaysRemaining>
     </Player>
     <Player>
       <Name>Dungyi</Name>
@@ -218,6 +235,10 @@
     <Player>
       <Name>Nimuhaji</Name>
       <DaysRemaining>106751970508</DaysRemaining>
+    </Player>
+    <Player>
+      <Name>Nironu</Name>
+      <DaysRemaining>161663</DaysRemaining>
     </Player>
     <Player>
       <Name>Noniboywar</Name>
