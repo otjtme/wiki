@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1785066908862</GeneratedAt>
+  <GeneratedAt>1785104109676</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>299</PlayersOnline>
-  <TodayPeak>316</TodayPeak>
-  <TotalPlayers>13886</TotalPlayers>
+  <PlayersOnline>0</PlayersOnline>
+  <TodayPeak>0</TodayPeak>
+  <TotalPlayers>13905</TotalPlayers>
   <Season>
     <Id>10</Id>
     <Start>1783723699</Start>
     <End>1786315699</End>
-    <TimeRemaining>14d 10h</TimeRemaining>
+    <TimeRemaining>14d</TimeRemaining>
   </Season>
-  <JailedPlayers count="9">
+  <JailedPlayers count="11">
+    <Player>
+      <Name>Badalobo</Name>
+      <EntryDate>2026-07-27 00:04:23</EntryDate>
+      <Duration>540</Duration>
+    </Player>
+    <Player>
+      <Name>Kara</Name>
+      <EntryDate>2026-07-26 14:48:04</EntryDate>
+      <Duration>540</Duration>
+    </Player>
     <Player>
       <Name>Lobari</Name>
       <EntryDate>2026-07-24 13:37:37</EntryDate>
