@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1785534905424</GeneratedAt>
+  <GeneratedAt>1785536108755</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>278</PlayersOnline>
-  <TodayPeak>349</TodayPeak>
-  <TotalPlayers>14082</TotalPlayers>
+  <PlayersOnline>0</PlayersOnline>
+  <TodayPeak>0</TodayPeak>
+  <TotalPlayers>14090</TotalPlayers>
   <Season>
     <Id>10</Id>
     <Start>1783723699</Start>
     <End>1786315699</End>
     <TimeRemaining>9d</TimeRemaining>
   </Season>
-  <JailedPlayers count="9">
+  <JailedPlayers count="10">
+    <Player>
+      <Name>Mafukas</Name>
+      <EntryDate>2026-07-31 23:55:01</EntryDate>
+      <Duration>540</Duration>
+    </Player>
     <Player>
       <Name>Lobari</Name>
       <EntryDate>2026-07-24 13:37:37</EntryDate>
