@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1785672908550</GeneratedAt>
+  <GeneratedAt>1785702908551</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>296</PlayersOnline>
-  <TodayPeak>318</TodayPeak>
-  <TotalPlayers>14147</TotalPlayers>
+  <PlayersOnline>294</PlayersOnline>
+  <TodayPeak>357</TodayPeak>
+  <TotalPlayers>14164</TotalPlayers>
   <Season>
     <Id>10</Id>
     <Start>1783723699</Start>
     <End>1786315699</End>
-    <TimeRemaining>7d 10h</TimeRemaining>
+    <TimeRemaining>7d 2h</TimeRemaining>
   </Season>
   <JailedPlayers count="10">
     <Player>
@@ -63,7 +63,7 @@
       <Duration>129600</Duration>
     </Player>
   </JailedPlayers>
-  <BannedPlayers count="72">
+  <BannedPlayers count="73">
     <Player>
       <Name>Adolf</Name>
       <DaysRemaining>106751970499</DaysRemaining>
@@ -230,6 +230,10 @@
     </Player>
     <Player>
       <Name>Nacely</Name>
+      <DaysRemaining>106751970499</DaysRemaining>
+    </Player>
+    <Player>
+      <Name>Nadibelly</Name>
       <DaysRemaining>106751970499</DaysRemaining>
     </Player>
     <Player>
