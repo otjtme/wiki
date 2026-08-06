@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1786026905642</GeneratedAt>
+  <GeneratedAt>1786028105686</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>198</PlayersOnline>
+  <PlayersOnline>201</PlayersOnline>
   <TodayPeak>230</TodayPeak>
   <TotalPlayers>14325</TotalPlayers>
   <Season>
     <Id>10</Id>
     <Start>1783723699</Start>
     <End>1786315699</End>
-    <TimeRemaining>3d 8h</TimeRemaining>
+    <TimeRemaining>3d 7h</TimeRemaining>
   </Season>
   <JailedPlayers count="9">
     <Player>
@@ -58,7 +58,7 @@
       <Duration>129600</Duration>
     </Player>
   </JailedPlayers>
-  <BannedPlayers count="73">
+  <BannedPlayers count="74">
     <Player>
       <Name>Adolf</Name>
       <DaysRemaining>106751970495</DaysRemaining>
@@ -345,6 +345,10 @@
     </Player>
     <Player>
       <Name>Vivit</Name>
+      <DaysRemaining>106751970495</DaysRemaining>
+    </Player>
+    <Player>
+      <Name>Xiaowiz</Name>
       <DaysRemaining>106751970495</DaysRemaining>
     </Player>
     <Player>
