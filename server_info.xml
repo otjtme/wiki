@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1786175708917</GeneratedAt>
+  <GeneratedAt>1786176908890</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>268</PlayersOnline>
-  <TodayPeak>270</TodayPeak>
+  <PlayersOnline>267</PlayersOnline>
+  <TodayPeak>277</TodayPeak>
   <TotalPlayers>14409</TotalPlayers>
   <Season>
     <Id>10</Id>
@@ -11,7 +11,12 @@
     <End>1786315699</End>
     <TimeRemaining>1d 14h</TimeRemaining>
   </Season>
-  <JailedPlayers count="9">
+  <JailedPlayers count="10">
+    <Player>
+      <Name>Hyperstorm</Name>
+      <EntryDate>2026-08-08 09:50:54</EntryDate>
+      <Duration>540</Duration>
+    </Player>
     <Player>
       <Name>Lobari</Name>
       <EntryDate>2026-07-24 13:37:37</EntryDate>
