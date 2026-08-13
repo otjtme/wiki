@@ -846,7 +846,7 @@
 <stats>
 <level>714</level>
 <vocation>warrior</vocation>
-<exppoints>215750325483</exppoints>
+<exppoints>215750380923</exppoints>
 <achievement>315</achievement>
 <guild>BOPE</guild>
 <quota>2</quota>
@@ -1108,7 +1108,7 @@
 <stats>
 <level>676</level>
 <vocation>warrior</vocation>
-<exppoints>172587265427</exppoints>
+<exppoints>172587367671</exppoints>
 <achievement>186</achievement>
 <guild>E A G L E</guild>
 <quota>0</quota>
@@ -1320,7 +1320,7 @@
 <stats>
 <level>647</level>
 <vocation>warrior</vocation>
-<exppoints>144837962881</exppoints>
+<exppoints>144839610481</exppoints>
 <achievement>243</achievement>
 <guild>Gato gago</guild>
 <quota>0</quota>
@@ -1528,7 +1528,7 @@
 <stats>
 <level>626</level>
 <vocation>warrior</vocation>
-<exppoints>127409007600</exppoints>
+<exppoints>127409491512</exppoints>
 <achievement>262</achievement>
 <guild>My Lfie</guild>
 <quota>1</quota>
@@ -1564,7 +1564,7 @@
 <stats>
 <level>619</level>
 <vocation>warrior</vocation>
-<exppoints>121245171942</exppoints>
+<exppoints>121245355650</exppoints>
 <achievement>222</achievement>
 <guild>My Lfie</guild>
 <quota>0</quota>
@@ -1717,7 +1717,7 @@
 <stats>
 <level>605</level>
 <vocation>warrior</vocation>
-<exppoints>111220612564</exppoints>
+<exppoints>111222259604</exppoints>
 <achievement>61</achievement>
 <guild>My Lfie</guild>
 <quota>0</quota>
@@ -1973,7 +1973,7 @@
 <stats>
 <level>574</level>
 <vocation>wizard</vocation>
-<exppoints>89790503453</exppoints>
+<exppoints>89791059638</exppoints>
 <achievement>48</achievement>
 <guild>My Lfie</guild>
 <quota>0</quota>
@@ -2041,7 +2041,7 @@
 <stats>
 <level>572</level>
 <vocation>warrior</vocation>
-<exppoints>88841215269</exppoints>
+<exppoints>88846256769</exppoints>
 <achievement>248</achievement>
 <guild></guild>
 <quota>1</quota>
@@ -2344,7 +2344,7 @@
 <stats>
 <level>551</level>
 <vocation>warrior</vocation>
-<exppoints>76506631997</exppoints>
+<exppoints>76509930529</exppoints>
 <achievement>468</achievement>
 <guild>Darkness</guild>
 <quota>0</quota>
@@ -2396,7 +2396,7 @@
 <stats>
 <level>549</level>
 <vocation>warrior</vocation>
-<exppoints>75125947586</exppoints>
+<exppoints>75127595186</exppoints>
 <achievement>119</achievement>
 <guild>Gato gago</guild>
 <quota>0</quota>
@@ -2412,7 +2412,7 @@
 <stats>
 <level>549</level>
 <vocation>wizard</vocation>
-<exppoints>74914375906</exppoints>
+<exppoints>74916026838</exppoints>
 <achievement>59</achievement>
 <guild>New Age</guild>
 <quota>0</quota>
@@ -2622,7 +2622,7 @@
 <stats>
 <level>537</level>
 <vocation>wizard</vocation>
-<exppoints>68964498960</exppoints>
+<exppoints>68966149892</exppoints>
 <achievement>124</achievement>
 <guild>New Age</guild>
 <quota>0</quota>
@@ -2915,7 +2915,7 @@
 <stats>
 <level>517</level>
 <vocation>warrior</vocation>
-<exppoints>59275576701</exppoints>
+<exppoints>59278875233</exppoints>
 <achievement>195</achievement>
 <guild>Darkness</guild>
 <quota>0</quota>
@@ -3883,7 +3883,7 @@
 <stats>
 <level>475</level>
 <vocation>warrior</vocation>
-<exppoints>41924502921</exppoints>
+<exppoints>41925208341</exppoints>
 <achievement>199</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -4135,7 +4135,7 @@
 <stats>
 <level>456</level>
 <vocation>wizard</vocation>
-<exppoints>35819561161</exppoints>
+<exppoints>35821358253</exppoints>
 <achievement>75</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -4699,7 +4699,7 @@
 <stats>
 <level>428</level>
 <vocation>warrior</vocation>
-<exppoints>27655808168</exppoints>
+<exppoints>27657038788</exppoints>
 <achievement>413</achievement>
 <guild>My Lfie</guild>
 <quota>0</quota>
@@ -5179,7 +5179,7 @@
 <stats>
 <level>401</level>
 <vocation>warrior</vocation>
-<exppoints>21326951934</exppoints>
+<exppoints>21329704966</exppoints>
 <achievement>186</achievement>
 <guild>W O R L D</guild>
 <quota>0</quota>
@@ -5516,6 +5516,23 @@
 <rank type="highscore_warrior">221</rank>
 </ranks>
 </character>
+<character name="Dwn">
+<stats>
+<level>386</level>
+<vocation>warrior</vocation>
+<exppoints>18230905445</exppoints>
+<achievement>105</achievement>
+<guild>My Lfie</guild>
+<quota>0</quota>
+<patent>Newbie</patent>
+<deaths></deaths>
+</stats>
+<ranks>
+<rank type="highscore_global">325</rank>
+<rank type="highscore_warrior">222</rank>
+<rank type="pvp">90</rank>
+</ranks>
+</character>
 <character name="Ivibueno">
 <stats>
 <level>386</level>
@@ -5528,25 +5545,8 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">325</rank>
-<rank type="highscore_warrior">222</rank>
-</ranks>
-</character>
-<character name="Dwn">
-<stats>
-<level>386</level>
-<vocation>warrior</vocation>
-<exppoints>18229207090</exppoints>
-<achievement>105</achievement>
-<guild>My Lfie</guild>
-<quota>0</quota>
-<patent>Newbie</patent>
-<deaths></deaths>
-</stats>
-<ranks>
 <rank type="highscore_global">326</rank>
 <rank type="highscore_warrior">223</rank>
-<rank type="pvp">90</rank>
 </ranks>
 </character>
 <character name="Moy">
@@ -6792,10 +6792,10 @@
 <guilds>
 <guild name="BUG"><exppoints>21518397</exppoints><gold>9999</gold><platinum>8900</platinum><leader>Starboard</leader><members>70</members><rank type="guild">1</rank></guild>
 <guild name="W O R L D"><exppoints>18023656</exppoints><gold>162881</gold><platinum>1450</platinum><leader>Momoo</leader><members>69</members><rank type="guild">2</rank></guild>
-<guild name="My Lfie"><exppoints>18000862</exppoints><gold>0</gold><platinum>4550</platinum><leader>Easywinn</leader><members>67</members><rank type="guild">3</rank></guild>
+<guild name="My Lfie"><exppoints>18000862</exppoints><gold>0</gold><platinum>8150</platinum><leader>Easywinn</leader><members>67</members><rank type="guild">3</rank></guild>
 <guild name="LIBERTYW1"><exppoints>10038123</exppoints><gold>195110</gold><platinum>1010</platinum><leader>Ivibueno</leader><members>70</members><rank type="guild">4</rank></guild>
-<guild name="M A G"><exppoints>10001012</exppoints><gold>100000</gold><platinum>2561</platinum><leader>Mugiwara</leader><members>62</members><rank type="guild">5</rank></guild>
-<guild name="Renegados"><exppoints>9470837</exppoints><gold>2050</gold><platinum>3787</platinum><leader>Garp</leader><members>69</members><rank type="guild">6</rank></guild>
+<guild name="Renegados"><exppoints>10003853</exppoints><gold>2050</gold><platinum>3787</platinum><leader>Garp</leader><members>69</members><rank type="guild">5</rank></guild>
+<guild name="M A G"><exppoints>10001012</exppoints><gold>100000</gold><platinum>2561</platinum><leader>Mugiwara</leader><members>62</members><rank type="guild">6</rank></guild>
 <guild name="KILL YOU"><exppoints>5012231</exppoints><gold>0</gold><platinum>0</platinum><leader>Zsr</leader><members>11</members><rank type="guild">7</rank></guild>
 <guild name="BLACKLIST"><exppoints>4789033</exppoints><gold>0</gold><platinum>0</platinum><leader>Agiota</leader><members>56</members><rank type="guild">8</rank></guild>
 <guild name="ABCD"><exppoints>4005513</exppoints><gold>30</gold><platinum>0</platinum><leader>Biz</leader><members>28</members><rank type="guild">9</rank></guild>
@@ -6817,11 +6817,11 @@
 <guild name="Samurais"><exppoints>1012152</exppoints><gold>90600</gold><platinum>1000</platinum><leader>Zaikonotic</leader><members>44</members><rank type="guild">25</rank></guild>
 <guild name="Mlbb"><exppoints>1006940</exppoints><gold>0</gold><platinum>80</platinum><leader>Darkwartr</leader><members>3</members><rank type="guild">26</rank></guild>
 <guild name="Laos"><exppoints>1005500</exppoints><gold>40</gold><platinum>0</platinum><leader>Soking</leader><members>10</members><rank type="guild">27</rank></guild>
-<guild name="Brasil"><exppoints>1004388</exppoints><gold>20000</gold><platinum>0</platinum><leader>Lordkill</leader><members>6</members><rank type="guild">28</rank></guild>
-<guild name="Homemy"><exppoints>1002938</exppoints><gold>0</gold><platinum>26</platinum><leader>Stolaz</leader><members>10</members><rank type="guild">29</rank></guild>
-<guild name="Blackbulls"><exppoints>1002068</exppoints><gold>6000</gold><platinum>750</platinum><leader>Megalapan</leader><members>54</members><rank type="guild">30</rank></guild>
-<guild name="Zorokojo"><exppoints>838015</exppoints><gold>0</gold><platinum>0</platinum><leader>Tonya</leader><members>15</members><rank type="guild">31</rank></guild>
-<guild name="Darkness"><exppoints>811907</exppoints><gold>0</gold><platinum>0</platinum><leader>Babyangel</leader><members>15</members><rank type="guild">32</rank></guild>
+<guild name="Darkness"><exppoints>1004859</exppoints><gold>0</gold><platinum>0</platinum><leader>Babyangel</leader><members>15</members><rank type="guild">28</rank></guild>
+<guild name="Brasil"><exppoints>1004388</exppoints><gold>20000</gold><platinum>0</platinum><leader>Lordkill</leader><members>6</members><rank type="guild">29</rank></guild>
+<guild name="Homemy"><exppoints>1002938</exppoints><gold>0</gold><platinum>26</platinum><leader>Stolaz</leader><members>10</members><rank type="guild">30</rank></guild>
+<guild name="Blackbulls"><exppoints>1002068</exppoints><gold>6000</gold><platinum>750</platinum><leader>Megalapan</leader><members>54</members><rank type="guild">31</rank></guild>
+<guild name="Zorokojo"><exppoints>838015</exppoints><gold>0</gold><platinum>0</platinum><leader>Tonya</leader><members>15</members><rank type="guild">32</rank></guild>
 <guild name="HHHHHHHHH"><exppoints>761321</exppoints><gold>0</gold><platinum>0</platinum><leader>Roninn</leader><members>4</members><rank type="guild">33</rank></guild>
 <guild name="TESTO"><exppoints>759093</exppoints><gold>15000</gold><platinum>0</platinum><leader>Cuscuz</leader><members>5</members><rank type="guild">34</rank></guild>
 <guild name="IMPERIO"><exppoints>712565</exppoints><gold>0</gold><platinum>0</platinum><leader>Killerwiiz</leader><members>3</members><rank type="guild">35</rank></guild>
