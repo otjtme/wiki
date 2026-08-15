@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1786778108772</GeneratedAt>
+  <GeneratedAt>1786779308762</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>246</PlayersOnline>
+  <PlayersOnline>244</PlayersOnline>
   <TodayPeak>267</TodayPeak>
   <TotalPlayers>14688</TotalPlayers>
   <Season>
@@ -11,7 +11,12 @@
     <End>1788992106</End>
     <TimeRemaining>25d 14h</TimeRemaining>
   </Season>
-  <JailedPlayers count="10">
+  <JailedPlayers count="11">
+    <Player>
+      <Name>Thefuck</Name>
+      <EntryDate>2026-08-15 09:30:16</EntryDate>
+      <Duration>540</Duration>
+    </Player>
     <Player>
       <Name>Pakde</Name>
       <EntryDate>2026-08-14 10:31:05</EntryDate>
