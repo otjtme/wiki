@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1786935309848</GeneratedAt>
+  <GeneratedAt>1786936509840</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>252</PlayersOnline>
+  <PlayersOnline>242</PlayersOnline>
   <TodayPeak>256</TodayPeak>
   <TotalPlayers>14785</TotalPlayers>
   <Season>
     <Id>11</Id>
     <Start>1786400106</Start>
     <End>1788992106</End>
-    <TimeRemaining>23d 19h</TimeRemaining>
+    <TimeRemaining>23d 18h</TimeRemaining>
   </Season>
-  <JailedPlayers count="10">
+  <JailedPlayers count="11">
+    <Player>
+      <Name>Tarkt</Name>
+      <EntryDate>2026-08-17 05:06:24</EntryDate>
+      <Duration>540</Duration>
+    </Player>
     <Player>
       <Name>Nilelebu</Name>
       <EntryDate>2026-08-17 00:06:05</EntryDate>
