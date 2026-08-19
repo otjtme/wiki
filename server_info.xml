@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1787109307480</GeneratedAt>
+  <GeneratedAt>1787110507478</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>128</PlayersOnline>
+  <PlayersOnline>137</PlayersOnline>
   <TodayPeak>160</TodayPeak>
-  <TotalPlayers>14915</TotalPlayers>
+  <TotalPlayers>14917</TotalPlayers>
   <Season>
     <Id>11</Id>
     <Start>1786400106</Start>
     <End>1788992106</End>
     <TimeRemaining>21d 18h</TimeRemaining>
   </Season>
-  <JailedPlayers count="10">
+  <JailedPlayers count="11">
+    <Player>
+      <Name>Sellplat</Name>
+      <EntryDate>2026-08-19 05:16:46</EntryDate>
+      <Duration>1111</Duration>
+    </Player>
     <Player>
       <Name>Sarotobi</Name>
       <EntryDate>2026-08-19 05:08:26</EntryDate>
@@ -63,7 +68,7 @@
       <Duration>129600</Duration>
     </Player>
   </JailedPlayers>
-  <BannedPlayers count="73">
+  <BannedPlayers count="74">
     <Player>
       <Name>Adolf</Name>
       <DaysRemaining>106751970483</DaysRemaining>
@@ -290,6 +295,10 @@
     </Player>
     <Player>
       <Name>Scarface</Name>
+      <DaysRemaining>106751970483</DaysRemaining>
+    </Player>
+    <Player>
+      <Name>Sellplat</Name>
       <DaysRemaining>106751970483</DaysRemaining>
     </Player>
     <Player>
