@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1787187305073</GeneratedAt>
+  <GeneratedAt>1787188505074</GeneratedAt>
   <WorldId>200</WorldId>
   <PlayersOnline>124</PlayersOnline>
-  <TodayPeak>132</TodayPeak>
+  <TodayPeak>137</TodayPeak>
   <TotalPlayers>14978</TotalPlayers>
   <Season>
     <Id>11</Id>
@@ -11,7 +11,12 @@
     <End>1788992106</End>
     <TimeRemaining>20d 21h</TimeRemaining>
   </Season>
-  <JailedPlayers count="10">
+  <JailedPlayers count="11">
+    <Player>
+      <Name>Mxoi</Name>
+      <EntryDate>2026-08-20 03:14:01</EntryDate>
+      <Duration>540</Duration>
+    </Player>
     <Player>
       <Name>Sellplat</Name>
       <EntryDate>2026-08-19 05:16:46</EntryDate>
