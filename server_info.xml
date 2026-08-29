@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1787982907560</GeneratedAt>
+  <GeneratedAt>1787984107560</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>254</PlayersOnline>
-  <TodayPeak>262</TodayPeak>
-  <TotalPlayers>15323</TotalPlayers>
+  <PlayersOnline>249</PlayersOnline>
+  <TodayPeak>267</TodayPeak>
+  <TotalPlayers>15325</TotalPlayers>
   <Season>
     <Id>11</Id>
     <Start>1786400106</Start>
     <End>1788992106</End>
-    <TimeRemaining>11d 16h</TimeRemaining>
+    <TimeRemaining>11d 15h</TimeRemaining>
   </Season>
-  <JailedPlayers count="11">
+  <JailedPlayers count="12">
+    <Player>
+      <Name>Suzuran</Name>
+      <EntryDate>2026-08-29 07:55:54</EntryDate>
+      <Duration>540</Duration>
+    </Player>
     <Player>
       <Name>Monos</Name>
       <EntryDate>2026-08-29 02:09:47</EntryDate>
