@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1788663311445</GeneratedAt>
+  <GeneratedAt>1788664511419</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>236</PlayersOnline>
-  <TodayPeak>242</TodayPeak>
-  <TotalPlayers>15752</TotalPlayers>
+  <PlayersOnline>234</PlayersOnline>
+  <TodayPeak>244</TodayPeak>
+  <TotalPlayers>15753</TotalPlayers>
   <Season>
     <Id>11</Id>
     <Start>1786400106</Start>
     <End>1788992106</End>
-    <TimeRemaining>3d 19h</TimeRemaining>
+    <TimeRemaining>3d 18h</TimeRemaining>
   </Season>
-  <JailedPlayers count="12">
+  <JailedPlayers count="14">
+    <Player>
+      <Name>Thuglife</Name>
+      <EntryDate>2026-09-06 04:54:59</EntryDate>
+      <Duration>1440</Duration>
+    </Player>
+    <Player>
+      <Name>Castiel</Name>
+      <EntryDate>2026-09-06 04:54:25</EntryDate>
+      <Duration>1440</Duration>
+    </Player>
     <Player>
       <Name>Loraro</Name>
       <EntryDate>2026-09-05 22:00:32</EntryDate>
