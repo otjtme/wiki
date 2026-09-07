@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1788745033208</GeneratedAt>
+  <GeneratedAt>1788746233218</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>232</PlayersOnline>
-  <TodayPeak>241</TodayPeak>
-  <TotalPlayers>15809</TotalPlayers>
+  <PlayersOnline>241</PlayersOnline>
+  <TodayPeak>246</TodayPeak>
+  <TotalPlayers>15810</TotalPlayers>
   <Season>
     <Id>11</Id>
     <Start>1786400106</Start>
     <End>1788992106</End>
     <TimeRemaining>2d 20h</TimeRemaining>
   </Season>
-  <JailedPlayers count="11">
+  <JailedPlayers count="12">
+    <Player>
+      <Name>Magicbold</Name>
+      <EntryDate>2026-09-07 03:41:53</EntryDate>
+      <Duration>540</Duration>
+    </Player>
     <Player>
       <Name>Zikzira</Name>
       <EntryDate>2026-09-06 05:28:45</EntryDate>
