@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1789230437442</GeneratedAt>
+  <GeneratedAt>1789231637457</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>266</PlayersOnline>
+  <PlayersOnline>275</PlayersOnline>
   <TodayPeak>314</TodayPeak>
   <TotalPlayers>16174</TotalPlayers>
   <Season>
@@ -11,7 +11,12 @@
     <End>1791584175</End>
     <TimeRemaining>27d 5h</TimeRemaining>
   </Season>
-  <JailedPlayers count="11">
+  <JailedPlayers count="12">
+    <Player>
+      <Name>Rudodadu</Name>
+      <EntryDate>2026-09-12 18:36:30</EntryDate>
+      <Duration>540</Duration>
+    </Player>
     <Player>
       <Name>Kaisarlaut</Name>
       <EntryDate>2026-09-12 13:59:46</EntryDate>
