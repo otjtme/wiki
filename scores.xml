@@ -19,7 +19,7 @@
 <rank type="highscore_warrior">1</rank>
 <rank type="stars_global">38</rank>
 <rank type="stars_warrior">26</rank>
-<rank type="pvp">8</rank>
+<rank type="pvp">7</rank>
 </ranks>
 </character>
 <character name="Sayonara">
@@ -38,7 +38,7 @@
 <rank type="highscore_wizard">1</rank>
 <rank type="stars_global">1</rank>
 <rank type="stars_wizard">1</rank>
-<rank type="pvp">24</rank>
+<rank type="pvp">21</rank>
 </ranks>
 </character>
 <character name="Winterfell">
@@ -85,7 +85,7 @@
 <exppoints>605782632208</exppoints>
 <achievement>209</achievement>
 <guild>BUG</guild>
-<quota>3</quota>
+<quota>4</quota>
 <patent>Newbie</patent>
 <deaths></deaths>
 </stats>
@@ -94,7 +94,7 @@
 <rank type="highscore_warrior">4</rank>
 <rank type="stars_global">98</rank>
 <rank type="stars_warrior">68</rank>
-<rank type="pvp">17</rank>
+<rank type="pvp">13</rank>
 </ranks>
 </character>
 <character name="Killmeplz">
@@ -118,9 +118,9 @@
 <stats>
 <level>905</level>
 <vocation>warrior</vocation>
-<exppoints>555927938829</exppoints>
+<exppoints>555928065501</exppoints>
 <achievement>213</achievement>
-<guild>BUG</guild>
+<guild></guild>
 <quota>0</quota>
 <patent>Newbie</patent>
 <deaths></deaths>
@@ -148,7 +148,7 @@
 <rank type="highscore_global">8</rank>
 <rank type="highscore_warrior">7</rank>
 <rank type="stars_warrior">99</rank>
-<rank type="pvp">16</rank>
+<rank type="pvp">14</rank>
 </ranks>
 </character>
 <character name="Bboss">
@@ -259,7 +259,7 @@
 <rank type="highscore_warrior">13</rank>
 <rank type="stars_global">53</rank>
 <rank type="stars_warrior">38</rank>
-<rank type="pvp">32</rank>
+<rank type="pvp">27</rank>
 </ranks>
 </character>
 <character name="Mochi">
@@ -321,7 +321,7 @@
 <guild>My Lfie</guild>
 <quota>0</quota>
 <patent>Newbie</patent>
-<deaths>2026-09-16 01:04:55:-0:Noobd:1;2026-09-16 15:31:52:-0:Heisenberg:1;</deaths>
+<deaths>2026-09-16 01:04:55:-0:Noobd:1;2026-09-16 15:31:52:-0:Heisenberg:1;2026-09-16 15:37:27:-0:Katherine:1;2026-09-16 15:46:07:-0:Heisenberg:1;</deaths>
 </stats>
 <ranks>
 <rank type="highscore_global">18</rank>
@@ -388,7 +388,7 @@
 <stats>
 <level>821</level>
 <vocation>wizard</vocation>
-<exppoints>377593780811</exppoints>
+<exppoints>377598898331</exppoints>
 <achievement>384</achievement>
 <guild>My Lfie</guild>
 <quota>1</quota>
@@ -400,7 +400,7 @@
 <rank type="highscore_wizard">2</rank>
 <rank type="stars_global">9</rank>
 <rank type="stars_wizard">5</rank>
-<rank type="pvp">36</rank>
+<rank type="pvp">53</rank>
 </ranks>
 </character>
 <character name="Aphrodite">
@@ -419,7 +419,7 @@
 <rank type="highscore_wizard">3</rank>
 <rank type="stars_global">11</rank>
 <rank type="stars_wizard">6</rank>
-<rank type="pvp">42</rank>
+<rank type="pvp">44</rank>
 </ranks>
 </character>
 <character name="Assasin">
@@ -436,7 +436,7 @@
 <ranks>
 <rank type="highscore_global">24</rank>
 <rank type="highscore_warrior">21</rank>
-<rank type="pvp">13</rank>
+<rank type="pvp">11</rank>
 </ranks>
 </character>
 <character name="Axel">
@@ -453,7 +453,7 @@
 <ranks>
 <rank type="highscore_global">25</rank>
 <rank type="highscore_warrior">22</rank>
-<rank type="pvp">76</rank>
+<rank type="pvp">77</rank>
 </ranks>
 </character>
 <character name="Perseu">
@@ -528,6 +528,25 @@
 <rank type="stars_wizard">2</rank>
 </ranks>
 </character>
+<character name="Major">
+<stats>
+<level>806</level>
+<vocation>wizard</vocation>
+<exppoints>350821088417</exppoints>
+<achievement>285</achievement>
+<guild></guild>
+<quota>1</quota>
+<patent>Newbie</patent>
+<deaths>2026-09-16 15:30:59:-0:Retrospect:1;2026-09-16 15:31:29:-17541054421:Crazyboy:1;</deaths>
+</stats>
+<ranks>
+<rank type="highscore_global">30</rank>
+<rank type="highscore_wizard">5</rank>
+<rank type="stars_global">39</rank>
+<rank type="stars_wizard">13</rank>
+<rank type="pvp">34</rank>
+</ranks>
+</character>
 <character name="Cxllme">
 <stats>
 <level>805</level>
@@ -540,7 +559,7 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">30</rank>
+<rank type="highscore_global">31</rank>
 <rank type="highscore_warrior">26</rank>
 </ranks>
 </character>
@@ -556,27 +575,9 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">31</rank>
-<rank type="highscore_warrior">27</rank>
-<rank type="pvp">23</rank>
-</ranks>
-</character>
-<character name="Major">
-<stats>
-<level>796</level>
-<vocation>wizard</vocation>
-<exppoints>333280033996</exppoints>
-<achievement>285</achievement>
-<guild></guild>
-<quota>0</quota>
-<patent>Newbie</patent>
-<deaths>2026-09-16 15:30:59:-0:Retrospect:1;2026-09-16 15:31:29:-17541054421:Crazyboy:1;</deaths>
-</stats>
-<ranks>
 <rank type="highscore_global">32</rank>
-<rank type="highscore_wizard">5</rank>
-<rank type="stars_global">39</rank>
-<rank type="stars_wizard">13</rank>
+<rank type="highscore_warrior">27</rank>
+<rank type="pvp">22</rank>
 </ranks>
 </character>
 <character name="Lendario">
@@ -610,7 +611,7 @@
 <ranks>
 <rank type="highscore_global">34</rank>
 <rank type="highscore_warrior">29</rank>
-<rank type="pvp">67</rank>
+<rank type="pvp">68</rank>
 </ranks>
 </character>
 <character name="Buro">
@@ -697,7 +698,7 @@
 <rank type="highscore_warrior">33</rank>
 <rank type="stars_global">22</rank>
 <rank type="stars_warrior">13</rank>
-<rank type="pvp">11</rank>
+<rank type="pvp">12</rank>
 </ranks>
 </character>
 <character name="Apelao">
@@ -733,7 +734,7 @@
 <rank type="highscore_warrior">34</rank>
 <rank type="stars_global">58</rank>
 <rank type="stars_warrior">41</rank>
-<rank type="pvp">33</rank>
+<rank type="pvp">38</rank>
 </ranks>
 </character>
 <character name="Mhnxx">
@@ -779,7 +780,7 @@
 <guild>My Lfie</guild>
 <quota>0</quota>
 <patent>Newbie</patent>
-<deaths>2026-09-16 02:33:19:-0:Killmeplz:1;2026-09-16 03:27:10:-0:Crazyboy:1;2026-09-16 05:18:14:-0:Axel:1;2026-09-16 15:22:14:-0:Noobd:1;2026-09-16 15:26:50:-0:Noobd:1;</deaths>
+<deaths>2026-09-16 02:33:19:-0:Killmeplz:1;2026-09-16 03:27:10:-0:Crazyboy:1;2026-09-16 05:18:14:-0:Axel:1;2026-09-16 15:22:14:-0:Noobd:1;2026-09-16 15:26:50:-0:Noobd:1;2026-09-16 15:39:17:-0:Aatrox:1;</deaths>
 </stats>
 <ranks>
 <rank type="highscore_global">44</rank>
@@ -802,7 +803,7 @@
 <rank type="highscore_warrior">37</rank>
 <rank type="stars_global">65</rank>
 <rank type="stars_warrior">45</rank>
-<rank type="pvp">51</rank>
+<rank type="pvp">55</rank>
 </ranks>
 </character>
 <character name="Pongpaeng">
@@ -837,7 +838,7 @@
 <rank type="highscore_warrior">39</rank>
 <rank type="stars_global">90</rank>
 <rank type="stars_warrior">62</rank>
-<rank type="pvp">56</rank>
+<rank type="pvp">57</rank>
 </ranks>
 </character>
 <character name="Boladao">
@@ -881,7 +882,7 @@
 <stats>
 <level>725</level>
 <vocation>warrior</vocation>
-<exppoints>229541387827</exppoints>
+<exppoints>229544345203</exppoints>
 <achievement>181</achievement>
 <guild>LIBERTYW1</guild>
 <quota>0</quota>
@@ -898,7 +899,7 @@
 <stats>
 <level>725</level>
 <vocation>wizard</vocation>
-<exppoints>228631554099</exppoints>
+<exppoints>228633240290</exppoints>
 <achievement>258</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -927,7 +928,7 @@
 <rank type="highscore_global">52</rank>
 <rank type="highscore_warrior">42</rank>
 <rank type="stars_warrior">73</rank>
-<rank type="pvp">46</rank>
+<rank type="pvp">54</rank>
 </ranks>
 </character>
 <character name="Katar">
@@ -1008,14 +1009,13 @@
 <exppoints>208510283285</exppoints>
 <achievement>152</achievement>
 <guild>BUG</guild>
-<quota>7</quota>
-<patent>Recruit</patent>
-<deaths></deaths>
+<quota>0</quota>
+<patent>Newbie</patent>
+<deaths>2026-09-16 15:38:45:-0:Lori:1;2026-09-16 15:48:30:-0:Major:1;</deaths>
 </stats>
 <ranks>
 <rank type="highscore_global">57</rank>
 <rank type="highscore_warrior">46</rank>
-<rank type="pvp">6</rank>
 </ranks>
 </character>
 <character name="Bikky">
@@ -1082,7 +1082,7 @@
 <rank type="highscore_wizard">12</rank>
 <rank type="stars_global">7</rank>
 <rank type="stars_wizard">3</rank>
-<rank type="pvp">7</rank>
+<rank type="pvp">6</rank>
 </ranks>
 </character>
 <character name="Zyronyett">
@@ -1140,10 +1140,10 @@
 <stats>
 <level>685</level>
 <vocation>warrior</vocation>
-<exppoints>182763893096</exppoints>
+<exppoints>182764325832</exppoints>
 <achievement>422</achievement>
 <guild>BUG</guild>
-<quota>0</quota>
+<quota>1</quota>
 <patent>Newbie</patent>
 <deaths></deaths>
 </stats>
@@ -1152,6 +1152,7 @@
 <rank type="highscore_warrior">51</rank>
 <rank type="stars_global">5</rank>
 <rank type="stars_warrior">3</rank>
+<rank type="pvp">37</rank>
 </ranks>
 </character>
 <character name="Lll">
@@ -1170,7 +1171,7 @@
 <rank type="highscore_warrior">52</rank>
 <rank type="stars_global">12</rank>
 <rank type="stars_warrior">6</rank>
-<rank type="pvp">35</rank>
+<rank type="pvp">33</rank>
 </ranks>
 </character>
 <character name="Mamba">
@@ -1331,7 +1332,7 @@
 <rank type="highscore_warrior">60</rank>
 <rank type="stars_global">61</rank>
 <rank type="stars_warrior">42</rank>
-<rank type="pvp">12</rank>
+<rank type="pvp">10</rank>
 </ranks>
 </character>
 <character name="Panamaa">
@@ -1355,7 +1356,7 @@
 <stats>
 <level>661</level>
 <vocation>wizard</vocation>
-<exppoints>157806094144</exppoints>
+<exppoints>157807773944</exppoints>
 <achievement>313</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -1367,7 +1368,7 @@
 <rank type="highscore_wizard">16</rank>
 <rank type="stars_global">28</rank>
 <rank type="stars_wizard">10</rank>
-<rank type="pvp">59</rank>
+<rank type="pvp">62</rank>
 </ranks>
 </character>
 <character name="Aatrox">
@@ -1377,7 +1378,7 @@
 <exppoints>156417187011</exppoints>
 <achievement>271</achievement>
 <guild>BUG</guild>
-<quota>0</quota>
+<quota>1</quota>
 <patent>Newbie</patent>
 <deaths>2026-09-16 07:36:29:-0:Zyronyett:1;</deaths>
 </stats>
@@ -1386,6 +1387,7 @@
 <rank type="highscore_warrior">62</rank>
 <rank type="stars_global">48</rank>
 <rank type="stars_warrior">34</rank>
+<rank type="pvp">50</rank>
 </ranks>
 </character>
 <character name="Veldoraa">
@@ -1520,7 +1522,7 @@
 <rank type="highscore_warrior">67</rank>
 <rank type="stars_global">97</rank>
 <rank type="stars_warrior">67</rank>
-<rank type="pvp">77</rank>
+<rank type="pvp">78</rank>
 </ranks>
 </character>
 <character name="Babywar">
@@ -1537,7 +1539,7 @@
 <ranks>
 <rank type="highscore_global">87</rank>
 <rank type="highscore_warrior">68</rank>
-<rank type="pvp">75</rank>
+<rank type="pvp">76</rank>
 </ranks>
 </character>
 <character name="Kakarot">
@@ -1648,7 +1650,7 @@
 <stats>
 <level>625</level>
 <vocation>warrior</vocation>
-<exppoints>126104926850</exppoints>
+<exppoints>126107026850</exppoints>
 <achievement>111</achievement>
 <guild>KALSEL</guild>
 <quota>0</quota>
@@ -1664,12 +1666,12 @@
 <stats>
 <level>620</level>
 <vocation>warrior</vocation>
-<exppoints>122646394851</exppoints>
+<exppoints>122647124395</exppoints>
 <achievement>151</achievement>
 <guild>My Lfie</guild>
 <quota>0</quota>
 <patent>Newbie</patent>
-<deaths>2026-09-16 11:36:34:-0:Winterfell:1;</deaths>
+<deaths>2026-09-16 11:36:34:-0:Winterfell:1;2026-09-16 15:44:15:-0:Abyssal:0;</deaths>
 </stats>
 <ranks>
 <rank type="highscore_global">95</rank>
@@ -1728,7 +1730,7 @@
 <stats>
 <level>610</level>
 <vocation>warrior</vocation>
-<exppoints>114651315599</exppoints>
+<exppoints>114651316364</exppoints>
 <achievement>83</achievement>
 <guild>UNITY</guild>
 <quota>0</quota>
@@ -1744,7 +1746,7 @@
 <stats>
 <level>610</level>
 <vocation>wizard</vocation>
-<exppoints>114414224323</exppoints>
+<exppoints>114415988323</exppoints>
 <achievement>86</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -1755,7 +1757,7 @@
 <rank type="highscore_global">100</rank>
 <rank type="highscore_wizard">21</rank>
 <rank type="stars_wizard">99</rank>
-<rank type="pvp">73</rank>
+<rank type="pvp">74</rank>
 </ranks>
 </character>
 <character name="Tactics">
@@ -1858,7 +1860,7 @@
 <rank type="highscore_warrior">82</rank>
 <rank type="stars_global">64</rank>
 <rank type="stars_warrior">44</rank>
-<rank type="pvp">40</rank>
+<rank type="pvp">41</rank>
 </ranks>
 </character>
 <character name="Tankworld">
@@ -1891,7 +1893,7 @@
 <ranks>
 <rank type="highscore_global">108</rank>
 <rank type="highscore_warrior">84</rank>
-<rank type="pvp">15</rank>
+<rank type="pvp">16</rank>
 </ranks>
 </character>
 <character name="Liaheeee">
@@ -1942,7 +1944,7 @@
 <ranks>
 <rank type="highscore_global">111</rank>
 <rank type="highscore_warrior">87</rank>
-<rank type="pvp">48</rank>
+<rank type="pvp">49</rank>
 </ranks>
 </character>
 <character name="Tarderr">
@@ -1996,7 +1998,7 @@
 <rank type="highscore_warrior">89</rank>
 <rank type="stars_global">66</rank>
 <rank type="stars_warrior">46</rank>
-<rank type="pvp">45</rank>
+<rank type="pvp">26</rank>
 </ranks>
 </character>
 <character name="Newery">
@@ -2062,7 +2064,7 @@
 <ranks>
 <rank type="highscore_global">118</rank>
 <rank type="highscore_warrior">92</rank>
-<rank type="pvp">22</rank>
+<rank type="pvp">23</rank>
 </ranks>
 </character>
 <character name="Gayyar">
@@ -2098,7 +2100,7 @@
 <rank type="highscore_warrior">93</rank>
 <rank type="stars_global">19</rank>
 <rank type="stars_warrior">10</rank>
-<rank type="pvp">37</rank>
+<rank type="pvp">48</rank>
 </ranks>
 </character>
 <character name="Vingky">
@@ -2132,7 +2134,7 @@
 <ranks>
 <rank type="highscore_global">122</rank>
 <rank type="highscore_warrior">94</rank>
-<rank type="pvp">29</rank>
+<rank type="pvp">36</rank>
 </ranks>
 </character>
 <character name="Zyronkt">
@@ -2156,7 +2158,7 @@
 <stats>
 <level>570</level>
 <vocation>wizard</vocation>
-<exppoints>87150036562</exppoints>
+<exppoints>87151560594</exppoints>
 <achievement>156</achievement>
 <guild>Familys</guild>
 <quota>0</quota>
@@ -2233,7 +2235,7 @@
 <rank type="highscore_global">128</rank>
 <rank type="highscore_wizard">31</rank>
 <rank type="stars_wizard">58</rank>
-<rank type="pvp">54</rank>
+<rank type="pvp">61</rank>
 </ranks>
 </character>
 <character name="Weedking">
@@ -2267,7 +2269,7 @@
 <rank type="highscore_global">130</rank>
 <rank type="highscore_wizard">33</rank>
 <rank type="stars_wizard">46</rank>
-<rank type="pvp">14</rank>
+<rank type="pvp">15</rank>
 </ranks>
 </character>
 <character name="Taliky">
@@ -2301,7 +2303,7 @@
 <ranks>
 <rank type="highscore_global">132</rank>
 <rank type="highscore_warrior">98</rank>
-<rank type="pvp">39</rank>
+<rank type="pvp">42</rank>
 </ranks>
 </character>
 <character name="Elizabeht">
@@ -2368,7 +2370,7 @@
 <rank type="highscore_wizard">35</rank>
 <rank type="stars_global">16</rank>
 <rank type="stars_wizard">9</rank>
-<rank type="pvp">25</rank>
+<rank type="pvp">28</rank>
 </ranks>
 </character>
 <character name="Kabou">
@@ -2385,7 +2387,7 @@
 <ranks>
 <rank type="highscore_global">137</rank>
 <rank type="highscore_warrior">102</rank>
-<rank type="pvp">28</rank>
+<rank type="pvp">29</rank>
 </ranks>
 </character>
 <character name="Jeeje">
@@ -2476,7 +2478,7 @@
 <stats>
 <level>554</level>
 <vocation>wizard</vocation>
-<exppoints>77778790866</exppoints>
+<exppoints>77783754106</exppoints>
 <achievement>0</achievement>
 <guild>BOPE</guild>
 <quota>0</quota>
@@ -2637,7 +2639,7 @@
 <rank type="highscore_warrior">112</rank>
 <rank type="stars_global">63</rank>
 <rank type="stars_warrior">43</rank>
-<rank type="pvp">66</rank>
+<rank type="pvp">58</rank>
 </ranks>
 </character>
 <character name="Bboun">
@@ -2698,7 +2700,7 @@
 <stats>
 <level>543</level>
 <vocation>warrior</vocation>
-<exppoints>71732930906</exppoints>
+<exppoints>71733527546</exppoints>
 <achievement>154</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -2792,7 +2794,7 @@
 <ranks>
 <rank type="highscore_global">161</rank>
 <rank type="highscore_warrior">118</rank>
-<rank type="pvp">64</rank>
+<rank type="pvp">69</rank>
 </ranks>
 </character>
 <character name="Templar">
@@ -2861,7 +2863,7 @@
 <rank type="highscore_wizard">45</rank>
 <rank type="stars_global">78</rank>
 <rank type="stars_wizard">25</rank>
-<rank type="pvp">21</rank>
+<rank type="pvp">17</rank>
 </ranks>
 </character>
 <character name="Angrybird">
@@ -2880,7 +2882,7 @@
 <rank type="highscore_wizard">46</rank>
 <rank type="stars_global">45</rank>
 <rank type="stars_wizard">14</rank>
-<rank type="pvp">80</rank>
+<rank type="pvp">81</rank>
 </ranks>
 </character>
 <character name="Danteevil">
@@ -2923,7 +2925,7 @@
 <stats>
 <level>531</level>
 <vocation>wizard</vocation>
-<exppoints>65833408563</exppoints>
+<exppoints>65835049527</exppoints>
 <achievement>256</achievement>
 <guild>BOPE</guild>
 <quota>0</quota>
@@ -3176,7 +3178,7 @@
 <stats>
 <level>516</level>
 <vocation>warrior</vocation>
-<exppoints>58779599812</exppoints>
+<exppoints>58782933092</exppoints>
 <achievement>124</achievement>
 <guild>LIBERTYW1</guild>
 <quota>0</quota>
@@ -3186,7 +3188,7 @@
 <ranks>
 <rank type="highscore_global">184</rank>
 <rank type="highscore_warrior">132</rank>
-<rank type="pvp">69</rank>
+<rank type="pvp">70</rank>
 </ranks>
 </character>
 <character name="Destino">
@@ -3236,7 +3238,7 @@
 <ranks>
 <rank type="highscore_global">187</rank>
 <rank type="highscore_warrior">134</rank>
-<rank type="pvp">31</rank>
+<rank type="pvp">39</rank>
 </ranks>
 </character>
 <character name="Beelzebub">
@@ -3361,7 +3363,7 @@
 <stats>
 <level>512</level>
 <vocation>warrior</vocation>
-<exppoints>56743633367</exppoints>
+<exppoints>56743719607</exppoints>
 <achievement>259</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -3422,7 +3424,7 @@
 <rank type="highscore_global">198</rank>
 <rank type="highscore_wizard">57</rank>
 <rank type="stars_wizard">65</rank>
-<rank type="pvp">10</rank>
+<rank type="pvp">8</rank>
 </ranks>
 </character>
 <character name="Lorenna">
@@ -3493,7 +3495,7 @@
 <stats>
 <level>508</level>
 <vocation>warrior</vocation>
-<exppoints>55158744922</exppoints>
+<exppoints>55159621253</exppoints>
 <achievement>180</achievement>
 <guild>LIBERTYW1</guild>
 <quota>0</quota>
@@ -3538,7 +3540,7 @@
 <rank type="highscore_warrior">145</rank>
 <rank type="stars_global">82</rank>
 <rank type="stars_warrior">57</rank>
-<rank type="pvp">53</rank>
+<rank type="pvp">66</rank>
 </ranks>
 </character>
 <character name="Onni">
@@ -3623,7 +3625,7 @@
 <ranks>
 <rank type="highscore_global">210</rank>
 <rank type="highscore_warrior">147</rank>
-<rank type="pvp">55</rank>
+<rank type="pvp">56</rank>
 </ranks>
 </character>
 <character name="Artemis">
@@ -3773,7 +3775,7 @@
 <rank type="highscore_global">219</rank>
 <rank type="highscore_wizard">68</rank>
 <rank type="stars_wizard">49</rank>
-<rank type="pvp">43</rank>
+<rank type="pvp">45</rank>
 </ranks>
 </character>
 <character name="Blackwhite">
@@ -3791,7 +3793,7 @@
 <rank type="highscore_global">220</rank>
 <rank type="highscore_wizard">69</rank>
 <rank type="stars_wizard">63</rank>
-<rank type="pvp">70</rank>
+<rank type="pvp">72</rank>
 </ranks>
 </character>
 <character name="Weed">
@@ -3875,7 +3877,6 @@
 <rank type="highscore_global">225</rank>
 <rank type="highscore_warrior">154</rank>
 <rank type="stars_warrior">84</rank>
-<rank type="pvp">71</rank>
 </ranks>
 </character>
 <character name="Gluttony">
@@ -4374,7 +4375,7 @@
 <ranks>
 <rank type="highscore_global">255</rank>
 <rank type="highscore_warrior">174</rank>
-<rank type="pvp">49</rank>
+<rank type="pvp">51</rank>
 </ranks>
 </character>
 <character name="Viii">
@@ -4475,7 +4476,7 @@
 <rank type="highscore_wizard">83</rank>
 <rank type="stars_global">94</rank>
 <rank type="stars_wizard">29</rank>
-<rank type="pvp">34</rank>
+<rank type="pvp">31</rank>
 </ranks>
 </character>
 <character name="Andis">
@@ -4558,7 +4559,7 @@
 <ranks>
 <rank type="highscore_global">266</rank>
 <rank type="highscore_warrior">181</rank>
-<rank type="pvp">27</rank>
+<rank type="pvp">30</rank>
 </ranks>
 </character>
 <character name="Biz">
@@ -4591,7 +4592,6 @@
 <ranks>
 <rank type="highscore_global">268</rank>
 <rank type="highscore_warrior">183</rank>
-<rank type="pvp">62</rank>
 </ranks>
 </character>
 <character name="Salartuns">
@@ -4807,7 +4807,7 @@
 <rank type="highscore_global">281</rank>
 <rank type="highscore_wizard">93</rank>
 <rank type="stars_wizard">43</rank>
-<rank type="pvp">58</rank>
+<rank type="pvp">59</rank>
 </ranks>
 </character>
 <character name="Vovi">
@@ -5373,7 +5373,7 @@
 <stats>
 <level>402</level>
 <vocation>warrior</vocation>
-<exppoints>21482703001</exppoints>
+<exppoints>21484714318</exppoints>
 <achievement>76</achievement>
 <guild>ABCD</guild>
 <quota>0</quota>
@@ -5392,13 +5392,14 @@
 <exppoints>21477434348</exppoints>
 <achievement>134</achievement>
 <guild>My Lfie</guild>
-<quota>0</quota>
+<quota>1</quota>
 <patent>Newbie</patent>
 <deaths></deaths>
 </stats>
 <ranks>
 <rank type="highscore_global">317</rank>
 <rank type="highscore_warrior">215</rank>
+<rank type="pvp">43</rank>
 </ranks>
 </character>
 <character name="Enemoto">
@@ -5416,7 +5417,6 @@
 <rank type="highscore_global">318</rank>
 <rank type="highscore_warrior">216</rank>
 <rank type="stars_warrior">89</rank>
-<rank type="pvp">63</rank>
 </ranks>
 </character>
 <character name="Cadbury">
@@ -5546,7 +5546,7 @@
 <rank type="highscore_global">326</rank>
 <rank type="highscore_warrior">223</rank>
 <rank type="stars_warrior">78</rank>
-<rank type="pvp">74</rank>
+<rank type="pvp">75</rank>
 </ranks>
 </character>
 <character name="Marechall">
@@ -5877,7 +5877,7 @@
 <rank type="highscore_global">346</rank>
 <rank type="highscore_wizard">115</rank>
 <rank type="stars_wizard">66</rank>
-<rank type="pvp">81</rank>
+<rank type="pvp">82</rank>
 </ranks>
 </character>
 <character name="Aiylove">
@@ -6065,7 +6065,7 @@
 <ranks>
 <rank type="highscore_global">357</rank>
 <rank type="highscore_wizard">121</rank>
-<rank type="pvp">41</rank>
+<rank type="pvp">35</rank>
 </ranks>
 </character>
 <character name="Serizawa">
@@ -6338,7 +6338,7 @@
 <stats>
 <level>366</level>
 <vocation>warrior</vocation>
-<exppoints>14755570444</exppoints>
+<exppoints>14756878676</exppoints>
 <achievement>180</achievement>
 <guild>W O R L D</guild>
 <quota>0</quota>
@@ -6680,7 +6680,7 @@
 <ranks>
 <rank type="highscore_global">394</rank>
 <rank type="highscore_warrior">253</rank>
-<rank type="pvp">44</rank>
+<rank type="pvp">46</rank>
 </ranks>
 </character>
 <character name="Lodorile">
@@ -6783,7 +6783,7 @@
 </character>
 </characters>
 <guilds>
-<guild name="BUG"><exppoints>66699412</exppoints><gold>9999</gold><platinum>0</platinum><leader>Killmeplz</leader><members>67</members><rank type="guild">1</rank></guild>
+<guild name="BUG"><exppoints>66699412</exppoints><gold>9999</gold><platinum>0</platinum><leader>Killmeplz</leader><members>66</members><rank type="guild">1</rank></guild>
 <guild name="W O R L D"><exppoints>31262600</exppoints><gold>500000</gold><platinum>29</platinum><leader>Apish</leader><members>70</members><rank type="guild">2</rank></guild>
 <guild name="Hakka Nyin"><exppoints>30572374</exppoints><gold>2000</gold><platinum>31</platinum><leader>Systempro</leader><members>65</members><rank type="guild">3</rank></guild>
 <guild name="LIBERTYW1"><exppoints>30428317</exppoints><gold>220110</gold><platinum>1650</platinum><leader>Ivibueno</leader><members>56</members><rank type="guild">4</rank></guild>
@@ -6830,12 +6830,12 @@
 <guild name="Zorokojo"><exppoints>1097000</exppoints><gold>0</gold><platinum>0</platinum><leader>Tonya</leader><members>14</members><rank type="guild">45</rank></guild>
 <guild name="Samphokung"><exppoints>1027987</exppoints><gold>0</gold><platinum>0</platinum><leader>Cristianii</leader><members>6</members><rank type="guild">46</rank></guild>
 <guild name="TNAM"><exppoints>1009335</exppoints><gold>1000</gold><platinum>0</platinum><leader>Hev</leader><members>7</members><rank type="guild">47</rank></guild>
-<guild name="Laos"><exppoints>969300</exppoints><gold>40</gold><platinum>0</platinum><leader>Kingexp</leader><members>11</members><rank type="guild">48</rank></guild>
-<guild name="TESTO"><exppoints>910849</exppoints><gold>15059</gold><platinum>0</platinum><leader>Cuscuz</leader><members>5</members><rank type="guild">49</rank></guild>
-<guild name="OG"><exppoints>876061</exppoints><gold>6500</gold><platinum>600</platinum><leader>Ironfang</leader><members>38</members><rank type="guild">50</rank></guild>
-<guild name="Dragon"><exppoints>858000</exppoints><gold>800</gold><platinum>0</platinum><leader>Nola</leader><members>6</members><rank type="guild">51</rank></guild>
-<guild name="VOID"><exppoints>836368</exppoints><gold>0</gold><platinum>0</platinum><leader>Banco</leader><members>31</members><rank type="guild">52</rank></guild>
-<guild name="HUNT KING"><exppoints>813449</exppoints><gold>0</gold><platinum>0</platinum><leader>Bestzzz</leader><members>11</members><rank type="guild">53</rank></guild>
+<guild name="HUNT KING"><exppoints>1002449</exppoints><gold>0</gold><platinum>0</platinum><leader>Bestzzz</leader><members>11</members><rank type="guild">48</rank></guild>
+<guild name="Laos"><exppoints>969300</exppoints><gold>40</gold><platinum>0</platinum><leader>Kingexp</leader><members>11</members><rank type="guild">49</rank></guild>
+<guild name="TESTO"><exppoints>910849</exppoints><gold>15059</gold><platinum>0</platinum><leader>Cuscuz</leader><members>5</members><rank type="guild">50</rank></guild>
+<guild name="OG"><exppoints>876061</exppoints><gold>6500</gold><platinum>600</platinum><leader>Ironfang</leader><members>38</members><rank type="guild">51</rank></guild>
+<guild name="Dragon"><exppoints>858000</exppoints><gold>800</gold><platinum>0</platinum><leader>Nola</leader><members>6</members><rank type="guild">52</rank></guild>
+<guild name="VOID"><exppoints>836368</exppoints><gold>0</gold><platinum>0</platinum><leader>Banco</leader><members>31</members><rank type="guild">53</rank></guild>
 <guild name="E Z G A Y"><exppoints>803610</exppoints><gold>0</gold><platinum>55</platinum><leader>Minmoon</leader><members>11</members><rank type="guild">54</rank></guild>
 <guild name="Mthrfvk"><exppoints>731500</exppoints><gold>0</gold><platinum>0</platinum><leader>Mahyongwys</leader><members>6</members><rank type="guild">55</rank></guild>
 <guild name="DYNAMIC"><exppoints>703000</exppoints><gold>0</gold><platinum>0</platinum><leader>Apocalypse</leader><members>4</members><rank type="guild">56</rank></guild>
