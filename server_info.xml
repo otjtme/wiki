@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1789665371958</GeneratedAt>
+  <GeneratedAt>1789666571970</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>186</PlayersOnline>
+  <PlayersOnline>173</PlayersOnline>
   <TodayPeak>198</TodayPeak>
   <TotalPlayers>16450</TotalPlayers>
   <Season>
     <Id>12</Id>
     <Start>1788992175</Start>
     <End>1791584175</End>
-    <TimeRemaining>22d 5h</TimeRemaining>
+    <TimeRemaining>22d 4h</TimeRemaining>
   </Season>
   <JailedPlayers count="10">
     <Player>
@@ -63,7 +63,7 @@
       <Duration>129600</Duration>
     </Player>
   </JailedPlayers>
-  <BannedPlayers count="76">
+  <BannedPlayers count="75">
     <Player>
       <Name>Adolf</Name>
       <DaysRemaining>106751970453</DaysRemaining>
@@ -274,10 +274,6 @@
     </Player>
     <Player>
       <Name>Queenone</Name>
-      <DaysRemaining>106751970453</DaysRemaining>
-    </Player>
-    <Player>
-      <Name>Qwe</Name>
       <DaysRemaining>106751970453</DaysRemaining>
     </Player>
     <Player>
