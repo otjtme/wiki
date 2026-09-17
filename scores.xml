@@ -880,7 +880,7 @@
 <stats>
 <level>725</level>
 <vocation>warrior</vocation>
-<exppoints>229582147938</exppoints>
+<exppoints>229584105779</exppoints>
 <achievement>181</achievement>
 <guild>LIBERTYW1</guild>
 <quota>1</quota>
@@ -986,7 +986,7 @@
 <stats>
 <level>712</level>
 <vocation>wizard</vocation>
-<exppoints>212958885911</exppoints>
+<exppoints>212959492423</exppoints>
 <achievement>354</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -1141,7 +1141,7 @@
 <stats>
 <level>685</level>
 <vocation>warrior</vocation>
-<exppoints>182837699861</exppoints>
+<exppoints>182841797662</exppoints>
 <achievement>422</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -1341,7 +1341,7 @@
 <stats>
 <level>662</level>
 <vocation>warrior</vocation>
-<exppoints>158853513088</exppoints>
+<exppoints>158860018912</exppoints>
 <achievement>129</achievement>
 <guild>BUG</guild>
 <quota>29</quota>
@@ -1429,7 +1429,7 @@
 <stats>
 <level>648</level>
 <vocation>warrior</vocation>
-<exppoints>145757041170</exppoints>
+<exppoints>145758995394</exppoints>
 <achievement>173</achievement>
 <guild>Brasil</guild>
 <quota>0</quota>
@@ -2056,7 +2056,7 @@
 <stats>
 <level>582</level>
 <vocation>warrior</vocation>
-<exppoints>95083561187</exppoints>
+<exppoints>95085136187</exppoints>
 <achievement>140</achievement>
 <guild>Hakka Nyin</guild>
 <quota>2</quota>
@@ -2395,9 +2395,9 @@
 <stats>
 <level>562</level>
 <vocation>warrior</vocation>
-<exppoints>82332458504</exppoints>
+<exppoints>82333351348</exppoints>
 <achievement>143</achievement>
-<guild>The Thief</guild>
+<guild></guild>
 <quota>1</quota>
 <patent>Newbie</patent>
 <deaths></deaths>
@@ -2512,7 +2512,7 @@
 <stats>
 <level>553</level>
 <vocation>warrior</vocation>
-<exppoints>77590913911</exppoints>
+<exppoints>77592383095</exppoints>
 <achievement>183</achievement>
 <guild>My Lfie</guild>
 <quota>0</quota>
@@ -3010,7 +3010,7 @@
 <stats>
 <level>525</level>
 <vocation>wizard</vocation>
-<exppoints>62952047559</exppoints>
+<exppoints>62953414687</exppoints>
 <achievement>128</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -4016,7 +4016,7 @@
 <stats>
 <level>484</level>
 <vocation>warrior</vocation>
-<exppoints>45383984215</exppoints>
+<exppoints>45384578127</exppoints>
 <achievement>202</achievement>
 <guild>KALSEL</guild>
 <quota>0</quota>
@@ -4350,7 +4350,7 @@
 <stats>
 <level>462</level>
 <vocation>warrior</vocation>
-<exppoints>37768348950</exppoints>
+<exppoints>37768474848</exppoints>
 <achievement>108</achievement>
 <guild>R A D A K</guild>
 <quota>0</quota>
@@ -6317,6 +6317,23 @@
 <rank type="highscore_wizard">131</rank>
 </ranks>
 </character>
+<character name="Triton">
+<stats>
+<level>366</level>
+<vocation>warrior</vocation>
+<exppoints>14799137657</exppoints>
+<achievement>180</achievement>
+<guild>W O R L D</guild>
+<quota>0</quota>
+<patent>Newbie</patent>
+<deaths></deaths>
+</stats>
+<ranks>
+<rank type="highscore_global">373</rank>
+<rank type="highscore_warrior">242</rank>
+<rank type="stars_warrior">96</rank>
+</ranks>
+</character>
 <character name="Shiroge">
 <stats>
 <level>366</level>
@@ -6329,26 +6346,9 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">373</rank>
+<rank type="highscore_global">374</rank>
 <rank type="highscore_wizard">132</rank>
 <rank type="stars_wizard">86</rank>
-</ranks>
-</character>
-<character name="Triton">
-<stats>
-<level>366</level>
-<vocation>warrior</vocation>
-<exppoints>14794058139</exppoints>
-<achievement>180</achievement>
-<guild>W O R L D</guild>
-<quota>0</quota>
-<patent>Newbie</patent>
-<deaths></deaths>
-</stats>
-<ranks>
-<rank type="highscore_global">374</rank>
-<rank type="highscore_warrior">242</rank>
-<rank type="stars_warrior">96</rank>
 </ranks>
 </character>
 <character name="Xyz">
@@ -6670,8 +6670,8 @@
 <stats>
 <level>355</level>
 <vocation>warrior</vocation>
-<exppoints>13083094541</exppoints>
-<achievement>33</achievement>
+<exppoints>13083105120</exppoints>
+<achievement>34</achievement>
 <guild>BUG</guild>
 <quota>2</quota>
 <patent>Newbie</patent>
@@ -6830,7 +6830,7 @@
 <guild name="HUNT KING"><exppoints>1184449</exppoints><gold>0</gold><platinum>0</platinum><leader>Bestzzz</leader><members>11</members><rank type="guild">45</rank></guild>
 <guild name="Duo"><exppoints>1172876</exppoints><gold>0</gold><platinum>50</platinum><leader>Atuzbohay</leader><members>6</members><rank type="guild">46</rank></guild>
 <guild name="Zorokojo"><exppoints>1160000</exppoints><gold>0</gold><platinum>0</platinum><leader>Tonya</leader><members>14</members><rank type="guild">47</rank></guild>
-<guild name="The Thief"><exppoints>1114946</exppoints><gold>0</gold><platinum>0</platinum><leader>Boomspider</leader><members>5</members><rank type="guild">48</rank></guild>
+<guild name="The Thief"><exppoints>1114946</exppoints><gold>0</gold><platinum>0</platinum><leader>Boomspider</leader><members>4</members><rank type="guild">48</rank></guild>
 <guild name="Dragon"><exppoints>1069000</exppoints><gold>800</gold><platinum>0</platinum><leader>Nola</leader><members>6</members><rank type="guild">49</rank></guild>
 <guild name="Mthrfvk"><exppoints>1060500</exppoints><gold>0</gold><platinum>0</platinum><leader>Mahyongwys</leader><members>6</members><rank type="guild">50</rank></guild>
 <guild name="Samphokung"><exppoints>1027987</exppoints><gold>0</gold><platinum>0</platinum><leader>Cristianii</leader><members>6</members><rank type="guild">51</rank></guild>
