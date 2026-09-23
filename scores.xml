@@ -527,6 +527,22 @@
 <rank type="stars_warrior">15</rank>
 </ranks>
 </character>
+<character name="Nira">
+<stats>
+<level>810</level>
+<vocation>warrior</vocation>
+<exppoints>356988613985</exppoints>
+<achievement>76</achievement>
+<guild>BUG</guild>
+<quota>0</quota>
+<patent>Newbie</patent>
+<deaths>2026-09-23 02:00:17:-0:Noobd:1;2026-09-23 02:09:18:-0:Jpking:1;</deaths>
+</stats>
+<ranks>
+<rank type="highscore_global">30</rank>
+<rank type="highscore_warrior">26</rank>
+</ranks>
+</character>
 <character name="Major">
 <stats>
 <level>810</level>
@@ -539,26 +555,10 @@
 <deaths>2026-09-23 00:21:44:-0:Miyamoto:1;</deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">30</rank>
+<rank type="highscore_global">31</rank>
 <rank type="highscore_wizard">5</rank>
 <rank type="stars_global">39</rank>
 <rank type="stars_wizard">13</rank>
-</ranks>
-</character>
-<character name="Nira">
-<stats>
-<level>810</level>
-<vocation>warrior</vocation>
-<exppoints>356982036316</exppoints>
-<achievement>76</achievement>
-<guild>BUG</guild>
-<quota>0</quota>
-<patent>Newbie</patent>
-<deaths>2026-09-23 02:00:17:-0:Noobd:1;2026-09-23 02:09:18:-0:Jpking:1;</deaths>
-</stats>
-<ranks>
-<rank type="highscore_global">31</rank>
-<rank type="highscore_warrior">26</rank>
 </ranks>
 </character>
 <character name="Cxllme">
@@ -633,7 +633,7 @@
 <stats>
 <level>769</level>
 <vocation>warrior</vocation>
-<exppoints>289740389285</exppoints>
+<exppoints>289745420605</exppoints>
 <achievement>124</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -702,7 +702,7 @@
 <stats>
 <level>759</level>
 <vocation>warrior</vocation>
-<exppoints>274894140571</exppoints>
+<exppoints>274895958296</exppoints>
 <achievement>257</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -774,12 +774,12 @@
 <stats>
 <level>744</level>
 <vocation>warrior</vocation>
-<exppoints>254488369079</exppoints>
+<exppoints>254489567231</exppoints>
 <achievement>250</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
 <patent>Newbie</patent>
-<deaths></deaths>
+<deaths>2026-09-23 08:55:51:-0:Abyssal:0;</deaths>
 </stats>
 <ranks>
 <rank type="highscore_global">44</rank>
@@ -899,7 +899,7 @@
 <stats>
 <level>727</level>
 <vocation>warrior</vocation>
-<exppoints>231486097573</exppoints>
+<exppoints>231487551338</exppoints>
 <achievement>181</achievement>
 <guild>AOK</guild>
 <quota>5</quota>
@@ -1039,7 +1039,7 @@
 <stats>
 <level>707</level>
 <vocation>warrior</vocation>
-<exppoints>207089934135</exppoints>
+<exppoints>207090023385</exppoints>
 <achievement>134</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -1071,7 +1071,7 @@
 <stats>
 <level>701</level>
 <vocation>warrior</vocation>
-<exppoints>200383059957</exppoints>
+<exppoints>200385983209</exppoints>
 <achievement>422</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -1254,7 +1254,7 @@
 <stats>
 <level>675</level>
 <vocation>warrior</vocation>
-<exppoints>171846564926</exppoints>
+<exppoints>171849556960</exppoints>
 <achievement>95</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1289,7 +1289,7 @@
 <stats>
 <level>673</level>
 <vocation>warrior</vocation>
-<exppoints>170188958233</exppoints>
+<exppoints>170193113023</exppoints>
 <achievement>129</achievement>
 <guild>BUG</guild>
 <quota>29</quota>
@@ -1734,7 +1734,7 @@
 <stats>
 <level>616</level>
 <vocation>warrior</vocation>
-<exppoints>119524521797</exppoints>
+<exppoints>119529328713</exppoints>
 <achievement>68</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -2110,7 +2110,7 @@
 <stats>
 <level>583</level>
 <vocation>warrior</vocation>
-<exppoints>95762364712</exppoints>
+<exppoints>95763302211</exppoints>
 <achievement>116</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -2245,7 +2245,7 @@
 <stats>
 <level>568</level>
 <vocation>wizard</vocation>
-<exppoints>86397234171</exppoints>
+<exppoints>86397294861</exppoints>
 <achievement>144</achievement>
 <guild></guild>
 <quota>1</quota>
@@ -2414,7 +2414,7 @@
 <stats>
 <level>562</level>
 <vocation>warrior</vocation>
-<exppoints>82395912444</exppoints>
+<exppoints>82397329937</exppoints>
 <achievement>143</achievement>
 <guild>The Thief</guild>
 <quota>1</quota>
@@ -3217,7 +3217,7 @@
 <stats>
 <level>515</level>
 <vocation>warrior</vocation>
-<exppoints>58388136770</exppoints>
+<exppoints>58392140989</exppoints>
 <achievement>54</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -4818,7 +4818,7 @@
 <stats>
 <level>432</level>
 <vocation>warrior</vocation>
-<exppoints>28771158017</exppoints>
+<exppoints>28772208017</exppoints>
 <achievement>266</achievement>
 <guild>LIBERTYW1</guild>
 <quota>0</quota>
@@ -4852,7 +4852,7 @@
 <stats>
 <level>431</level>
 <vocation>wizard</vocation>
-<exppoints>28575359595</exppoints>
+<exppoints>28577311319</exppoints>
 <achievement>110</achievement>
 <guild>Hakka Nyin</guild>
 <quota>0</quota>
@@ -6789,7 +6789,7 @@
 <guild name="BUG"><exppoints>120000000</exppoints><gold>9999</gold><platinum>36000</platinum><leader>Weedking</leader><members>69</members><rank type="guild">1</rank></guild>
 <guild name="Hakka Nyin"><exppoints>59289913</exppoints><gold>2000</gold><platinum>31</platinum><leader>Systempro</leader><members>66</members><rank type="guild">2</rank></guild>
 <guild name="LIBERTYW1"><exppoints>59221693</exppoints><gold>221210</gold><platinum>1650</platinum><leader>Ivibueno</leader><members>57</members><rank type="guild">3</rank></guild>
-<guild name="W O R L D"><exppoints>48850990</exppoints><gold>110000</gold><platinum>54</platinum><leader>Ryumo</leader><members>68</members><rank type="guild">4</rank></guild>
+<guild name="W O R L D"><exppoints>48850990</exppoints><gold>110000</gold><platinum>64</platinum><leader>Ryumo</leader><members>68</members><rank type="guild">4</rank></guild>
 <guild name="M A G"><exppoints>48505988</exppoints><gold>0</gold><platinum>1577</platinum><leader>Mugiwara</leader><members>58</members><rank type="guild">5</rank></guild>
 <guild name="Renegados"><exppoints>48151840</exppoints><gold>2151</gold><platinum>80</platinum><leader>Garp</leader><members>66</members><rank type="guild">6</rank></guild>
 <guild name="My Lfie"><exppoints>38004691</exppoints><gold>155</gold><platinum>4699</platinum><leader>Gamball</leader><members>21</members><rank type="guild">7</rank></guild>
