@@ -45,7 +45,7 @@
 <stats>
 <level>977</level>
 <vocation>warrior</vocation>
-<exppoints>754701109617</exppoints>
+<exppoints>754702343053</exppoints>
 <achievement>278</achievement>
 <guild>BUG</guild>
 <quota>8</quota>
@@ -549,7 +549,7 @@
 <stats>
 <level>810</level>
 <vocation>warrior</vocation>
-<exppoints>356943989593</exppoints>
+<exppoints>356948006449</exppoints>
 <achievement>76</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -599,7 +599,7 @@
 <stats>
 <level>802</level>
 <vocation>warrior</vocation>
-<exppoints>343492438905</exppoints>
+<exppoints>343492439143</exppoints>
 <achievement>129</achievement>
 <guild>BUG</guild>
 <quota>5</quota>
@@ -633,7 +633,7 @@
 <stats>
 <level>769</level>
 <vocation>warrior</vocation>
-<exppoints>289738071165</exppoints>
+<exppoints>289738530505</exppoints>
 <achievement>124</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -702,7 +702,7 @@
 <stats>
 <level>759</level>
 <vocation>warrior</vocation>
-<exppoints>274893635950</exppoints>
+<exppoints>274893957250</exppoints>
 <achievement>257</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -770,6 +770,24 @@
 <rank type="highscore_warrior">35</rank>
 </ranks>
 </character>
+<character name="Karambias">
+<stats>
+<level>744</level>
+<vocation>warrior</vocation>
+<exppoints>254479511472</exppoints>
+<achievement>250</achievement>
+<guild>BUG</guild>
+<quota>0</quota>
+<patent>Newbie</patent>
+<deaths></deaths>
+</stats>
+<ranks>
+<rank type="highscore_global">44</rank>
+<rank type="highscore_warrior">36</rank>
+<rank type="stars_global">66</rank>
+<rank type="stars_warrior">46</rank>
+</ranks>
+</character>
 <character name="Willow">
 <stats>
 <level>744</level>
@@ -782,27 +800,9 @@
 <deaths>2026-09-23 01:25:08:-0:Winterfell:1;2026-09-23 02:05:50:-0:Jpking:1;2026-09-23 03:44:37:-0:Shisuii:1;</deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">44</rank>
-<rank type="highscore_warrior">36</rank>
-<rank type="pvp">9</rank>
-</ranks>
-</character>
-<character name="Karambias">
-<stats>
-<level>744</level>
-<vocation>warrior</vocation>
-<exppoints>254476697103</exppoints>
-<achievement>250</achievement>
-<guild>BUG</guild>
-<quota>0</quota>
-<patent>Newbie</patent>
-<deaths></deaths>
-</stats>
-<ranks>
 <rank type="highscore_global">45</rank>
 <rank type="highscore_warrior">37</rank>
-<rank type="stars_global">66</rank>
-<rank type="stars_warrior">46</rank>
+<rank type="pvp">9</rank>
 </ranks>
 </character>
 <character name="Deathnotee">
@@ -969,7 +969,7 @@
 <stats>
 <level>716</level>
 <vocation>warrior</vocation>
-<exppoints>217370261361</exppoints>
+<exppoints>217374803018</exppoints>
 <achievement>123</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1182,7 +1182,7 @@
 <stats>
 <level>681</level>
 <vocation>wizard</vocation>
-<exppoints>177857937752</exppoints>
+<exppoints>177865152491</exppoints>
 <achievement>212</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1235,7 +1235,7 @@
 <stats>
 <level>678</level>
 <vocation>warrior</vocation>
-<exppoints>175308657221</exppoints>
+<exppoints>175311432221</exppoints>
 <achievement>265</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -1250,6 +1250,22 @@
 <rank type="pvp">25</rank>
 </ranks>
 </character>
+<character name="Veldoraa">
+<stats>
+<level>675</level>
+<vocation>warrior</vocation>
+<exppoints>171826652424</exppoints>
+<achievement>95</achievement>
+<guild>BUG</guild>
+<quota>0</quota>
+<patent>Newbie</patent>
+<deaths></deaths>
+</stats>
+<ranks>
+<rank type="highscore_global">71</rank>
+<rank type="highscore_warrior">56</rank>
+</ranks>
+</character>
 <character name="Aatrox">
 <stats>
 <level>675</level>
@@ -1262,27 +1278,11 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">71</rank>
-<rank type="highscore_warrior">56</rank>
+<rank type="highscore_global">72</rank>
+<rank type="highscore_warrior">57</rank>
 <rank type="stars_global">48</rank>
 <rank type="stars_warrior">34</rank>
 <rank type="pvp">51</rank>
-</ranks>
-</character>
-<character name="Veldoraa">
-<stats>
-<level>675</level>
-<vocation>warrior</vocation>
-<exppoints>171821837656</exppoints>
-<achievement>95</achievement>
-<guild>BUG</guild>
-<quota>0</quota>
-<patent>Newbie</patent>
-<deaths></deaths>
-</stats>
-<ranks>
-<rank type="highscore_global">72</rank>
-<rank type="highscore_warrior">57</rank>
 </ranks>
 </character>
 <character name="Panamaa">
@@ -1668,7 +1668,7 @@
 <stats>
 <level>621</level>
 <vocation>warrior</vocation>
-<exppoints>122777957707</exppoints>
+<exppoints>122779207707</exppoints>
 <achievement>151</achievement>
 <guild>Familys</guild>
 <quota>1</quota>
@@ -2110,7 +2110,7 @@
 <stats>
 <level>583</level>
 <vocation>warrior</vocation>
-<exppoints>95754231515</exppoints>
+<exppoints>95756674235</exppoints>
 <achievement>116</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -2245,7 +2245,7 @@
 <stats>
 <level>568</level>
 <vocation>wizard</vocation>
-<exppoints>86396568177</exppoints>
+<exppoints>86396847981</exppoints>
 <achievement>144</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -2262,7 +2262,7 @@
 <stats>
 <level>568</level>
 <vocation>warrior</vocation>
-<exppoints>86000232276</exppoints>
+<exppoints>86001482276</exppoints>
 <achievement>155</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -2296,7 +2296,7 @@
 <stats>
 <level>566</level>
 <vocation>warrior</vocation>
-<exppoints>85101568612</exppoints>
+<exppoints>85103282892</exppoints>
 <achievement>81</achievement>
 <guild>My Lfie</guild>
 <quota>0</quota>
@@ -3282,12 +3282,12 @@
 <stats>
 <level>515</level>
 <vocation>warrior</vocation>
-<exppoints>57962833091</exppoints>
+<exppoints>57968086914</exppoints>
 <achievement>74</achievement>
 <guild>Familys</guild>
 <quota>0</quota>
 <patent>Newbie</patent>
-<deaths></deaths>
+<deaths>2026-09-23 07:04:33:-0:Bonevolcan:0;</deaths>
 </stats>
 <ranks>
 <rank type="highscore_global">190</rank>
@@ -6088,7 +6088,7 @@
 <stats>
 <level>376</level>
 <vocation>warrior</vocation>
-<exppoints>16555620421</exppoints>
+<exppoints>16555620652</exppoints>
 <achievement>186</achievement>
 <guild>W O R L D</guild>
 <quota>0</quota>
@@ -6840,7 +6840,7 @@
 <guild name="Samphokung"><exppoints>1170357</exppoints><gold>0</gold><platinum>0</platinum><leader>Cristianii</leader><members>7</members><rank type="guild">53</rank></guild>
 <guild name="OG"><exppoints>1128449</exppoints><gold>6500</gold><platinum>600</platinum><leader>Ironfang</leader><members>38</members><rank type="guild">54</rank></guild>
 <guild name="TESTO"><exppoints>1067849</exppoints><gold>15059</gold><platinum>0</platinum><leader>Cuscuz</leader><members>5</members><rank type="guild">55</rank></guild>
-<guild name="ICON1"><exppoints>1000002</exppoints><gold>0</gold><platinum>0</platinum><leader>Bilila</leader><members>3</members><rank type="guild">56</rank></guild>
+<guild name="ICON1"><exppoints>1029502</exppoints><gold>0</gold><platinum>0</platinum><leader>Bilila</leader><members>3</members><rank type="guild">56</rank></guild>
 <guild name="E Z G A Y"><exppoints>992680</exppoints><gold>0</gold><platinum>55</platinum><leader>Minmoon</leader><members>10</members><rank type="guild">57</rank></guild>
 <guild name="Bigbog"><exppoints>797500</exppoints><gold>0</gold><platinum>0</platinum><leader>Benudo</leader><members>5</members><rank type="guild">58</rank></guild>
 <guild name="V1LL4iN40"><exppoints>688500</exppoints><gold>100050</gold><platinum>171</platinum><leader>Knabisgurl</leader><members>22</members><rank type="guild">59</rank></guild>
