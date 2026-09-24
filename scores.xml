@@ -37,7 +37,7 @@
 <rank type="highscore_wizard">1</rank>
 <rank type="stars_global">1</rank>
 <rank type="stars_wizard">1</rank>
-<rank type="pvp">22</rank>
+<rank type="pvp">23</rank>
 </ranks>
 </character>
 <character name="Winterfell">
@@ -75,7 +75,7 @@
 <rank type="highscore_warrior">3</rank>
 <rank type="stars_global">49</rank>
 <rank type="stars_warrior">35</rank>
-<rank type="pvp">15</rank>
+<rank type="pvp">14</rank>
 </ranks>
 </character>
 <character name="Heisenberg">
@@ -94,7 +94,7 @@
 <rank type="highscore_warrior">4</rank>
 <rank type="stars_global">99</rank>
 <rank type="stars_warrior">69</rank>
-<rank type="pvp">9</rank>
+<rank type="pvp">11</rank>
 </ranks>
 </character>
 <character name="Killmeplz">
@@ -148,7 +148,7 @@
 <rank type="highscore_global">8</rank>
 <rank type="highscore_warrior">7</rank>
 <rank type="stars_warrior">99</rank>
-<rank type="pvp">11</rank>
+<rank type="pvp">10</rank>
 </ranks>
 </character>
 <character name="Bboss">
@@ -383,7 +383,7 @@
 <rank type="highscore_warrior">20</rank>
 <rank type="stars_global">42</rank>
 <rank type="stars_warrior">29</rank>
-<rank type="pvp">14</rank>
+<rank type="pvp">15</rank>
 </ranks>
 </character>
 <character name="Assasin">
@@ -400,7 +400,7 @@
 <ranks>
 <rank type="highscore_global">22</rank>
 <rank type="highscore_warrior">21</rank>
-<rank type="pvp">16</rank>
+<rank type="pvp">12</rank>
 </ranks>
 </character>
 <character name="Aphrodite">
@@ -425,7 +425,7 @@
 <stats>
 <level>826</level>
 <vocation>warrior</vocation>
-<exppoints>385193926421</exppoints>
+<exppoints>385199131914</exppoints>
 <achievement>141</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -435,7 +435,7 @@
 <ranks>
 <rank type="highscore_global">24</rank>
 <rank type="highscore_warrior">22</rank>
-<rank type="pvp">24</rank>
+<rank type="pvp">25</rank>
 </ranks>
 </character>
 <character name="Perseu">
@@ -735,7 +735,7 @@
 <rank type="highscore_warrior">34</rank>
 <rank type="stars_global">21</rank>
 <rank type="stars_warrior">12</rank>
-<rank type="pvp">10</rank>
+<rank type="pvp">9</rank>
 </ranks>
 </character>
 <character name="Apelao">
@@ -899,7 +899,7 @@
 <stats>
 <level>727</level>
 <vocation>warrior</vocation>
-<exppoints>231531581400</exppoints>
+<exppoints>231532204126</exppoints>
 <achievement>181</achievement>
 <guild>My Lfie</guild>
 <quota>0</quota>
@@ -1021,7 +1021,7 @@
 <stats>
 <level>712</level>
 <vocation>warrior</vocation>
-<exppoints>212429643617</exppoints>
+<exppoints>212431424140</exppoints>
 <achievement>152</achievement>
 <guild>My Lfie</guild>
 <quota>0</quota>
@@ -1069,7 +1069,7 @@
 <stats>
 <level>701</level>
 <vocation>warrior</vocation>
-<exppoints>200438979919</exppoints>
+<exppoints>200441327330</exppoints>
 <achievement>422</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -1081,7 +1081,7 @@
 <rank type="highscore_warrior">50</rank>
 <rank type="stars_global">5</rank>
 <rank type="stars_warrior">3</rank>
-<rank type="pvp">28</rank>
+<rank type="pvp">29</rank>
 </ranks>
 </character>
 <character name="Momoo">
@@ -1403,7 +1403,7 @@
 <ranks>
 <rank type="highscore_global">79</rank>
 <rank type="highscore_wizard">17</rank>
-<rank type="pvp">13</rank>
+<rank type="pvp">16</rank>
 </ranks>
 </character>
 <character name="Niggawiz">
@@ -1707,7 +1707,7 @@
 <ranks>
 <rank type="highscore_global">97</rank>
 <rank type="highscore_wizard">21</rank>
-<rank type="pvp">27</rank>
+<rank type="pvp">28</rank>
 </ranks>
 </character>
 <character name="Ktk">
@@ -2031,14 +2031,14 @@
 <rank type="highscore_warrior">90</rank>
 <rank type="stars_global">67</rank>
 <rank type="stars_warrior">47</rank>
-<rank type="pvp">26</rank>
+<rank type="pvp">27</rank>
 </ranks>
 </character>
 <character name="Rare">
 <stats>
 <level>585</level>
 <vocation>warrior</vocation>
-<exppoints>96821799595</exppoints>
+<exppoints>96825403799</exppoints>
 <achievement>205</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -2084,6 +2084,22 @@
 <rank type="stars_wizard">76</rank>
 </ranks>
 </character>
+<character name="Rangar">
+<stats>
+<level>583</level>
+<vocation>warrior</vocation>
+<exppoints>95807540479</exppoints>
+<achievement>118</achievement>
+<guild>BUG</guild>
+<quota>0</quota>
+<patent>Newbie</patent>
+<deaths>2026-09-24 04:50:26:-0:Unknown:0;</deaths>
+</stats>
+<ranks>
+<rank type="highscore_global">120</rank>
+<rank type="highscore_warrior">93</rank>
+</ranks>
+</character>
 <character name="Haven">
 <stats>
 <level>583</level>
@@ -2094,22 +2110,6 @@
 <quota>0</quota>
 <patent>Newbie</patent>
 <deaths></deaths>
-</stats>
-<ranks>
-<rank type="highscore_global">120</rank>
-<rank type="highscore_warrior">93</rank>
-</ranks>
-</character>
-<character name="Rangar">
-<stats>
-<level>583</level>
-<vocation>warrior</vocation>
-<exppoints>95802571435</exppoints>
-<achievement>118</achievement>
-<guild>BUG</guild>
-<quota>0</quota>
-<patent>Newbie</patent>
-<deaths>2026-09-24 04:50:26:-0:Unknown:0;</deaths>
 </stats>
 <ranks>
 <rank type="highscore_global">121</rank>
@@ -2261,7 +2261,7 @@
 <guild>BUG</guild>
 <quota>0</quota>
 <patent>Newbie</patent>
-<deaths>2026-09-24 02:44:49:-0:Jpking:1;2026-09-24 09:59:14:-0:Kaelthas:0;2026-09-24 11:47:38:-0:Kaelthas:0;</deaths>
+<deaths>2026-09-24 02:44:49:-0:Jpking:1;2026-09-24 09:59:14:-0:Kaelthas:0;2026-09-24 11:47:38:-0:Kaelthas:0;2026-09-24 12:00:54:-0:Kaelthas:0;</deaths>
 </stats>
 <ranks>
 <rank type="highscore_global">130</rank>
@@ -2283,7 +2283,7 @@
 <rank type="highscore_global">131</rank>
 <rank type="highscore_wizard">33</rank>
 <rank type="stars_wizard">45</rank>
-<rank type="pvp">12</rank>
+<rank type="pvp">13</rank>
 </ranks>
 </character>
 <character name="Dagger">
@@ -2306,7 +2306,7 @@
 <stats>
 <level>564</level>
 <vocation>warrior</vocation>
-<exppoints>83620935750</exppoints>
+<exppoints>83626644985</exppoints>
 <achievement>114</achievement>
 <guild>Mthrfvk</guild>
 <quota>1</quota>
@@ -2356,7 +2356,7 @@
 <stats>
 <level>563</level>
 <vocation>warrior</vocation>
-<exppoints>83234023689</exppoints>
+<exppoints>83235689139</exppoints>
 <achievement>126</achievement>
 <guild>New Age</guild>
 <quota>0</quota>
@@ -2407,17 +2407,17 @@
 <stats>
 <level>562</level>
 <vocation>warrior</vocation>
-<exppoints>82407429470</exppoints>
-<achievement>144</achievement>
+<exppoints>82407887311</exppoints>
+<achievement>145</achievement>
 <guild>The Thief</guild>
-<quota>1</quota>
+<quota>2</quota>
 <patent>Newbie</patent>
 <deaths></deaths>
 </stats>
 <ranks>
 <rank type="highscore_global">139</rank>
 <rank type="highscore_warrior">104</rank>
-<rank type="pvp">29</rank>
+<rank type="pvp">22</rank>
 </ranks>
 </character>
 <character name="Bruxo">
@@ -2525,7 +2525,7 @@
 <stats>
 <level>554</level>
 <vocation>warrior</vocation>
-<exppoints>77933857713</exppoints>
+<exppoints>77933911899</exppoints>
 <achievement>183</achievement>
 <guild>My Lfie</guild>
 <quota>1</quota>
@@ -2937,7 +2937,7 @@
 <stats>
 <level>531</level>
 <vocation>warrior</vocation>
-<exppoints>65988300840</exppoints>
+<exppoints>65989960340</exppoints>
 <achievement>220</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -4483,7 +4483,7 @@
 <stats>
 <level>451</level>
 <vocation>warrior</vocation>
-<exppoints>34254591507</exppoints>
+<exppoints>34255739907</exppoints>
 <achievement>150</achievement>
 <guild>ThE MoNeY</guild>
 <quota>0</quota>
@@ -6064,6 +6064,23 @@
 <rank type="highscore_wizard">121</rank>
 </ranks>
 </character>
+<character name="Triton">
+<stats>
+<level>377</level>
+<vocation>warrior</vocation>
+<exppoints>16704423172</exppoints>
+<achievement>186</achievement>
+<guild>W O R L D</guild>
+<quota>0</quota>
+<patent>Newbie</patent>
+<deaths></deaths>
+</stats>
+<ranks>
+<rank type="highscore_global">358</rank>
+<rank type="highscore_warrior">237</rank>
+<rank type="stars_warrior">91</rank>
+</ranks>
+</character>
 <character name="Guinny">
 <stats>
 <level>377</level>
@@ -6076,26 +6093,9 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">358</rank>
+<rank type="highscore_global">359</rank>
 <rank type="highscore_wizard">122</rank>
 <rank type="stars_wizard">91</rank>
-</ranks>
-</character>
-<character name="Triton">
-<stats>
-<level>377</level>
-<vocation>warrior</vocation>
-<exppoints>16699693447</exppoints>
-<achievement>186</achievement>
-<guild>W O R L D</guild>
-<quota>0</quota>
-<patent>Newbie</patent>
-<deaths></deaths>
-</stats>
-<ranks>
-<rank type="highscore_global">359</rank>
-<rank type="highscore_warrior">237</rank>
-<rank type="stars_warrior">91</rank>
 </ranks>
 </character>
 <character name="Serizawa">
