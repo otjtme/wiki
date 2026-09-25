@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1790374332635</GeneratedAt>
+  <GeneratedAt>1790375538157</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>187</PlayersOnline>
-  <TodayPeak>279</TodayPeak>
-  <TotalPlayers>16855</TotalPlayers>
+  <PlayersOnline>109</PlayersOnline>
+  <TodayPeak>110</TodayPeak>
+  <TotalPlayers>16902</TotalPlayers>
   <Season>
     <Id>12</Id>
     <Start>1788992175</Start>
     <End>1791584175</End>
-    <TimeRemaining>14d</TimeRemaining>
+    <TimeRemaining>13d 23h</TimeRemaining>
   </Season>
-  <JailedPlayers count="11">
+  <JailedPlayers count="12">
+    <Player>
+      <Name>Dakina</Name>
+      <EntryDate>2026-09-26 00:24:05</EntryDate>
+      <Duration>540</Duration>
+    </Player>
     <Player>
       <Name>Zycho</Name>
       <EntryDate>2026-09-23 15:56:28</EntryDate>
