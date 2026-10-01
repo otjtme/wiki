@@ -954,7 +954,7 @@
 <stats>
 <level>722</level>
 <vocation>warrior</vocation>
-<exppoints>225116259662</exppoints>
+<exppoints>225117178937</exppoints>
 <achievement>123</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1234,7 +1234,7 @@
 <stats>
 <level>684</level>
 <vocation>warrior</vocation>
-<exppoints>181384511920</exppoints>
+<exppoints>181384604800</exppoints>
 <achievement>272</achievement>
 <guild>BUG</guild>
 <quota>2</quota>
@@ -1548,7 +1548,7 @@
 <stats>
 <level>644</level>
 <vocation>warrior</vocation>
-<exppoints>142516466827</exppoints>
+<exppoints>142519938147</exppoints>
 <achievement>74</achievement>
 <guild>XYZ</guild>
 <quota>0</quota>
@@ -1632,7 +1632,7 @@
 <stats>
 <level>631</level>
 <vocation>wizard</vocation>
-<exppoints>130869424307</exppoints>
+<exppoints>130870745012</exppoints>
 <achievement>93</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -1683,12 +1683,12 @@
 <stats>
 <level>627</level>
 <vocation>warrior</vocation>
-<exppoints>127729302574</exppoints>
+<exppoints>127730070894</exppoints>
 <achievement>235</achievement>
 <guild>XYZ</guild>
 <quota>0</quota>
 <patent>Newbie</patent>
-<deaths>2026-10-01 04:52:32:-0:Abyssal:0;2026-10-01 05:33:54:-0:Kaelthas:0;2026-10-01 06:39:48:-0:Gothrak:0;</deaths>
+<deaths>2026-10-01 04:52:32:-0:Abyssal:0;2026-10-01 05:33:54:-0:Kaelthas:0;2026-10-01 06:39:48:-0:Gothrak:0;2026-10-01 07:20:57:-0:Unknown:0;</deaths>
 </stats>
 <ranks>
 <rank type="highscore_global">96</rank>
@@ -1901,7 +1901,7 @@
 <stats>
 <level>603</level>
 <vocation>warrior</vocation>
-<exppoints>109152365251</exppoints>
+<exppoints>109155838267</exppoints>
 <achievement>91</achievement>
 <guild>Gia</guild>
 <quota>1</quota>
@@ -2529,7 +2529,7 @@
 <stats>
 <level>555</level>
 <vocation>wizard</vocation>
-<exppoints>78344571384</exppoints>
+<exppoints>78349307384</exppoints>
 <achievement>82</achievement>
 <guild>NoVs</guild>
 <quota>0</quota>
@@ -2813,6 +2813,23 @@
 <rank type="stars_wizard">7</rank>
 </ranks>
 </character>
+<character name="Hibiki">
+<stats>
+<level>541</level>
+<vocation>warrior</vocation>
+<exppoints>71031418275</exppoints>
+<achievement>54</achievement>
+<guild>BUG</guild>
+<quota>5</quota>
+<patent>Recruit</patent>
+<deaths></deaths>
+</stats>
+<ranks>
+<rank type="highscore_global">163</rank>
+<rank type="highscore_warrior">120</rank>
+<rank type="pvp">7</rank>
+</ranks>
+</character>
 <character name="Soraka">
 <stats>
 <level>541</level>
@@ -2825,25 +2842,8 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">163</rank>
-<rank type="highscore_wizard">44</rank>
-</ranks>
-</character>
-<character name="Hibiki">
-<stats>
-<level>541</level>
-<vocation>warrior</vocation>
-<exppoints>71025986381</exppoints>
-<achievement>54</achievement>
-<guild>BUG</guild>
-<quota>5</quota>
-<patent>Recruit</patent>
-<deaths></deaths>
-</stats>
-<ranks>
 <rank type="highscore_global">164</rank>
-<rank type="highscore_warrior">120</rank>
-<rank type="pvp">7</rank>
+<rank type="highscore_wizard">44</rank>
 </ranks>
 </character>
 <character name="Coronel">
@@ -3567,7 +3567,7 @@
 <stats>
 <level>507</level>
 <vocation>wizard</vocation>
-<exppoints>54793738745</exppoints>
+<exppoints>54794780574</exppoints>
 <achievement>17</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -5972,7 +5972,7 @@
 <stats>
 <level>381</level>
 <vocation>warrior</vocation>
-<exppoints>17440602398</exppoints>
+<exppoints>17442102398</exppoints>
 <achievement>189</achievement>
 <guild>XYZ</guild>
 <quota>0</quota>
@@ -6572,7 +6572,7 @@
 <stats>
 <level>363</level>
 <vocation>warrior</vocation>
-<exppoints>14308936683</exppoints>
+<exppoints>14309374264</exppoints>
 <achievement>88</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
