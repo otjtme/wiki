@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1791169756921</GeneratedAt>
+  <GeneratedAt>1791170956957</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>194</PlayersOnline>
+  <PlayersOnline>203</PlayersOnline>
   <TodayPeak>209</TodayPeak>
   <TotalPlayers>17338</TotalPlayers>
   <Season>
     <Id>12</Id>
     <Start>1788992175</Start>
     <End>1791584175</End>
-    <TimeRemaining>4d 19h</TimeRemaining>
+    <TimeRemaining>4d 18h</TimeRemaining>
   </Season>
-  <JailedPlayers count="11">
+  <JailedPlayers count="12">
+    <Player>
+      <Name>Godbabee</Name>
+      <EntryDate>2026-10-05 05:02:29</EntryDate>
+      <Duration>540</Duration>
+    </Player>
     <Player>
       <Name>Dakina</Name>
       <EntryDate>2026-09-26 00:24:05</EntryDate>
