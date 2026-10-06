@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1791303138665</GeneratedAt>
+  <GeneratedAt>1791304338645</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>247</PlayersOnline>
+  <PlayersOnline>243</PlayersOnline>
   <TodayPeak>274</TodayPeak>
   <TotalPlayers>17403</TotalPlayers>
   <Season>
     <Id>12</Id>
     <Start>1788992175</Start>
     <End>1791584175</End>
-    <TimeRemaining>3d 6h</TimeRemaining>
+    <TimeRemaining>3d 5h</TimeRemaining>
   </Season>
-  <JailedPlayers count="11">
+  <JailedPlayers count="12">
+    <Player>
+      <Name>Rafaela</Name>
+      <EntryDate>2026-10-06 18:19:38</EntryDate>
+      <Duration>540</Duration>
+    </Player>
     <Player>
       <Name>Dakina</Name>
       <EntryDate>2026-09-26 00:24:05</EntryDate>
