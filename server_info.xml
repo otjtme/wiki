@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1791574632643</GeneratedAt>
+  <GeneratedAt>1791575832620</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>231</PlayersOnline>
+  <PlayersOnline>226</PlayersOnline>
   <TodayPeak>284</TodayPeak>
   <TotalPlayers>17558</TotalPlayers>
   <Season>
     <Id>12</Id>
     <Start>1788992175</Start>
     <End>1791584175</End>
-    <TimeRemaining>2h 39min</TimeRemaining>
+    <TimeRemaining>2h 19min</TimeRemaining>
   </Season>
-  <JailedPlayers count="11">
+  <JailedPlayers count="12">
+    <Player>
+      <Name>Almightyx</Name>
+      <EntryDate>2026-10-09 21:52:41</EntryDate>
+      <Duration>540</Duration>
+    </Player>
     <Player>
       <Name>Dakina</Name>
       <EntryDate>2026-09-26 00:24:05</EntryDate>
