@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1792957757309</GeneratedAt>
+  <GeneratedAt>1792958957305</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>183</PlayersOnline>
+  <PlayersOnline>176</PlayersOnline>
   <TodayPeak>271</TodayPeak>
   <TotalPlayers>18202</TotalPlayers>
   <Season>
@@ -11,7 +11,12 @@
     <End>1794263481</End>
     <TimeRemaining>15d 2h</TimeRemaining>
   </Season>
-  <JailedPlayers count="13">
+  <JailedPlayers count="14">
+    <Player>
+      <Name>Blackfyre</Name>
+      <EntryDate>2026-10-25 21:06:32</EntryDate>
+      <Duration>540</Duration>
+    </Player>
     <Player>
       <Name>Kuracatx</Name>
       <EntryDate>2026-10-25 18:31:26</EntryDate>
