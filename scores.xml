@@ -458,7 +458,7 @@
 <stats>
 <level>840</level>
 <vocation>warrior</vocation>
-<exppoints>412653165619</exppoints>
+<exppoints>412655067284</exppoints>
 <achievement>317</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -846,7 +846,7 @@
 <stats>
 <level>740</level>
 <vocation>warrior</vocation>
-<exppoints>248497402709</exppoints>
+<exppoints>248497685109</exppoints>
 <achievement>256</achievement>
 <guild>BOPE</guild>
 <quota>6</quota>
@@ -1644,22 +1644,6 @@
 <rank type="highscore_warrior">73</rank>
 </ranks>
 </character>
-<character name="Tzcoronel">
-<stats>
-<level>637</level>
-<vocation>warrior</vocation>
-<exppoints>136567473545</exppoints>
-<achievement>117</achievement>
-<guild>VIKINGS</guild>
-<quota>0</quota>
-<patent>Newbie</patent>
-<deaths></deaths>
-</stats>
-<ranks>
-<rank type="highscore_global">94</rank>
-<rank type="highscore_warrior">74</rank>
-</ranks>
-</character>
 <character name="Teus">
 <stats>
 <level>636</level>
@@ -1672,8 +1656,8 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">95</rank>
-<rank type="highscore_warrior">75</rank>
+<rank type="highscore_global">94</rank>
+<rank type="highscore_warrior">74</rank>
 <rank type="stars_global">69</rank>
 <rank type="stars_warrior">47</rank>
 </ranks>
@@ -1690,8 +1674,8 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">96</rank>
-<rank type="highscore_warrior">76</rank>
+<rank type="highscore_global">95</rank>
+<rank type="highscore_warrior">75</rank>
 <rank type="pvp">49</rank>
 </ranks>
 </character>
@@ -1707,8 +1691,8 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">97</rank>
-<rank type="highscore_warrior">77</rank>
+<rank type="highscore_global">96</rank>
+<rank type="highscore_warrior">76</rank>
 </ranks>
 </character>
 <character name="Garp">
@@ -1723,9 +1707,25 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">98</rank>
+<rank type="highscore_global">97</rank>
 <rank type="highscore_wizard">21</rank>
 <rank type="stars_wizard">33</rank>
+</ranks>
+</character>
+<character name="Tzcoronel">
+<stats>
+<level>629</level>
+<vocation>warrior</vocation>
+<exppoints>129739099867</exppoints>
+<achievement>117</achievement>
+<guild>VIKINGS</guild>
+<quota>0</quota>
+<patent>Newbie</patent>
+<deaths>2026-10-29 00:24:49:-6828373678:Pao:1;</deaths>
+</stats>
+<ranks>
+<rank type="highscore_global">98</rank>
+<rank type="highscore_warrior">77</rank>
 </ranks>
 </character>
 <character name="Switch">
@@ -2464,7 +2464,7 @@
 <stats>
 <level>564</level>
 <vocation>warrior</vocation>
-<exppoints>83605773056</exppoints>
+<exppoints>83607437911</exppoints>
 <achievement>127</achievement>
 <guild>New Age</guild>
 <quota>0</quota>
@@ -2723,7 +2723,7 @@
 <ranks>
 <rank type="highscore_global">157</rank>
 <rank type="highscore_wizard">41</rank>
-<rank type="pvp">15</rank>
+<rank type="pvp">16</rank>
 </ranks>
 </character>
 <character name="Michael">
@@ -3318,7 +3318,7 @@
 <stats>
 <level>520</level>
 <vocation>warrior</vocation>
-<exppoints>60292183087</exppoints>
+<exppoints>60292294891</exppoints>
 <achievement>189</achievement>
 <guild>BOPE</guild>
 <quota>0</quota>
@@ -3571,7 +3571,7 @@
 <exppoints>56327190891</exppoints>
 <achievement>195</achievement>
 <guild>Gia</guild>
-<quota>2</quota>
+<quota>3</quota>
 <patent>Newbie</patent>
 <deaths></deaths>
 </stats>
@@ -3579,7 +3579,7 @@
 <rank type="highscore_global">207</rank>
 <rank type="highscore_warrior">144</rank>
 <rank type="stars_warrior">76</rank>
-<rank type="pvp">16</rank>
+<rank type="pvp">15</rank>
 </ranks>
 </character>
 <character name="Yurnero">
@@ -4085,7 +4085,7 @@
 <stats>
 <level>493</level>
 <vocation>wizard</vocation>
-<exppoints>48752253133</exppoints>
+<exppoints>48752667183</exppoints>
 <achievement>263</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -4473,7 +4473,7 @@
 <stats>
 <level>459</level>
 <vocation>wizard</vocation>
-<exppoints>36648837811</exppoints>
+<exppoints>36649362811</exppoints>
 <achievement>217</achievement>
 <guild>Renegados</guild>
 <quota>1</quota>
