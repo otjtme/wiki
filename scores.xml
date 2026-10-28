@@ -153,7 +153,7 @@
 <stats>
 <level>919</level>
 <vocation>warrior</vocation>
-<exppoints>593041141948</exppoints>
+<exppoints>593041195656</exppoints>
 <achievement>223</achievement>
 <guild>BOPE</guild>
 <quota>0</quota>
@@ -207,7 +207,7 @@
 <stats>
 <level>882</level>
 <vocation>warrior</vocation>
-<exppoints>501779125504</exppoints>
+<exppoints>501779615685</exppoints>
 <achievement>318</achievement>
 <guild>BOPE</guild>
 <quota>0</quota>
@@ -1644,6 +1644,22 @@
 <rank type="highscore_warrior">73</rank>
 </ranks>
 </character>
+<character name="Tzcoronel">
+<stats>
+<level>637</level>
+<vocation>warrior</vocation>
+<exppoints>136567473545</exppoints>
+<achievement>117</achievement>
+<guild>VIKINGS</guild>
+<quota>0</quota>
+<patent>Newbie</patent>
+<deaths>2026-10-29 00:24:49:-6828373678:Pao:1;</deaths>
+</stats>
+<ranks>
+<rank type="highscore_global">94</rank>
+<rank type="highscore_warrior">74</rank>
+</ranks>
+</character>
 <character name="Teus">
 <stats>
 <level>636</level>
@@ -1656,8 +1672,8 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">94</rank>
-<rank type="highscore_warrior">74</rank>
+<rank type="highscore_global">95</rank>
+<rank type="highscore_warrior">75</rank>
 <rank type="stars_global">69</rank>
 <rank type="stars_warrior">47</rank>
 </ranks>
@@ -1674,8 +1690,8 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">95</rank>
-<rank type="highscore_warrior">75</rank>
+<rank type="highscore_global">96</rank>
+<rank type="highscore_warrior">76</rank>
 <rank type="pvp">49</rank>
 </ranks>
 </character>
@@ -1691,8 +1707,8 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">96</rank>
-<rank type="highscore_warrior">76</rank>
+<rank type="highscore_global">97</rank>
+<rank type="highscore_warrior">77</rank>
 </ranks>
 </character>
 <character name="Garp">
@@ -1707,25 +1723,9 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">97</rank>
+<rank type="highscore_global">98</rank>
 <rank type="highscore_wizard">21</rank>
 <rank type="stars_wizard">33</rank>
-</ranks>
-</character>
-<character name="Tzcoronel">
-<stats>
-<level>629</level>
-<vocation>warrior</vocation>
-<exppoints>129739099867</exppoints>
-<achievement>117</achievement>
-<guild>VIKINGS</guild>
-<quota>0</quota>
-<patent>Newbie</patent>
-<deaths>2026-10-29 00:24:49:-6828373678:Pao:1;</deaths>
-</stats>
-<ranks>
-<rank type="highscore_global">98</rank>
-<rank type="highscore_warrior">77</rank>
 </ranks>
 </character>
 <character name="Switch">
@@ -3318,12 +3318,12 @@
 <stats>
 <level>520</level>
 <vocation>warrior</vocation>
-<exppoints>60292294891</exppoints>
+<exppoints>60292600508</exppoints>
 <achievement>189</achievement>
 <guild>BOPE</guild>
 <quota>0</quota>
 <patent>Newbie</patent>
-<deaths></deaths>
+<deaths>2026-10-29 00:47:04:-0:Pao:1;</deaths>
 </stats>
 <ranks>
 <rank type="highscore_global">192</rank>
@@ -4473,7 +4473,7 @@
 <stats>
 <level>459</level>
 <vocation>wizard</vocation>
-<exppoints>36649362811</exppoints>
+<exppoints>36649365713</exppoints>
 <achievement>217</achievement>
 <guild>Renegados</guild>
 <quota>1</quota>
@@ -5612,7 +5612,7 @@
 <stats>
 <level>404</level>
 <vocation>wizard</vocation>
-<exppoints>22005002256</exppoints>
+<exppoints>22006128470</exppoints>
 <achievement>89</achievement>
 <guild>Gia</guild>
 <quota>0</quota>
@@ -6796,7 +6796,7 @@
 <guild name="M A G"><exppoints>45183006</exppoints><gold>0</gold><platinum>0</platinum><leader>Takanome</leader><members>51</members><rank type="guild">8</rank></guild>
 <guild name="Renegados"><exppoints>32003324</exppoints><gold>0</gold><platinum>1255</platinum><leader>Garp</leader><members>66</members><rank type="guild">9</rank></guild>
 <guild name="ETERNAL"><exppoints>25703182</exppoints><gold>0</gold><platinum>0</platinum><leader>Nightmare</leader><members>38</members><rank type="guild">10</rank></guild>
-<guild name="Maximus"><exppoints>25327076</exppoints><gold>500000</gold><platinum>32</platinum><leader>Moxnc</leader><members>16</members><rank type="guild">11</rank></guild>
+<guild name="Maximus"><exppoints>25327076</exppoints><gold>500000</gold><platinum>32</platinum><leader>Moxnc</leader><members>15</members><rank type="guild">11</rank></guild>
 <guild name="Brasil"><exppoints>14468583</exppoints><gold>166301</gold><platinum>0</platinum><leader>Xmtx</leader><members>66</members><rank type="guild">12</rank></guild>
 <guild name="NoVs"><exppoints>13034436</exppoints><gold>0</gold><platinum>4</platinum><leader>Kinggzz</leader><members>14</members><rank type="guild">13</rank></guild>
 <guild name="Fucker"><exppoints>12537613</exppoints><gold>0</gold><platinum>0</platinum><leader>Rolex</leader><members>10</members><rank type="guild">14</rank></guild>
