@@ -477,7 +477,7 @@
 <stats>
 <level>835</level>
 <vocation>warrior</vocation>
-<exppoints>402676455037</exppoints>
+<exppoints>402678144945</exppoints>
 <achievement>282</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1008,7 +1008,7 @@
 <stats>
 <level>726</level>
 <vocation>wizard</vocation>
-<exppoints>230156682171</exppoints>
+<exppoints>230156709025</exppoints>
 <achievement>179</achievement>
 <guild>BOPE</guild>
 <quota>1</quota>
@@ -1129,7 +1129,7 @@
 <stats>
 <level>711</level>
 <vocation>warrior</vocation>
-<exppoints>211607596179</exppoints>
+<exppoints>211609281299</exppoints>
 <achievement>131</achievement>
 <guild>Mthrfvk</guild>
 <quota>0</quota>
@@ -1145,7 +1145,7 @@
 <stats>
 <level>710</level>
 <vocation>warrior</vocation>
-<exppoints>211138759060</exppoints>
+<exppoints>211142515354</exppoints>
 <achievement>274</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1339,7 +1339,7 @@
 <stats>
 <level>677</level>
 <vocation>warrior</vocation>
-<exppoints>173597835264</exppoints>
+<exppoints>173600763189</exppoints>
 <achievement>91</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -1563,7 +1563,7 @@
 <stats>
 <level>644</level>
 <vocation>warrior</vocation>
-<exppoints>142045062415</exppoints>
+<exppoints>142045062576</exppoints>
 <achievement>115</achievement>
 <guild>OCIPALA</guild>
 <quota>0</quota>
@@ -1899,7 +1899,7 @@
 <stats>
 <level>607</level>
 <vocation>warrior</vocation>
-<exppoints>112137933530</exppoints>
+<exppoints>112142023220</exppoints>
 <achievement>126</achievement>
 <guild></guild>
 <quota>2</quota>
@@ -1951,7 +1951,7 @@
 <stats>
 <level>604</level>
 <vocation>warrior</vocation>
-<exppoints>110175339592</exppoints>
+<exppoints>110175714592</exppoints>
 <achievement>59</achievement>
 <guild>BUG</guild>
 <quota>5</quota>
@@ -2052,7 +2052,7 @@
 <stats>
 <level>594</level>
 <vocation>warrior</vocation>
-<exppoints>102838622120</exppoints>
+<exppoints>102839664052</exppoints>
 <achievement>143</achievement>
 <guild></guild>
 <quota>1</quota>
@@ -2190,7 +2190,7 @@
 <stats>
 <level>585</level>
 <vocation>warrior</vocation>
-<exppoints>96905954223</exppoints>
+<exppoints>96907663703</exppoints>
 <achievement>187</achievement>
 <guild>BUG</guild>
 <quota>2</quota>
@@ -2411,7 +2411,7 @@
 <stats>
 <level>567</level>
 <vocation>wizard</vocation>
-<exppoints>85313297637</exppoints>
+<exppoints>85314966657</exppoints>
 <achievement>345</achievement>
 <guild>XYZ</guild>
 <quota>1</quota>
@@ -3164,7 +3164,7 @@
 <stats>
 <level>525</level>
 <vocation>wizard</vocation>
-<exppoints>63064321459</exppoints>
+<exppoints>63067699781</exppoints>
 <achievement>142</achievement>
 <guild>Renegados</guild>
 <quota>1</quota>
@@ -3282,7 +3282,7 @@
 <stats>
 <level>520</level>
 <vocation>warrior</vocation>
-<exppoints>60610221737</exppoints>
+<exppoints>60611886592</exppoints>
 <achievement>274</achievement>
 <guild>W O R L D</guild>
 <quota>0</quota>
@@ -5211,6 +5211,23 @@
 <rank type="highscore_wizard">100</rank>
 </ranks>
 </character>
+<character name="Heukoko">
+<stats>
+<level>415</level>
+<vocation>wizard</vocation>
+<exppoints>24570330906</exppoints>
+<achievement>172</achievement>
+<guild>Maximus</guild>
+<quota>0</quota>
+<patent>Newbie</patent>
+<deaths></deaths>
+</stats>
+<ranks>
+<rank type="highscore_global">306</rank>
+<rank type="highscore_wizard">101</rank>
+<rank type="stars_wizard">44</rank>
+</ranks>
+</character>
 <character name="Ragnarokk">
 <stats>
 <level>415</level>
@@ -5223,26 +5240,9 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">306</rank>
+<rank type="highscore_global">307</rank>
 <rank type="highscore_warrior">206</rank>
 <rank type="pvp">38</rank>
-</ranks>
-</character>
-<character name="Heukoko">
-<stats>
-<level>415</level>
-<vocation>wizard</vocation>
-<exppoints>24567834405</exppoints>
-<achievement>172</achievement>
-<guild>Maximus</guild>
-<quota>0</quota>
-<patent>Newbie</patent>
-<deaths></deaths>
-</stats>
-<ranks>
-<rank type="highscore_global">307</rank>
-<rank type="highscore_wizard">101</rank>
-<rank type="stars_wizard">44</rank>
 </ranks>
 </character>
 <character name="Kintils">
@@ -5346,7 +5346,7 @@
 <stats>
 <level>413</level>
 <vocation>wizard</vocation>
-<exppoints>23954858910</exppoints>
+<exppoints>23958858910</exppoints>
 <achievement>132</achievement>
 <guild>XYZ</guild>
 <quota>0</quota>
