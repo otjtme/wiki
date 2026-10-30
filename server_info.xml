@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1793392692174</GeneratedAt>
+  <GeneratedAt>1793393892151</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>179</PlayersOnline>
+  <PlayersOnline>182</PlayersOnline>
   <TodayPeak>259</TodayPeak>
   <TotalPlayers>18358</TotalPlayers>
   <Season>
@@ -11,7 +11,12 @@
     <End>1794263481</End>
     <TimeRemaining>10d 1h</TimeRemaining>
   </Season>
-  <JailedPlayers count="14">
+  <JailedPlayers count="15">
+    <Player>
+      <Name>Babydark</Name>
+      <EntryDate>2026-10-30 21:34:26</EntryDate>
+      <Duration>540</Duration>
+    </Player>
     <Player>
       <Name>Arkan</Name>
       <EntryDate>2026-10-30 21:05:39</EntryDate>
