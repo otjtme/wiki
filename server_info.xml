@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1793389092150</GeneratedAt>
+  <GeneratedAt>1793390292112</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>186</PlayersOnline>
+  <PlayersOnline>190</PlayersOnline>
   <TodayPeak>259</TodayPeak>
   <TotalPlayers>18357</TotalPlayers>
   <Season>
@@ -11,7 +11,12 @@
     <End>1794263481</End>
     <TimeRemaining>10d 2h</TimeRemaining>
   </Season>
-  <JailedPlayers count="13">
+  <JailedPlayers count="14">
+    <Player>
+      <Name>Arkan</Name>
+      <EntryDate>2026-10-30 20:47:08</EntryDate>
+      <Duration>540</Duration>
+    </Player>
     <Player>
       <Name>Manoo</Name>
       <EntryDate>2026-10-26 08:16:47</EntryDate>
