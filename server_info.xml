@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1793452757210</GeneratedAt>
+  <GeneratedAt>1793453957175</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>275</PlayersOnline>
-  <TodayPeak>276</TodayPeak>
+  <PlayersOnline>281</PlayersOnline>
+  <TodayPeak>282</TodayPeak>
   <TotalPlayers>18371</TotalPlayers>
   <Season>
     <Id>13</Id>
     <Start>1791671481</Start>
     <End>1794263481</End>
-    <TimeRemaining>9d 9h</TimeRemaining>
+    <TimeRemaining>9d 8h</TimeRemaining>
   </Season>
-  <JailedPlayers count="13">
+  <JailedPlayers count="14">
+    <Player>
+      <Name>Tarderr</Name>
+      <EntryDate>2026-10-31 14:35:03</EntryDate>
+      <Duration>540</Duration>
+    </Player>
     <Player>
       <Name>Szoboszlai</Name>
       <EntryDate>2026-10-31 06:12:28</EntryDate>
