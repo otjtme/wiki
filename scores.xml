@@ -7,7 +7,7 @@
 <stats>
 <level>1076</level>
 <vocation>warrior</vocation>
-<exppoints>1113096080104</exppoints>
+<exppoints>1113096187204</exppoints>
 <achievement>292</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -43,12 +43,12 @@
 <stats>
 <level>1018</level>
 <vocation>warrior</vocation>
-<exppoints>890880670568</exppoints>
+<exppoints>890881098968</exppoints>
 <achievement>278</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
 <patent>Newbie</patent>
-<deaths></deaths>
+<deaths>2026-11-04 01:41:06:-0:Lukzada:1;</deaths>
 </stats>
 <ranks>
 <rank type="highscore_global">3</rank>
@@ -172,7 +172,7 @@
 <stats>
 <level>910</level>
 <vocation>warrior</vocation>
-<exppoints>569506090849</exppoints>
+<exppoints>569506811289</exppoints>
 <achievement>294</achievement>
 <guild>BOPE</guild>
 <quota>0</quota>
@@ -211,7 +211,7 @@
 <exppoints>525618067991</exppoints>
 <achievement>318</achievement>
 <guild>BOPE</guild>
-<quota>7</quota>
+<quota>8</quota>
 <patent>Recruit</patent>
 <deaths></deaths>
 </stats>
@@ -456,7 +456,7 @@
 <stats>
 <level>845</level>
 <vocation>wizard</vocation>
-<exppoints>422176405106</exppoints>
+<exppoints>422179763138</exppoints>
 <achievement>424</achievement>
 <guild>BOPE</guild>
 <quota>4</quota>
@@ -513,7 +513,7 @@
 <exppoints>399725361838</exppoints>
 <achievement>393</achievement>
 <guild>BOPE</guild>
-<quota>8</quota>
+<quota>9</quota>
 <patent>Recruit</patent>
 <deaths></deaths>
 </stats>
@@ -631,7 +631,7 @@
 <stats>
 <level>812</level>
 <vocation>warrior</vocation>
-<exppoints>361253124121</exppoints>
+<exppoints>361254771721</exppoints>
 <achievement>315</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -684,7 +684,7 @@
 <stats>
 <level>791</level>
 <vocation>warrior</vocation>
-<exppoints>323865297482</exppoints>
+<exppoints>323868655514</exppoints>
 <achievement>190</achievement>
 <guild>BOPE</guild>
 <quota>0</quota>
@@ -701,7 +701,7 @@
 <stats>
 <level>789</level>
 <vocation>wizard</vocation>
-<exppoints>321246824041</exppoints>
+<exppoints>321248578122</exppoints>
 <achievement>258</achievement>
 <guild>BOPE</guild>
 <quota>0</quota>
@@ -884,7 +884,7 @@
 <stats>
 <level>745</level>
 <vocation>warrior</vocation>
-<exppoints>254766781846</exppoints>
+<exppoints>254766882996</exppoints>
 <achievement>123</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1028,7 +1028,7 @@
 <guild>BUG</guild>
 <quota>0</quota>
 <patent>Newbie</patent>
-<deaths></deaths>
+<deaths>2026-11-04 01:31:30:-0:Lukzada:1;</deaths>
 </stats>
 <ranks>
 <rank type="highscore_global">58</rank>
@@ -1076,7 +1076,7 @@
 <stats>
 <level>726</level>
 <vocation>warrior</vocation>
-<exppoints>229769510987</exppoints>
+<exppoints>229769511463</exppoints>
 <achievement>422</achievement>
 <guild>Gia</guild>
 <quota>0</quota>
@@ -1088,6 +1088,22 @@
 <rank type="highscore_warrior">48</rank>
 <rank type="stars_global">5</rank>
 <rank type="stars_warrior">3</rank>
+</ranks>
+</character>
+<character name="Uvv">
+<stats>
+<level>722</level>
+<vocation>wizard</vocation>
+<exppoints>225193479735</exppoints>
+<achievement>80</achievement>
+<guild>BUG</guild>
+<quota>0</quota>
+<patent>Newbie</patent>
+<deaths>2026-11-04 00:42:53:-11259673987:Lukzada:1;</deaths>
+</stats>
+<ranks>
+<rank type="highscore_global">62</rank>
+<rank type="highscore_wizard">14</rank>
 </ranks>
 </character>
 <character name="Gaspar">
@@ -1102,7 +1118,7 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">62</rank>
+<rank type="highscore_global">63</rank>
 <rank type="highscore_warrior">49</rank>
 </ranks>
 </character>
@@ -1118,26 +1134,10 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">63</rank>
+<rank type="highscore_global">64</rank>
 <rank type="highscore_warrior">50</rank>
 <rank type="stars_global">25</rank>
 <rank type="stars_warrior">16</rank>
-</ranks>
-</character>
-<character name="Uvv">
-<stats>
-<level>713</level>
-<vocation>wizard</vocation>
-<exppoints>213933805748</exppoints>
-<achievement>80</achievement>
-<guild>BUG</guild>
-<quota>0</quota>
-<patent>Newbie</patent>
-<deaths>2026-11-04 00:42:53:-11259673987:Lukzada:1;</deaths>
-</stats>
-<ranks>
-<rank type="highscore_global">64</rank>
-<rank type="highscore_wizard">14</rank>
 </ranks>
 </character>
 <character name="Forasteiro">
@@ -3146,7 +3146,7 @@
 <stats>
 <level>529</level>
 <vocation>warrior</vocation>
-<exppoints>64570743103</exppoints>
+<exppoints>64572711527</exppoints>
 <achievement>102</achievement>
 <guild>NoMercy</guild>
 <quota>0</quota>
@@ -3554,7 +3554,7 @@
 <stats>
 <level>513</level>
 <vocation>warrior</vocation>
-<exppoints>57102230067</exppoints>
+<exppoints>57105525267</exppoints>
 <achievement>207</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -3571,7 +3571,7 @@
 <stats>
 <level>511</level>
 <vocation>wizard</vocation>
-<exppoints>56582338005</exppoints>
+<exppoints>56583985605</exppoints>
 <achievement>45</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -3754,7 +3754,7 @@
 <stats>
 <level>506</level>
 <vocation>wizard</vocation>
-<exppoints>54139390206</exppoints>
+<exppoints>54142685406</exppoints>
 <achievement>92</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -3820,7 +3820,7 @@
 <stats>
 <level>505</level>
 <vocation>wizard</vocation>
-<exppoints>53751655064</exppoints>
+<exppoints>53753292304</exppoints>
 <achievement>60</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -3920,9 +3920,9 @@
 <stats>
 <level>503</level>
 <vocation>warrior</vocation>
-<exppoints>52952546019</exppoints>
+<exppoints>52955353632</exppoints>
 <achievement>203</achievement>
-<guild></guild>
+<guild>Gia</guild>
 <quota>0</quota>
 <patent>Newbie</patent>
 <deaths></deaths>
@@ -4053,7 +4053,7 @@
 <stats>
 <level>501</level>
 <vocation>warrior</vocation>
-<exppoints>51959503590</exppoints>
+<exppoints>51960710565</exppoints>
 <achievement>200</achievement>
 <guild>VIKINGS</guild>
 <quota>0</quota>
@@ -4075,7 +4075,7 @@
 <guild>BUG</guild>
 <quota>0</quota>
 <patent>Newbie</patent>
-<deaths>2026-11-04 01:02:43:-0:Luskridys:1;2026-11-04 01:18:45:-0:Lukzada:1;</deaths>
+<deaths>2026-11-04 01:02:43:-0:Luskridys:1;2026-11-04 01:18:45:-0:Lukzada:1;2026-11-04 01:27:16:-0:Luskridys:1;</deaths>
 </stats>
 <ranks>
 <rank type="highscore_global">237</rank>
@@ -5283,7 +5283,7 @@
 <stats>
 <level>417</level>
 <vocation>wizard</vocation>
-<exppoints>25039877975</exppoints>
+<exppoints>25040074325</exppoints>
 <achievement>66</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -5646,7 +5646,7 @@
 <stats>
 <level>406</level>
 <vocation>wizard</vocation>
-<exppoints>22484719078</exppoints>
+<exppoints>22484719113</exppoints>
 <achievement>256</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -6788,7 +6788,7 @@
 </characters>
 <guilds>
 <guild name="BUG"><exppoints>120000000</exppoints><gold>0</gold><platinum>0</platinum><leader>Weedking</leader><members>56</members><rank type="guild">1</rank></guild>
-<guild name="Gia"><exppoints>120000000</exppoints><gold>461312</gold><platinum>800</platinum><leader>Aamker</leader><members>29</members><rank type="guild">2</rank></guild>
+<guild name="Gia"><exppoints>120000000</exppoints><gold>461312</gold><platinum>800</platinum><leader>Aamker</leader><members>30</members><rank type="guild">2</rank></guild>
 <guild name="LIBERTYW1"><exppoints>120000000</exppoints><gold>353410</gold><platinum>30</platinum><leader>Ivibueno</leader><members>69</members><rank type="guild">3</rank></guild>
 <guild name="XYZ"><exppoints>79125729</exppoints><gold>0</gold><platinum>0</platinum><leader>Cinta</leader><members>43</members><rank type="guild">4</rank></guild>
 <guild name="BOPE"><exppoints>69191278</exppoints><gold>0</gold><platinum>1107</platinum><leader>Bopeadm</leader><members>40</members><rank type="guild">5</rank></guild>
