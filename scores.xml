@@ -25,7 +25,7 @@
 <stats>
 <level>1058</level>
 <vocation>wizard</vocation>
-<exppoints>1039377480700</exppoints>
+<exppoints>1039388750328</exppoints>
 <achievement>490</achievement>
 <guild>BUG</guild>
 <quota>5</quota>
@@ -44,7 +44,7 @@
 <stats>
 <level>1020</level>
 <vocation>warrior</vocation>
-<exppoints>899984871591</exppoints>
+<exppoints>900005402661</exppoints>
 <achievement>278</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -99,7 +99,7 @@
 <stats>
 <level>952</level>
 <vocation>warrior</vocation>
-<exppoints>681477847737</exppoints>
+<exppoints>681608368435</exppoints>
 <achievement>176</achievement>
 <guild>BOPE</guild>
 <quota>4</quota>
@@ -116,7 +116,7 @@
 <stats>
 <level>942</level>
 <vocation>warrior</vocation>
-<exppoints>652189854208</exppoints>
+<exppoints>652268412972</exppoints>
 <achievement>269</achievement>
 <guild>BOPE</guild>
 <quota>2</quota>
@@ -135,7 +135,7 @@
 <stats>
 <level>935</level>
 <vocation>warrior</vocation>
-<exppoints>633127022104</exppoints>
+<exppoints>633131146009</exppoints>
 <achievement>213</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -154,7 +154,7 @@
 <stats>
 <level>928</level>
 <vocation>warrior</vocation>
-<exppoints>615329485295</exppoints>
+<exppoints>615373431259</exppoints>
 <achievement>223</achievement>
 <guild>BOPE</guild>
 <quota>1</quota>
@@ -173,7 +173,7 @@
 <stats>
 <level>911</level>
 <vocation>warrior</vocation>
-<exppoints>572596532855</exppoints>
+<exppoints>572640744995</exppoints>
 <achievement>294</achievement>
 <guild>BOPE</guild>
 <quota>0</quota>
@@ -191,7 +191,7 @@
 <stats>
 <level>899</level>
 <vocation>warrior</vocation>
-<exppoints>542725749358</exppoints>
+<exppoints>542812112772</exppoints>
 <achievement>246</achievement>
 <guild>BOPE</guild>
 <quota>0</quota>
@@ -245,7 +245,7 @@
 <stats>
 <level>878</level>
 <vocation>warrior</vocation>
-<exppoints>493546400299</exppoints>
+<exppoints>493591994595</exppoints>
 <achievement>239</achievement>
 <guild>BOPE</guild>
 <quota>3</quota>
@@ -283,7 +283,7 @@
 <stats>
 <level>873</level>
 <vocation>warrior</vocation>
-<exppoints>481811697331</exppoints>
+<exppoints>481819198099</exppoints>
 <achievement>295</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -301,7 +301,7 @@
 <stats>
 <level>865</level>
 <vocation>warrior</vocation>
-<exppoints>463426693616</exppoints>
+<exppoints>463433767061</exppoints>
 <achievement>155</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -335,7 +335,7 @@
 <stats>
 <level>856</level>
 <vocation>warrior</vocation>
-<exppoints>446058319851</exppoints>
+<exppoints>446062906741</exppoints>
 <achievement>386</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -353,7 +353,7 @@
 <stats>
 <level>851</level>
 <vocation>warrior</vocation>
-<exppoints>434664520906</exppoints>
+<exppoints>434670950136</exppoints>
 <achievement>129</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -370,7 +370,7 @@
 <stats>
 <level>851</level>
 <vocation>warrior</vocation>
-<exppoints>434144443706</exppoints>
+<exppoints>434151268118</exppoints>
 <achievement>176</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -386,7 +386,7 @@
 <stats>
 <level>850</level>
 <vocation>warrior</vocation>
-<exppoints>432668731744</exppoints>
+<exppoints>432675013182</exppoints>
 <achievement>143</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -439,7 +439,7 @@
 <stats>
 <level>848</level>
 <vocation>warrior</vocation>
-<exppoints>429575258841</exppoints>
+<exppoints>429585722987</exppoints>
 <achievement>164</achievement>
 <guild>Gia</guild>
 <quota>0</quota>
@@ -455,7 +455,7 @@
 <stats>
 <level>846</level>
 <vocation>warrior</vocation>
-<exppoints>425624073086</exppoints>
+<exppoints>425628796196</exppoints>
 <achievement>284</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -525,6 +525,24 @@
 <rank type="pvp">2</rank>
 </ranks>
 </character>
+<character name="Lendario">
+<stats>
+<level>833</level>
+<vocation>warrior</vocation>
+<exppoints>398809129966</exppoints>
+<achievement>209</achievement>
+<guild>BOPE</guild>
+<quota>1</quota>
+<patent>Newbie</patent>
+<deaths></deaths>
+</stats>
+<ranks>
+<rank type="highscore_global">30</rank>
+<rank type="highscore_warrior">26</rank>
+<rank type="stars_warrior">69</rank>
+<rank type="pvp">56</rank>
+</ranks>
+</character>
 <character name="Topslx">
 <stats>
 <level>833</level>
@@ -537,33 +555,15 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">30</rank>
-<rank type="highscore_warrior">26</rank>
-</ranks>
-</character>
-<character name="Lendario">
-<stats>
-<level>833</level>
-<vocation>warrior</vocation>
-<exppoints>398774020814</exppoints>
-<achievement>209</achievement>
-<guild>BOPE</guild>
-<quota>1</quota>
-<patent>Newbie</patent>
-<deaths></deaths>
-</stats>
-<ranks>
 <rank type="highscore_global">31</rank>
 <rank type="highscore_warrior">27</rank>
-<rank type="stars_warrior">69</rank>
-<rank type="pvp">56</rank>
 </ranks>
 </character>
 <character name="Cxllme">
 <stats>
 <level>831</level>
 <vocation>warrior</vocation>
-<exppoints>394691104744</exppoints>
+<exppoints>394697795841</exppoints>
 <achievement>45</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -596,7 +596,7 @@
 <stats>
 <level>820</level>
 <vocation>wizard</vocation>
-<exppoints>375519707372</exppoints>
+<exppoints>375528801801</exppoints>
 <achievement>205</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -649,7 +649,7 @@
 <stats>
 <level>803</level>
 <vocation>wizard</vocation>
-<exppoints>345102813647</exppoints>
+<exppoints>345150052321</exppoints>
 <achievement>135</achievement>
 <guild>BOPE</guild>
 <quota>1</quota>
@@ -667,7 +667,7 @@
 <stats>
 <level>795</level>
 <vocation>warrior</vocation>
-<exppoints>331620985428</exppoints>
+<exppoints>331633159485</exppoints>
 <achievement>127</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -701,7 +701,7 @@
 <stats>
 <level>792</level>
 <vocation>wizard</vocation>
-<exppoints>325910606542</exppoints>
+<exppoints>325996759001</exppoints>
 <achievement>258</achievement>
 <guild>BOPE</guild>
 <quota>0</quota>
@@ -719,7 +719,7 @@
 <stats>
 <level>790</level>
 <vocation>warrior</vocation>
-<exppoints>323476847585</exppoints>
+<exppoints>323489683567</exppoints>
 <achievement>260</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -756,7 +756,7 @@
 <stats>
 <level>770</level>
 <vocation>warrior</vocation>
-<exppoints>291058905521</exppoints>
+<exppoints>291070183151</exppoints>
 <achievement>252</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -792,7 +792,7 @@
 <stats>
 <level>768</level>
 <vocation>wizard</vocation>
-<exppoints>287731167967</exppoints>
+<exppoints>287771333376</exppoints>
 <achievement>123</achievement>
 <guild>BOPE</guild>
 <quota>0</quota>
@@ -827,7 +827,7 @@
 <stats>
 <level>757</level>
 <vocation>warrior</vocation>
-<exppoints>272693170142</exppoints>
+<exppoints>272794054838</exppoints>
 <achievement>256</achievement>
 <guild>BOPE</guild>
 <quota>7</quota>
@@ -863,7 +863,7 @@
 <stats>
 <level>747</level>
 <vocation>warrior</vocation>
-<exppoints>257936752789</exppoints>
+<exppoints>257947555605</exppoints>
 <achievement>221</achievement>
 <guild>BOPE</guild>
 <quota>0</quota>
@@ -882,7 +882,7 @@
 <stats>
 <level>747</level>
 <vocation>warrior</vocation>
-<exppoints>257739435008</exppoints>
+<exppoints>257743059502</exppoints>
 <achievement>123</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -915,7 +915,7 @@
 <stats>
 <level>744</level>
 <vocation>warrior</vocation>
-<exppoints>253679505482</exppoints>
+<exppoints>253695034530</exppoints>
 <achievement>334</achievement>
 <guild>BOPE</guild>
 <quota>0</quota>
@@ -966,7 +966,7 @@
 <stats>
 <level>733</level>
 <vocation>wizard</vocation>
-<exppoints>238928277247</exppoints>
+<exppoints>238964837717</exppoints>
 <achievement>179</achievement>
 <guild>BOPE</guild>
 <quota>0</quota>
@@ -983,7 +983,7 @@
 <stats>
 <level>733</level>
 <vocation>warrior</vocation>
-<exppoints>238787624874</exppoints>
+<exppoints>238787897980</exppoints>
 <achievement>274</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -1002,7 +1002,7 @@
 <stats>
 <level>731</level>
 <vocation>wizard</vocation>
-<exppoints>236724932559</exppoints>
+<exppoints>236756352486</exppoints>
 <achievement>236</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1057,7 +1057,7 @@
 <stats>
 <level>729</level>
 <vocation>warrior</vocation>
-<exppoints>233876851817</exppoints>
+<exppoints>233892145753</exppoints>
 <achievement>203</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1093,7 +1093,7 @@
 <stats>
 <level>725</level>
 <vocation>wizard</vocation>
-<exppoints>228656750008</exppoints>
+<exppoints>228664670082</exppoints>
 <achievement>81</achievement>
 <guild>BUG</guild>
 <quota>5</quota>
@@ -1179,7 +1179,7 @@
 <stats>
 <level>710</level>
 <vocation>warrior</vocation>
-<exppoints>210971387916</exppoints>
+<exppoints>210973990446</exppoints>
 <achievement>240</achievement>
 <guild>BUG</guild>
 <quota>4</quota>
@@ -1198,7 +1198,7 @@
 <stats>
 <level>710</level>
 <vocation>warrior</vocation>
-<exppoints>210794412338</exppoints>
+<exppoints>210796656146</exppoints>
 <achievement>135</achievement>
 <guild>Fucker</guild>
 <quota>0</quota>
@@ -1283,7 +1283,7 @@
 <stats>
 <level>703</level>
 <vocation>wizard</vocation>
-<exppoints>202828342057</exppoints>
+<exppoints>202855214062</exppoints>
 <achievement>214</achievement>
 <guild>BOPE</guild>
 <quota>0</quota>
@@ -1301,7 +1301,7 @@
 <stats>
 <level>702</level>
 <vocation>warrior</vocation>
-<exppoints>201427273987</exppoints>
+<exppoints>201435708112</exppoints>
 <achievement>92</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -1318,7 +1318,7 @@
 <stats>
 <level>684</level>
 <vocation>warrior</vocation>
-<exppoints>181718874391</exppoints>
+<exppoints>181719536107</exppoints>
 <achievement>190</achievement>
 <guild>Fucker</guild>
 <quota>0</quota>
@@ -1476,7 +1476,7 @@
 <stats>
 <level>660</level>
 <vocation>wizard</vocation>
-<exppoints>156956199433</exppoints>
+<exppoints>156960134624</exppoints>
 <achievement>187</achievement>
 <guild>NoMercy</guild>
 <quota>1</quota>
@@ -1574,13 +1574,13 @@
 <rank type="pvp">93</rank>
 </ranks>
 </character>
-<character name="Lionblue">
+<character name="Tzcoronel">
 <stats>
 <level>645</level>
 <vocation>warrior</vocation>
-<exppoints>143580728675</exppoints>
-<achievement>151</achievement>
-<guild></guild>
+<exppoints>143585652991</exppoints>
+<achievement>118</achievement>
+<guild>BOPE</guild>
 <quota>0</quota>
 <patent>Newbie</patent>
 <deaths></deaths>
@@ -1590,13 +1590,13 @@
 <rank type="highscore_warrior">71</rank>
 </ranks>
 </character>
-<character name="Tzcoronel">
+<character name="Lionblue">
 <stats>
 <level>645</level>
 <vocation>warrior</vocation>
-<exppoints>143565636001</exppoints>
-<achievement>118</achievement>
-<guild>BOPE</guild>
+<exppoints>143580728675</exppoints>
+<achievement>151</achievement>
+<guild></guild>
 <quota>0</quota>
 <patent>Newbie</patent>
 <deaths></deaths>
@@ -1698,7 +1698,7 @@
 <stats>
 <level>638</level>
 <vocation>warrior</vocation>
-<exppoints>137543008257</exppoints>
+<exppoints>137556390451</exppoints>
 <achievement>62</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1797,7 +1797,7 @@
 <stats>
 <level>615</level>
 <vocation>wizard</vocation>
-<exppoints>118421207928</exppoints>
+<exppoints>118490388241</exppoints>
 <achievement>76</achievement>
 <guild>BOPE</guild>
 <quota>10</quota>
@@ -2067,7 +2067,7 @@
 <stats>
 <level>597</level>
 <vocation>warrior</vocation>
-<exppoints>105114730162</exppoints>
+<exppoints>105121639743</exppoints>
 <achievement>86</achievement>
 <guild>Gia</guild>
 <quota>0</quota>
@@ -2223,7 +2223,7 @@
 <stats>
 <level>585</level>
 <vocation>warrior</vocation>
-<exppoints>96630892524</exppoints>
+<exppoints>96636190780</exppoints>
 <achievement>65</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -2326,7 +2326,7 @@
 <stats>
 <level>576</level>
 <vocation>warrior</vocation>
-<exppoints>91233554249</exppoints>
+<exppoints>91236803649</exppoints>
 <achievement>80</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -2428,7 +2428,7 @@
 <stats>
 <level>567</level>
 <vocation>warrior</vocation>
-<exppoints>85755608641</exppoints>
+<exppoints>85760689147</exppoints>
 <achievement>63</achievement>
 <guild>NoVs</guild>
 <quota>0</quota>
@@ -2460,7 +2460,7 @@
 <stats>
 <level>566</level>
 <vocation>warrior</vocation>
-<exppoints>84970613273</exppoints>
+<exppoints>84981116570</exppoints>
 <achievement>115</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -2760,7 +2760,7 @@
 <stats>
 <level>551</level>
 <vocation>warrior</vocation>
-<exppoints>76060548439</exppoints>
+<exppoints>76067343934</exppoints>
 <achievement>14</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -2776,7 +2776,7 @@
 <stats>
 <level>548</level>
 <vocation>wizard</vocation>
-<exppoints>74625557998</exppoints>
+<exppoints>74629787025</exppoints>
 <achievement>300</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -2986,7 +2986,7 @@
 <stats>
 <level>540</level>
 <vocation>wizard</vocation>
-<exppoints>70208295008</exppoints>
+<exppoints>70219778648</exppoints>
 <achievement>210</achievement>
 <guild>BOPE</guild>
 <quota>0</quota>
@@ -3023,7 +3023,7 @@
 <stats>
 <level>538</level>
 <vocation>wizard</vocation>
-<exppoints>69357862311</exppoints>
+<exppoints>69357909730</exppoints>
 <achievement>134</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -3094,7 +3094,7 @@
 <stats>
 <level>533</level>
 <vocation>wizard</vocation>
-<exppoints>66816639794</exppoints>
+<exppoints>66817124904</exppoints>
 <achievement>142</achievement>
 <guild>Renegados</guild>
 <quota>1</quota>
@@ -3245,7 +3245,7 @@
 <stats>
 <level>524</level>
 <vocation>warrior</vocation>
-<exppoints>62425606493</exppoints>
+<exppoints>62436936280</exppoints>
 <achievement>222</achievement>
 <guild>LIBERTYW1</guild>
 <quota>0</quota>
@@ -3368,7 +3368,7 @@
 <stats>
 <level>520</level>
 <vocation>warrior</vocation>
-<exppoints>60292636518</exppoints>
+<exppoints>60303895753</exppoints>
 <achievement>200</achievement>
 <guild>Gia</guild>
 <quota>3</quota>
@@ -3420,7 +3420,7 @@
 <stats>
 <level>519</level>
 <vocation>warrior</vocation>
-<exppoints>59808110135</exppoints>
+<exppoints>59815436985</exppoints>
 <achievement>179</achievement>
 <guild>NoMercy</guild>
 <quota>0</quota>
@@ -3517,9 +3517,9 @@
 </character>
 <character name="Lorenna">
 <stats>
-<level>514</level>
+<level>515</level>
 <vocation>wizard</vocation>
-<exppoints>57917769779</exppoints>
+<exppoints>57949438257</exppoints>
 <achievement>84</achievement>
 <guild>BOPE</guild>
 <quota>0</quota>
@@ -3602,7 +3602,7 @@
 <stats>
 <level>511</level>
 <vocation>warrior</vocation>
-<exppoints>56399710656</exppoints>
+<exppoints>56402277629</exppoints>
 <achievement>145</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -3634,7 +3634,7 @@
 <stats>
 <level>510</level>
 <vocation>wizard</vocation>
-<exppoints>55852590697</exppoints>
+<exppoints>55854288579</exppoints>
 <achievement>20</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -3787,7 +3787,7 @@
 <stats>
 <level>506</level>
 <vocation>warrior</vocation>
-<exppoints>54152118026</exppoints>
+<exppoints>54155156931</exppoints>
 <achievement>48</achievement>
 <guild>NoVs</guild>
 <quota>1</quota>
@@ -3804,7 +3804,7 @@
 <stats>
 <level>505</level>
 <vocation>warrior</vocation>
-<exppoints>53926295460</exppoints>
+<exppoints>53928096620</exppoints>
 <achievement>101</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -4053,7 +4053,7 @@
 <stats>
 <level>501</level>
 <vocation>warrior</vocation>
-<exppoints>52169050308</exppoints>
+<exppoints>52171659631</exppoints>
 <achievement>206</achievement>
 <guild>BrForce</guild>
 <quota>0</quota>
@@ -4070,7 +4070,7 @@
 <stats>
 <level>501</level>
 <vocation>warrior</vocation>
-<exppoints>52055284200</exppoints>
+<exppoints>52057346073</exppoints>
 <achievement>230</achievement>
 <guild>NoVs</guild>
 <quota>2</quota>
@@ -4239,7 +4239,7 @@
 <stats>
 <level>482</level>
 <vocation>warrior</vocation>
-<exppoints>44773592652</exppoints>
+<exppoints>44780070060</exppoints>
 <achievement>228</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -4293,7 +4293,7 @@
 <stats>
 <level>473</level>
 <vocation>warrior</vocation>
-<exppoints>41325105975</exppoints>
+<exppoints>41326675729</exppoints>
 <achievement>81</achievement>
 <guild></guild>
 <quota>1</quota>
@@ -4394,7 +4394,7 @@
 <stats>
 <level>470</level>
 <vocation>warrior</vocation>
-<exppoints>40150619331</exppoints>
+<exppoints>40151350292</exppoints>
 <achievement>48</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -4426,7 +4426,7 @@
 <stats>
 <level>466</level>
 <vocation>warrior</vocation>
-<exppoints>39068020642</exppoints>
+<exppoints>39069620394</exppoints>
 <achievement>123</achievement>
 <guild>Fucker</guild>
 <quota>0</quota>
@@ -4641,7 +4641,7 @@
 <stats>
 <level>450</level>
 <vocation>wizard</vocation>
-<exppoints>33732056182</exppoints>
+<exppoints>33754773910</exppoints>
 <achievement>56</achievement>
 <guild>BOPE</guild>
 <quota>0</quota>
@@ -4673,7 +4673,7 @@
 <stats>
 <level>448</level>
 <vocation>wizard</vocation>
-<exppoints>33359403627</exppoints>
+<exppoints>33365122542</exppoints>
 <achievement>181</achievement>
 <guild>Gia</guild>
 <quota>0</quota>
@@ -4872,7 +4872,7 @@
 <stats>
 <level>439</level>
 <vocation>warrior</vocation>
-<exppoints>30722635862</exppoints>
+<exppoints>30727760652</exppoints>
 <achievement>142</achievement>
 <guild>NoMercy</guild>
 <quota>0</quota>
@@ -5003,6 +5003,22 @@
 <rank type="stars_warrior">58</rank>
 </ranks>
 </character>
+<character name="Bjorn">
+<stats>
+<level>429</level>
+<vocation>wizard</vocation>
+<exppoints>27845724981</exppoints>
+<achievement>58</achievement>
+<guild>Renegados</guild>
+<quota>0</quota>
+<patent>Newbie</patent>
+<deaths></deaths>
+</stats>
+<ranks>
+<rank type="highscore_global">293</rank>
+<rank type="highscore_wizard">99</rank>
+</ranks>
+</character>
 <character name="Offtank">
 <stats>
 <level>429</level>
@@ -5015,7 +5031,7 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">293</rank>
+<rank type="highscore_global">294</rank>
 <rank type="highscore_warrior">195</rank>
 </ranks>
 </character>
@@ -5031,24 +5047,8 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">294</rank>
-<rank type="highscore_warrior">196</rank>
-</ranks>
-</character>
-<character name="Bjorn">
-<stats>
-<level>429</level>
-<vocation>wizard</vocation>
-<exppoints>27836035561</exppoints>
-<achievement>58</achievement>
-<guild>Renegados</guild>
-<quota>0</quota>
-<patent>Newbie</patent>
-<deaths></deaths>
-</stats>
-<ranks>
 <rank type="highscore_global">295</rank>
-<rank type="highscore_wizard">99</rank>
+<rank type="highscore_warrior">196</rank>
 </ranks>
 </character>
 <character name="Blackbrtwo">
@@ -5203,7 +5203,7 @@
 <stats>
 <level>422</level>
 <vocation>wizard</vocation>
-<exppoints>26293402263</exppoints>
+<exppoints>26295959001</exppoints>
 <achievement>90</achievement>
 <guild>Gia</guild>
 <quota>0</quota>
@@ -5220,7 +5220,7 @@
 <stats>
 <level>422</level>
 <vocation>wizard</vocation>
-<exppoints>26283623575</exppoints>
+<exppoints>26295159916</exppoints>
 <achievement>66</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -5253,7 +5253,7 @@
 <stats>
 <level>422</level>
 <vocation>wizard</vocation>
-<exppoints>26076014988</exppoints>
+<exppoints>26077470758</exppoints>
 <achievement>137</achievement>
 <guild>NoMercy</guild>
 <quota>0</quota>
@@ -5286,7 +5286,7 @@
 <stats>
 <level>421</level>
 <vocation>wizard</vocation>
-<exppoints>25809501091</exppoints>
+<exppoints>25814444537</exppoints>
 <achievement>170</achievement>
 <guild>Gia</guild>
 <quota>0</quota>
@@ -5516,7 +5516,7 @@
 <stats>
 <level>410</level>
 <vocation>warrior</vocation>
-<exppoints>23362365241</exppoints>
+<exppoints>23365462725</exppoints>
 <achievement>292</achievement>
 <guild>I</guild>
 <quota>0</quota>
@@ -5584,7 +5584,7 @@
 <stats>
 <level>409</level>
 <vocation>warrior</vocation>
-<exppoints>23082203534</exppoints>
+<exppoints>23082314414</exppoints>
 <achievement>114</achievement>
 <guild>Gia</guild>
 <quota>0</quota>
@@ -5600,7 +5600,7 @@
 <stats>
 <level>408</level>
 <vocation>wizard</vocation>
-<exppoints>22893870323</exppoints>
+<exppoints>22896759119</exppoints>
 <achievement>71</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -5664,7 +5664,7 @@
 <stats>
 <level>407</level>
 <vocation>warrior</vocation>
-<exppoints>22532875846</exppoints>
+<exppoints>22536763598</exppoints>
 <achievement>102</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -5746,7 +5746,7 @@
 <stats>
 <level>403</level>
 <vocation>wizard</vocation>
-<exppoints>21791668539</exppoints>
+<exppoints>21796084098</exppoints>
 <achievement>33</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -5893,7 +5893,7 @@
 <stats>
 <level>397</level>
 <vocation>wizard</vocation>
-<exppoints>20461585785</exppoints>
+<exppoints>20462729964</exppoints>
 <achievement>51</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -5942,7 +5942,7 @@
 <stats>
 <level>395</level>
 <vocation>warrior</vocation>
-<exppoints>20076378555</exppoints>
+<exppoints>20081049521</exppoints>
 <achievement>179</achievement>
 <guild>Fucker</guild>
 <quota>0</quota>
@@ -6026,7 +6026,7 @@
 <stats>
 <level>392</level>
 <vocation>wizard</vocation>
-<exppoints>19392161228</exppoints>
+<exppoints>19392502412</exppoints>
 <achievement>50</achievement>
 <guild>NoMercy</guild>
 <quota>0</quota>
@@ -6042,7 +6042,7 @@
 <stats>
 <level>390</level>
 <vocation>wizard</vocation>
-<exppoints>19066356694</exppoints>
+<exppoints>19069049944</exppoints>
 <achievement>106</achievement>
 <guild>M A G</guild>
 <quota>0</quota>
@@ -6092,7 +6092,7 @@
 <stats>
 <level>388</level>
 <vocation>warrior</vocation>
-<exppoints>18642623182</exppoints>
+<exppoints>18642624302</exppoints>
 <achievement>35</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -6124,7 +6124,7 @@
 <stats>
 <level>386</level>
 <vocation>warrior</vocation>
-<exppoints>18336819857</exppoints>
+<exppoints>18339362475</exppoints>
 <achievement>34</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -6257,7 +6257,7 @@
 <stats>
 <level>383</level>
 <vocation>wizard</vocation>
-<exppoints>17732868529</exppoints>
+<exppoints>17736418907</exppoints>
 <achievement>100</achievement>
 <guild>Gia</guild>
 <quota>0</quota>
@@ -6340,7 +6340,7 @@
 <stats>
 <level>380</level>
 <vocation>wizard</vocation>
-<exppoints>17125514979</exppoints>
+<exppoints>17129584429</exppoints>
 <achievement>12</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -6407,7 +6407,7 @@
 <stats>
 <level>378</level>
 <vocation>warrior</vocation>
-<exppoints>16814934772</exppoints>
+<exppoints>16818916750</exppoints>
 <achievement>68</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -6571,7 +6571,7 @@
 <stats>
 <level>373</level>
 <vocation>warrior</vocation>
-<exppoints>15883753196</exppoints>
+<exppoints>15887388028</exppoints>
 <achievement>222</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -6641,7 +6641,7 @@
 <stats>
 <level>371</level>
 <vocation>warrior</vocation>
-<exppoints>15608878657</exppoints>
+<exppoints>15609111725</exppoints>
 <achievement>149</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -6847,15 +6847,15 @@
 <guild name="VOID"><exppoints>1046720</exppoints><gold>0</gold><platinum>0</platinum><leader>Banco</leader><members>30</members><rank type="guild">58</rank></guild>
 <guild name="RNR"><exppoints>1030243</exppoints><gold>0</gold><platinum>0</platinum><leader>Yesking</leader><members>3</members><rank type="guild">59</rank></guild>
 <guild name="U F O"><exppoints>988673</exppoints><gold>0</gold><platinum>0</platinum><leader>Afkk</leader><members>9</members><rank type="guild">60</rank></guild>
-<guild name="Laos"><exppoints>761000</exppoints><gold>40</gold><platinum>0</platinum><leader>Kingexp</leader><members>9</members><rank type="guild">61</rank></guild>
-<guild name="KILL YOU"><exppoints>702000</exppoints><gold>0</gold><platinum>20</platinum><leader>Rsz</leader><members>7</members><rank type="guild">62</rank></guild>
-<guild name="AOK"><exppoints>667500</exppoints><gold>0</gold><platinum>0</platinum><leader>Yulala</leader><members>3</members><rank type="guild">63</rank></guild>
-<guild name="Sirofuku"><exppoints>666500</exppoints><gold>0</gold><platinum>0</platinum><leader>Bukkuy</leader><members>5</members><rank type="guild">64</rank></guild>
-<guild name="FREEFIRE"><exppoints>649117</exppoints><gold>0</gold><platinum>0</platinum><leader>Goather</leader><members>4</members><rank type="guild">65</rank></guild>
-<guild name="TRUE HERO"><exppoints>626519</exppoints><gold>1660000</gold><platinum>0</platinum><leader>Veelzard</leader><members>5</members><rank type="guild">66</rank></guild>
-<guild name="H K FAMILY"><exppoints>606547</exppoints><gold>0</gold><platinum>0</platinum><leader>Lefthanded</leader><members>10</members><rank type="guild">67</rank></guild>
-<guild name="Seller TOP"><exppoints>587741</exppoints><gold>0</gold><platinum>0</platinum><leader>Lya</leader><members>6</members><rank type="guild">68</rank></guild>
-<guild name="BrForce"><exppoints>517013</exppoints><gold>0</gold><platinum>0</platinum><leader>Franklin</leader><members>6</members><rank type="guild">69</rank></guild>
+<guild name="BrForce"><exppoints>905728</exppoints><gold>0</gold><platinum>0</platinum><leader>Franklin</leader><members>6</members><rank type="guild">61</rank></guild>
+<guild name="Laos"><exppoints>761000</exppoints><gold>40</gold><platinum>0</platinum><leader>Kingexp</leader><members>9</members><rank type="guild">62</rank></guild>
+<guild name="KILL YOU"><exppoints>702000</exppoints><gold>0</gold><platinum>20</platinum><leader>Rsz</leader><members>7</members><rank type="guild">63</rank></guild>
+<guild name="AOK"><exppoints>667500</exppoints><gold>0</gold><platinum>0</platinum><leader>Yulala</leader><members>3</members><rank type="guild">64</rank></guild>
+<guild name="Sirofuku"><exppoints>666500</exppoints><gold>0</gold><platinum>0</platinum><leader>Bukkuy</leader><members>5</members><rank type="guild">65</rank></guild>
+<guild name="FREEFIRE"><exppoints>649117</exppoints><gold>0</gold><platinum>0</platinum><leader>Goather</leader><members>4</members><rank type="guild">66</rank></guild>
+<guild name="TRUE HERO"><exppoints>626519</exppoints><gold>1660000</gold><platinum>0</platinum><leader>Veelzard</leader><members>5</members><rank type="guild">67</rank></guild>
+<guild name="H K FAMILY"><exppoints>606547</exppoints><gold>0</gold><platinum>0</platinum><leader>Lefthanded</leader><members>10</members><rank type="guild">68</rank></guild>
+<guild name="Seller TOP"><exppoints>587741</exppoints><gold>0</gold><platinum>0</platinum><leader>Lya</leader><members>6</members><rank type="guild">69</rank></guild>
 <guild name="Aiy larng"><exppoints>483000</exppoints><gold>0</gold><platinum>0</platinum><leader>Emperro</leader><members>12</members><rank type="guild">70</rank></guild>
 <guild name="E Z G A Y"><exppoints>471500</exppoints><gold>0</gold><platinum>55</platinum><leader>Minmoon</leader><members>10</members><rank type="guild">71</rank></guild>
 <guild name="J T M E"><exppoints>467510</exppoints><gold>0</gold><platinum>30</platinum><leader>Rinse</leader><members>11</members><rank type="guild">72</rank></guild>
