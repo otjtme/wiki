@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<partners updated="2026-11-12 00:16" rewardDay="14">
+	<tiers>
+		<tier id="silver" name="Silver" platinum="1000" premiumDays="30" views="100 - 300" minVideos="3" color="#c0c0c0" color2="#e8e8e8" icon="bi-award" featured="false"/>
+		<tier id="gold" name="Gold" platinum="2500" premiumDays="30" views="1000+" minVideos="4" color="#ffd700" color2="#ec4c02" icon="bi-trophy-fill" featured="true"/>
+		<tier id="blue" name="Blue" platinum="1500" premiumDays="30" views="300 - 1000" minVideos="4" color="#007bff" color2="#00bfff" icon="bi-star-fill" featured="false"/>
+	</tiers>
+	<list>
+		<partner char="Rog" name="ØFF Top Gamer" tier="blue" channel="https://www.kwai.com/@wmqtl119" platform="kwai" avatar="https://ak-br-pic.kwai.net/bs2/overseaHead/20251104021535_BMTUwMDAwMTg0MTI2Njk5_t.jpg?ocid=20020211" platinum="1500" premiumDays="30"/>
+		<partner char="Noobd" name="Mr Nou Vue" tier="blue" channel="https://www.facebook.com/huknou.vue" platform="facebook" avatar="https://yt3.googleusercontent.com/ho2dmqbkeLwmqgQ5m6wsN4ARavzmDd4yQQuIWMB-SzJchqP4MPMgvhnksoiikaUJhlsPc61n8A=s160-c-k-c0x00ffffff-no-rj" platinum="1500" premiumDays="30"/>
+		<partner char="Foulor" name="Canal Jtme" tier="blue" channel="https://www.youtube.com/@CanalJtme" platform="youtube" avatar="https://yt3.googleusercontent.com/2EGeP7htmQgJQjMJ-maCybIVea03e0LLgbLVWsPWBA7aDkYkfnBJivOKeqFD01URHD95RF1g=s120-c-k-c0x00ffffff-no-rj" platinum="1500" premiumDays="30"/>
+		<partner char="Rudoz" name="Rudoz" tier="blue" channel="https://www.youtube.com/@rudoz307" platform="youtube" avatar="https://yt3.googleusercontent.com/uYO0s8hiuSUb158x5sl3Aa8kiaB_TJflTVRL7hgj3zkm3ZgkX2_xnuM_6HjHCsf7Yk6VCUPW2pQ=s120-c-k-c0x00ffffff-no-rj" platinum="1500" premiumDays="30"/>
+		<partner char="Veldoraa" name="mohd Rasyid" tier="silver" channel="https://www.youtube.com/@rasyid1995" platform="youtube" avatar="https://yt3.googleusercontent.com/yfaULcR1lQvO5-jcdY2K-kF-ke58sfdwzedeluCuOSR_RJzxsmHP4uc8t7oQi092XGScsjO_4A=s120-c-k-c0x00ffffff-no-rj" platinum="1000" premiumDays="30"/>
+	</list>
+</partners>
