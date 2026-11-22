@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerInfo>
-  <GeneratedAt>1795356196103</GeneratedAt>
+  <GeneratedAt>1795357396117</GeneratedAt>
   <WorldId>200</WorldId>
-  <PlayersOnline>242</PlayersOnline>
-  <TodayPeak>246</TodayPeak>
+  <PlayersOnline>245</PlayersOnline>
+  <TodayPeak>254</TodayPeak>
   <TotalPlayers>19283</TotalPlayers>
   <Season>
     <Id>14</Id>
     <Start>1794266114</Start>
     <End>1796858114</End>
-    <TimeRemaining>17d 9h</TimeRemaining>
+    <TimeRemaining>17d 8h</TimeRemaining>
   </Season>
-  <JailedPlayers count="13">
+  <JailedPlayers count="14">
+    <Player>
+      <Name>Yonia</Name>
+      <EntryDate>2026-11-22 15:05:44</EntryDate>
+      <Duration>540</Duration>
+    </Player>
     <Player>
       <Name>Thinhyasuo</Name>
       <EntryDate>2026-11-20 16:55:54</EntryDate>
