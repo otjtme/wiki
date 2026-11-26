@@ -62,7 +62,7 @@
 <stats>
 <level>970</level>
 <vocation>warrior</vocation>
-<exppoints>734374466108</exppoints>
+<exppoints>734374657698</exppoints>
 <achievement>209</achievement>
 <guild>BUG</guild>
 <quota>3</quota>
@@ -843,7 +843,7 @@
 <stats>
 <level>760</level>
 <vocation>warrior</vocation>
-<exppoints>277072374162</exppoints>
+<exppoints>277072454606</exppoints>
 <achievement>277</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -1300,7 +1300,7 @@
 <stats>
 <level>708</level>
 <vocation>warrior</vocation>
-<exppoints>208552465833</exppoints>
+<exppoints>208556511098</exppoints>
 <achievement>134</achievement>
 <guild>Gia</guild>
 <quota>0</quota>
@@ -1880,7 +1880,7 @@
 <stats>
 <level>613</level>
 <vocation>warrior</vocation>
-<exppoints>116885986908</exppoints>
+<exppoints>116887634814</exppoints>
 <achievement>187</achievement>
 <guild>NoVs</guild>
 <quota>1</quota>
@@ -2017,7 +2017,7 @@
 <stats>
 <level>607</level>
 <vocation>warrior</vocation>
-<exppoints>112255078304</exppoints>
+<exppoints>112257593360</exppoints>
 <achievement>88</achievement>
 <guild>Gia</guild>
 <quota>3</quota>
@@ -2322,7 +2322,7 @@
 <vocation>wizard</vocation>
 <exppoints>92522835429</exppoints>
 <achievement>345</achievement>
-<guild>XYZ</guild>
+<guild></guild>
 <quota>1</quota>
 <patent>Newbie</patent>
 <deaths></deaths>
@@ -2609,7 +2609,7 @@
 <stats>
 <level>560</level>
 <vocation>warrior</vocation>
-<exppoints>81132333409</exppoints>
+<exppoints>81132343552</exppoints>
 <achievement>106</achievement>
 <guild>NoVs</guild>
 <quota>3</quota>
@@ -3020,7 +3020,7 @@
 <stats>
 <level>540</level>
 <vocation>wizard</vocation>
-<exppoints>70583270944</exppoints>
+<exppoints>70584938564</exppoints>
 <achievement>145</achievement>
 <guild>Renegados</guild>
 <quota>1</quota>
@@ -3465,7 +3465,7 @@
 <stats>
 <level>519</level>
 <vocation>wizard</vocation>
-<exppoints>59838562866</exppoints>
+<exppoints>59841869966</exppoints>
 <achievement>85</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -4353,7 +4353,7 @@
 <stats>
 <level>473</level>
 <vocation>warrior</vocation>
-<exppoints>41504085291</exppoints>
+<exppoints>41506006506</exppoints>
 <achievement>82</achievement>
 <guild></guild>
 <quota>1</quota>
@@ -4454,7 +4454,7 @@
 <vocation>wizard</vocation>
 <exppoints>40756233207</exppoints>
 <achievement>86</achievement>
-<guild>XYZ</guild>
+<guild></guild>
 <quota>0</quota>
 <patent>Newbie</patent>
 <deaths></deaths>
@@ -4547,6 +4547,25 @@
 <rank type="highscore_warrior">180</rank>
 </ranks>
 </character>
+<character name="Backman">
+<stats>
+<level>461</level>
+<vocation>wizard</vocation>
+<exppoints>37360127455</exppoints>
+<achievement>246</achievement>
+<guild>Gia</guild>
+<quota>0</quota>
+<patent>Newbie</patent>
+<deaths>2026-11-26 03:10:28:-4151125264:Shisuii:1;2026-11-26 05:35:01:-3736012741:Furyblack:1;</deaths>
+</stats>
+<ranks>
+<rank type="highscore_global">266</rank>
+<rank type="highscore_wizard">86</rank>
+<rank type="stars_global">67</rank>
+<rank type="stars_wizard">21</rank>
+<rank type="pvp">67</rank>
+</ranks>
+</character>
 <character name="Viii">
 <stats>
 <level>461</level>
@@ -4559,7 +4578,7 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">266</rank>
+<rank type="highscore_global">267</rank>
 <rank type="highscore_warrior">181</rank>
 <rank type="stars_warrior">94</rank>
 </ranks>
@@ -4576,8 +4595,8 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">267</rank>
-<rank type="highscore_wizard">86</rank>
+<rank type="highscore_global">268</rank>
+<rank type="highscore_wizard">87</rank>
 </ranks>
 </character>
 <character name="Elfaria">
@@ -4592,7 +4611,7 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">268</rank>
+<rank type="highscore_global">269</rank>
 <rank type="highscore_warrior">182</rank>
 </ranks>
 </character>
@@ -4608,8 +4627,8 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">269</rank>
-<rank type="highscore_wizard">87</rank>
+<rank type="highscore_global">270</rank>
+<rank type="highscore_wizard">88</rank>
 <rank type="stars_wizard">61</rank>
 </ranks>
 </character>
@@ -4625,7 +4644,7 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">270</rank>
+<rank type="highscore_global">271</rank>
 <rank type="highscore_warrior">183</rank>
 </ranks>
 </character>
@@ -4641,8 +4660,8 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">271</rank>
-<rank type="highscore_wizard">88</rank>
+<rank type="highscore_global">272</rank>
+<rank type="highscore_wizard">89</rank>
 <rank type="stars_wizard">58</rank>
 </ranks>
 </character>
@@ -4658,7 +4677,7 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">272</rank>
+<rank type="highscore_global">273</rank>
 <rank type="highscore_warrior">184</rank>
 </ranks>
 </character>
@@ -4674,8 +4693,8 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">273</rank>
-<rank type="highscore_wizard">89</rank>
+<rank type="highscore_global">274</rank>
+<rank type="highscore_wizard">90</rank>
 </ranks>
 </character>
 <character name="Gragas">
@@ -4690,27 +4709,8 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">274</rank>
-<rank type="highscore_warrior">185</rank>
-</ranks>
-</character>
-<character name="Backman">
-<stats>
-<level>449</level>
-<vocation>wizard</vocation>
-<exppoints>33624114673</exppoints>
-<achievement>246</achievement>
-<guild>Gia</guild>
-<quota>0</quota>
-<patent>Newbie</patent>
-<deaths>2026-11-26 03:10:28:-4151125264:Shisuii:1;2026-11-26 05:35:01:-3736012741:Furyblack:1;</deaths>
-</stats>
-<ranks>
 <rank type="highscore_global">275</rank>
-<rank type="highscore_wizard">90</rank>
-<rank type="stars_global">67</rank>
-<rank type="stars_wizard">21</rank>
-<rank type="pvp">67</rank>
+<rank type="highscore_warrior">185</rank>
 </ranks>
 </character>
 <character name="Joeblack">
@@ -5810,7 +5810,7 @@
 <stats>
 <level>404</level>
 <vocation>wizard</vocation>
-<exppoints>22050065720</exppoints>
+<exppoints>22052840720</exppoints>
 <achievement>107</achievement>
 <guild>XYZ</guild>
 <quota>0</quota>
@@ -6506,7 +6506,7 @@
 <vocation>wizard</vocation>
 <exppoints>16712817543</exppoints>
 <achievement>72</achievement>
-<guild>XYZ</guild>
+<guild></guild>
 <quota>0</quota>
 <patent></patent>
 <deaths></deaths>
@@ -6787,7 +6787,7 @@
 <guild name="Gia"><exppoints>84714341</exppoints><gold>1611312</gold><platinum>0</platinum><leader>Tigerla</leader><members>33</members><rank type="guild">2</rank></guild>
 <guild name="ETERNAL"><exppoints>64856574</exppoints><gold>0</gold><platinum>50</platinum><leader>Ibukades</leader><members>18</members><rank type="guild">3</rank></guild>
 <guild name="LIBERTYW1"><exppoints>60476796</exppoints><gold>353410</gold><platinum>400</platinum><leader>Ivibueno</leader><members>68</members><rank type="guild">4</rank></guild>
-<guild name="XYZ"><exppoints>57999200</exppoints><gold>0</gold><platinum>0</platinum><leader>Cinta</leader><members>26</members><rank type="guild">5</rank></guild>
+<guild name="XYZ"><exppoints>57999200</exppoints><gold>0</gold><platinum>0</platinum><leader>Cinta</leader><members>14</members><rank type="guild">5</rank></guild>
 <guild name="Fucker"><exppoints>45010293</exppoints><gold>105</gold><platinum>0</platinum><leader>Rolex</leader><members>52</members><rank type="guild">6</rank></guild>
 <guild name="BOPE"><exppoints>36747757</exppoints><gold>0</gold><platinum>707</platinum><leader>Bopeadm</leader><members>55</members><rank type="guild">7</rank></guild>
 <guild name="SLYON"><exppoints>20039134</exppoints><gold>463977</gold><platinum>500</platinum><leader>Slyzzin</leader><members>16</members><rank type="guild">8</rank></guild>
@@ -6796,7 +6796,7 @@
 <guild name="M A G"><exppoints>11702503</exppoints><gold>0</gold><platinum>0</platinum><leader>Asjj</leader><members>36</members><rank type="guild">11</rank></guild>
 <guild name="BrForce"><exppoints>11131827</exppoints><gold>68000</gold><platinum>11</platinum><leader>Franklin</leader><members>22</members><rank type="guild">12</rank></guild>
 <guild name="Renegados"><exppoints>10213508</exppoints><gold>0</gold><platinum>505</platinum><leader>Garp</leader><members>63</members><rank type="guild">13</rank></guild>
-<guild name="MonkyDLufy"><exppoints>9500383</exppoints><gold>120000</gold><platinum>0</platinum><leader>Mzkeroppi</leader><members>6</members><rank type="guild">14</rank></guild>
+<guild name="MonkyDLufy"><exppoints>9500383</exppoints><gold>20000</gold><platinum>0</platinum><leader>Mzkeroppi</leader><members>6</members><rank type="guild">14</rank></guild>
 <guild name="TGLEPQBAZ"><exppoints>7256802</exppoints><gold>0</gold><platinum>0</platinum><leader>Loboleri</leader><members>8</members><rank type="guild">15</rank></guild>
 <guild name="Darkness"><exppoints>7012639</exppoints><gold>0</gold><platinum>0</platinum><leader>Babyangel</leader><members>13</members><rank type="guild">16</rank></guild>
 <guild name="FBI DKL"><exppoints>6875579</exppoints><gold>0</gold><platinum>0</platinum><leader>Blazingorc</leader><members>39</members><rank type="guild">17</rank></guild>
