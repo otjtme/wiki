@@ -897,7 +897,7 @@
 <stats>
 <level>754</level>
 <vocation>warrior</vocation>
-<exppoints>267392051655</exppoints>
+<exppoints>267395280209</exppoints>
 <achievement>192</achievement>
 <guild>Gia</guild>
 <quota>24</quota>
@@ -1370,7 +1370,7 @@
 <stats>
 <level>677</level>
 <vocation>warrior</vocation>
-<exppoints>174180717323</exppoints>
+<exppoints>174184036323</exppoints>
 <achievement>212</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -1880,7 +1880,7 @@
 <stats>
 <level>613</level>
 <vocation>warrior</vocation>
-<exppoints>116891374200</exppoints>
+<exppoints>116895893064</exppoints>
 <achievement>187</achievement>
 <guild>NoVs</guild>
 <quota>1</quota>
@@ -2017,7 +2017,7 @@
 <stats>
 <level>607</level>
 <vocation>warrior</vocation>
-<exppoints>112257593360</exppoints>
+<exppoints>112259353296</exppoints>
 <achievement>88</achievement>
 <guild>Gia</guild>
 <quota>3</quota>
@@ -2118,7 +2118,7 @@
 <stats>
 <level>602</level>
 <vocation>warrior</vocation>
-<exppoints>108827545660</exppoints>
+<exppoints>108832358178</exppoints>
 <achievement>96</achievement>
 <guild>Gia</guild>
 <quota>0</quota>
@@ -2609,9 +2609,9 @@
 <stats>
 <level>560</level>
 <vocation>warrior</vocation>
-<exppoints>81132635455</exppoints>
+<exppoints>81132851980</exppoints>
 <achievement>106</achievement>
-<guild>NoVs</guild>
+<guild>Gia</guild>
 <quota>3</quota>
 <patent>Newbie</patent>
 <deaths></deaths>
@@ -3564,7 +3564,7 @@
 <stats>
 <level>514</level>
 <vocation>warrior</vocation>
-<exppoints>57850849793</exppoints>
+<exppoints>57854168793</exppoints>
 <achievement>60</achievement>
 <guild></guild>
 <quota>0</quota>
@@ -4219,7 +4219,7 @@
 <stats>
 <level>491</level>
 <vocation>wizard</vocation>
-<exppoints>48206113274</exppoints>
+<exppoints>48207773607</exppoints>
 <achievement>58</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -5330,7 +5330,7 @@
 <stats>
 <level>422</level>
 <vocation>wizard</vocation>
-<exppoints>26100631991</exppoints>
+<exppoints>26101430866</exppoints>
 <achievement>132</achievement>
 <guild>XYZ</guild>
 <quota>0</quota>
@@ -5810,7 +5810,7 @@
 <stats>
 <level>404</level>
 <vocation>wizard</vocation>
-<exppoints>22052840720</exppoints>
+<exppoints>22054340720</exppoints>
 <achievement>107</achievement>
 <guild>XYZ</guild>
 <quota>0</quota>
@@ -5958,7 +5958,7 @@
 <stats>
 <level>398</level>
 <vocation>warrior</vocation>
-<exppoints>20681288073</exppoints>
+<exppoints>20682945550</exppoints>
 <achievement>35</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -6188,7 +6188,7 @@
 <stats>
 <level>388</level>
 <vocation>warrior</vocation>
-<exppoints>18778857126</exppoints>
+<exppoints>18780514603</exppoints>
 <achievement>223</achievement>
 <guild>Renegados</guild>
 <quota>0</quota>
@@ -6416,6 +6416,22 @@
 <rank type="highscore_wizard">132</rank>
 </ranks>
 </character>
+<character name="Kina">
+<stats>
+<level>380</level>
+<vocation>warrior</vocation>
+<exppoints>17201312908</exppoints>
+<achievement>70</achievement>
+<guild>Renegados</guild>
+<quota>0</quota>
+<patent>Newbie</patent>
+<deaths></deaths>
+</stats>
+<ranks>
+<rank type="highscore_global">379</rank>
+<rank type="highscore_warrior">247</rank>
+</ranks>
+</character>
 <character name="Kakkk">
 <stats>
 <level>380</level>
@@ -6425,22 +6441,6 @@
 <guild></guild>
 <quota>0</quota>
 <patent></patent>
-<deaths></deaths>
-</stats>
-<ranks>
-<rank type="highscore_global">379</rank>
-<rank type="highscore_warrior">247</rank>
-</ranks>
-</character>
-<character name="Kina">
-<stats>
-<level>380</level>
-<vocation>warrior</vocation>
-<exppoints>17199655431</exppoints>
-<achievement>70</achievement>
-<guild>Renegados</guild>
-<quota>0</quota>
-<patent>Newbie</patent>
 <deaths></deaths>
 </stats>
 <ranks>
@@ -6784,14 +6784,14 @@
 </characters>
 <guilds>
 <guild name="BUG"><exppoints>110501815</exppoints><gold>1111</gold><platinum>18000</platinum><leader>Weedking</leader><members>58</members><rank type="guild">1</rank></guild>
-<guild name="Gia"><exppoints>85009646</exppoints><gold>1611312</gold><platinum>0</platinum><leader>Tigerla</leader><members>33</members><rank type="guild">2</rank></guild>
+<guild name="Gia"><exppoints>85010010</exppoints><gold>1611312</gold><platinum>0</platinum><leader>Tigerla</leader><members>34</members><rank type="guild">2</rank></guild>
 <guild name="ETERNAL"><exppoints>64856574</exppoints><gold>0</gold><platinum>50</platinum><leader>Ibukades</leader><members>18</members><rank type="guild">3</rank></guild>
 <guild name="LIBERTYW1"><exppoints>60476796</exppoints><gold>353410</gold><platinum>400</platinum><leader>Ivibueno</leader><members>68</members><rank type="guild">4</rank></guild>
 <guild name="XYZ"><exppoints>59331700</exppoints><gold>0</gold><platinum>0</platinum><leader>Rudoz</leader><members>12</members><rank type="guild">5</rank></guild>
 <guild name="Fucker"><exppoints>45010293</exppoints><gold>105</gold><platinum>0</platinum><leader>Rolex</leader><members>52</members><rank type="guild">6</rank></guild>
 <guild name="BOPE"><exppoints>36747757</exppoints><gold>0</gold><platinum>707</platinum><leader>Bopeadm</leader><members>55</members><rank type="guild">7</rank></guild>
 <guild name="SLYON"><exppoints>20039134</exppoints><gold>463977</gold><platinum>500</platinum><leader>Slyzzin</leader><members>16</members><rank type="guild">8</rank></guild>
-<guild name="NoVs"><exppoints>17519151</exppoints><gold>0</gold><platinum>4</platinum><leader>Kinggzz</leader><members>19</members><rank type="guild">9</rank></guild>
+<guild name="NoVs"><exppoints>17519151</exppoints><gold>0</gold><platinum>4</platinum><leader>Kinggzz</leader><members>18</members><rank type="guild">9</rank></guild>
 <guild name="NoMercy"><exppoints>14163596</exppoints><gold>0</gold><platinum>100</platinum><leader>Takanome</leader><members>11</members><rank type="guild">10</rank></guild>
 <guild name="M A G"><exppoints>11702503</exppoints><gold>0</gold><platinum>0</platinum><leader>Asjj</leader><members>36</members><rank type="guild">11</rank></guild>
 <guild name="BrForce"><exppoints>11131827</exppoints><gold>68000</gold><platinum>11</platinum><leader>Franklin</leader><members>22</members><rank type="guild">12</rank></guild>
