@@ -1160,7 +1160,7 @@
 <stats>
 <level>720</level>
 <vocation>warrior</vocation>
-<exppoints>223033651701</exppoints>
+<exppoints>223040519873</exppoints>
 <achievement>271</achievement>
 <guild>BUG</guild>
 <quota>1</quota>
@@ -1250,12 +1250,12 @@
 <stats>
 <level>712</level>
 <vocation>warrior</vocation>
-<exppoints>212664719936</exppoints>
+<exppoints>212664777896</exppoints>
 <achievement>135</achievement>
 <guild>Fucker</guild>
 <quota>0</quota>
 <patent>Newbie</patent>
-<deaths></deaths>
+<deaths>2026-11-26 12:14:40:-0:Vipr:0;</deaths>
 </stats>
 <ranks>
 <rank type="highscore_global">71</rank>
@@ -1300,7 +1300,7 @@
 <stats>
 <level>708</level>
 <vocation>warrior</vocation>
-<exppoints>208560105766</exppoints>
+<exppoints>208560120232</exppoints>
 <achievement>134</achievement>
 <guild>Gia</guild>
 <quota>3</quota>
@@ -4050,6 +4050,22 @@
 <rank type="highscore_warrior">161</rank>
 </ranks>
 </character>
+<character name="Kiting">
+<stats>
+<level>503</level>
+<vocation>warrior</vocation>
+<exppoints>52928468305</exppoints>
+<achievement>175</achievement>
+<guild>XYZ</guild>
+<quota>0</quota>
+<patent></patent>
+<deaths></deaths>
+</stats>
+<ranks>
+<rank type="highscore_global">236</rank>
+<rank type="highscore_warrior">162</rank>
+</ranks>
+</character>
 <character name="Snowie">
 <stats>
 <level>503</level>
@@ -4062,25 +4078,9 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">236</rank>
+<rank type="highscore_global">237</rank>
 <rank type="highscore_wizard">75</rank>
 <rank type="stars_wizard">51</rank>
-</ranks>
-</character>
-<character name="Kiting">
-<stats>
-<level>503</level>
-<vocation>warrior</vocation>
-<exppoints>52926968305</exppoints>
-<achievement>175</achievement>
-<guild>XYZ</guild>
-<quota>0</quota>
-<patent></patent>
-<deaths></deaths>
-</stats>
-<ranks>
-<rank type="highscore_global">237</rank>
-<rank type="highscore_warrior">162</rank>
 </ranks>
 </character>
 <character name="Mageblack">
@@ -4900,7 +4900,7 @@
 <stats>
 <level>440</level>
 <vocation>wizard</vocation>
-<exppoints>30936306787</exppoints>
+<exppoints>30938939645</exppoints>
 <achievement>92</achievement>
 <guild>Gia</guild>
 <quota>0</quota>
@@ -6824,7 +6824,7 @@
 <guild name="KAPLA"><exppoints>1107648</exppoints><gold>300</gold><platinum>20</platinum><leader>Karen</leader><members>6</members><rank type="guild">39</rank></guild>
 <guild name="Meda in ez"><exppoints>1088000</exppoints><gold>3000</gold><platinum>2</platinum><leader>Megay</leader><members>9</members><rank type="guild">40</rank></guild>
 <guild name="Hummhh"><exppoints>1083628</exppoints><gold>0</gold><platinum>0</platinum><leader>Yonia</leader><members>3</members><rank type="guild">41</rank></guild>
-<guild name="Gay2"><exppoints>1034510</exppoints><gold>0</gold><platinum>0</platinum><leader>Nidayai</leader><members>8</members><rank type="guild">42</rank></guild>
+<guild name="Gay2"><exppoints>1035031</exppoints><gold>0</gold><platinum>0</platinum><leader>Nidanoyy</leader><members>8</members><rank type="guild">42</rank></guild>
 <guild name="Familys"><exppoints>1021153</exppoints><gold>200</gold><platinum>0</platinum><leader>Bobaba</leader><members>8</members><rank type="guild">43</rank></guild>
 <guild name="Woles"><exppoints>994185</exppoints><gold>20000</gold><platinum>0</platinum><leader>Noxa</leader><members>4</members><rank type="guild">44</rank></guild>
 <guild name="404 ERROR"><exppoints>879895</exppoints><gold>0</gold><platinum>0</platinum><leader>Cactus</leader><members>5</members><rank type="guild">45</rank></guild>
