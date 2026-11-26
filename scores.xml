@@ -26,7 +26,7 @@
 <stats>
 <level>1065</level>
 <vocation>wizard</vocation>
-<exppoints>1066601289332</exppoints>
+<exppoints>1066614461881</exppoints>
 <achievement>490</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -243,7 +243,7 @@
 <stats>
 <level>885</level>
 <vocation>warrior</vocation>
-<exppoints>508582534692</exppoints>
+<exppoints>508586096690</exppoints>
 <achievement>296</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -828,7 +828,7 @@
 <stats>
 <level>770</level>
 <vocation>warrior</vocation>
-<exppoints>291159053005</exppoints>
+<exppoints>291161663637</exppoints>
 <achievement>96</achievement>
 <guild>Gia</guild>
 <quota>0</quota>
@@ -913,6 +913,24 @@
 <rank type="pvp">2</rank>
 </ranks>
 </character>
+<character name="Erebus">
+<stats>
+<level>752</level>
+<vocation>warrior</vocation>
+<exppoints>264485097401</exppoints>
+<achievement>183</achievement>
+<guild>BUG</guild>
+<quota>2</quota>
+<patent>Newbie</patent>
+<deaths></deaths>
+</stats>
+<ranks>
+<rank type="highscore_global">52</rank>
+<rank type="highscore_warrior">42</rank>
+<rank type="stars_warrior">98</rank>
+<rank type="pvp">23</rank>
+</ranks>
+</character>
 <character name="Zyronyett">
 <stats>
 <level>752</level>
@@ -925,28 +943,10 @@
 <deaths></deaths>
 </stats>
 <ranks>
-<rank type="highscore_global">52</rank>
+<rank type="highscore_global">53</rank>
 <rank type="highscore_wizard">11</rank>
 <rank type="stars_global">77</rank>
 <rank type="stars_wizard">24</rank>
-</ranks>
-</character>
-<character name="Erebus">
-<stats>
-<level>752</level>
-<vocation>warrior</vocation>
-<exppoints>264479440618</exppoints>
-<achievement>182</achievement>
-<guild>BUG</guild>
-<quota>2</quota>
-<patent>Newbie</patent>
-<deaths></deaths>
-</stats>
-<ranks>
-<rank type="highscore_global">53</rank>
-<rank type="highscore_warrior">42</rank>
-<rank type="stars_warrior">99</rank>
-<rank type="pvp">23</rank>
 </ranks>
 </character>
 <character name="Naai">
@@ -1651,7 +1651,7 @@
 <guild>G P S</guild>
 <quota>0</quota>
 <patent>Newbie</patent>
-<deaths>2026-11-26 04:03:32:-0:Mutabour:0;</deaths>
+<deaths>2026-11-26 04:03:32:-0:Mutabour:0;2026-11-26 16:33:59:-0:Kaelthas:0;2026-11-26 16:46:23:-0:Kaelthas:0;</deaths>
 </stats>
 <ranks>
 <rank type="highscore_global">94</rank>
@@ -1866,7 +1866,7 @@
 <stats>
 <level>615</level>
 <vocation>wizard</vocation>
-<exppoints>118094396275</exppoints>
+<exppoints>118095646275</exppoints>
 <achievement>87</achievement>
 <guild>NoVs</guild>
 <quota>0</quota>
@@ -1883,7 +1883,7 @@
 <stats>
 <level>613</level>
 <vocation>warrior</vocation>
-<exppoints>116904744405</exppoints>
+<exppoints>116904760281</exppoints>
 <achievement>187</achievement>
 <guild>NoVs</guild>
 <quota>1</quota>
@@ -2053,7 +2053,7 @@
 <stats>
 <level>606</level>
 <vocation>warrior</vocation>
-<exppoints>111866267090</exppoints>
+<exppoints>111871285055</exppoints>
 <achievement>197</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -2577,7 +2577,7 @@
 <stats>
 <level>562</level>
 <vocation>warrior</vocation>
-<exppoints>82518145654</exppoints>
+<exppoints>82520116722</exppoints>
 <achievement>50</achievement>
 <guild>Gia</guild>
 <quota>0</quota>
@@ -2742,7 +2742,7 @@
 <stats>
 <level>553</level>
 <vocation>warrior</vocation>
-<exppoints>77223810770</exppoints>
+<exppoints>77225855469</exppoints>
 <achievement>82</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -2968,7 +2968,7 @@
 <stats>
 <level>545</level>
 <vocation>wizard</vocation>
-<exppoints>72821328867</exppoints>
+<exppoints>72822997949</exppoints>
 <achievement>130</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -3144,9 +3144,9 @@
 <stats>
 <level>535</level>
 <vocation>warrior</vocation>
-<exppoints>67576662994</exppoints>
+<exppoints>67579993894</exppoints>
 <achievement>222</achievement>
-<guild>Anomali</guild>
+<guild>TRUE HERO</guild>
 <quota>0</quota>
 <patent></patent>
 <deaths></deaths>
@@ -3295,7 +3295,7 @@
 <stats>
 <level>528</level>
 <vocation>warrior</vocation>
-<exppoints>64221777302</exppoints>
+<exppoints>64224344626</exppoints>
 <achievement>242</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -3679,7 +3679,7 @@
 <stats>
 <level>509</level>
 <vocation>warrior</vocation>
-<exppoints>55682500966</exppoints>
+<exppoints>55686093722</exppoints>
 <achievement>246</achievement>
 <guild>BUG</guild>
 <quota>0</quota>
@@ -3987,7 +3987,7 @@
 <stats>
 <level>503</level>
 <vocation>warrior</vocation>
-<exppoints>53005419055</exppoints>
+<exppoints>53006183455</exppoints>
 <achievement>57</achievement>
 <guild>Gia</guild>
 <quota>0</quota>
@@ -4800,7 +4800,7 @@
 <stats>
 <level>442</level>
 <vocation>wizard</vocation>
-<exppoints>31441984996</exppoints>
+<exppoints>31444084996</exppoints>
 <achievement>174</achievement>
 <guild>Anomali</guild>
 <quota>0</quota>
@@ -5710,7 +5710,7 @@
 <stats>
 <level>409</level>
 <vocation>warrior</vocation>
-<exppoints>23059467800</exppoints>
+<exppoints>23060150018</exppoints>
 <achievement>183</achievement>
 <guild>Gia</guild>
 <quota>0</quota>
@@ -5720,7 +5720,7 @@
 <ranks>
 <rank type="highscore_global">336</rank>
 <rank type="highscore_warrior">223</rank>
-<rank type="stars_warrior">98</rank>
+<rank type="stars_warrior">99</rank>
 <rank type="pvp">88</rank>
 </ranks>
 </character>
@@ -6785,11 +6785,11 @@
 <guilds>
 <guild name="BUG"><exppoints>110501815</exppoints><gold>1111</gold><platinum>18000</platinum><leader>Weedking</leader><members>57</members><rank type="guild">1</rank></guild>
 <guild name="Gia"><exppoints>85749960</exppoints><gold>1611312</gold><platinum>0</platinum><leader>Tigerla</leader><members>34</members><rank type="guild">2</rank></guild>
-<guild name="ETERNAL"><exppoints>65000574</exppoints><gold>0</gold><platinum>50</platinum><leader>Ibukades</leader><members>16</members><rank type="guild">3</rank></guild>
+<guild name="ETERNAL"><exppoints>65000574</exppoints><gold>0</gold><platinum>50</platinum><leader>Ibukades</leader><members>15</members><rank type="guild">3</rank></guild>
 <guild name="LIBERTYW1"><exppoints>60476796</exppoints><gold>353410</gold><platinum>400</platinum><leader>Ivibueno</leader><members>68</members><rank type="guild">4</rank></guild>
 <guild name="XYZ"><exppoints>59331700</exppoints><gold>0</gold><platinum>0</platinum><leader>Rudoz</leader><members>12</members><rank type="guild">5</rank></guild>
 <guild name="Fucker"><exppoints>45586598</exppoints><gold>105</gold><platinum>0</platinum><leader>Rolex</leader><members>53</members><rank type="guild">6</rank></guild>
-<guild name="BOPE"><exppoints>37905883</exppoints><gold>0</gold><platinum>707</platinum><leader>Bopeadm</leader><members>53</members><rank type="guild">7</rank></guild>
+<guild name="BOPE"><exppoints>38001883</exppoints><gold>0</gold><platinum>707</platinum><leader>Bopeadm</leader><members>53</members><rank type="guild">7</rank></guild>
 <guild name="SLYON"><exppoints>20242830</exppoints><gold>463977</gold><platinum>620</platinum><leader>Slylex</leader><members>16</members><rank type="guild">8</rank></guild>
 <guild name="NoVs"><exppoints>18027965</exppoints><gold>0</gold><platinum>4</platinum><leader>Kinggzz</leader><members>20</members><rank type="guild">9</rank></guild>
 <guild name="NoMercy"><exppoints>14163596</exppoints><gold>0</gold><platinum>100</platinum><leader>Takanome</leader><members>10</members><rank type="guild">10</rank></guild>
@@ -6797,8 +6797,8 @@
 <guild name="BrForce"><exppoints>11131827</exppoints><gold>73000</gold><platinum>11</platinum><leader>Franklin</leader><members>22</members><rank type="guild">12</rank></guild>
 <guild name="Renegados"><exppoints>10213508</exppoints><gold>0</gold><platinum>505</platinum><leader>Garp</leader><members>63</members><rank type="guild">13</rank></guild>
 <guild name="MonkyDLufy"><exppoints>10001470</exppoints><gold>20000</gold><platinum>0</platinum><leader>Mzkeroppi</leader><members>6</members><rank type="guild">14</rank></guild>
-<guild name="TGLEPQBAZ"><exppoints>7859046</exppoints><gold>0</gold><platinum>0</platinum><leader>Loboleri</leader><members>10</members><rank type="guild">15</rank></guild>
-<guild name="Anomali"><exppoints>7693577</exppoints><gold>1</gold><platinum>0</platinum><leader>Djsoda</leader><members>31</members><rank type="guild">16</rank></guild>
+<guild name="Anomali"><exppoints>7997864</exppoints><gold>1</gold><platinum>0</platinum><leader>Djsoda</leader><members>30</members><rank type="guild">15</rank></guild>
+<guild name="TGLEPQBAZ"><exppoints>7859046</exppoints><gold>0</gold><platinum>0</platinum><leader>Loboleri</leader><members>10</members><rank type="guild">16</rank></guild>
 <guild name="Darkness"><exppoints>7012639</exppoints><gold>0</gold><platinum>0</platinum><leader>Babyangel</leader><members>13</members><rank type="guild">17</rank></guild>
 <guild name="FBI DKL"><exppoints>6875579</exppoints><gold>0</gold><platinum>0</platinum><leader>Blazingorc</leader><members>39</members><rank type="guild">18</rank></guild>
 <guild name="Okaije"><exppoints>6634066</exppoints><gold>0</gold><platinum>0</platinum><leader>Qtz</leader><members>8</members><rank type="guild">19</rank></guild>
@@ -6868,7 +6868,7 @@
 <guild name="Hantuuu"><exppoints>78710</exppoints><gold>0</gold><platinum>0</platinum><leader>Hantubini</leader><members>1</members><rank type="guild">83</rank></guild>
 <guild name="WHEIDIDHDH"><exppoints>76000</exppoints><gold>0</gold><platinum>0</platinum><leader>Prabowoo</leader><members>1</members><rank type="guild">84</rank></guild>
 <guild name="BlackDoG"><exppoints>74610</exppoints><gold>2600</gold><platinum>0</platinum><leader>Ronoli</leader><members>6</members><rank type="guild">85</rank></guild>
-<guild name="TRUE HERO"><exppoints>74000</exppoints><gold>0</gold><platinum>0</platinum><leader>Vanzetti</leader><members>4</members><rank type="guild">86</rank></guild>
+<guild name="TRUE HERO"><exppoints>74002</exppoints><gold>820000</gold><platinum>0</platinum><leader>Fourth</leader><members>5</members><rank type="guild">86</rank></guild>
 <guild name="27 Clubs"><exppoints>65000</exppoints><gold>0</gold><platinum>0</platinum><leader>Zeppelin</leader><members>16</members><rank type="guild">87</rank></guild>
 <guild name="Homemy"><exppoints>64500</exppoints><gold>0</gold><platinum>26</platinum><leader>Stolaz</leader><members>9</members><rank type="guild">88</rank></guild>
 <guild name="BUGX"><exppoints>63000</exppoints><gold>10</gold><platinum>0</platinum><leader>Zycho</leader><members>4</members><rank type="guild">89</rank></guild>
